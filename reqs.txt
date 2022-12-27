@@ -1,0 +1,11 @@
+flake8
+jsonlines
+langdetect
+matplotlib
+numpy
+pandas
+scipy
+shutil
+sklearn
+sympy
+translate

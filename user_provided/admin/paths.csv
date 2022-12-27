@@ -1,0 +1,23 @@
+name,path
+
+# admin referenced
+ref_variable,user_provided admin ref_variable.csv
+
+
+# referenced by query_gscholar
+gscholar_search_terms,user_provided admin gscholar_search_terms.csv
+
+# created by query_gscholar
+gscholar_json_scrape,program_generated pubs gscholar scrape json
+gscholar_json_agg,program_generated pubs gscholar agg
+
+# created by meta_pubs
+meta_pubs,program_generated pubs meta crossref
+missing_json,program_generated pubs meta missing.json
+
+list_affs,program_generated pubs affs affs.json
+locate_affs,program_generated pubs affs located_affs.json
+affs_missing,program_generated pubs affs missing_affs.json
+
+# created by write_geojson
+geojson,docs js 

@@ -1,0 +1,291 @@
+<!--
+Source Code:
+https://github.com/jesnyder/mapGMP
+Generated:
+2022-08-07 19:04:07.986898
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>FDA Inspections vs Arthritis Prevalence</title>
+
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+
+<link rel="myDiv" href="styles.css">
+
+	<style>
+		html, body {
+			height: 100%;
+			margin: 0;
+		}
+		.leaflet-container {
+			height: 500px;
+			width: 100%;
+			max-width: 100%;
+			max-height: 100%;
+		}
+
+
+	</style>
+
+</head>
+
+<body>
+
+
+<div id="text" style="width:80% ; margin-left: 3%; font-family: Calibri;">
+<h1>FDA Inspection Sites and CDC Health Statistics</h1>
+<p>
+	<b>Welcome to the Map.</b><br>
+	We built this map to identify current and future locations for cell
+	manufacturing. These facilities are our partners in capacity building
+	to translate promising concepts into accessible treatments.
+
+	Cell manufauring capacity rate-limits the commercialization of therapeutic breakthroughs.
+	<a href="https://doi.org/10.1016/j.clinthera.2018.06.007"
+	target="_blank" rel="noopener">[1]</a>
+	Clinical trials used nealry a hundred trillion mesenchymal stromal cells (MSC) in 2017 and demand
+	has increased since.
+	<a href="https://www.frontiersin.org/articles/10.3389/fmed.2018.00178/full"
+	target="_blank" rel="noopener">[2]</a>
+
+	The private sector can most significantly address this chokepoint by allocating and pivoting resources
+	towards current Good Manufacturing Practive (cGMP) production of MSC, including cell expansion, genetic engineering, and exosome harvesting.
+
+	 <!--
+	Promising regenerative concepts comes from a range of cell types,
+	but here we focus on the mesenchymal stromal cell (MSC), which has significant market adoption,
+	tractability as an off-the-shelf product,
+	and well-documented therapeutic benefits.
+	According to demand extrapolated from pre-clinical use,
+	hundreds of trillions of mesenchymal stromal cells (MSCs) will be
+	needed in the coming years.
+
+	-->
+
+	The map shows cGMP facilities (as found using US-FDA inspection records)
+	and a heatmap of a leading degenerative disease, arthritis, to compare
+	manufacturing to public health need.
+	The facilities shown do not represent a comprehensie list, but a place to begin.
+
+	<br><br>
+	<b>cGMP Facilities Identified from FDA Inspection Records.</b><br>
+	The US FDA enforces current Good Manufacturing (cGMP) regulations by
+	inspecting facilites worldwide that make active ingredients and finished products.
+	<a href="https://www.fda.gov/drugs/pharmaceutical-quality-resources/facts-about-current-good-manufacturing-practices-cgmps"
+	target="_blank" rel="noopener">[3]</a>
+
+	 Inspection records are publicly available through the FDA Compliance Dashboard.
+	<a href="https://datadashboard.fda.gov/ora/cd/inspections.htm"
+	target="_blank" rel="noopener">[4]</a>
+
+	 The map below shows 342 facilities worldwide that passed FDA inspection in the past 5 years
+	 that produce a biological product related to human tissue or gene vectors.
+
+	 <br><br>
+	 <b>Patient Populations Mapped Using CDC Statistics.</b><br>
+	 The Center for Disease Control (CDC) publishes geolocated statistics of the
+	 58.6 million people in the US with arthritis.
+	 <a href="https://www.cdc.gov/chronicdisease/resources/publications/factsheets/arthritis.htm"
+ 	target="_blank" rel="noopener">[5]</a>
+
+	  The map shows Arthritis-Crude Prevalence, which is the percentage
+	 of an adult population in a given county with doctor-diagnosed arthritis.
+	 The prevalance ranges from a minimum of 11.2% in Chattahoochee, Georgia,
+	 to a maximum of 42.7% in Webster, West Virginia.
+	 The average across all counties is 28.2%. Mouse over counties on the map
+	 and the county name with the Arthritis-Crude Prevalence will display
+	 in the upper right corner of the map.
+	 The higher the prevalence, the more red the county will be appear.
+
+
+
+ </p>
+</div>
+
+<div id=map></div>
+<script type="text/javascript"  src="js/fda.js"></script>
+<script type="text/javascript"  src="js/cdc.js"></script>
+<script type="text/javascript"  src="js/map.js"></script>
+
+
+<div id="desc"  style="width:80% ; margin-left: 3%; font-family:Calibri;">
+
+<h1>MSC Capacity for Arthritis </h1>
+Arthritis is of particular interest, because allogeneic MSC
+show strong potential as a treatment due to their
+anti-inflammatory proerties.
+<a href="https://pubmed.ncbi.nlm.nih.gov/25481552/"
+target="_blank" rel="noopener">[6]</a>
+
+ MSC therapies for arthritis have been approved abroad for a decade.
+Stem cell therapeutic developer, Medi-Post commercialized
+an allogenic MSC therapy to treat osteoarthritis, CartiStem,
+which has been approved for use in Korea since 2012.
+<a href="https://www.medi-post.com/cartistem/"
+target="_blank" rel="noopener">[7]</a>
+
+Even expensive therapies are viable.
+The CDC estimates arthritis costs the US $303.5 billion each year through
+medical expenses and lost wages.
+<a href="https://www.cdc.gov/chronicdisease/resources/publications/factsheets/arthritis.htm"
+target="_blank" rel="noopener">[5]</a>
+
+
+<h1>The making of the map.</h1>
+<p>
+	<b>Objective:</b> <br> Overlay the location of US-FDA inspected facilities
+	with a heatmap of arthritis in the United States.
+	<br> <br> <b>Tasks:</b>
+	<ol>
+	<li> <b>Workspace Set-up:</b> Establish a folder structure for this project
+		and sync with a public GitHub repository. The repository contains
+		the source data downloaded from primary sources as cited,
+		code to process the data (python), and
+		code to create the website (html, css, and js). GitHub pages serve the site.
+			<br>
+		<a href="https://github.com/jesnyder/mapGMP"
+		target="_blank" rel="noopener">https://github.com/jesnyder/mapGMP</a>
+
+		<br><li> <b>Define Each US County:</b>
+		Download a geoJSON file describing the shape of each US county
+		<br>
+		<a href="https://eric.clst.org/tech/usgeojson/"
+		 target="_blank" rel="noopener">https://eric.clst.org/tech/usgeojson/</a>
+
+
+	  <br><li> <b>Heatmap CDC Statistics per US County: </b>
+		Download the Arthritis-Crude Prevalence statistics for the most recent year (2015).
+		<br>
+		<a href="https://www.cdc.gov/arthritis/data_statistics/state-data-current.htm"
+		 target="_blank" rel="noopener">https://www.cdc.gov/arthritis/data_statistics/state-data-current.htm</a>
+		<br>
+		Coregister the downloaded CDC Statistics with geographic description of the
+		US county using the countyFID as a common idenifier.
+		Create a .js file where a unique variable is set equal to the county geoJSON with the cdc statistics.
+
+	  <br><li> <b>Retrieve FDA Inspection Records:</b>
+		Download the US FDA inspection records.
+		Filter the results online before downloading.
+		Limit the "Project Area" to "Human Cellular, Tissue, and Gene Therapy", the "Product Type" to "Biologics", the Fiscal Year to
+		all years since and including 2015, and the facility passed inspection, meaning
+		the "Classification" is only "No Action Indicated (NAI)". The Data Dashboard returned more than 3000 results fitting the aforementioned criteria.
+		<br>
+		<a href="https://datadashboard.fda.gov/ora/cd/inspections.htm"
+		 target="_blank" rel="noopener">https://datadashboard.fda.gov/ora/cd/inspections.htm</a>
+
+		<br><li> <b>Map FDA Inspection Record as Flagged Locations: </b>
+		Scrub the FDA facility list to remove locations working on
+		fertility, organ/tissue donation, blood donation, cornea implants,
+		medical offices, medical supply companies, dental implant manufacturers,
+		and most spine-focused projects.
+		These restriction filtered the list from more than 3000 records to 342 facilities of interest.
+
+		Prepare the FDA facility list to be mapped as a series of
+		annotated points. To do this, convert the FDA inspection site list, which is
+		a .csv converted to a pandas dataframe, to geoJSON and save as a .js file
+		that sets the geoJSON equal to a unique variable.
+
+		<br><li> <b>Serve the Website: </b>
+		Build the interactive website.
+		Leverage Leaflet tutorials to write the html, css, and js to build the website
+		using the county data coregistered with cdc statistics and the
+		fda facility list as a series of points.
+		The Leaflet Interactive Choropleth Map is especially helpful.
+		<br>
+		<a href="https://leafletjs.com/examples/choropleth/"
+		 target="_blank" rel="noopener">https://leafletjs.com/examples/choropleth/</a>
+		<br>
+		On github, setup a Pages to serve the website from the docs file of the repo.
+		<br>
+		<a href="https://jesnyder.github.io/mapGMP/"
+		 target="_blank" rel="noopener">https://jesnyder.github.io/mapGMP/</a>
+		<br>
+
+	</ol>
+
+
+ </p>
+</div>
+
+<div id=refs  style="width:80% ; margin-left: 3%; font-family: Calibri;">
+<p>
+<b>   References</b>
+
+<ol>
+
+	<li> Hossain I, Milne C. Can Regenerative Medicine Help Close the Gap Between the
+		Medicine Pipeline and Public Health Burden of Cardiovascular and
+		Musculoskeletal Diseases?. Clinical Therapeutics. 2018 Jul 1;40(7):1066-75.
+		<br>
+		<a href="https://doi.org/10.1016/j.clinthera.2018.06.007"
+		target="_blank" rel="noopener">https://doi.org/10.1016/j.clinthera.2018.06.007</a>
+
+	<br>
+	<li> Olsen TR, Ng KS, Lock LT, Ahsan T, Rowley JA. Peak MSC—are we there yet?. Frontiers in medicine. 2018 Jun 21;5:178.
+		<br>
+		<a href="https://www.frontiersin.org/articles/10.3389/fmed.2018.00178/full"
+		target="_blank" rel="noopener">https://www.frontiersin.org/articles/10.3389/fmed.2018.00178/full</a>
+
+	<br>
+	<li> Facts About the Current Good Manufacturing Practices (CGMPs). US FDA (06/01/2021)
+		<br>
+		<a href="https://www.fda.gov/drugs/pharmaceutical-quality-resources/facts-about-current-good-manufacturing-practices-cgmps"
+		target="_blank" rel="noopener">https://www.fda.gov/drugs/pharmaceutical-quality-resources/facts-about-current-good-manufacturing-practices-cgmps</a>
+
+	<br>
+ <li> FDA Data Dashboard
+	 <br>
+	 <a href="https://datadashboard.fda.gov/ora/cd/inspections.htm"
+ 	target="_blank" rel="noopener">https://datadashboard.fda.gov/ora/cd/inspections.htm</a>
+
+
+	<br>
+<li> Arthritis - National Center for Chronic Disease Prevention and Health Promotion (NCCDPHP)
+	<br>
+	<a href="https://www.cdc.gov/arthritis/data_statistics/state-data-current.htm">
+		https://www.cdc.gov/arthritis/data_statistics/state-data-current.htm</a>
+
+
+		<br>
+		<li> Swart JF, Wulffraat NM. Mesenchymal stromal cells for treatment of arthritis.
+			Best Practice & Research Clinical Rheumatology. 2014 Aug 1;28(4):589-603.
+			<br>
+			<a href="https://pubmed.ncbi.nlm.nih.gov/25481552/"
+	  	 target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/25481552/</a>
+
+
+	<br>
+<li> CARTISTEM by MEDIPOST
+	<br>
+	<a href="https://www.medi-post.com/cartistem/"
+	target="_blank" rel="noopener">https://www.medi-post.com/cartistem/</a>
+
+
+	<br>
+<li> Leaflet - an open-source JavaScript library for mobile-friendly interactive maps.
+	<br>
+	<a href="https://leafletjs.com/index.html">
+		https://leafletjs.com/index.html</a>
+
+	<br>
+<li> OpenStreetMap - collaborative project to create a free editable geographic database of the world.
+	<br>
+	<a href="https://www.openstreetmap.org/copyright">
+		https://www.openstreetmap.org/copyright</a>
+
+</ol>
+
+
+</p>
+</div>
+
+</body>
+</html>
