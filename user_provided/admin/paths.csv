@@ -41,3 +41,7 @@ scraped_trials,program_generated trials scraped_trials.json
 scraped_trials_df,program_generated trials scraped_trials_df.csv
 located_trials,program_generated trials located_trials.json
 geojson_trials,docs js geojson geojson_trials.js
+
+# referenced by geolocate_awards
+src_awards,user_provided grants
+geojson_awards,docs js geojson geojson_awards.js

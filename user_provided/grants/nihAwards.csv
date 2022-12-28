@@ -1,0 +1,667 @@
+NIH Spending Categorization,Project Terms,Project Title,Public Health Relevance,Administering IC,Application ID,Award Notice Date,FOA,Project Number,Type,Activity,IC,Serial Number,Support Year,Suffix,Program Official Information,Project Start Date,Project End Date,Study Section,Subproject Number,Contact PI Person ID,Contact PI / Project Leader,Other PI or Project Leader(s),Congressional District,Department,Primary DUNS,Primary UEI,DUNS Number,UEI,FIPS,Latitude,Longitude,Organization ID (IPF),Organization Name,Organization City,Organization State,Organization Type,Organization Zip,Organization Country,ARRA Indicator,Budget Start Date,Budget End Date,CFDA Code,Funding Mechanism,Fiscal Year,Total Cost,Total Cost (Sub Projects),Funding IC(s),Direct Cost IC,InDirect Cost IC,NIH COVID-19 Response,Project Abstract,Total Cost IC
+No NIH Category available,3-Dimensional;Affect;African American population;Animal Model;Animals;Architecture;Biological;Biology;Cardiac Myocytes;Cardiomyopathies;Cell Communication;Cell Culture Techniques;Cell physiology;Cells;Clinical;Disease;Drug Screening;Electrophysiology (science);Environment;Exposure to;Extracellular Matrix;Force of Gravity;Heart;Heart failure;Hispanic Americans;Human;Laboratories;Mammalian Cell;Microgravity;Modeling;Molecular;Myocardium;Normal Cell;Organ;Patients;Pattern;Pharmaceutical Preparations;Phase;Phenotype;Physiological;Physiology;Planet Earth;Race;Research;Sampling;Somatic Cell;Therapeutic;Time;Tissue Engineering;Tissue Microarray;Tissues;Translating;blastomere structure;cardiac tissue engineering;cardiogenesis;caucasian American;cell type;disease phenotype;drug candidate;ethnic diversity;extracellular;heart function;human disease;in vitro Model;induced pluripotent stem cell;induced pluripotent stem cell derived cardiomyocytes;insight;interest;ischemic cardiomyopathy;racial diversity;response;scaffold;space travel;spatiotemporal;three dimensional structure;tool;two-dimensional,Effect of Microgravity on Drug Responses Using Engineered Heart Tissues,"PROJECT NARRATIVE
+Understanding the effects of extreme environments such as space travel on human heart tissues is hampered
+by the lack of physiologically relevant in vitro models that can mimic clinical conditions from the patient’s own
+cells. Patient-derived human induced pluripotent stem cell-derived cardiomyocytes self-assembled into
+multicellular, three-dimensional structures in a physiologically relevant extracellular matrix offer an excellent
+surrogate to recapitulate normal physiology and disease. In this UG3/UH3 proposal, we aim to generate an
+ethnically diverse heart tissue array for drug screening in patient groups that manifest severe phenotype after
+exposure to microgravity in space.",NCATS,10670018,9/6/2022 12:00:00 AM,PA-20-272,3UH3TR002588-04S1,3,UH3,TR,2588,4,S,"TAGLE, DANILO A",7/22/2022 12:00:00 AM,1/31/2023 12:00:00 AM, , ,2204699,"WU, JOSEPH C.","PRUITT, BETH L",18,INTERNAL MEDICINE/MEDICINE,9214214,HJD6G4D6TJY5,9214214,HJD6G4D6TJY5,US,37.426852,-122.17047,8046501,STANFORD UNIVERSITY,STANFORD,CA,SCHOOLS OF MEDICINE,943052004,UNITED STATES,N,9/6/2022 12:00:00 AM,1/31/2023 12:00:00 AM,350,Non-SBIR/STTR,2022,196612, ,NCATS,175252,21360, ,"PROJECT SUMMARY
+Tissue engineered organs or functional tissue-like ensembles contribute significantly to our understanding of
+cellular niches that allow cells to migrate, develop and mature in three dimensions (3-D). Conventional two-
+dimensional (2-D) mammalian cell culture does not represent the physiological environments that form the
+basis for normal cell function. A 3-D environment promotes isotropic cell-cell communications, provides
+extracellular guidance from structural matrix scaffolding, and allows spatiotemporal remodelling. Our specific
+interest is in investigating the effects of microgravity on heart function with the use of Engineered Heart
+Tissues (EHTs). Since these tissue engineering platforms support multicellular architecture from a ‘bottom-
+up’ approach, it is critical to understand the mechanisms of heart development from a primordial state.
+Although animal models are used widely to investigate biological responses to therapeutics, inherent
+differences between human and animal biology combined with the unlikelihood of animals developing a
+human disease limit the ability to validate research findings. Human induced pluripotent stem cells (hiPSCs)
+have emerged as an indispensable tool to drive cells from an embryonic state to any somatic cell type. Our
+laboratory’s focus and expertise in generating hiPSC-derived cardiomyocytes (hiPSC-CMs) and modelling of
+cardiomyopathies has yielded deeper insight into several rare and common causes of heart failure. To
+maintain a tissue-specific microenvironment, dissociated cells must be cultured in a physiologically relevant
+3-D extracellular matrix (ECM). In the first phase (UG3), we will generate hiPSC-CMs from healthy patients
+belonging to diverse racial groups (Caucasians, Hispanics, and African Americans). The hiPSC-CMs will be
+used to fabricate our well-characterized EHT platforms, to understand cellular mechanisms that affect cardiac
+function both under microgravity and earth’s gravity. Alterations in cardiac function due to weakened heart
+muscles in the samples exposed to microgravity will be matched with molecular and electrophysiological
+disease patterns observed in ischemic cardiomyopathy. In the second phase (UH3), the well-characterized
+microgravity-induced disease phenotype will be translated on Heart Tissue Arrays (HTA) to screen for
+potential drug candidates in a high-throughput manner. The proposed study will for the first time reveal key
+functional and molecular differences that drive phenotypic changes in heart tissues on EHT assemblies under
+influence of microgravity.",196612
+No NIH Category available,3-Dimensional;Address;Adult;Affect;Aging;Attenuated;Biological Models;Cardiac;Cardiomyopathies;Cardiovascular system;Cells;Chronic;Cultured Cells;Data;Development;Disease Progression;Drug Compounding;Environment;Exposure to;Extracellular Matrix;Force of Gravity;Generations;Glean;Heart;Heart Diseases;Human;Human body;In Vitro;International;Intervention;Knowledge;Lead;Magnetism;Mechanical Stimulation;Microgravity;Mission;Myocardial dysfunction;Myocardium;Outcomes Research;Patients;Phase;Physiological;Planet Earth;Planet Mars;Process;Role;Source;Space Flight;Structure;Technology;Time;Tissues;base;cardiac tissue engineering;combat;heart function;human model;improved;induced pluripotent stem cell;induced pluripotent stem cell derived cardiomyocytes;microphysiology system;motion sensor;novel;novel therapeutic intervention;scaffold;space station,A Human iPSC-based 3D Microphysiological System for Modeling Cardiac Dysfunction in Microgravity,"Contact PD/PI: Kim, Deok-Ho
+PROJECT NARRATIVE
+The proposed project will provide important data regarding the role of microgravity on the structure and
+physiological function of 3D human cardiac tissue. Knowledge gleaned from this study could be used to develop
+technologies to better combat the negative effects caused by long-term exposure to microgravity. Furthermore,
+our high-throughput microphysiological platform could eventually lead to a useful product to help screen new
+potential therapies for their capacity to attenuate cardiomyopathies on Earth, as well as for the study of disease
+progression in vitro.
+Project Narrative Page 8",NCATS,10632929,9/8/2022 12:00:00 AM,PA-20-272,3UH3TR003519-05S3,3,UH3,TR,3519,5,S,"TAGLE, DANILO A",7/1/2022 12:00:00 AM,6/30/2023 12:00:00 AM, , ,10819397,"KIM, DEOK-HO ",Not Applicable,7,BIOMEDICAL ENGINEERING,1910777,FTMTDMBR29C7,1910777,FTMTDMBR29C7,US,39.325256,-76.605131,4134401,JOHNS HOPKINS UNIVERSITY,BALTIMORE,MD,SCHOOLS OF MEDICINE,212182680,UNITED STATES,N,9/8/2022 12:00:00 AM,6/30/2023 12:00:00 AM,350,Non-SBIR/STTR,2022,326693, ,NCATS,240759,85934, ,"Contact PD/PI: Kim, Deok-Ho
+PROJECT SUMMARY
+Spaceflight has been shown to have a negative impact on the heart and the cardiovascular system. As we plan
+for exploration class missions that will see humans spend longer periods of time in space, such as in a manned
+missions to Mars, the potential impact of spaceflight on the heart and cardiovascular system will likely be
+increased. Additionally, the effects of spaceflight on the human body appear to mimic an accelerated aging
+process. Given that heart disease is the number one killer of all adults in the U.S., an understanding of the
+cardiogenic effects of microgravity may have implications for helping to treat millions of heart disease patients
+on Earth. Unfortunately, much is still unknown regarding the effect of spaceflight on the cardiovascular system
+and the heart in particular. To address this issue, we will develop a high-throughput microphysiological model of
+human cardiac muscle, derived from human induced pluripotent stem cells (hiPSCs), in order to study the effects
+of microgravity on cardiac tissue structure and physiological function. We will combine this cell source with a
+cardiac-specific decellularized extracellular matrix (dECM)-based electroconductive composite scaffold to
+promote the maturation of cultured cells. The technologies developed during this study will facilitate the
+generation of mature 3D engineered cardiac tissues that recapitulate the microarchitecture and function of
+human myocardium. The data collected using this platform aboard the International Space Station (ISS) will
+provide a better understanding of how prolonged microgravity affects the structure and function of the human
+heart. During the UG3 phase of this proposal, we will assess differences in cardiac function and physiological
+maturation between cells maintained in normal gravity and microgravity environments. Engineered heart tissues
+(EHTs) made from hiPSC-derived cardiomyocytes will be flown aboard the ISS for one month and be compared
+to identical ground controls. Real-time assessment of EHT contractility will be achieved via a novel magnetic
+coil-based motion sensor array, facilitating real-time and continuous assessment of function with minimal
+demands from the flight crew. Progressing to the UH3 phase, we will focus on the assessment of novel
+therapeutic strategies with which to attenuate microgravity-induced cardiomyopathy. We will assess both drug
+compounds and mechanical stimulation interventions and analyze each in isolation and in concert for their ability
+to improve cardiac function in space. The outcomes of this research could further improve our understanding of
+the progression of chronic heart diseases on Earth, and help drive the development of new therapeutic strategies
+for these debilitating conditions.
+Project Summary/Abstract Page 7",326693
+No NIH Category available,Adult;Affect;Aging;Astronauts;Biological;Biomimetics;Bioreactors;Blood Vessels;Cell Density;Cells;Child;Clinical Trials;Clinical Trials Design;Developmental Biology;Endothelial Cells;Environment;Fibroblasts;Formulation;Future;Genetic Diseases;International;Knowledge;Laboratory Study;Life;Medical;Methodology;Microgravity;Mission;Modeling;Modification;Pathologic;Patients;Periodicity;Persons;Phenotype;Physiological;Planet Earth;Premature aging syndrome;Progeria;Smooth Muscle Myocytes;Stretching;Syndrome;System;Technology;Therapeutic Intervention;Tissues;biofabrication;bioink;bioprinting;grasp;premature;preventive intervention;space station,"""Clinical Trials"" on a Premature Vascular Aging-on-a-Chip Model","Narrative
+This supplement aims at developing a methodology to enable in-space bioprinting of multi-layered, high-cell-
+density, bioreactor-integrated vascular conduits through Techshot’s BioFabrication Faclity (BFF) at the
+International Space Station-National Laboratory (ISS-NL), and studying premature vascular aging under
+microgravity.",NCATS,10691727,9/16/2022 12:00:00 AM,PA-20-272,3UH3TR003274-03S1,3,UH3,TR,3274,3,S,"HARGROVE, PASSLEY R",9/16/2022 12:00:00 AM,7/31/2025 12:00:00 AM, , ,12559030,"ZHANG, YU SHRIKE",Not Applicable,7,Unavailable,30811269,QN6MS4VN7BD1,30811269,QN6MS4VN7BD1,US,42.336107,-71.107481,1080401,BRIGHAM AND WOMEN'S HOSPITAL,BOSTON,MA,Independent Hospitals,21156110,UNITED STATES,N,9/16/2022 12:00:00 AM,7/31/2023 12:00:00 AM,350,Non-SBIR/STTR,2022,135281, ,NCATS,37788,29852, ,"Abstract
+Hutchinson-Gilford progeria syndrome (HGPS) is a genetic disorder that results in premature and accelerated
+aging, while accumulation of progerin also occurs during physiological aging. Our paratal project seeks to
+optimize a biomimetic HGPS-on-a-chip system generated with patient-derived fibroblasts (FBs), smooth
+muscle cells (SMCs), and endothelial cells (ECs) that allow application of relevant cyclic stretch for performing
+‘clinical trials’ or informing clinical trial designs for HGPS patients. Given the unique microgravity environment
+of the International Space Station-National Lab (ISS-NL), which has been shown before to pose various
+negative effects on vascular cell phenotypes, this supplement further aims at developing a methodology to
+enable in-space bioprinting of multi-layered, high-cell-density, bioreactor-integrated vascular conduits through
+Techshot’s BioFabrication Faclity (BFF) at the International Space Station-National Laboratory (ISS-NL), and
+studying premature vascular aging under microgravity. Successful completion of the proposed supplement
+project will be transformative in multiple aspects. First, it will demonstrate a unique in-space BFF utility through
+the use of new bioink formulations for the bioprinting of a new tissue type not previously done. Yet, while we
+target vascular bioprinting, we anticipate that the technology is applicable to many other tissue types with
+necessary modifications. Second, the biological study will benefit life both in space and on Earth. Vascular
+aging is a pressing medical problem that affects millions of people, and is potentially also a major pathological
+manifestation for astronauts especially for future deep-space missions. Under our hypothesis that vascular
+conduits bioprinted with HGPS cells will manifest a pathologically relevant premature aging phenotype that is
+more severely affected by the space microgravity environment than those with healthy cells and those on
+Earth, we anticipate grasping additional fundamental knowledge regarding the underlying mechanisms of
+vascular aging in both children and adults in association with developmental biology, which will further instruct
+prevention and therapeutic interventions in the future in HGPS and beyond.",67640
+No NIH Category available,Adult;Affect;Aging;Astronauts;Biological;Biomimetics;Bioreactors;Blood Vessels;Cell Density;Cells;Child;Clinical Trials;Clinical Trials Design;Developmental Biology;Endothelial Cells;Environment;Fibroblasts;Formulation;Future;Genetic Diseases;International;Knowledge;Laboratory Study;Life;Medical;Methodology;Microgravity;Mission;Modeling;Modification;Pathologic;Patients;Periodicity;Persons;Phenotype;Physiological;Planet Earth;Premature aging syndrome;Progeria;Smooth Muscle Myocytes;Stretching;Syndrome;System;Technology;Therapeutic Intervention;Tissues;biofabrication;bioink;bioprinting;grasp;premature;preventive intervention;space station,"""Clinical Trials"" on a Premature Vascular Aging-on-a-Chip Model","Narrative
+This supplement aims at developing a methodology to enable in-space bioprinting of multi-layered, high-cell-
+density, bioreactor-integrated vascular conduits through Techshot’s BioFabrication Faclity (BFF) at the
+International Space Station-National Laboratory (ISS-NL), and studying premature vascular aging under
+microgravity.",NCATS,10691727,9/16/2022 12:00:00 AM,PA-20-272,3UH3TR003274-03S1,3,UH3,TR,3274,3,S,"HARGROVE, PASSLEY R",9/16/2022 12:00:00 AM,7/31/2025 12:00:00 AM, , ,12559030,"ZHANG, YU SHRIKE",Not Applicable,7,Unavailable,30811269,QN6MS4VN7BD1,30811269,QN6MS4VN7BD1,US,42.336107,-71.107481,1080401,BRIGHAM AND WOMEN'S HOSPITAL,BOSTON,MA,Independent Hospitals,21156110,UNITED STATES,N,9/16/2022 12:00:00 AM,7/31/2023 12:00:00 AM,350,Non-SBIR/STTR,2022,135281, ,NICHD,37788,29853, ,"Abstract
+Hutchinson-Gilford progeria syndrome (HGPS) is a genetic disorder that results in premature and accelerated
+aging, while accumulation of progerin also occurs during physiological aging. Our paratal project seeks to
+optimize a biomimetic HGPS-on-a-chip system generated with patient-derived fibroblasts (FBs), smooth
+muscle cells (SMCs), and endothelial cells (ECs) that allow application of relevant cyclic stretch for performing
+‘clinical trials’ or informing clinical trial designs for HGPS patients. Given the unique microgravity environment
+of the International Space Station-National Lab (ISS-NL), which has been shown before to pose various
+negative effects on vascular cell phenotypes, this supplement further aims at developing a methodology to
+enable in-space bioprinting of multi-layered, high-cell-density, bioreactor-integrated vascular conduits through
+Techshot’s BioFabrication Faclity (BFF) at the International Space Station-National Laboratory (ISS-NL), and
+studying premature vascular aging under microgravity. Successful completion of the proposed supplement
+project will be transformative in multiple aspects. First, it will demonstrate a unique in-space BFF utility through
+the use of new bioink formulations for the bioprinting of a new tissue type not previously done. Yet, while we
+target vascular bioprinting, we anticipate that the technology is applicable to many other tissue types with
+necessary modifications. Second, the biological study will benefit life both in space and on Earth. Vascular
+aging is a pressing medical problem that affects millions of people, and is potentially also a major pathological
+manifestation for astronauts especially for future deep-space missions. Under our hypothesis that vascular
+conduits bioprinted with HGPS cells will manifest a pathologically relevant premature aging phenotype that is
+more severely affected by the space microgravity environment than those with healthy cells and those on
+Earth, we anticipate grasping additional fundamental knowledge regarding the underlying mechanisms of
+vascular aging in both children and adults in association with developmental biology, which will further instruct
+prevention and therapeutic interventions in the future in HGPS and beyond.",67641
+No NIH Category available,"ARNT gene;Academia;Academy;Achievement;Address;Adopted;Agreement;Area;Biomedical Research;Collaborations;Communities;County;Critical Thinking;Development;Disabled Persons;Disadvantaged;Education;Educational process of instructing;Educational workshop;Engineering;Family;First Generation College Students;Fostering;Funding;Future;Future Teacher;Goals;High School Faculty;High School Student;Individual;Institution;Instruction;International;Kentucky;Knowledge;Laboratories;Leadership;Learning;Life;Link;Mentors;Mentorship;Methods;Microgravity;Microscopic;Modeling;Molecular;Palate;Persons;Population;Positioning Attribute;Research;Research Training;Resources;STEM career;STEM curriculum;STEM field;STEM research;STEM student;Schools;Science;Science, Technology, Engineering and Mathematics Education;Scientist;Secondary Schools;Social Mobility;Societies;Students;Support System;System;Techniques;Technology;Training;Training Programs;Underrepresented Populations;Underrepresented Students;Underserved Population;Universities;age group;apprenticeship;beneficiary;career;college;design;experience;high school;improved;innovation;interdisciplinary collaboration;interest;junior high school;literate;member;neglect;novel strategies;peer;peer coaching;people of color;programs;real world application;recruit;role model;skills;social;social integration;space station;success;synergism;teacher;undergraduate research;undergraduate student",STEM Through Authentic Research Training (START) Program for Underrepresented Communities,"Project Narrative
+The relative shortage of near peers and relatable mentors for first generation college students and
+underrepresented student populations inhibits them from reaching their maximal potential. By establishing a
+pipeline to integrate real world research experiences in an academic and/or STEM-intensive commercial
+setting for both students (grades 9-12) and STEM teachers (grades 5-12) we expect to deliver opportunities for
+STEM education typically neglected for underserved populations. The STEM Through Authentic Research
+Training (START) program is designed to integrate academia, the secondary education system and
+commercial interests toward identifying and nurturing STEM proficient students promoting success at the
+college level and beyond.",NIGMS,10445006,6/22/2022 12:00:00 AM,PAR-17-339,5R25GM132961-04,5,R25,GM,132961,4, ,"BECK, LAWRENCE A",7/1/2019 12:00:00 AM,6/30/2024 12:00:00 AM,Special Emphasis Panel[ZRG1-CB-J(56)R], ,9077753,"BRADLEY, LUKE H",Not Applicable,6,NEUROSCIENCES,939017877,H1HYA8Z1NTM5,939017877,H1HYA8Z1NTM5,US,38.040959,-84.505885,2793601,UNIVERSITY OF KENTUCKY,LEXINGTON,KY,SCHOOLS OF MEDICINE,405260001,UNITED STATES,N,7/1/2022 12:00:00 AM,6/30/2023 12:00:00 AM,859,Other Research-Related,2022,260155, ,NIGMS,240884,19271, ,"Abstract/ Project Summary
+The increasing importance of technology in contemporary society necessitates a STEM literate population.
+This represents a challenge for traditionally underrepresented populations (people of color, individuals with
+disabilities, individuals in less affluent communities) impacting upward social mobility. Often, members of
+these groups are doubly disadvantaged, as the few who become first generation college students often lack a
+roadmap for success through family, near peers and potential mentors. Success for this population,
+representing a highly motivated group, needs to be nurtured to embrace and advance STEM disciplines,
+before they reach their college classrooms. This necessitates the education not only of students, but their
+teachers, providing synergies in teaching and learning to empower students to avail of opportunities perceived
+as being beyond their reach. We hypothesize that bridging this expanding gap requires an integrated program
+bringing together academic, social and real-world professional experiences to establish a pipeline linking
+success in middle/high school to success for first generation college students and beyond. Such a pipeline will
+generate not only STEM-proficient citizens but also a cadre of near peers to motivate by example. With this
+central premise we have formed the STEM Through Authentic Research and Training (START) Program tot
+identify recruit and retaining traditionally underrepresented populations by providing year-round authentic
+research opportunities and professional development for high school students (grades 9-12) and middle and
+secondary STEM teachers (grades 5-12). START represents a partnership between the University of Kentucky
+providing opportunities for STEM research, The Academies of Lexington, a partnership with the Fayette
+County Public Schools- focused on changing the traditional didactic model for STEM instruction, the KY-WV
+LSAMP program an NSF funded consortium led by UK including over 10 diverse academic institutions
+supporting undergraduate research aimed at increasing the representation and overall success of traditionally
+underrepresented populations in STEM disciplines. START establishes a natural pipeline to the collegiate
+level by virtue of the alliance with KY-WV LSAMP and its member institutions. Finally, we have recruited Space
+Tango, a Lexington STEM start-up company which builds and integrates systems for scientific and biomedical
+research under microgravity conditions on the international space station. As such, a spectrum of research
+opportunities, from the molecular and microscopic level in participating UK STEM laboratories to the vastness
+of space itself afforded by Space Tango provide an exciting palate of opportunities for traditionally
+underrepresented students and the teachers responsible for their STEM education. We believe that the
+integration of real world authentic research opportunities in the context of overall STEM education via a unique
+partnership between academia, educational and commercial entities will motivate underrepresented student
+populations to levels of achievement they often believe are beyond their horizons.",260155
+No NIH Category available,3-Dimensional;Address;Age related macular degeneration;Animal Model;Animals;Area;Biological Markers;Blindness;Blood Vessels;Blood Volume;Blood flow;Caliber;Choroid;Clinic;Clinical;Clinical Engineering;Clinical Research;Collaborations;Contrast Media;Coupled;Data;Detection;Development;Diabetic Retinopathy;Diagnostic Imaging;Disease;Ensure;Evaluation;Eye;Eye diseases;Feasibility Studies;Flowmetry;Fostering;Foundations;Funding;Future;Glaucoma;Human Volunteers;Image;Imaging Device;Imaging technology;Individual;Institutional Review Boards;Knowledge;Laboratory Research;Location;Maps;Measurable;Measurement;Microgravity;Monitor;Morphology;Multimodal Imaging;New York;Ophthalmologist;Ophthalmology;Optical Coherence Tomography;Outcome;Patients;Pattern;Phase;Positioning Attribute;Protocols documentation;Recording of previous events;Research;Resolution;Retina;Retinal Degeneration;Retinal Diseases;Risk;Rodent;Rodent Diseases;Rodent Model;Scanning;Scientist;Severity of illness;Structure;System;Techniques;Technology;Testing;Thick;Translations;United States National Aeronautics and Space Administration;Universities;Vision;Visualization;base;blood flow measurement;clinical practice;commercialization;density;design;experience;hemodynamics;human subject;imager;imaging approach;imaging modality;imaging platform;imaging program;imaging study;imaging system;improved;in vivo;instrument;instrumentation;medical schools;multimodality;neurovascular;new technology;novel;novel diagnostics;patient population;physical science;programs;prototype;recruit;research and development;retinal imaging,Comprehensive imaging and quantification of blood flow for investigating ocular diseases without additional contrast agent,"Project Narrative
+ Degenerative neurovascular diseases of the eye often have either hemodynamic consequences or
+causes, though the mechanisms are poorly understood. Improved blood flow imaging diagnostics will aid in
+the detection and management of many eye conditions, and foster new research for understanding the
+major causes of blindness: AMD, DR, and glaucoma.",NEI,10349594,3/7/2022 12:00:00 AM,PA-18-574,5R44EY030812-03,5,R44,EY,30812,3, ,"LEE, PAEK-GYU",9/1/2019 12:00:00 AM,2/28/2023 12:00:00 AM,Special Emphasis Panel[ZRG1-ETTN-G(12)B], ,9421406,"MUJAT, MIRCEA ",Not Applicable,3,Unavailable,73800062,RMG1AZ1ZH8Q7,73800062,RMG1AZ1ZH8Q7,US,42.693308,-71.202918,1925101,"PHYSICAL SCIENCES, INC",ANDOVER,MA,Domestic For-Profits,18101022,UNITED STATES,N,3/1/2022 12:00:00 AM,2/28/2023 12:00:00 AM,867,SBIR/STTR,2022,482523, ,NEI, , , ,"Project Summary/Abstract
+ Physical Sciences Inc. (PSI) in collaboration with New York University (NYU) School of Medicine
+proposes to develop a novel ophthalmic imaging platform for characterizing retinal morphology and
+monitoring ocular blood flow abnormalities. This platform will combine non-invasive measurements of
+retina/choroid structure and ocular blood flow based on optical coherence tomography (OCT) and wide-
+field semi-quantitative global flow visualization using line-scanning Doppler flowmetry (LSDF). The
+combination of these two imaging modalities within the same imaging platform enables comprehensive
+assessment of blood flow in the retina and choroid. This novel imaging platform will enable imaging
+studies in animals and human subjects with normal vision or with various retinal diseases. Prior PSI
+experience in developing advanced ophthalmic imaging systems coupled with our collaborators' expertise
+in Ophthalmology will be leveraged to ensure the successful outcome of this important R&D program.
+ A feasibility study will be performed during the Phase I program by imaging normal and diseased rodent
+models using a benchtop instrument. A clinical prototype instrument will be manufactured and tested
+clinically in Phase II in the NYU population of patients to highlight hemodynamic retinal biomarkers. We
+choose to focus on diseases that are the leading causes of blindness including, age-related macular
+degeneration (AMD), diabetic retinopathy (DR), and glaucoma to demonstrate the clinical utility of our novel
+system. We will recruit healthy individuals to set a reference, and subjects with AMD, DR, and glaucoma at
+a wide range of disease severity. In all of these conditions, the ability to record in vivo blood flow will
+provide novel information that will open new diagnostic and treatment avenues.",482523
+No NIH Category available,"Adipocytes;Adipose tissue;Age-Related Osteoporosis;Aging;Agonist;Agreement;Binding;Bone Formation Inhibition;Bone Marrow;C-terminal;Calcium;Cell Communication;Cells;Chemicals;Cilia;Complex;Critical Pathways;Cues;Development;Exhibits;Extracellular Matrix;Fatty acid glycerol esters;Future;GTP-Binding Protein alpha Subunits, Gs;Genetic;Goals;Homeostasis;Impairment;In Vitro;Link;Marrow;Mechanical Stimulation;Mechanics;Mediating;Microgravity;Modeling;Molecular;Mus;Mutant Strains Mice;Nature;Nuclear Translocation;Osteoblasts;Osteocalcin;Osteogenesis;Osteopenia;Osteoporosis;Osteoporosis prevention;Outcome;PKD2 protein;PPAR gamma;Pathogenesis;Peroxisome Proliferator-Activated Receptors;Pharmaceutical Preparations;Pharmacology;Phenotype;Prevention;Process;Proprotein Convertase 1;Proprotein Convertase 2;Role;Signal Pathway;Signal Transduction;Stretching;Stromal Cells;Structure;Tail;Testing;Transcription Coactivator;Transcriptional Coactivator with PDZ-Binding Motif;base;bone;bone disuse atrophy;bone loss;bone mass;clinically relevant;conditional knockout;experimental study;fluid flow;gamma secretase;genetic corepressor;improved;in vivo;lipid biosynthesis;loss of function;mechanical force;mechanical load;mechanotransduction;mouse model;new therapeutic target;novel;physical inactivity;polycystic kidney disease 1 protein;pre-clinical;prevent;response;sarcopenia;shear stress;skeletal;skeletal unloading;small molecule;therapeutic target;validation studies;virtual screening",Skeletal Functions of Polycystins and TAZ,"Our goal is to improve the treatment and prevention of bone loss caused by ageing and physical inactivity through
+an improved understanding of the molecular identity of mechanosensing mechanism in bone. Our expected
+outcomes will include the discovery that the polycystins/TAZ complex is the clinically relevant mechanosensor
+in osteoblasts that controls bone mass by stimulating osteoblast-mediated bone formation and preventing the
+accumulation of bone marrow fat; and the development of a new chemical compound that activates
+polycystins/TAZ to mimic the bone anabolic effects of skeletal loading. Our impact includes progress in treating
+and preventing osteoporosis by defining a new mechanosensing complex in bone and the first-in-class small
+molecule “mechonomimetic” that targets this mechanosensor to increase bone mass.",NIAMS,10443809,6/23/2022 12:00:00 AM,PA-16-160,5R01AR071930-05,5,R01,AR,71930,5, ,"NICKS, KRISTY",8/24/2018 12:00:00 AM,6/30/2023 12:00:00 AM,Skeletal Biology Development and Disease Study Section[SBDD], ,1866000,"QUARLES, L DARRYL",Not Applicable,9,INTERNAL MEDICINE/MEDICINE,941884009,X1M1PN3KG3E7,941884009,X1M1PN3KG3E7,US,35.138829,-90.033163,578302,UNIVERSITY OF TENNESSEE HEALTH SCI CTR,MEMPHIS,TN,SCHOOLS OF MEDICINE,381034903,UNITED STATES,N,7/1/2022 12:00:00 AM,6/30/2023 12:00:00 AM,846,Non-SBIR/STTR,2022,331056, ,NIAMS,217800,113256, ,"Defective bone mechanosensing and skeletal unloading contribute to age-related and disuse osteoporosis. The
+molecular mechanisms that transduce the osteoblast response to physical forces in the bone microenvironment
+to maintain skeletal homeostasis are poorly understood. We discovered a novel mechanosensing complex in
+osteoblasts created by an interaction between polycystins (PC1, Pkd1 and PC2, Pkd2) and TAZ (transcriptional
+coactivator with PDZ-binding motif). The PC1/PC2/TAZ complex functions to sense and transduce mechanical
+loading into anabolic bone responses. Loss of either Pkd1 or Taz in mice results in osteopenia characterized by
+a reciprocal decrease in osteoblast-mediated bone formation and an increase in adipocytes in bone marrow.
+Compound heterozygous mice lacking one copy of Pkd1 and TAZ exhibit additive decrements in bone mass,
+impaired osteoblast-mediated bone formation and enhanced accumulation of bone marrow fat. The PC1 C-ter-
+minal tail (PC1-CTT) binds to and facilitates TAZ nuclear translocation to co-activate Runx2-mediated osteoblas-
+togenesis and co-repress PPAR-mediated adipogenesis in vitro. Computational approaches using structure-
+based virtual screening discovered a novel agonist (mechanomimetic) that binds to the PC1:PC2 C-terminal tail
+helix: helix interaction region and activates polycystins/TAZ signaling. These observations provide the scientific
+premise for the hypothesis that skeletal responses to loading are transduced by a mechanosensing complex in
+osteoblasts formed by interactions between PC1, PC2 and TAZ. Aim 1 tests the hypothesis that Pkd1/TAZ have
+interdependent functions in mature osteoblasts to regulate bone mass through the reciprocal stimulation of os-
+teoblastogenesis and inhibition of adipogenesis. In this aim, we will examine the effects of TAZ to differentially
+regulate osteoblastogenesis and adipogenesis in vitro and in vivo by creating mice with conditional knockout of
+Taz in mature osteoblasts (TazOc-cko). We will further test for genetic interactions between Taz and Pkd1 by
+creating compound Pkd1Oc-cko/Taz Oc-cko mice. Aim 2 tests the hypothesis that the Pkd1/TAZ complex mediates
+the response of osteoblasts to mechanical loading in vivo and in vitro using single and compound Pkd1 and Taz
+loss-of-function mouse models and osteoblast cultures. Aim 3 tests the hypothesis that activation of the
+PC1/PC2/TAZ with a novel “mechanomimetic” will increase bone mass by stimulating osteoblastogenesis and
+inhibiting adipogenesis. Our impact will be to provide a new understanding of the molecular mechanisms medi-
+ating the skeletal response to loading by validating the PC1/PC2/TAZ mechanosensing complex in osteoblasts.
+In this new schema, PC1-CTT and TAZ form an integrative mechanosensing complex in cells within the osteo-
+blast lineage to differentially regulate Runx2-dependent osteoblastogenesis and PPARγ-mediated adipogenesis
+in response to physical cues in the bone microenvironment. The polycystins/TAZ complex is also a potential
+therapeutic target for treating osteoporosis caused by skeletal unloading; and the newly discovered first-in-class
+mechanomimetic provides a chemical probe to test if targeting polycystins/TAZ results in increased bone mass.",331056
+Bioengineering; Biotechnology; Cardiovascular; Heart Disease; Networking and Information Technology R&D (NITRD); Stem Cell Research; Stem Cell Research - Induced Pluripotent Stem Cell; Stem Cell Research - Induced Pluripotent Stem Cell - Human,3-Dimensional;Address;Adult;Affect;Aging;Astronauts;Attention;Attenuated;Biological Assay;Biological Models;Biomimetics;Cardiac;Cardiac Myocytes;Cardiomyopathies;Cardiovascular system;Categories;Cell Culture Techniques;Cells;Custom;Data;Data Management Resources;Data Set;Database Management Systems;Defect;Deposition;Deterioration;Development;Disease model;Earth orbit;Effectiveness;Ensure;Event;Exposure to;Extracellular Matrix;Functional disorder;Future;Goals;Grant;Health;Heart;Heart Diseases;Human;Human Resources;Human body;Impairment;International;Journals;Lead;Lipids;Long-Term Effects;Measurement;Measures;Mechanics;Mediating;Methodology;Methods;Microgravity;Microgravity Simulation;Mission;Mitochondria;Modeling;Myocardial dysfunction;Myocardium;Patients;Peer Review;Pharmaceutical Preparations;Pharmacology;Phase;Physiological;Planet Earth;Polymers;Population;Positioning Attribute;Preventive;Process;Publications;Quality Control;Reproducibility;Research;Resistance;Risk;Space Flight;Structure;System;Testing;Therapeutic;Therapeutic Intervention;Time;TimeLine;Tissues;Travel;Update;Work;absorption;base;biological adaptation to stress;cardiac tissue engineering;cardiovascular effects;combat;experimental analysis;experimental study;force sensor;human model;improved;induced pluripotent stem cell;mechanical force;microphysiology system;mitochondrial dysfunction;novel therapeutic intervention;novel therapeutics;polydimethylsiloxane;prevent;response;risk minimization;scaffold;space station;technology development;therapeutic candidate;time use,A Human iPSC-based 3D Microphysiological System for Modeling Cardiac Dysfunction in Microgravity,"PROJECT NARRATIVE
+The proposed work will facilitate organization and analysis of experimental results regarding the effects of
+microgravity-induced cardiac tissue dysfunction using a 3D human cardiac microphysiological model. Once
+organized, the data will be compatible with, and deposited into, the Microphysiology Systems Database (MPS-
+Db), where it will be publicly accessible. Our careful attention to clarity, systematic organization, and
+reproducibility of the data we deposit will expedite the development of technologies to combat the adverse
+cardiovascular effects caused by long-term exposure to microgravity and may lead to new therapies to attenuate
+cardiomyopathies on Earth.",NCATS,10434471,8/25/2021 12:00:00 AM,PA-20-272,3UH3TR003519-05S1,3,UH3,TR,3519,5,S,"TAGLE, DANILO A",9/24/2018 12:00:00 AM,6/30/2023 12:00:00 AM,ZTR1(01), ,10819397,"KIM, DEOK-HO ",Not Applicable,7,BIOMEDICAL ENGINEERING,1910777,FTMTDMBR29C7,1910777,FTMTDMBR29C7,US,39.325256,-76.605131,4134401,JOHNS HOPKINS UNIVERSITY,BALTIMORE,MD,SCHOOLS OF MEDICINE,212182680,UNITED STATES,N,8/27/2021 12:00:00 AM,6/30/2023 12:00:00 AM,350,Non-SBIR/STTR,2021,80419, ,NCATS,49111,31308, ,"PROJECT SUMMARY
+Spaceflight has been shown to have negative impacts on the heart, with cardiac arrythmias observed in
+astronauts and the risk of adverse cardiac events increasing significantly in astronauts who traveled beyond low
+Earth orbit. Despite these observations, little is known about the underlying mechanistic reasons at the cell and
+tissue level. To address this, we developed a high-throughput microphysiological engineered heart tissue (EHT)
+model of human cardiac tissue, derived from human induced pluripotent stem cells (hiPSCs) to study the effects
+of spaceflight on cardiac cell and tissue structure and function. These EHTs are generated with a biomimetic
+extracellular matrix composition and stiffness with increased tissue conductivity, which improves overall tissue
+unction and is more analogous to adult human myocardium than many previous models. During the first phase
+of the parental grant, these EHTs were launched to the International Space Station (ISS), where contractile
+forces were measured in real time using a magnet-based force sensor system. Following 28 days in microgravity,
+tissue contractile function was impaired and mitochondrial dysfunction was observed. During the UH3 phase, a
+random positioning machine is being used to simulate microgravity and to test attenuating strategies. In this
+project, we will establish an in-house data management system to rigorously organize the datasets of the
+parental grant. These datasets will encompass control tissue function of physiologically-relevant tissues in our
+microphysiological system, tissues under real and simulated microgravity, and results of therapeutic screens on
+tissue function. It will also include information on strategies to prevent drug absorption in the polymeric
+components of our system. Once organized, the data will be compatible with, and deposited into, the
+Microphysiology Systems Database (MPS-Db), where it will be publicly available. Our data will expedite the
+development of technologies to combat the adverse cardiovascular effects caused by long-term exposure to
+microgravity. Additionally, the effects of spaceflight on the human body appear to mimic an accelerated aging
+process, including cardiac deterioration, in the general human population. We expect our data will also facilitate
+the development of technologies and therapies to attenuate cardiomyopathies on Earth.",80419
+Aging; Biotechnology; Regenerative Medicine; Stem Cell Research; Stem Cell Research - Induced Pluripotent Stem Cell; Stem Cell Research - Induced Pluripotent Stem Cell - Human; Transplantation,3-Dimensional;Affect;Age;Aging;Antigens;Architecture;B-Lymphocytes;Biological;Biological Process;Biology of Aging;Blood Vessels;CD4 Positive T Lymphocytes;CD8-Positive T-Lymphocytes;CD8B1 gene;Cardiac;Cardiovascular system;Cell Aging;Cell Culture Techniques;Cell Differentiation process;Cell Maintenance;Cells;Chronic;Clinical;Coculture Techniques;Collaborations;Cues;Data;Defect;Development;Discrimination;Disease;Disease model;Doctor of Philosophy;Elderly;Endothelial Cells;Environment;Experimental Models;Frequencies;Future;Health;Histologic;Homing;Human;Immune;Immune response;Immune system;Immunological Models;Impairment;In Vitro;Individual;Infiltration;International;Investigation;Mediating;Memory;Microgravity;Microgravity Simulation;Modeling;Molecular;Myocardial;Natural regeneration;Neurodegenerative Disorders;Neurologic;Organ;Organism;Outcome;Pathogenicity;Pathway interactions;Phase;Physiological;Physiology;Planet Earth;Process;Proliferating;Recovery;Regenerative capacity;Scientist;Signal Transduction;Space Flight;Space Medicine;Structure;Surgeon;System;T cell differentiation;T-Lymphocyte;Technology;Tissue Microarray;Tissues;Translating;Validation;adaptive immunity;aged;base;bone healing;cell behavior;cytokine;design;effector T cell;endothelial stem cell;experimental study;extracellular;functional genomics;healing;immune function;immunosenescence;improved;in vivo;in vivo Model;inflammatory milieu;injured;insight;mesenchymal stromal cell;novel;organ regeneration;osteogenic;pathogen;peripheral blood;pre-clinical;receptor;regenerative approach;regenerative tissue;repaired;response;response to injury;role model;senescence;space station;stem cell self renewal;stem cells;systems research;tissue culture;tissue injury;tissue regeneration;tissue stem cells;tool,Microgravity as model for immunological senescence and its impact on tissue stem cells and regeneration,"PROJECT NARRATIVE
+Many space-related physiological changes resemble those observed during aging, including defects in bone
+healing, loss of cardiovascular and neurological capacity, and altered immune function. We hypothesize that
+microgravity-related aging of the immune system is associated with an increase of terminally differentiated
+CD8+ effector memory T (TEMRA) cells which impair stem-cell based tissue regenerative health. This project
+proposal aims to investigate the relationship between an individual’s immune aging and healing outcomes, and
+to investigate the biology of aging from two directions—not only during its development in microgravity
+conditions but also during recovery.",NCATS,10414831,9/2/2021 12:00:00 AM,PA-20-272,3UH3TR002192-04S1,3,UH3,TR,2192,4,S,"TAGLE, DANILO A",6/15/2017 12:00:00 AM,6/30/2022 12:00:00 AM, , ,9465499,"SCHREPFER, SONJA ","DEUSE, TOBIAS ",12,SURGERY,94878337,KMH5K9V7S518,94878337,KMH5K9V7S518,US,37.767442,-122.413937,577508,"UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",SAN FRANCISCO,CA,SCHOOLS OF MEDICINE,941432510,UNITED STATES,N,9/2/2021 12:00:00 AM,6/30/2022 12:00:00 AM,350,Non-SBIR/STTR,2021,260009, ,NCATS,160996,99013, ,"PROJECT SUMMARY
+Aging is associated with dysregulation of the immune response, which is also termed “immunosenescence.”
+Each part of the immune system is influenced to some extent by the aging process. However, adaptive immunity
+seems more extensively affected, and it is especially the T cells that are altered. In fact, the number and
+proportion of late-differentiated T cells, particularly CD8+ T cells, is higher in the elderly than in the young and
+their accumulation may contribute to the enhanced systemic pro-inflammatory milieu commonly seen in elderly
+individuals. Interestingly, the proportion of CD8+ effector memory RA (TEMRA) cells increases significantly with
+age, which is not seen for CD4+ cells. We do not know exactly what causes these observed changes, but an
+understanding of the possible causes is now beginning to emerge. Spaceflight causes a suite of negative health
+effects that may be comparable to immunosenescence, which seems to be a key regulator of the regenerative
+capacity of tissue- and organ-specific stem cells. Organ-specific stem and progenitor cells may allow the design
+of strategies for organ regeneration. The overarching objective of this proposal is to gain a better understanding
+of the influence of immunosenescence on the regenerative capacity of tissue-specific stem cells. Specifically,
+studies examining the effects of bone healing (by mesenchymal stromal cells) and vascular regeneration (by
+endothelial progenitor cells) are planned using tissue mimics on chip to represent “semi-3D” architectures.
+Ultimately, we will use microgravity as an aging model, and we will translate those findings to improve human
+health on Earth by using tissue chips on the ISS for up to a month. Notably, the proposed studies investigate
+post-flight recovery of tissue chips using histological analysis combined with functional and genomic analysis. In
+collaboration with Space Technology and Advanced Research Systems, Inc. - STaARS, well-versed in
+maintenance of cell culture experiments in spaceflight, we are establishing an in vitro tissue-on-chip platform
+that mimics human physiology to study the effect of immunosenescence on tissue-specific stem cells. This
+system will be designed for use in the UH3 phase in the extreme environment of space. In the UG3 phase, we
+will examine the effect of simulated microgravity and normal (1xg) conditions on in vitro cultures of CD8+ T cells
+and on their co-culture with stem cells (UG3 Aim 1). In UG3 Aim 2 we will investigate the effect of microgravity
+at the International Space Station – National Lab (ISS-NL) on in vitro co-cultures of CD8+ T cells and stem cells.
+In the UH3 phase, we will determine the effect of microgravity on immunosenescence (differentiation of CD8+ T
+cells into TEMRA cells) and tissue-specific stem cells in space as model for aging using microarrays (UH3 Aim 1).
+Finally, in UH3 Aim 2, we will investigate post-flight recovery of tissue chips (from Aim 1, UH3 phase) using
+functional analysis of stem cells. This proposal will contribute materially to our understanding of the impact of an
+aged immune system on tissue healing and regeneration.",260009
+Bioengineering; Biotechnology; Cardiovascular; Heart Disease; Regenerative Medicine; Stem Cell Research; Stem Cell Research - Induced Pluripotent Stem Cell; Stem Cell Research - Induced Pluripotent Stem Cell - Human,3-Dimensional;Address;Adult;Affect;Aging;Attenuated;Biological Models;Cardiac;Cardiac Myocytes;Cardiomyopathies;Cardiovascular system;Caring;Cell Culture Techniques;Cells;Chronic;Collection;Cultured Cells;Data;Detection;Development;Disease Progression;Drug Compounding;Engineering;Environment;Exposure to;Extracellular Matrix;Force of Gravity;Functional disorder;Future;Generations;Genes;Glean;Heart;Heart Diseases;Human;Human Engineering;Human body;In Situ;In Vitro;International;Intervention;Knowledge;Lead;Long-Term Effects;Magnetism;Measurement;Mechanical Stimulation;Mechanics;Microgravity;Mission;Modeling;Molecular;Molecular Analysis;Monitor;Myocardial;Myocardial dysfunction;Myocardium;Outcomes Research;Patients;Performance;Pharmacologic Substance;Phase;Phenotype;Physiological;Planet Earth;Planet Mars;Process;Regimen;Role;Signal Pathway;Source;Space Flight;State of Zero Gravity;Structure;System;Technology;Testing;Therapeutic;Therapeutic Intervention;Time;Tissue Engineering;Tissues;Work;base;cardiac tissue engineering;cardioprotection;combat;conditioning;design;differential expression;experimental study;heart function;human model;human tissue;improved;induced pluripotent stem cell;instrumentation;microphysiology system;motion sensor;novel;novel therapeutic intervention;prevent;response;scaffold;sensor;space station;structural genomics;transcriptomics,A Human iPSC-based 3D Microphysiological System for Modeling Cardiac Dysfunction in Microgravity,"PROJECT NARRATIVE
+The proposed project will provide important data regarding the role of microgravity on the structure and
+physiological function of 3D human cardiac tissue. Knowledge gleaned from this study could be used to develop
+technologies to better combat the negative effects caused by long-term exposure to microgravity. Furthermore,
+our high-throughput microphysiological platform could eventually lead to a useful product to help screen new
+potential therapies for their capacity to attenuate cardiomyopathies on Earth, as well as for the study of disease
+progression in vitro.",NCATS,10268228,8/17/2021 12:00:00 AM,RFA-TR-18-001,5UH3TR003519-05,5,UH3,TR,3519,5, ,"TAGLE, DANILO A",9/24/2018 12:00:00 AM,6/30/2023 12:00:00 AM,ZTR1-DPI-7(01), ,10819397,"KIM, DEOK-HO ",Not Applicable,7,BIOMEDICAL ENGINEERING,1910777,FTMTDMBR29C7,1910777,FTMTDMBR29C7,US,39.325256,-76.605131,4134401,JOHNS HOPKINS UNIVERSITY,BALTIMORE,MD,SCHOOLS OF MEDICINE,212182680,UNITED STATES,N,7/1/2021 12:00:00 AM,6/30/2023 12:00:00 AM,350,Non-SBIR/STTR,2021,757735, ,NCATS,806,194, ,"PROJECT SUMMARY
+Spaceflight has been shown to have a negative impact on the heart and the cardiovascular system. As we plan
+for exploration class missions that will see humans spend longer periods of time in space, such as in a manned
+missions to Mars, the potential impact of spaceflight on the heart and cardiovascular system will likely be
+increased. Additionally, the effects of spaceflight on the human body appear to mimic an accelerated aging
+process. Given that heart disease is the number one killer of all adults in the U.S., an understanding of the
+cardiogenic effects of microgravity may have implications for helping to treat millions of heart disease patients
+on Earth. Unfortunately, much is still unknown regarding the effect of spaceflight on the cardiovascular system
+and the heart in particular. To address this issue, we will develop a high-throughput microphysiological model of
+human cardiac muscle, derived from human induced pluripotent stem cells (hiPSCs), in order to study the effects
+of microgravity on cardiac tissue structure and physiological function. We will combine this cell source with a
+cardiac-specific decellularized extracellular matrix (dECM)-based electroconductive composite scaffold to
+promote the maturation of cultured cells. The technologies developed during this study will facilitate the
+generation of mature 3D engineered cardiac tissues that recapitulate the microarchitecture and function of
+human myocardium. The data collected using this platform aboard the International Space Station (ISS) will
+provide a better understanding of how prolonged microgravity affects the structure and function of the human
+heart. During the UG3 phase of this proposal, we will assess differences in cardiac function and physiological
+maturation between cells maintained in normal gravity and microgravity environments. Engineered heart tissues
+(EHTs) made from hiPSC-derived cardiomyocytes will be flown aboard the ISS for one month and be compared
+to identical ground controls. Real-time assessment of EHT contractility will be achieved via a novel
+magnetometer-based motion sensor array, facilitating real-time and continuous assessment of function with
+minimal demands from the flight crew. Progressing to the UH3 phase, we will focus on the assessment of novel
+therapeutic strategies with which to attenuate microgravity-induced cardiomyopathy. We will assess both drug
+compounds and mechanical stimulation interventions and analyze each in isolation and in concert for their ability
+to improve cardiac function in space. The outcomes of this research could further improve our understanding of
+the progression of chronic heart diseases on Earth, and help drive the development of new therapeutic strategies
+for these debilitating conditions.",1000
+Bioengineering; Biotechnology; Cardiovascular; Heart Disease; Regenerative Medicine; Stem Cell Research; Stem Cell Research - Induced Pluripotent Stem Cell; Stem Cell Research - Induced Pluripotent Stem Cell - Human,3-Dimensional;Address;Adult;Affect;Aging;Attenuated;Biological Models;Cardiac;Cardiac Myocytes;Cardiomyopathies;Cardiovascular system;Caring;Cell Culture Techniques;Cells;Chronic;Collection;Cultured Cells;Data;Detection;Development;Disease Progression;Drug Compounding;Engineering;Environment;Exposure to;Extracellular Matrix;Force of Gravity;Functional disorder;Future;Generations;Genes;Glean;Heart;Heart Diseases;Human;Human Engineering;Human body;In Situ;In Vitro;International;Intervention;Knowledge;Lead;Long-Term Effects;Magnetism;Measurement;Mechanical Stimulation;Mechanics;Microgravity;Mission;Modeling;Molecular;Molecular Analysis;Monitor;Myocardial;Myocardial dysfunction;Myocardium;Outcomes Research;Patients;Performance;Pharmacologic Substance;Phase;Phenotype;Physiological;Planet Earth;Planet Mars;Process;Regimen;Role;Signal Pathway;Source;Space Flight;State of Zero Gravity;Structure;System;Technology;Testing;Therapeutic;Therapeutic Intervention;Time;Tissue Engineering;Tissues;Work;base;cardiac tissue engineering;cardioprotection;combat;conditioning;design;differential expression;experimental study;heart function;human model;human tissue;improved;induced pluripotent stem cell;instrumentation;microphysiology system;motion sensor;novel;novel therapeutic intervention;prevent;response;scaffold;sensor;space station;structural genomics;transcriptomics,A Human iPSC-based 3D Microphysiological System for Modeling Cardiac Dysfunction in Microgravity,"PROJECT NARRATIVE
+The proposed project will provide important data regarding the role of microgravity on the structure and
+physiological function of 3D human cardiac tissue. Knowledge gleaned from this study could be used to develop
+technologies to better combat the negative effects caused by long-term exposure to microgravity. Furthermore,
+our high-throughput microphysiological platform could eventually lead to a useful product to help screen new
+potential therapies for their capacity to attenuate cardiomyopathies on Earth, as well as for the study of disease
+progression in vitro.",NCATS,10268228,8/17/2021 12:00:00 AM,RFA-TR-18-001,5UH3TR003519-05,5,UH3,TR,3519,5, ,"TAGLE, DANILO A",9/24/2018 12:00:00 AM,6/30/2023 12:00:00 AM,ZTR1-DPI-7(01), ,10819397,"KIM, DEOK-HO ",Not Applicable,7,BIOMEDICAL ENGINEERING,1910777,FTMTDMBR29C7,1910777,FTMTDMBR29C7,US,39.325256,-76.605131,4134401,JOHNS HOPKINS UNIVERSITY,BALTIMORE,MD,SCHOOLS OF MEDICINE,212182680,UNITED STATES,N,7/1/2021 12:00:00 AM,6/30/2023 12:00:00 AM,350,Non-SBIR/STTR,2021,757735, ,NIBIB,651991,104744, ,"PROJECT SUMMARY
+Spaceflight has been shown to have a negative impact on the heart and the cardiovascular system. As we plan
+for exploration class missions that will see humans spend longer periods of time in space, such as in a manned
+missions to Mars, the potential impact of spaceflight on the heart and cardiovascular system will likely be
+increased. Additionally, the effects of spaceflight on the human body appear to mimic an accelerated aging
+process. Given that heart disease is the number one killer of all adults in the U.S., an understanding of the
+cardiogenic effects of microgravity may have implications for helping to treat millions of heart disease patients
+on Earth. Unfortunately, much is still unknown regarding the effect of spaceflight on the cardiovascular system
+and the heart in particular. To address this issue, we will develop a high-throughput microphysiological model of
+human cardiac muscle, derived from human induced pluripotent stem cells (hiPSCs), in order to study the effects
+of microgravity on cardiac tissue structure and physiological function. We will combine this cell source with a
+cardiac-specific decellularized extracellular matrix (dECM)-based electroconductive composite scaffold to
+promote the maturation of cultured cells. The technologies developed during this study will facilitate the
+generation of mature 3D engineered cardiac tissues that recapitulate the microarchitecture and function of
+human myocardium. The data collected using this platform aboard the International Space Station (ISS) will
+provide a better understanding of how prolonged microgravity affects the structure and function of the human
+heart. During the UG3 phase of this proposal, we will assess differences in cardiac function and physiological
+maturation between cells maintained in normal gravity and microgravity environments. Engineered heart tissues
+(EHTs) made from hiPSC-derived cardiomyocytes will be flown aboard the ISS for one month and be compared
+to identical ground controls. Real-time assessment of EHT contractility will be achieved via a novel
+magnetometer-based motion sensor array, facilitating real-time and continuous assessment of function with
+minimal demands from the flight crew. Progressing to the UH3 phase, we will focus on the assessment of novel
+therapeutic strategies with which to attenuate microgravity-induced cardiomyopathy. We will assess both drug
+compounds and mechanical stimulation interventions and analyze each in isolation and in concert for their ability
+to improve cardiac function in space. The outcomes of this research could further improve our understanding of
+the progression of chronic heart diseases on Earth, and help drive the development of new therapeutic strategies
+for these debilitating conditions.",756735
+Bioengineering; Biotechnology; Cardiovascular; Heart Disease; Regenerative Medicine; Stem Cell Research; Stem Cell Research - Induced Pluripotent Stem Cell; Stem Cell Research - Induced Pluripotent Stem Cell - Human,3-Dimensional;Address;Adult;Affect;Aging;Attenuated;Biological Models;Cardiac;Cardiac Myocytes;Cardiomyopathies;Cardiovascular system;Caring;Cell Culture Techniques;Cells;Chronic;Collection;Cultured Cells;Data;Detection;Development;Disease Progression;Drug Compounding;Engineering;Environment;Exposure to;Extracellular Matrix;Force of Gravity;Functional disorder;Future;Generations;Genes;Glean;Heart;Heart Diseases;Human;Human Engineering;Human body;In Situ;In Vitro;International;Intervention;Knowledge;Lead;Long-Term Effects;Magnetism;Measurement;Mechanical Stimulation;Mechanics;Microgravity;Mission;Modeling;Molecular;Molecular Analysis;Monitor;Myocardial;Myocardial dysfunction;Myocardium;Outcomes Research;Patients;Performance;Pharmacologic Substance;Phase;Phenotype;Physiological;Planet Earth;Planet Mars;Process;Regimen;Role;Signal Pathway;Source;Space Flight;State of Zero Gravity;Structure;System;Technology;Testing;Therapeutic;Therapeutic Intervention;Time;Tissue Engineering;Tissues;Work;base;cardiac tissue engineering;cardioprotection;combat;conditioning;design;differential expression;experimental study;heart function;human model;human tissue;improved;induced pluripotent stem cell;instrumentation;microphysiology system;motion sensor;novel;novel therapeutic intervention;prevent;response;scaffold;sensor;space station;structural genomics;transcriptomics,A Human iPSC-based 3D Microphysiological System for Modeling Cardiac Dysfunction in Microgravity,"PROJECT NARRATIVE
+The proposed project will provide important data regarding the role of microgravity on the structure and
+physiological function of 3D human cardiac tissue. Knowledge gleaned from this study could be used to develop
+technologies to better combat the negative effects caused by long-term exposure to microgravity. Furthermore,
+our high-throughput microphysiological platform could eventually lead to a useful product to help screen new
+potential therapies for their capacity to attenuate cardiomyopathies on Earth, as well as for the study of disease
+progression in vitro.",NCATS,10460801,9/2/2021 12:00:00 AM,PA-20-272,3UH3TR003519-05S2,3,UH3,TR,3519,5,S,"TAGLE, DANILO A",9/24/2018 12:00:00 AM,6/30/2023 12:00:00 AM,ZTR1(01), ,10819397,"KIM, DEOK-HO ",Not Applicable,7,BIOMEDICAL ENGINEERING,1910777,FTMTDMBR29C7,1910777,FTMTDMBR29C7,US,39.325256,-76.605131,4134401,JOHNS HOPKINS UNIVERSITY,BALTIMORE,MD,SCHOOLS OF MEDICINE,212182680,UNITED STATES,N,9/2/2021 12:00:00 AM,6/30/2023 12:00:00 AM,350,Non-SBIR/STTR,2021,57922, ,NCATS,57922,0, ,"PROJECT SUMMARY
+Spaceflight has been shown to have a negative impact on the heart and the cardiovascular system. As we plan
+for exploration class missions that will see humans spend longer periods of time in space, such as in a manned
+missions to Mars, the potential impact of spaceflight on the heart and cardiovascular system will likely be
+increased. Additionally, the effects of spaceflight on the human body appear to mimic an accelerated aging
+process. Given that heart disease is the number one killer of all adults in the U.S., an understanding of the
+cardiogenic effects of microgravity may have implications for helping to treat millions of heart disease patients
+on Earth. Unfortunately, much is still unknown regarding the effect of spaceflight on the cardiovascular system
+and the heart in particular. To address this issue, we will develop a high-throughput microphysiological model of
+human cardiac muscle, derived from human induced pluripotent stem cells (hiPSCs), in order to study the effects
+of microgravity on cardiac tissue structure and physiological function. We will combine this cell source with a
+cardiac-specific decellularized extracellular matrix (dECM)-based electroconductive composite scaffold to
+promote the maturation of cultured cells. The technologies developed during this study will facilitate the
+generation of mature 3D engineered cardiac tissues that recapitulate the microarchitecture and function of
+human myocardium. The data collected using this platform aboard the International Space Station (ISS) will
+provide a better understanding of how prolonged microgravity affects the structure and function of the human
+heart. During the UG3 phase of this proposal, we will assess differences in cardiac function and physiological
+maturation between cells maintained in normal gravity and microgravity environments. Engineered heart tissues
+(EHTs) made from hiPSC-derived cardiomyocytes will be flown aboard the ISS for one month and be compared
+to identical ground controls. Real-time assessment of EHT contractility will be achieved via a novel magnetic
+coil-based motion sensor array, facilitating real-time and continuous assessment of function with minimal
+demands from the flight crew. Progressing to the UH3 phase, we will focus on the assessment of novel
+therapeutic strategies with which to attenuate microgravity-induced cardiomyopathy. We will assess both drug
+compounds and mechanical stimulation interventions and analyze each in isolation and in concert for their ability
+to improve cardiac function in space. The outcomes of this research could further improve our understanding of
+the progression of chronic heart diseases on Earth, and help drive the development of new therapeutic strategies
+for these debilitating conditions.",57922
+Bioengineering; Biotechnology; Cardiovascular; Health Disparities; Heart Disease; Minority Health; Regenerative Medicine; Stem Cell Research; Stem Cell Research - Induced Pluripotent Stem Cell; Stem Cell Research - Induced Pluripotent Stem Cell - Human; Women's Health,3-Dimensional;Adrenergic beta-Antagonists;Affect;African American;Age-Years;Angiotensin-Converting Enzyme Inhibitors;Animal Model;Animals;Architecture;Astronauts;Atrophic;Back;Biological;Biological Assay;Biology;Cachexia;Cardiac;Cardiac Myocytes;Cardiomyopathies;Cardiovascular Diseases;Cardiovascular system;Carotid Arteries;Caucasians;Cell Adhesion;Cell Communication;Cell Culture Techniques;Cell physiology;Cells;Classification;Clinical;Complex;Disease;Doctor of Philosophy;Drug Combinations;Drug Interactions;Drug Screening;Electrophysiology (science);Endothelial Cells;Engineering;Environment;Exposure to;Extracellular Matrix;Female;Fibroblasts;Force of Gravity;Gene Expression;Heart;Heart failure;Hispanic Americans;Hispanics;Human;In Vitro;Individual;Institutes;International;Laboratories;Mammalian Cell;Measures;Mechanics;Metabolic;Microgravity;Microscopic;Mission;Mitochondria;Modeling;Molecular;Morphology;Muscular Atrophy;Myocardium;Normal Cell;Organ;Organoids;Patients;Pattern;Pharmaceutical Preparations;Pharmacogenomics;Phase;Phenotype;Physiological;Physiological Adaptation;Physiology;Planet Earth;Plasmids;Prevention;Proteins;Proteomics;Protocols documentation;Race;Reporting;Research;Risk;Sampling;Signal Pathway;Somatic Cell;Space Flight;Structure;Technology;Testing;Therapeutic;Time;Tissue Engineering;Tissue Microarray;Tissue Model;Tissues;Translating;Tungsten;Universities;Weight;base;blastomere structure;blood pressure reduction;cardiac tissue engineering;cardiogenesis;cardiovascular health;caucasian American;cell type;cohort;disease phenotype;drug candidate;drug discovery;drug testing;drug use screening;endothelial stem cell;ethnic diversity;extracellular;healthy volunteer;heart function;human disease;in vitro Model;induced pluripotent stem cell;insight;interest;ischemic cardiomyopathy;male;member;miniaturize;patient response;preservation;prevent;professor;racial diversity;recruit;response;scaffold;secretory protein;self assembly;sex;space station;space travel;spatiotemporal;three dimensional structure;three-dimensional modeling;tool;transcriptome sequencing;transcriptomics;two-dimensional,Effect of Microgravity on Drug Responses Using Engineered Heart Tissues,"PROJECT NARRATIVE
+Understanding the effects of extreme environments such as space travel on human heart tissues is hampered
+by the lack of physiologically relevant in vitro models that can mimic clinical conditions from the patient’s own
+cells. Patient-derived human induced pluripotent stem cell-derived cardiomyocytes self-assembled into
+multicellular, three-dimensional structures in a physiologically relevant extracellular matrix offer an excellent
+surrogate to recapitulate normal physiology and disease. In this UG3/UH3 proposal, we aim to generate an
+ethnically diverse heart tissue array for drug screening in patient groups that manifest severe phenotype after
+exposure to microgravity in space.",NCATS,10239266,8/16/2021 12:00:00 AM,RFA-TR-18-001,5UH3TR002588-04,5,UH3,TR,2588,4, ,"TAGLE, DANILO A",9/18/2018 12:00:00 AM,1/31/2023 12:00:00 AM,ZTR1-DPI-7(01), ,2204699,"WU, JOSEPH C.","PRUITT, BETH L",18,INTERNAL MEDICINE/MEDICINE,9214214,HJD6G4D6TJY5,9214214,HJD6G4D6TJY5,US,37.426852,-122.17047,8046501,STANFORD UNIVERSITY,STANFORD,CA,SCHOOLS OF MEDICINE,943052004,UNITED STATES,N,8/1/2021 12:00:00 AM,1/31/2023 12:00:00 AM,350,Non-SBIR/STTR,2021,714532, ,NCATS,868242,299530, ,"PROJECT SUMMARY
+Tissue engineered organs or functional tissue-like ensembles contribute significantly to our understanding of
+cellular niches that allow cells to migrate, develop and mature in three dimensions (3-D). Conventional two-
+dimensional (2-D) mammalian cell culture does not represent the physiological environments that form the basis
+for normal cell function. A 3-D environment promotes isotropic cell-cell communications, provides extracellular
+guidance from structural matrix scaffolding, and allows spatiotemporal remodelling. Our specific interest is in
+investigating the effects of microgravity on heart function with the use of Engineered Heart Tissues (EHTs). Since
+these tissue engineering platforms support multicellular architecture from a ‘bottom-up’ approach, it is critical to
+understand the mechanisms of heart development from a primordial state. Although animal models are used
+widely to investigate biological responses to therapeutics, inherent differences between human and animal
+biology combined with the unlikelihood of animals developing a human disease limit the ability to validate
+research findings. Human induced pluripotent stem cells (hiPSCs) have emerged as an indispensable tool to
+drive cells from an embryonic state to any somatic cell type. Our laboratory’s focus and expertise in generating
+hiPSC-derived cardiomyocytes (hiPSC-CMs) and modelling of cardiomyopathies has yielded deeper insight into
+several rare and common causes of heart failure. To maintain a tissue-specific microenvironment, dissociated
+cells must be cultured in a physiologically relevant 3-D extracellular matrix (ECM). In the first phase (UG3), we
+will generate hiPSC-CMs from healthy patients belonging to diverse racial groups (Caucasians, Hispanics, and
+African Americans). The hiPSC-CMs will be used to fabricate our well-characterized EHT platforms, to
+understand cellular mechanisms that affect cardiac function both under microgravity and earth’s gravity.
+Alterations in cardiac function due to weakened heart muscles in the samples exposed to microgravity will be
+matched with molecular and electrophysiological disease patterns observed in ischemic cardiomyopathy. In the
+second phase (UH3), the well-characterized microgravity-induced disease phenotype will be translated on Heart
+Tissue Arrays (HTA) to screen for potential drug candidates in a high-throughput manner. The proposed study
+will for the first time reveal key functional and molecular differences that drive phenotypic changes in heart tissues
+on EHT assemblies under influence of microgravity.",714532
+Aging; Bioengineering; Clinical Research; Sarcopenia,Address;Adult;Age;Aging;Applications Grants;Area;Astronauts;Athletic;Atrophic;Attenuated;Biological;Biological Models;Biomedical Engineering;Cells;Cellular Stress;Collaborations;Computer software;Contracts;DNA Damage;Data;Detection;Development;Devices;Diabetes Mellitus;Disease Progression;Disease model;Drug Delivery Systems;Drug Screening;Elderly;Electric Stimulation;Electrodes;Environment;Exposure to;Extracellular Matrix;FDA approved;Florida;Functional disorder;Gene Expression;Goals;Health Care Costs;Hospitals;Human;Hydrogels;Hypogravity;In Vitro;Individual;Institutes;International;Intervention;Island;Lab-On-A-Chips;Laboratories;Liquid substance;Manuals;Medical;Metabolism;Microgravity;Modeling;Molecular;Monitor;Muscle;Muscle Cells;Muscle Fibers;Muscular Atrophy;Natural Products;Older Population;Optics;Pathway interactions;Pharmaceutical Preparations;Pharmacology Study;Phase;Phenotype;Physical Performance;Physiological;Planet Earth;Population;Process;Property;Protocols documentation;Pulse Rates;Quality of life;Research;Research Institute;Research Personnel;Sampling;Skeletal Muscle;Space Flight;Specialist;System;Technology;Testing;Therapeutic;Time;Tissue Donors;Tissue Engineering;Tissues;Toxicology;Translational Research;United States National Institutes of Health;Universities;age related;age-related muscle loss;aged;cell growth;cell type;clinical development;clinically relevant;design;detection platform;drug candidate;drug discovery;drug efficacy;electric field;experimental study;human tissue;improved;in vitro Model;microphysiology system;miniaturize;mitochondrial dysfunction;multidisciplinary;muscle aging;muscle degeneration;muscle form;muscle strength;next generation;novel therapeutics;physiologic model;prevent;response;safety assessment;sarcopenia;sedentary;senescence;simulation;skeletal muscle wasting;space station;systems research;therapeutic development;therapeutic evaluation;transcriptome;translational research program;volunteer,Electrical Stimulation of Human Myocytes in Microgravity: An In Vitro Model to Evaluate Therapeutics to Counteract Muscle Wasting,"PROJECT NARRATIVE
+Physiological changes resulting in the loss of muscle mass and strength, similar to aging, occur ~10 times
+faster in microgravity and understanding how to prevent the degenerative loss of skeletal muscle mass is an
+extremely important area of research, especially as the percentage of our older population continues to
+increase; roughly a 10 percent reduction in age-related muscle atrophy would save 1.1 billion in annual
+healthcare costs while improving quality of life. We propose to develop a “Lab-on-a-chip” device to culture and
+electrically stimulate human primary muscle cells isolated from muscle of young and aged adults. The
+automated, remote-controlled device placed on the International Space Station will serve as an advanced
+human cell system for studying physiological changes induced in microgravity that mimic aging and for
+predictive drug and toxicology testing to aide in the development of therapeutics for muscle wasting.",NCATS,10262954,8/18/2021 12:00:00 AM,RFA-TR-18-001,5UH3TR002598-05,5,UH3,TR,2598,5, ,"TAGLE, DANILO A",12/21/2018 12:00:00 AM,8/31/2023 12:00:00 AM,ZTR1-DPI-7(01), ,12263270,"MALANY, SIOBHAN ",Not Applicable,3,PHARMACOLOGY,969663814,NNFQH1JAPEP3,969663814,NNFQH1JAPEP3,US,29.643443,-82.349637,513806,UNIVERSITY OF FLORIDA,GAINESVILLE,FL,SCHOOLS OF PHARMACY,326115500,UNITED STATES,N,9/1/2021 12:00:00 AM,8/31/2023 12:00:00 AM,350,Non-SBIR/STTR,2021,483238, ,NCATS,471041,225423, ,"PROJECT SUMMARY
+This grant application, in response to RFA-TR-18-001 “NIH-CASIS Coordinated Microphysiological Systems
+Program for Translational Research in Space”, proposes an outstanding collaborative effort among
+investigators at Sanford Burnham Prebys Medical Discovery Institute, SpacePharma, INC, Florida Hospital
+Translational Research Institute for Metabolism and Diabetes, the University of Florida Department of
+Biomedical Engineering and Space Technology and Advanced Research Systems (STaARS). Astronauts
+suffer from muscle degeneration after prolonged spaceflight. These effects are largely reversible; however, the
+intrinsic changes in skeletal muscle observed with age such as DNA damage, cellular stress, mitochondrial
+dysfunction and senescence are likely to overlap with cellular mechanisms induced in microgravity. Thus,
+studies in microgravity using human tissue to model disease conditions may greatly contribute to development
+of clinically relevant approaches to address muscle wasting in the elderly referred to as sarcopenia. The
+number of elderly individuals over the age of 60 is growing at an unprecedented rate from ~11% of the global
+population today to ~21% by 2050. Therapeutic options to treat sarcopenia are relatively non-existent in part
+because of an incomplete understanding of the mechanisms controlling age-related skeletal muscle
+dysfunction. Our team has been focused on developing a millifluidic lab-on-a-chip system to study human
+skeletal muscle cell growth and gene expression changes in microgravity. We have established culture
+conditions for primary human myocytes isolated from young, healthy and older, sedentary volunteers and have
+biological data indicating that the cells retain the phenotype of the donor tissue. Furthermore, we have
+fabricated a flight ready chip with multiple culture chambers. For this proposal, we plan to incorporate
+electrodes into the chip and determine electric field strength distribution by simulation to optimize conditions for
+electrically stimulating muscle myocytes embedded in a native mimicking extracellular matrix. Our lab-on-a-
+chip will be integrated into a remote controlled, fully automated laboratory solution complete with a fluid
+handling system, an optical detection system to record contraction, and a software platform for near real-time
+control of the experiment on the ISS housed in STaARS-1 experimental flight facility. On a subsequent flight,
+we propose to test natural products with anti-atrophy properties in the validated lab-on-a-chip system. Drug
+delivery to the muscle cultures will be facilitated via the addition of an administration port capable of delivering
+multiple drug dilutions. Our next generation lab-on-a-chip system stands to be a leader in miniaturized lab
+disease modeling to study pathophysiological changes in muscle tissue induced in microgravity intended to
+advance drug efficacy and toxicological testing of therapeutics to elevate the burden of muscle wasting.",483238
+Aging; Bioengineering; Clinical Research; Sarcopenia,3-Dimensional;Address;Adult;Age;Aging;Applications Grants;Area;Astronauts;Atrophic;Biological;Cells;Cellular Stress;Computer software;DNA Damage;Data;Devices;Disease model;Drug Delivery Systems;Elderly;Electrodes;Engineering;Extracellular Matrix;Florida;Functional disorder;Gene Expression;Health Care Costs;Human;Individual;International;Lab-On-A-Chips;Laboratories;Liquid substance;Microgravity;Modeling;Muscle;Muscle Cells;Muscle Fibers;Muscular Atrophy;Natural Products;Older Population;Optics;Pharmaceutical Preparations;Pharmacy facility;Phenotype;Physiological;Population;Property;Quality of life;Research;Research Institute;Research Personnel;Sampling;Skeletal Muscle;Space Flight;System;Testing;Therapeutic;Time;Tissue Donors;Toxicology;Translational Research;United States National Institutes of Health;Universities;age related;aged;cell growth;clinical development;clinically relevant;college;data submission;detection platform;drug efficacy;electric field;experimental study;human tissue;improved;microphysiology system;miniaturize;mitochondrial dysfunction;muscle degeneration;muscle form;muscle strength;next generation;parent grant;physiologic stressor;prevent;response;sarcopenia;sedentary;senescence;skeletal muscle wasting;space station;therapeutic development;translational research program;volunteer,Deposition of data from ground and flight samples for sarcopenia MPS system,"PARENT GRANT PROJECT NARRATIVE
+Physiological changes resulting in the loss of muscle mass and strength, similar to aging,
+occur significantly faster in microgravity and understanding how to prevent the degenerative
+loss of skeletal muscle mass is an extremely important area of research, especially as the
+percentage of our older population continues to increase; roughly a 10 percent reduction
+in age-related muscle atrophy would save 1.1 billion in annual healthcare costs while
+improving quality of life. We propose to develop a microphysiological system to mature and
+electrically stimulate human primary myobundles isolated from muscle of young and aged
+adults. The automated, remote-controlled device placed on the International Space Station
+will serve as an advanced human cell system for studying physiological stresses induced
+in microgravity and for predictive drug and toxicology testing to aide in the development of
+therapeutics for muscle wasting.",NCATS,10434403,8/20/2021 12:00:00 AM,PA-20-272,3UH3TR002598-05S1,3,UH3,TR,2598,5,S,"TAGLE, DANILO A",12/21/2018 12:00:00 AM,8/31/2023 12:00:00 AM,ZTR1(01), ,12263270,"MALANY, SIOBHAN ",Not Applicable,3,PHARMACOLOGY,969663814,NNFQH1JAPEP3,969663814,NNFQH1JAPEP3,US,29.643443,-82.349637,513806,UNIVERSITY OF FLORIDA,GAINESVILLE,FL,SCHOOLS OF PHARMACY,326115500,UNITED STATES,N,9/1/2021 12:00:00 AM,8/31/2023 12:00:00 AM,350,Non-SBIR/STTR,2021,76250, ,NCATS,50000,26250, ,"PARENT GRANT PROJECT SUMMARY
+This grant application, in response to RFA-TR-18-001 “NIH-CASIS Coordinated
+Microphysiological Systems Program for Translational Research in Space”, proposes an
+outstanding collaborative effort among investigators at the University of Florida, College of
+Pharmacy and Engineering and AdventHealth Translational Research Institute. Astronauts
+suffer from muscle degeneration after prolonged spaceflight. These effects are largely
+reversible; however, the intrinsic changes in skeletal muscle observed with age such as DNA
+damage, cellular stress, mitochondrial dysfunction and senescence are likely to overlap
+with cellular mechanisms induced in microgravity. Thus, studies in microgravity using human
+tissue to model disease conditions may greatly contribute to development of clinically relevant
+approaches to address muscle wasting in the elderly referred to as sarcopenia. The
+number of elderly individuals over the age of 60 is growing at an unprecedented rate from
+~11% of the global population today to ~21% by 2050. Therapeutic options to treat sarcopenia
+are non-existent in part because of an incomplete understanding of the mechanisms
+controlling age-related skeletal muscle dysfunction. Our team has developed a 2D millifluidic
+lab-on-a-chip system to study human skeletal muscle cell growth and gene expression
+changes in microgravity. We have established culture conditions for primary human myocytes
+isolated from young, healthy and older, sedentary volunteers and have biological data
+indicating that the cells retain the phenotype of the donor tissue. Furthermore, we have
+fabricated a flight ready chip with multiple culture chambers. For this proposal, we plan to
+develop a microphysiological (MPS) 3D system and incorporate electrodes into the chip. We
+will determine electric field strength distribution using COMSOL modeling and optimize
+conditions for electrically stimulating muscle myocytes embedded in a native extracellular
+matrix. Our MPS will be integrated into a remote controlled, fully automated laboratory
+complete with a fluid handling system, an optical detection system to record contraction, and
+a software platform for near real-time control of the experiment on the ISS housed in the
+TangoLab experimental flight facility. On a subsequent flight, we propose to test natural
+products with anti-atrophy properties in the validated MPS. Drug delivery to the muscle
+cultures will be facilitated via the addition of an administration port capable of delivering multiple
+drug dilutions. Our next generation MPS system stands to be a leader in miniaturized lab
+disease modeling to study pathophysiological changes in muscle tissue induced in
+microgravity intended to advance drug efficacy and toxicological testing to treat muscle wasting.",76250
+Behavioral and Social Science; Clinical Research; Health Disparities; Minority Health; Pediatric; Social Determinants of Health,"ARNT gene;Academia;Academy;Achievement;Address;Adopted;Agreement;Area;Biomedical Research;Collaborations;Color;Communities;County;Critical Thinking;Development;Disabled Persons;Disadvantaged;Education;Educational process of instructing;Educational workshop;Engineering;Family;First Generation College Students;Fostering;Funding;Future;Future Teacher;Goals;High School Faculty;High School Student;Individual;Institution;Instruction;International;Kentucky;Knowledge;Laboratories;Leadership;Learning;Life;Link;Mentors;Mentorship;Methods;Microgravity;Microscopic;Modeling;Molecular;Palate;Population;Positioning Attribute;Research;Research Training;Resources;STEM career;STEM curriculum;STEM field;STEM research;STEM student;Schools;Science;Science, Technology, Engineering and Mathematics Education;Scientist;Secondary Schools;Social Mobility;Societies;Students;Support System;System;Techniques;Technology;Training;Training Programs;Underrepresented Populations;Underrepresented Students;Underserved Population;Universities;age group;apprenticeship;beneficiary;career;college;design;experience;high school;improved;innovation;interdisciplinary collaboration;interest;junior high school;literate;member;neglect;novel strategies;peer;peer coaching;programs;real world application;recruit;role model;skills;social;social integration;space station;success;synergism;teacher;undergraduate research;undergraduate student",STEM Through Authentic Research Training (START) Program for Underrepresented Communities,"Project Narrative
+The relative shortage of near peers and relatable mentors for first generation college students and
+underrepresented student populations inhibits them from reaching their maximal potential. By establishing a
+pipeline to integrate real world research experiences in an academic and/or STEM-intensive commercial
+setting for both students (grades 9-12) and STEM teachers (grades 5-12) we expect to deliver opportunities for
+STEM education typically neglected for underserved populations. The STEM Through Authentic Research
+Training (START) program is designed to integrate academia, the secondary education system and
+commercial interests toward identifying and nurturing STEM proficient students promoting success at the
+college level and beyond.",NIGMS,10204046,7/5/2021 12:00:00 AM,PAR-17-339,5R25GM132961-03,5,R25,GM,132961,3, ,"BECK, LAWRENCE A",7/1/2019 12:00:00 AM,6/30/2024 12:00:00 AM,Special Emphasis Panel[ZRG1-CB-J(56)R], ,9077753,"BRADLEY, LUKE H",Not Applicable,6,NEUROSCIENCES,939017877,H1HYA8Z1NTM5,939017877,H1HYA8Z1NTM5,US,38.040959,-84.505885,2793601,UNIVERSITY OF KENTUCKY,LEXINGTON,KY,SCHOOLS OF MEDICINE,405260001,UNITED STATES,N,7/1/2021 12:00:00 AM,6/30/2022 12:00:00 AM,859,Other Research-Related,2021,263579, ,NIGMS,244055,19524, ,"Abstract/ Project Summary
+The increasing importance of technology in contemporary society necessitates a STEM literate population.
+This represents a challenge for traditionally underrepresented populations (people of color, individuals with
+disabilities, individuals in less affluent communities) impacting upward social mobility. Often, members of
+these groups are doubly disadvantaged, as the few who become first generation college students often lack a
+roadmap for success through family, near peers and potential mentors. Success for this population,
+representing a highly motivated group, needs to be nurtured to embrace and advance STEM disciplines,
+before they reach their college classrooms. This necessitates the education not only of students, but their
+teachers, providing synergies in teaching and learning to empower students to avail of opportunities perceived
+as being beyond their reach. We hypothesize that bridging this expanding gap requires an integrated program
+bringing together academic, social and real-world professional experiences to establish a pipeline linking
+success in middle/high school to success for first generation college students and beyond. Such a pipeline will
+generate not only STEM-proficient citizens but also a cadre of near peers to motivate by example. With this
+central premise we have formed the STEM Through Authentic Research and Training (START) Program tot
+identify recruit and retaining traditionally underrepresented populations by providing year-round authentic
+research opportunities and professional development for high school students (grades 9-12) and middle and
+secondary STEM teachers (grades 5-12). START represents a partnership between the University of Kentucky
+providing opportunities for STEM research, The Academies of Lexington, a partnership with the Fayette
+County Public Schools- focused on changing the traditional didactic model for STEM instruction, the KY-WV
+LSAMP program an NSF funded consortium led by UK including over 10 diverse academic institutions
+supporting undergraduate research aimed at increasing the representation and overall success of traditionally
+underrepresented populations in STEM disciplines. START establishes a natural pipeline to the collegiate
+level by virtue of the alliance with KY-WV LSAMP and its member institutions. Finally, we have recruited Space
+Tango, a Lexington STEM start-up company which builds and integrates systems for scientific and biomedical
+research under microgravity conditions on the international space station. As such, a spectrum of research
+opportunities, from the molecular and microscopic level in participating UK STEM laboratories to the vastness
+of space itself afforded by Space Tango provide an exciting palate of opportunities for traditionally
+underrepresented students and the teachers responsible for their STEM education. We believe that the
+integration of real world authentic research opportunities in the context of overall STEM education via a unique
+partnership between academia, educational and commercial entities will motivate underrepresented student
+populations to levels of achievement they often believe are beyond their horizons.",263579
+Aging; Bioengineering; Osteoporosis; Women's Health,Address;Adenoviruses;Affect;Age;Aging;Animal Model;Astronauts;Bone Development;Breeding;Calcium;Calmodulin;Catalytic Domain;Cells;Data;Development;Elderly;Environment;Enzyme-Linked Immunosorbent Assay;Future;Genes;Genetic Models;Genotype;Health;Histology;Human;Image;Impairment;In Vitro;Individual;Knowledge;Lead;Lifting;Liquid substance;Mechanical Stress;Mechanics;Mediating;Methods;Microgravity;Microtubules;Modeling;Molecular Genetics;Mus;NADPH Oxidase;Names;Nature;Osteoblasts;Osteocalcin;Osteocytes;Osteogenesis;Paralysed;Pathway interactions;Phenotype;Phosphotransferases;Physiology;Population;Production;Property;Reactive Oxygen Species;Regulation;Research;Role;Signal Pathway;Signal Transduction;Space Flight;Structure;Techniques;Testing;Therapeutic;Training;Vanilloid;Western Blotting;Work;bone;bone loss;bone mass;bone quality;career;design;experimental study;fracture risk;improved;in vivo;in vivo Model;mechanical load;mechanotransduction;microCT;new therapeutic target;novel;prevent;receptor;response;sedentary;shear stress;skeletal;therapeutic target;tomography,The Role of Reactive Oxygen Species in Osteocyte Mechano-Transduction and Sclerostin Regulation,"PROJECT NARRATIVE
+This proposal will validate and extend key mechanisms by which bone-embedded osteocytes transduce
+mechanical signals to control sclerostin abundance and lead to improved bone quality. Additionally, we may
+uncover novel functions for reactive oxygen species in bone physiology. Understanding these mechanisms can
+reveal therapeutic targets that can be exploited to prevent and/or treat populations with low bone mass, such as
+the elderly, bedridden, paralyzed, sedentary, and astronauts in microgravity environments.",NIAMS,10228399,4/23/2021 12:00:00 AM,PA-20-246,1F31AR077974-01A1,1,F31,AR,77974,1,A,"NICKS, KRISTY",4/1/2021 12:00:00 AM,3/31/2023 12:00:00 AM,Special Emphasis Panel[ZRG1-F10B-B(20)L], ,15629305,"GOULD, NICOLE R.",Not Applicable,7,ORTHOPEDICS,188435911,Z9CRZKD42ZT1,188435911,Z9CRZKD42ZT1,US,39.292248,-76.625629,820104,UNIVERSITY OF MARYLAND BALTIMORE,BALTIMORE,MD,SCHOOLS OF MEDICINE,212011508,UNITED STATES,N,4/1/2021 12:00:00 AM,3/31/2022 12:00:00 AM,846,"Training, Individual",2021,34236, ,NIAMS,34236, , ,"ABSTRACT
+The development of low bone mass caused by aging, disuse due to paralysis, or extended space flights impacts
+many individuals of all ages. Current therapeutics aim to slow the loss of bone mass, but none currently target the
+lack of mechanical loading that leads to declining bone mass in these situations. We have recently described a
+novel pathway in vitro in which NADPH Oxidase 2 (NOX2) produces reactive oxygen species following the
+onset of fluid shear stress that, in turn, activates transient receptor potential vanilloid 4 (TRPV4) channels to allow
+for calcium influx. This ultimately results in calcium/calmodulin-dependent kinase II (CaMKII) activation and
+sclerostin degradation, lifting the inhibition on osteoblasts to allow for bone formation. Though the mechano-
+transduction cascade controlling sclerostin abundance has been described in in vitro osteocytes, the fidelity and
+impact of this signaling pathway's impact on sclerostin regulation and bone mass has not been examined in vivo.
+This proposal will examine how the loss of NOX2, a necessary early step in the mechano-transduction cascade,
+affects bone quality, both in unstimulated and mechanically-stimulated conditions, in an in vivo animal model.
+Supported by in vitro and in vivo preliminary data, we hypothesize that the mechano-transduction pathway
+controlling sclerostin in vitro is conserved in vivo and that disrupting NOX2-dependent ROS production will
+affect basal bone properties and impair bone acquisition in response to mechanical load. We will address this
+hypothesis in one aim with three independent experiments: (1) Examine how NOX2 deletion in osteocytes
+impacts basal bone properties and mechano-responsiveness in vivo. Given the in vitro nature of our prior work on
+this pathway, the contribution of this mechano-transduction pathway to in vivo bone mechano-responsiveness
+remained unresolved. To extend these in vitro findings, this proposal will use in vitro and in vivo models,
+specifically a conditional deletion model, to address several knowledge gaps, including the cell autonomous role
+of NOX2 in osteocytes and the contribution of NOX2-mediated ROS to skeletal physiology and function. This
+proposal will validate novel therapeutic targets, such as ROS production, which can be exploited to mimic load
+in populations where traditional mechanical load is not possible.",34236
+Aging; Bioengineering; Biomedical Imaging; Clinical Research; Eye Disease and Disorders of Vision; Macular Degeneration; Neurodegenerative; Neurosciences,3-Dimensional;Address;Age related macular degeneration;Animal Model;Animals;Area;Biological Markers;Blindness;Blood Vessels;Blood Volume;Blood flow;Caliber;Choroid;Clinic;Clinical;Clinical Engineering;Clinical Research;Collaborations;Contrast Media;Coupled;Data;Detection;Development;Diabetic Retinopathy;Diagnostic Imaging;Disease;Ensure;Evaluation;Eye;Eye diseases;Feasibility Studies;Flowmetry;Fostering;Foundations;Funding;Future;Glaucoma;Human Volunteers;Image;Imaging Device;Imaging technology;Individual;Institutional Review Boards;Knowledge;Laboratory Research;Location;Maps;Measurable;Measurement;Microgravity;Monitor;Morphology;Multimodal Imaging;New York;Ophthalmologist;Ophthalmology;Optical Coherence Tomography;Outcome;Patients;Pattern;Phase;Positioning Attribute;Protocols documentation;Recording of previous events;Research;Resolution;Retina;Retinal Degeneration;Retinal Diseases;Risk;Rodent;Rodent Diseases;Rodent Model;Scanning;Scientist;Severity of illness;Structure;System;Techniques;Technology;Testing;Thick;Translations;United States National Aeronautics and Space Administration;Universities;Vision;Visualization;base;blood flow measurement;clinical practice;commercialization;density;design;experience;hemodynamics;human subject;imager;imaging approach;imaging modality;imaging platform;imaging program;imaging study;imaging system;improved;in vivo;instrument;instrumentation;medical schools;multimodality;neurovascular;new technology;novel;novel diagnostics;patient population;physical science;programs;prototype;recruit;research and development;retinal imaging;three dimensional structure,Comprehensive imaging and quantification of blood flow for investigating ocular diseases without additional contrast agent,"Project Narrative
+ Degenerative neurovascular diseases of the eye often have either hemodynamic consequences or
+causes, though the mechanisms are poorly understood. Improved blood flow imaging diagnostics will aid in
+the detection and management of many eye conditions, and foster new research for understanding the
+major causes of blindness: AMD, DR, and glaucoma.",NEI,10295545,2/11/2021 12:00:00 AM,PA-18-574,4R44EY030812-02,4,R44,EY,30812,2, ,"LEE, PAEK-GYU",9/1/2019 12:00:00 AM,2/28/2023 12:00:00 AM,Special Emphasis Panel[ZRG1-ETTN-G(12)B], ,9421406,"MUJAT, MIRCEA ",Not Applicable,3,Unavailable,73800062,RMG1AZ1ZH8Q7,73800062,RMG1AZ1ZH8Q7,US,42.693308,-71.202918,1925101,"PHYSICAL SCIENCES, INC",ANDOVER,MA,Domestic For-Profits,18101022,UNITED STATES,N,3/1/2021 12:00:00 AM,2/28/2022 12:00:00 AM,867,SBIR/STTR,2021,678314, ,NEI, , , ,"Project Summary/Abstract
+ Physical Sciences Inc. (PSI) in collaboration with New York University (NYU) School of Medicine
+proposes to develop a novel ophthalmic imaging platform for characterizing retinal morphology and
+monitoring ocular blood flow abnormalities. This platform will combine non-invasive measurements of
+retina/choroid structure and ocular blood flow based on optical coherence tomography (OCT) and wide-
+field semi-quantitative global flow visualization using line-scanning Doppler flowmetry (LSDF). The
+combination of these two imaging modalities within the same imaging platform enables comprehensive
+assessment of blood flow in the retina and choroid. This novel imaging platform will enable imaging
+studies in animals and human subjects with normal vision or with various retinal diseases. Prior PSI
+experience in developing advanced ophthalmic imaging systems coupled with our collaborators' expertise
+in Ophthalmology will be leveraged to ensure the successful outcome of this important R&D program.
+ A feasibility study will be performed during the Phase I program by imaging normal and diseased rodent
+models using a benchtop instrument. A clinical prototype instrument will be manufactured and tested
+clinically in Phase II in the NYU population of patients to highlight hemodynamic retinal biomarkers. We
+choose to focus on diseases that are the leading causes of blindness including, age-related macular
+degeneration (AMD), diabetic retinopathy (DR), and glaucoma to demonstrate the clinical utility of our novel
+system. We will recruit healthy individuals to set a reference, and subjects with AMD, DR, and glaucoma at
+a wide range of disease severity. In all of these conditions, the ability to record in vivo blood flow will
+provide novel information that will open new diagnostic and treatment avenues.",678314
+Aging; Osteoporosis; Prevention; Women's Health,"Adipocytes;Adipose tissue;Age-Related Osteoporosis;Aging;Agonist;Agreement;Binding;Bone Formation Inhibition;Bone Marrow;C-terminal;Calcium;Cell Communication;Cells;Chemicals;Cilia;Complex;Critical Pathways;Cues;Development;Exhibits;Extracellular Matrix;Fatty acid glycerol esters;Future;GTP-Binding Protein alpha Subunits, Gs;Genetic;Goals;Homeostasis;Impairment;In Vitro;Link;Marrow;Mechanical Stimulation;Mechanics;Mediating;Microgravity;Modeling;Molecular;Mus;Mutant Strains Mice;Nature;Nuclear Translocation;Osteoblasts;Osteocalcin;Osteogenesis;Osteopenia;Osteoporosis;Osteoporosis prevention;Outcome;PKD2 protein;PPAR gamma;Pathogenesis;Peroxisome Proliferator-Activated Receptors;Pharmaceutical Preparations;Pharmacology;Phenotype;Prevention;Process;Proprotein Convertase 1;Proprotein Convertase 2;Role;Signal Pathway;Signal Transduction;Stretching;Stromal Cells;Structure;Tail;Testing;Transcription Coactivator;Transcriptional Coactivator with PDZ-Binding Motif;base;bone;bone disuse atrophy;bone loss;bone mass;clinically relevant;conditional knockout;experimental study;fluid flow;gamma secretase;genetic corepressor;improved;in vivo;lipid biosynthesis;loss of function;mechanical force;mechanical load;mechanotransduction;mouse model;new therapeutic target;novel;physical inactivity;polycystic kidney disease 1 protein;pre-clinical;prevent;response;sarcopenia;shear stress;skeletal;skeletal unloading;small molecule;therapeutic target;validation studies;virtual screening",Skeletal Functions of Polycystins and TAZ,"Our goal is to improve the treatment and prevention of bone loss caused by ageing and physical inactivity through
+an improved understanding of the molecular identity of mechanosensing mechanism in bone. Our expected
+outcomes will include the discovery that the polycystins/TAZ complex is the clinically relevant mechanosensor
+in osteoblasts that controls bone mass by stimulating osteoblast-mediated bone formation and preventing the
+accumulation of bone marrow fat; and the development of a new chemical compound that activates
+polycystins/TAZ to mimic the bone anabolic effects of skeletal loading. Our impact includes progress in treating
+and preventing osteoporosis by defining a new mechanosensing complex in bone and the first-in-class small
+molecule “mechonomimetic” that targets this mechanosensor to increase bone mass.",NIAMS,10188427,7/2/2021 12:00:00 AM,PA-16-160,5R01AR071930-04,5,R01,AR,71930,4, ,"NICKS, KRISTY",8/24/2018 12:00:00 AM,6/30/2023 12:00:00 AM,Skeletal Biology Development and Disease Study Section[SBDD], ,1866000,"QUARLES, L DARRYL",Not Applicable,9,INTERNAL MEDICINE/MEDICINE,941884009,X1M1PN3KG3E7,941884009,X1M1PN3KG3E7,US,35.138829,-90.033163,578302,UNIVERSITY OF TENNESSEE HEALTH SCI CTR,MEMPHIS,TN,SCHOOLS OF MEDICINE,381034903,UNITED STATES,N,7/1/2021 12:00:00 AM,6/30/2022 12:00:00 AM,846,Non-SBIR/STTR,2021,324368, ,NIAMS,213400,110968, ,"Defective bone mechanosensing and skeletal unloading contribute to age-related and disuse osteoporosis. The
+molecular mechanisms that transduce the osteoblast response to physical forces in the bone microenvironment
+to maintain skeletal homeostasis are poorly understood. We discovered a novel mechanosensing complex in
+osteoblasts created by an interaction between polycystins (PC1, Pkd1 and PC2, Pkd2) and TAZ (transcriptional
+coactivator with PDZ-binding motif). The PC1/PC2/TAZ complex functions to sense and transduce mechanical
+loading into anabolic bone responses. Loss of either Pkd1 or Taz in mice results in osteopenia characterized by
+a reciprocal decrease in osteoblast-mediated bone formation and an increase in adipocytes in bone marrow.
+Compound heterozygous mice lacking one copy of Pkd1 and TAZ exhibit additive decrements in bone mass,
+impaired osteoblast-mediated bone formation and enhanced accumulation of bone marrow fat. The PC1 C-ter-
+minal tail (PC1-CTT) binds to and facilitates TAZ nuclear translocation to co-activate Runx2-mediated osteoblas-
+togenesis and co-repress PPAR-mediated adipogenesis in vitro. Computational approaches using structure-
+based virtual screening discovered a novel agonist (mechanomimetic) that binds to the PC1:PC2 C-terminal tail
+helix: helix interaction region and activates polycystins/TAZ signaling. These observations provide the scientific
+premise for the hypothesis that skeletal responses to loading are transduced by a mechanosensing complex in
+osteoblasts formed by interactions between PC1, PC2 and TAZ. Aim 1 tests the hypothesis that Pkd1/TAZ have
+interdependent functions in mature osteoblasts to regulate bone mass through the reciprocal stimulation of os-
+teoblastogenesis and inhibition of adipogenesis. In this aim, we will examine the effects of TAZ to differentially
+regulate osteoblastogenesis and adipogenesis in vitro and in vivo by creating mice with conditional knockout of
+Taz in mature osteoblasts (TazOc-cko). We will further test for genetic interactions between Taz and Pkd1 by
+creating compound Pkd1Oc-cko/Taz Oc-cko mice. Aim 2 tests the hypothesis that the Pkd1/TAZ complex mediates
+the response of osteoblasts to mechanical loading in vivo and in vitro using single and compound Pkd1 and Taz
+loss-of-function mouse models and osteoblast cultures. Aim 3 tests the hypothesis that activation of the
+PC1/PC2/TAZ with a novel “mechanomimetic” will increase bone mass by stimulating osteoblastogenesis and
+inhibiting adipogenesis. Our impact will be to provide a new understanding of the molecular mechanisms medi-
+ating the skeletal response to loading by validating the PC1/PC2/TAZ mechanosensing complex in osteoblasts.
+In this new schema, PC1-CTT and TAZ form an integrative mechanosensing complex in cells within the osteo-
+blast lineage to differentially regulate Runx2-dependent osteoblastogenesis and PPARγ-mediated adipogenesis
+in response to physical cues in the bone microenvironment. The polycystins/TAZ complex is also a potential
+therapeutic target for treating osteoporosis caused by skeletal unloading; and the newly discovered first-in-class
+mechanomimetic provides a chemical probe to test if targeting polycystins/TAZ results in increased bone mass.",324368
+Asthma; Bioengineering; Cardiovascular; Chronic Obstructive Pulmonary Disease; Clinical Research; Health Services; Lung; Physical Activity; Prevention,Accelerometer;Acoustics;Age;Air Sacs;Algorithmic Analysis;Algorithms;Ambulatory Monitoring;Asthma;Auscultation;Blood flow;Body mass index;Cardiac;Cardiopulmonary;Cardiovascular system;Cause of Death;Cessation of life;Chest wall structure;Child;Chronic Obstructive Airway Disease;Clinic;Clinical;Cone;Consumption;Coupling;Crackles;Dangerousness;Data;Dependence;Detection;Development;Devices;Diagnosis;Diagnostic;Diagnostic Procedure;Disease;Disease Progression;Early Diagnosis;Entropy;Erythema Infectiosum;Evaluation;Frequencies;Future;Goals;Health;Health Care Costs;Health Status;Healthcare Systems;Heart;Heart Rate;Heart Sounds;Home;Immune;Income;Individual;Judgment;Life;Liquid substance;Lung;Lung diseases;Maps;Measurement;Medical;Methods;Microgravity;Monitor;Motion;Noise;Organ;Outpatients;Output;Particulate;Patients;Physical activity;Physicians;Pneumonia;Population;Positioning Attribute;Preventive care;Preventive screening;Preventive treatment;Progressive Disease;Pulmonary Fibrosis;Pus;Quantitative Evaluations;Reading;Respiratory Sounds;Respiratory System;Running;Sampling;Schools;Signal Transduction;Skin;Stethoscopes;Structure;Surface;Symptoms;Testing;Time;Veins;Visit;Walking;Wheezing;Work;asthma exacerbation;asthmatic patient;base;body position;cardiopulmonary system;clinical Diagnosis;cost;design;detection method;diagnostic accuracy;digital;disability;disorder risk;effective therapy;electric impedance;experience;health care settings;heart rate monitor;improved;interstitial;lung injury;microdevice;microphone;miniaturize;nanofabrication;noninvasive diagnosis;personalized diagnostics;portability;prevent;prototype;reduce symptoms;respiratory;screening;seal;sensor;skills;sound;tobacco exposure;tool;vibration,"A Non-invasive, Wearable, Miniaturized Auscultation Device for Diagnosis of Pulmonary Diseases","Project Narrative
+ Auscultation is a non-invasive, powerful and low-cost technique for detection and monitoring of respiratory
+diseases such as chronic obstructive pulmonary disease, pneumonia and asthma, which are among leading
+causes of disability and death globally. In this project, we will optimize the acoustic coupling of a wearable low-
+profile accelerometer contact microphone to achieve a high-precision and low-profile wideband auscultation
+microdevice, which can continuously and simultaneously record adventitious sounds from respiratory system as
+well as heart sounds, respiratory rate and body motion to facilitate early detection and long-term monitoring. We
+will optimize the device prototype and assess the feasibility of this device for detection of asthma in a clinical
+setting and compare the results with medical-grade electronic stethoscopes output and with expert physician
+diagnosis to validate the future use of this device in a broad range of healthcare settings.",NIBIB,10261583,9/2/2021 12:00:00 AM,PA-19-052,5R03EB029099-02,5,R03,EB,29099,2, ,"LASH, TIFFANI BAILEY",9/15/2020 12:00:00 AM,6/30/2023 12:00:00 AM,Instrumentation and Systems Development Study Section[ISD], ,9836975,"AYAZI, FARROKH ",Not Applicable,5,ENGINEERING (ALL TYPES),97394084,EMW9FC8J3HN4,97394084,EMW9FC8J3HN4,US,33.781897,-84.404009,676603,GEORGIA INSTITUTE OF TECHNOLOGY,ATLANTA,GA,BIOMED ENGR/COL ENGR/ENGR STA,303320415,UNITED STATES,N,7/1/2021 12:00:00 AM,6/30/2023 12:00:00 AM,286,Non-SBIR/STTR,2021,75502, ,NIBIB,62499,13003, ,"Summary: Respiratory diseases (RDs) are the fifth cause of death in the US and impose over $150B on
+healthcare cost. RDs like asthma are incurable and can be life-threatening if not treated promptly. As most
+dangerous RDs are progressive and manageable with preventive treatment, early detection is crucial to prevent
+exacerbation. Current diagnosis relies on costly and time-consuming clinical visits, discouraging preventative
+screening without severe symptoms especially for low/middle-income population at higher RD risks due to more
+exposure to tobacco and work-related particulates. Diagnosis of RDs like asthma also relies on detection of
+intermittent abnormal respiratory sounds, which can benefit from prolonged recordings outside the clinic setting.
+In this project, a low-cost, low-profile, easy-to-use and effective device will be developed to detect adventitial
+asthma respiratory sounds, facilitating access to screening and continuous treatment monitoring in RD patients.
+ Auscultation is a powerful, non-invasive and well-established method to evaluate health of cardiopulmonary
+system through sounds of lung and heart. Stethoscopes have been used by physicians for over two centuries in
+clinics, but they are unsuitable for continuous cardiopulmonary activities monitoring due to large form-factor and
+dependence on listening skills and experience, prohibiting critical applications like ambulatory monitoring and
+early detection of RDs in small children. A need exists for a low-profile, miniaturized, high-precision diagnostic
+device that is more accessible and can accurately detect and quantify respiratory abnormalities over prolonged
+measurements without relying on the skills and experience of a physician to interpret the sounds. To that end,
+the electronic interface and acoustic coupling of a MEMS-based accelerometer contact microphone (ACM) onto
+skin will be optimized to record respiratory sounds with high fidelity, and compared against clinical diagnosis.
+ Breakthrough, hermetically-sealed, high-precision ACMs with unidirectional vibration sensitivity will be used
+to overcome limits of standard stethoscopes that are bulky, susceptible to airborne and rubbing noise, and hard
+to use. Besides lung and heart sounds, the ACM simultaneously acquires respiratory rate, heart rate and physical
+activities of the users. Data will be analyzed using simple algorithms like time-frequency analysis and continuous
+wavelet transformation to provide reliable information for diagnosis of asthma by detecting signature sounds like
+wheezing in a wide frequency range of 100Hz-5kHz. Diagnosis accuracy and comprehensiveness are expected
+to be improved by the ACM-enabled prolonged recording, capability of correlating respiratory sounds with heart
+sounds and body motions, and detection of higher frequency signals. Interface between ACM and skin will be
+optimized to increase acoustic coupling over a wide frequency range for wideband adventitious sounds. Low-
+profile wearable ACMs will be used in a clinical setting to detect adventitial respiratory sounds indicative of
+asthma and compared with medical-grade digital stethoscopes and clinician judgment. Potentials of the ACM for
+detecting information for other RDs like COPD and pneumonia will also be assessed for future developments.",75502

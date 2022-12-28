@@ -101,7 +101,6 @@ def build_prop(trial):
     return(prop)
 
 
-
 def random_color():
     """
     return rgb
@@ -234,6 +233,7 @@ def query_trials():
         search_term = str('mesenchymal ' + str(term))
         clinicaltrials_query(search_term)
     """
+
 
 def clinicaltrials_query(term):
     """

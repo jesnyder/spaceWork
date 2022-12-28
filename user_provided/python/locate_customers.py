@@ -124,7 +124,6 @@ def identify_address(sale):
     return(sale)
 
 
-
 def find_zipcode(display_name):
     """
     return zipcode
