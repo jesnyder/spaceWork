@@ -1,0 +1,487 @@
+{
+       "Rank": 3,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Simulated microgravity flight"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Parabolic flight"
+       ],
+       "ArmGroupLabel": [
+              "Effect of microgravity on human sperm"
+       ],
+       "ArmGroupType": [
+              "Other"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT03760783"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "It has been described that microgravity affects cellular and molecular structures. Cell membrane, cytoskeleton, cytoplasm and nucleus have been found to be sensible to gravitational changes. Alterations in the male and female reproductive systems have also been reported in mouse and other animals. The effects of microgravity on human reproductive cells remain unknown.\n\nThe main objective of this experimental study is to investigate the effect of simulated microgravity in human male reproductive cells under in vitro conditions. Induced microgravity conditions will be obtained with a smaller single-engine aerobatic aircraft that can provide parabolic flights.\n\nThe main parameters to be analyzed are: sperm motility, vitality, DNA fragmentation and apoptosis."
+       ],
+       "BriefTitle": [
+              "The Effects of Microgravity on Human Sperm"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "Universitat Polit\u00e8cnica de Catalunya",
+              "Dexeus Clinic Woman"
+       ],
+       "CompletionDate": [
+              "December 31, 2021"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Semen Quality"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "N/A"
+       ],
+       "DesignInterventionModel": [
+              "Single Group Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Other"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nHealthy volunteers (men)\nWho accepted to take part in the study\nWho gave their written informed consent"
+       ],
+       "EnrollmentCount": [
+              "30"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Effect of microgravity on human sperm"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "Sperm analysis (total motility M/ml; grade a+b sperm M/ml, vitality, DNA Frag and apoptosis) will be measured on ground at 1g before the flight and after flight were sperm samples have been exposed to simulated microgravity"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Parabolic flight"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "March 31, 2022"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "March 30, 2022"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Institut Universitari Dexeus"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Barcelona"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "Spain"
+       ],
+       "LocationFacility": [
+              "Women's Health Dexeus Departament d'Obstetr\u00edcia, Ginecologia i Reproducci\u00f3"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [
+              "08028"
+       ],
+       "MaximumAge": [
+              "45 Years"
+       ],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "The Effects of Microgravity on Human Sperm"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Institut Universitari Dexeus"
+       ],
+       "OrgStudyId": [
+              "FSD-ATM-2018-03"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [],
+       "OverallOfficialName": [],
+       "OverallOfficialRole": [],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "December 1, 2021"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "The percentage of normal spermatozoa in terms of motility grades a,b,c according to WHO",
+              "The percentage of normal spermatozoa in terms of morphology is assessed by staining. The lower reference limit for normal forms is 4% (WHO 2010).",
+              "The percentage of live spermatozoa is assessed by identifying those with an intact cell membrane, from dye exclusion. The lower reference limit for vitality (membrane-intact spermatozoa) is 58% (WHO 2010).",
+              "Sperm DNA fragmentation is evaluated by Halosperm\u00ae kit, based on the SCD technique, patented by Halotech. This kit is based on a controlled DNA denaturation process to facilitate the subsequent removal of the proteins contained in each spermatozoon. In this way, normal spermatozoa create halos formed by loops of DNA at the head of the sperm, which are not present in those with damaged DNA.\n\nThresholds for frequency of Sperm DNA Fragmentation (SDF) have been suggested by Dr. Evenson et al. (Evenson and Nixon, Reprod Biomed Online 12:466-472, 2006). The authors reported that couples with no known infertility problems were more likely to achieve a pregnancy/delivery if the DNA fragmentation index (DFI) was <30%.",
+              "Annexin V recognizes an antigen (externalized phosphatidylserine, EPS) in the plasma membrane of apoptotic cells. Apoptotic cell depletion begins with the magnetic labeling of apoptotic cells by the MACS\u00ae ART Annexin V Reagent. The labeled cells are then passed through a separation column located in a fixed magnetic field. Unwanted cells are selectively retained in the column. Living spermatozoa are not labeled by the reagent, so they pass through the column and are collected for later use.\n\nIn our study, after collecting living spermatozoa we also collected the retained apoptotic spermatozoa for comparing the concentration (M/ml) of apoptotic vs no apoptotic cells."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Change in Sperm motility",
+              "Change Sperm Morphology",
+              "Change Sperm Vitality",
+              "Change in Sperm DNA Fragmentation",
+              "Change Sperm APOPTOSIS (Annexin V )"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)",
+              "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)",
+              "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)",
+              "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)",
+              "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)"
+       ],
+       "ReferenceCitation": [
+              "Boada M, Perez-Poch A, Ballester M, Garcia-Monclus S, Gonzalez DV, Garcia S, Barri PN, Veiga A. Microgravity effects on frozen human sperm samples. J Assist Reprod Genet. 2020 Sep;37(9):2249-2257. doi: 10.1007/s10815-020-01877-5. Epub 2020 Jul 18."
+       ],
+       "ReferencePMID": [
+              "32683528"
+       ],
+       "ReferenceType": [
+              "derived"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "Institut Universitari Dexeus"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Montserrat Boada"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Director of Reproductive Laboratory"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [
+              "Related Info"
+       ],
+       "SeeAlsoLinkURL": [
+              "https://www.dexeus.com/"
+       ],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "November 20, 2018"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "March 2022"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "November 30, 2018"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "November 15, 2018"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "November 29, 2018"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

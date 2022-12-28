@@ -1,0 +1,460 @@
+{
+       "Rank": 10,
+       "Acronym": [
+              "FAP"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [],
+       "ArmGroupInterventionName": [],
+       "ArmGroupLabel": [],
+       "ArmGroupType": [],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT00891449"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [
+              "Blood, Urine"
+       ],
+       "BioSpecRetention": [
+              "Samples Without DNA"
+       ],
+       "BriefSummary": [
+              "Space flight simulation study to study effects of microgravity through bedrest coupled with flight exercise counter-measures."
+       ],
+       "BriefTitle": [
+              "Space Flight Simulation to Study Effects of Micro-gravity Through Bed Rest"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "December 2014"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Weightlessness"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [],
+       "DesignInterventionModel": [],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [
+              "Cohort"
+       ],
+       "DesignPrimaryPurpose": [],
+       "DesignTimePerspective": [
+              "Prospective"
+       ],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "Flight Analogs/Bed Rest Research Project (FA/BRRP) provides NASA with a ground-based research platform to complement space research. By mimicking on Earth the conditions of weightlessness experienced by the human body in space, NASA can test and refine scientific theories and procedures to develop countermeasures to protect humans from the effects of the space travel. The use of ground analogs, such as bed rest, are essential because access to the resources required to conduct studies in space is very limited, and the expense of studies significantly greater than those conducted using flight analogs. Future space exploration will challenge NASA to answer many critical questions about how humans can live and work for extended missions away from Earth.\n\nFlight analog testing is critical to NASA to validate countermeasures, given the few opportunities to use flight platforms as the Shuttle retires; also, the US has only 1-2 International Space Station (ISS) crewmembers per Expedition. The Flight Analogs/Bed Rest Research Project is one way NASA will devise ways to ensure astronaut safety and productivity on extended missions to the moon and Mars.\n\nIn the Flight Analogs Project (FAP), volunteers spend many days in a controlled research environment in the Flight Analog Research Unit (FARU) in Galveston, TX. In the current campaigns, volunteers will undergo three phases in the bedrest projects: 1) pre-bedrest baseline testing, 2) a bedrest phase, and 3) the recovery period. Bed rest results in many physiologic changes similar to those seen in astronauts. Pre bed rest is used to gather baseline data against which the bed-rest phase data will be compared. Researchers then monitor how the volunteers' bodies change over the course of the study and how quickly they recover once they are allowed to resume normal activities. Post bed rest is used to monitor recovery from bed rest. In longer campaigns, return to the unit for follow-up testing may be requested after 1, 3, 6, and/or 12 months.\n\nTHE COUNTERMEASURE AND FUNCTIONAL TESTING STUDY (CFT) will test the effectiveness of exercise on loss of muscle, bone and cardiovascular function. Participants will perform an exercise program in a system called the standalone Zero Gravity Locomotion Simulator (sZLS), a \"vertical treadmill\" that removes the weight from the long axis of the body to simulate exercise as it is done in space. Resistance (weight lifting) exercise will be performed on special weight machines. Before and after 70 days of bedrest, participants will be tested on a corresponding set of physiological measures. Specific exercises and intensities are rotated such that each workout is different, with some days being heavier and some lighter. Results of the study will help understand which mission tasks might be affected by changes in physiology during space flight and design countermeasures to prevent or minimize impairment to these physiological systems\n\nThe ALTERNATE COMPRESSION GARMENT STUDY (ACG) will determine effectiveness of compression garments on regulating blood pressure and other body systems after extended periods of head-down bed rest. Participants in the experimental group will wear custom-fit compression garments and undergo evaluation on their response to an upright tilt test and a corresponding set of physiological measures before and after 14 days of bed rest. These participants will be compared to another group of participants who did not wear the compression garments. Results of the study will help scientists determine the time it takes for the cardiovascular system to re-adapt to upright posture, determine whether wearing compression garments during recovery is necessary to protect against dizziness and loss of consciousness often experienced after space missions, and determine the effect of wearing custom fit compression garments on the amount of time needed to readjust to a normal, upright posture."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nUS Citizen\nMust be able to pass physical\n\nExclusion Criteria:\n\ntobacco use\nmenopausal\nprescription drug use\nfood allergies\njoint injuries\nThrombosis\nReflux\nHigh blood pressure\nDiabetes"
+       ],
+       "EnrollmentCount": [
+              "20"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [],
+       "InterventionOtherName": [],
+       "InterventionType": [],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "space flight simulation study",
+              "medical research study",
+              "bed rest",
+              "microgravity",
+              "weightlessness",
+              "The effects of long duration microgravity on humans"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "November 17, 2015"
+       ],
+       "LastUpdatePostDateType": [
+              "Estimate"
+       ],
+       "LastUpdateSubmitDate": [
+              "November 13, 2015"
+       ],
+       "LeadSponsorClass": [
+              "FED"
+       ],
+       "LeadSponsorName": [
+              "National Aeronautics and Space Administration (NASA)"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Galveston"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States"
+       ],
+       "LocationFacility": [
+              "University of Texas Medical Branch"
+       ],
+       "LocationState": [
+              "Texas"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "77555"
+       ],
+       "MaximumAge": [
+              "55 Years"
+       ],
+       "MinimumAge": [
+              "24 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Countermeasure and Functional Testing Study (CFT-70)"
+       ],
+       "OrgClass": [
+              "FED"
+       ],
+       "OrgFullName": [
+              "National Aeronautics and Space Administration (NASA)"
+       ],
+       "OrgStudyId": [
+              "SA-06-2770"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "National Aeronautics and Space Administration (NASA)"
+       ],
+       "OverallOfficialName": [
+              "Dr. Ronita L Cromwell, Ph.D."
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "Yes"
+       ],
+       "PatientRegistry": [],
+       "Phase": [],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "December 2014"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [],
+       "PrimaryOutcomeMeasure": [],
+       "PrimaryOutcomeTimeFrame": [],
+       "ReferenceCitation": [
+              "Dillon EL, Soman KV, Wiktorowicz JE, Sur R, Jupiter D, Danesi CP, Randolph KM, Gilkison CR, Durham WJ, Urban RJ, Sheffield-Moore M. Proteomic investigation of human skeletal muscle before and after 70 days of head down bed rest with or without exercise and testosterone countermeasures. PLoS One. 2019 Jun 13;14(6):e0217690. doi: 10.1371/journal.pone.0217690. eCollection 2019."
+       ],
+       "ReferencePMID": [
+              "31194764"
+       ],
+       "ReferenceType": [
+              "derived"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [
+              "Non-Probability Sample"
+       ],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [
+              "NASA For Educators: The Bedrest Studies",
+              "One Man's Rest Is Another Man's Research",
+              "WIRED Science: Do You Have the Right Stuff to Be a NASA Pillownaut?",
+              "Popular Science: Pillownauts Stay in Bed for the Sake of Science"
+       ],
+       "SeeAlsoLinkURL": [
+              "http://www.nasa.gov/audience/foreducators/lying-around.html",
+              "http://www.nasa.gov/mission_pages/station/behindscenes/bed_rest_study.html",
+              "http://www.wired.com/wiredscience/2009/06/pillownaut",
+              "http://www.popsci.com/military-aviation-amp-space/article/2009-06/pillownaut-stays-bed-sake-science"
+       ],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "July 2011"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "November 2015"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "May 1, 2009"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "April 30, 2009"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "April 30, 2009"
+       ],
+       "StudyPopulation": [
+              "Community sample"
+       ],
+       "StudyType": [
+              "Observational"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

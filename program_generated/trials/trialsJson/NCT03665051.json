@@ -1,0 +1,634 @@
+{
+       "Rank": 7,
+       "Acronym": [
+              "microG"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Obtain muscle biopsy specimens from young adults (ages 20-40) to develop a millifluidic chip for electrical stimulation of human primary muscle cell hydrogel cultures.",
+              "Obtain muscle biopsy specimens from older adults (ages 60-80) to develop a millifluidic chip for electrical stimulation of human primary muscle cell hydrogel cultures."
+       ],
+       "ArmGroupInterventionName": [
+              "Procedure: Muscle Tissue Biopsy",
+              "Other: Maximal Oxygen Consumption (V02max)",
+              "Procedure: Muscle Tissue Biopsy",
+              "Other: Maximal Oxygen Consumption (V02max)"
+       ],
+       "ArmGroupLabel": [
+              "Young adults",
+              "Older adults"
+       ],
+       "ArmGroupType": [
+              "Other",
+              "Other"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT03665051"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The purpose of this study is to evaluate the changes of muscle, in microgravity. Which will help explain the health benefits of exercise. There are tests that can be done to tell researchers more about the human body, such as a dual energy x-ray absorptiometry (DEXA) scan, which measures body composition (fat and lean body mass). The use of muscle testing and a Handgrip test can tell us about the strength and power within an individual's muscles. A VO2 max test helps us understand the aerobic fitness level of an individual and one of the most important aspects of this study are muscle cells. A muscle biopsy allows us to obtain muscle cells from the thigh, which will be sent into space by a rocket. Researchers will study these muscle cells in a low gravity environment aboard the International Space Station. Studying the muscle cells under those conditions will potentially mimic an accelerated aging process, which will help researchers better understand muscle wasting in the elderly."
+       ],
+       "BriefTitle": [
+              "Electrical Stimulation of Human Myocytes in Microgravity"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "June 2023"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Sarcopenia"
+       ],
+       "ConditionAncestorId": [
+              "D000009133",
+              "D000020879",
+              "D000009461",
+              "D000009422",
+              "D000001284",
+              "D000020763"
+       ],
+       "ConditionAncestorTerm": [
+              "Muscular Atrophy",
+              "Neuromuscular Manifestations",
+              "Neurologic Manifestations",
+              "Nervous System Diseases",
+              "Atrophy",
+              "Pathological Conditions, Anatomical"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC10",
+              "BC23",
+              "All",
+              "BC18"
+       ],
+       "ConditionBrowseBranchName": [
+              "Nervous System Diseases",
+              "Symptoms and General Pathology",
+              "All Conditions",
+              "Nutritional and Metabolic Diseases"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Sarcopenia"
+       ],
+       "ConditionBrowseLeafId": [
+              "M27549",
+              "M11242",
+              "M4515",
+              "M20418",
+              "M3741",
+              "M21772",
+              "M11556",
+              "M21672"
+       ],
+       "ConditionBrowseLeafName": [
+              "Sarcopenia",
+              "Muscular Atrophy",
+              "Cachexia",
+              "Wasting Syndrome",
+              "Atrophy",
+              "Neuromuscular Manifestations",
+              "Neurologic Manifestations",
+              "Pathological Conditions, Anatomical"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "high",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000055948"
+       ],
+       "ConditionMeshTerm": [
+              "Sarcopenia"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Non-Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Other"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nParticipant is capable of giving informed consent and has voluntarily signed and dated an informed consent form, approved by an Institutional Review Board and provided Health Insurance Portability and Accountability Act authorization (HIPAA) or other privacy authorization prior to any participation in study.\nParticipant is 20-40 or 60-80 years of age, inclusive\nParticipant BMI <30 kg/m2\nParticipant states willingness to follow protocol as described, including the prescribed activity level and completing any forms needed throughout the study.\n\nExclusion Criteria:\n\nParticipant reports a history of type 1 or type 2 Diabetes; or Hgb A1c > 6.5% at screening visit.\nParticipant is actively pursuing weight loss and/or lifestyle changes.\nParticipant has a history of pressure ulcers.\nParticipant has a stated history of Deep Vein Thrombosis (DVT), recent (within last 3 months) pulmonary embolism, or has a positive D-dimer test and lower extremity ultrasound at screening, or a known hypercoagulable condition, or other clotting or bleeding disorders.\nParticipant has poorly controlled hypertension or hypotension in the opinion of the study PI or medical investigator (MI).\nParticipant has untreated hypothyroidism or hyperthyroidism.\nParticipant has current infection (requiring prescription antimicrobial or antiviral medication, or hospitalization), or corticosteroid treatment (with the exception of inhaled or topical steroids) in the last 3 months prior to screening visit.\nParticipant is currently taking prescription strength anti-inflammatory medication or has taken prescription strength anti-inflammatory medication in the 6 weeks prior to screening.\nParticipant has had surgery requiring >2 days of hospitalization in the last 3 weeks prior to screening visit.\nParticipant has an active malignancy or autoimmune disease.\nParticipant has current significantly impaired liver function in the opinion of the study PI (mild asymptomatic fatty liver is acceptable), or hepatic enzyme tests are \u22652.5 times normal limit.\nParticipant has a chronic, contagious, infectious disease, such as active tuberculosis, Hepatitis B or C, or HIV, per self-report.\nParticipant is an amputee and/or has presence of partial or full artificial limb.\nParticipant has had a significant cardiovascular event (e.g. myocardial infarction, stroke) \u2264 6 months prior to screening visit; or stated history of congestive heart failure; or participant has evidence of cardiovascular disease assessed during the ECG at screening.\nParticipant has a history of, or currently has uncontrolled severe diarrhea, nausea or vomiting.\nParticipant has an obstruction of the gastrointestinal tract, inflammatory bowel disease, short bowel syndrome or other forms of gastrointestinal disease such as stage III or above gastroesophageal reflux disease, gastroparesis, peptic ulcer disease, celiac disease, intestinal dysmotility, diverticulitis, ischemic colitis.\nParticipant has used tobacco within the last 3 months.\nParticipant has a history of drug or alcohol abuse (> 3 drinks per day) within the last 5 years\nFemale participant is pregnant, lactating or is within 6 weeks postpartum prior to the screening visit\nParticipant has impaired renal function: estimated glomerular filtration rate (eGFR) \u2264 50 ml/min/1.73m2 determined at screening.\nParticipant's triglyceride level is \u2265 250 mg/dl and LDL cholesterol is > 150 mg/dl at screening.\nParticipant has a urine albumin-to-creatinine ratio (UACR) \u2265300 mg/g at screening in a single urine specimen (per National Kidney Foundation guideline)."
+       ],
+       "EnrollmentCount": [
+              "75"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Older adults",
+              "Young adults",
+              "Older adults",
+              "Young adults"
+       ],
+       "InterventionBrowseBranchAbbrev": [
+              "Derm",
+              "All"
+       ],
+       "InterventionBrowseBranchName": [
+              "Dermatologic Agents",
+              "All Drugs and Chemicals"
+       ],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [
+              "M5415"
+       ],
+       "InterventionBrowseLeafName": [
+              "Coal Tar"
+       ],
+       "InterventionBrowseLeafRelevance": [
+              "low"
+       ],
+       "InterventionDescription": [
+              "A biopsy of the Vastus Lateralis muscle will be performed on the left leg using the Bergstrom technique.The skin will be incised (approximately 0.75 cm) with a #11 scalpel, and the Bergstrom needle will be inserted into the Vastus Lateralis. Approximately 150 mg of muscle tissue will be obtained under suction. After the biopsy, pressure will be applied to stop bleeding and the skin will be closed with Steri strips (suture(s) if allergy to steri strips and removal 7-10 days post biopsy). A sterile dressing will be applied. Ace bandage may also be used along with applied pressure and an ice pack for any swelling and pain relief.",
+              "Aerobic fitness will be determined by measuring maximal O2 consumption (VO2max) during a stationary bicycle exercise test. Heart rate, blood pressure and ECG will be recorded throughout this test. Subjects will breathe through a low resistance mouthpiece and wear a nose clip. Expired gases will be measured by indirect calorimetry and heart rate monitored by a portable heart rate monitor. Following a standardized warm up, subjects will begin exercising at a moderate intensity with the workload increased every minute until the subject can no longer continue. A leveling-off (plateau) or decline in oxygen uptake should be demonstrated in order to be reasonably sure that a subject has achieved the maximum capacity for aerobic metabolism."
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Muscle Tissue Biopsy",
+              "Maximal Oxygen Consumption (V02max)"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Procedure",
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [
+              "February 20, 2019"
+       ],
+       "LargeDocFilename": [
+              "ICF_000.pdf"
+       ],
+       "LargeDocHasICF": [
+              "Yes"
+       ],
+       "LargeDocHasProtocol": [
+              "No"
+       ],
+       "LargeDocHasSAP": [
+              "No"
+       ],
+       "LargeDocLabel": [
+              "Informed Consent Form"
+       ],
+       "LargeDocTypeAbbrev": [
+              "ICF"
+       ],
+       "LargeDocUploadDate": [
+              "05/28/2019 13:33"
+       ],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "November 17, 2022"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "November 16, 2022"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "AdventHealth Translational Research Institute"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Orlando"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States"
+       ],
+       "LocationFacility": [
+              "Translational Research Institute for Metabolism and Diabetes"
+       ],
+       "LocationState": [
+              "Florida"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "32804"
+       ],
+       "MaximumAge": [
+              "80 Years"
+       ],
+       "MinimumAge": [
+              "20 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Electrical Stimulation of Human Myocytes in Microgravity: An In Vitro Model to Evaluate Therapeutics to Counteract Muscle Wasting (microG)"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "AdventHealth Translational Research Institute"
+       ],
+       "OrgStudyId": [
+              "TRIMD 1311789"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Study Principal Investigator"
+       ],
+       "OverallOfficialName": [
+              "Paul Coen, PhD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Active, not recruiting"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "June 2023"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Collection of the muscle biopsy parameters (isolated satellite cells), from 9 participants in each of young and old study groups."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Muscle biopsy parameters"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "About 30 minutes"
+       ],
+       "ReferenceCitation": [
+              "Kim TN, Choi KM. Sarcopenia: definition, epidemiology, and pathophysiology. J Bone Metab. 2013 May;20(1):1-10. doi: 10.11005/jbm.2013.20.1.1. Epub 2013 May 13.",
+              "Cohen S, Nathan JA, Goldberg AL. Muscle wasting in disease: molecular mechanisms and promising therapies. Nat Rev Drug Discov. 2015 Jan;14(1):58-74. doi: 10.1038/nrd4467.",
+              "Baumgartner RN, Koehler KM, Gallagher D, Romero L, Heymsfield SB, Ross RR, Garry PJ, Lindeman RD. Epidemiology of sarcopenia among the elderly in New Mexico. Am J Epidemiol. 1998 Apr 15;147(8):755-63. doi: 10.1093/oxfordjournals.aje.a009520. Erratum In: Am J Epidemiol 1999 Jun 15;149(12):1161.",
+              "Janssen I, Shepard DS, Katzmarzyk PT, Roubenoff R. The healthcare costs of sarcopenia in the United States. J Am Geriatr Soc. 2004 Jan;52(1):80-5. doi: 10.1111/j.1532-5415.2004.52014.x.",
+              "Brioche T, Lemoine-Morel S. Oxidative Stress, Sarcopenia, Antioxidant Strategies and Exercise: Molecular Aspects. Curr Pharm Des. 2016;22(18):2664-78. doi: 10.2174/1381612822666160219120531.",
+              "Fitts RH, Trappe SW, Costill DL, Gallagher PM, Creer AC, Colloton PA, Peters JR, Romatowski JG, Bain JL, Riley DA. Prolonged space flight-induced alterations in the structure and function of human skeletal muscle fibres. J Physiol. 2010 Sep 15;588(Pt 18):3567-92. doi: 10.1113/jphysiol.2010.188508. Epub 2010 Jul 26.",
+              "Trappe S, Costill D, Gallagher P, Creer A, Peters JR, Evans H, Riley DA, Fitts RH. Exercise in space: human skeletal muscle after 6 months aboard the International Space Station. J Appl Physiol (1985). 2009 Apr;106(4):1159-68. doi: 10.1152/japplphysiol.91578.2008. Epub 2009 Jan 15.",
+              "Allen DL, Bandstra ER, Harrison BC, Thorng S, Stodieck LS, Kostenuik PJ, Morony S, Lacey DL, Hammond TG, Leinwand LL, Argraves WS, Bateman TA, Barth JL. Effects of spaceflight on murine skeletal muscle gene expression. J Appl Physiol (1985). 2009 Feb;106(2):582-95. doi: 10.1152/japplphysiol.90780.2008. Epub 2008 Dec 12. Erratum In: J Appl Physiol. 2011 Jan;110(1):298.",
+              "Vandenburgh H, Chromiak J, Shansky J, Del Tatto M, Lemaire J. Space travel directly induces skeletal muscle atrophy. FASEB J. 1999 Jun;13(9):1031-8. doi: 10.1096/fasebj.13.9.1031.",
+              "Higashibata A, Hashizume T, Nemoto K, Higashitani N, Etheridge T, Mori C, Harada S, Sugimoto T, Szewczyk NJ, Baba SA, Mogami Y, Fukui K, Higashitani A. Microgravity elicits reproducible alterations in cytoskeletal and metabolic gene and protein expression in space-flown Caenorhabditis elegans. NPJ Microgravity. 2016 Jan 21;2:15022. doi: 10.1038/npjmgrav.2015.22. eCollection 2016.",
+              "Aas V, Bakke SS, Feng YZ, Kase ET, Jensen J, Bajpeyi S, Thoresen GH, Rustan AC. Are cultured human myotubes far from home? Cell Tissue Res. 2013 Dec;354(3):671-82. doi: 10.1007/s00441-013-1655-1. Epub 2013 Jun 8.",
+              "Gaster M, Petersen I, Hojlund K, Poulsen P, Beck-Nielsen H. The diabetic phenotype is conserved in myotubes established from diabetic subjects: evidence for primary defects in glucose transport and glycogen synthase activity. Diabetes. 2002 Apr;51(4):921-7. doi: 10.2337/diabetes.51.4.921.",
+              "Henry RR, Ciaraldi TP, Abrams-Carter L, Mudaliar S, Park KS, Nikoulina SE. Glycogen synthase activity is reduced in cultured skeletal muscle cells of non-insulin-dependent diabetes mellitus subjects. Biochemical and molecular mechanisms. J Clin Invest. 1996 Sep 1;98(5):1231-6. doi: 10.1172/JCI118906.",
+              "Thompson DB, Pratley R, Ossowski V. Human primary myoblast cell cultures from non-diabetic insulin resistant subjects retain defects in insulin action. J Clin Invest. 1996 Nov 15;98(10):2346-50. doi: 10.1172/JCI119046.",
+              "McGregor RA, Poppitt SD, Cameron-Smith D. Role of microRNAs in the age-related changes in skeletal muscle and diet or exercise interventions to promote healthy aging in humans. Ageing Res Rev. 2014 Sep;17:25-33. doi: 10.1016/j.arr.2014.05.001. Epub 2014 May 14.",
+              "Hangelbroek RW, Fazelzadeh P, Tieland M, Boekschoten MV, Hooiveld GJ, van Duynhoven JP, Timmons JA, Verdijk LB, de Groot LC, van Loon LJ, Muller M. Expression of protocadherin gamma in skeletal muscle tissue is associated with age and muscle weakness. J Cachexia Sarcopenia Muscle. 2016 Dec;7(5):604-614. doi: 10.1002/jcsm.12099. Epub 2016 Feb 2.",
+              "Su J, Ekman C, Oskolkov N, Lahti L, Strom K, Brazma A, Groop L, Rung J, Hansson O. A novel atlas of gene expression in human skeletal muscle reveals molecular changes associated with aging. Skelet Muscle. 2015 Oct 9;5:35. doi: 10.1186/s13395-015-0059-1. eCollection 2015.",
+              "Chopard A, Lecunff M, Danger R, Lamirault G, Bihouee A, Teusan R, Jasmin BJ, Marini JF, Leger JJ. Large-scale mRNA analysis of female skeletal muscles during 60 days of bed rest with and without exercise or dietary protein supplementation as countermeasures. Physiol Genomics. 2009 Aug 7;38(3):291-302. doi: 10.1152/physiolgenomics.00036.2009. Epub 2009 May 26.",
+              "Robinson MM, Dasari S, Konopka AR, Johnson ML, Manjunatha S, Esponda RR, Carter RE, Lanza IR, Nair KS. Enhanced Protein Translation Underlies Improved Metabolic and Physical Adaptations to Different Exercise Training Modes in Young and Old Humans. Cell Metab. 2017 Mar 7;25(3):581-592. doi: 10.1016/j.cmet.2017.02.009.",
+              "Adams CM, Ebert SM, Dyle MC. Use of mRNA expression signatures to discover small molecule inhibitors of skeletal muscle atrophy. Curr Opin Clin Nutr Metab Care. 2015 May;18(3):263-8. doi: 10.1097/MCO.0000000000000159.",
+              "Dyle MC, Ebert SM, Cook DP, Kunkel SD, Fox DK, Bongers KS, Bullard SA, Dierdorff JM, Adams CM. Systems-based discovery of tomatidine as a natural small molecule inhibitor of skeletal muscle atrophy. J Biol Chem. 2014 May 23;289(21):14913-24. doi: 10.1074/jbc.M114.556241. Epub 2014 Apr 9.",
+              "Sparks LM, Moro C, Ukropcova B, Bajpeyi S, Civitarese AE, Hulver MW, Thoresen GH, Rustan AC, Smith SR. Remodeling lipid metabolism and improving insulin responsiveness in human primary myotubes. PLoS One. 2011;6(7):e21068. doi: 10.1371/journal.pone.0021068. Epub 2011 Jul 8."
+       ],
+       "ReferencePMID": [
+              "24524049",
+              "25549588",
+              "9554417",
+              "14687319",
+              "26891808",
+              "20660569",
+              "19150852",
+              "19074574",
+              "10336885",
+              "28725720",
+              "23749200",
+              "11916908",
+              "8787686",
+              "8941652",
+              "24833328",
+              "27239416",
+              "26457177",
+              "19470803",
+              "28273480",
+              "25807353",
+              "24719321",
+              "21760887"
+       ],
+       "ReferenceType": [
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [
+              "Translational Research Institute for Metabolism and Diabetes"
+       ],
+       "SeeAlsoLinkURL": [
+              "http://www.tri-md.org/"
+       ],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "January 25, 2019"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "November 2022"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "September 11, 2018"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "September 7, 2018"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "September 7, 2018"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

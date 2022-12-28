@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import codecs
+from crossref.restful import Works
 import datetime
 from datetime import datetime
 import json
@@ -36,11 +37,120 @@ def meta_pubs():
 
     print("running meta_pubs")
 
-    tasks = [0]
+    tasks = [1]
 
     if 0 in tasks: crossref_titles()
+    #if 0 in tasks: crossref_doi()
+    if 1 in tasks: add_key()
 
     print("completed meta_pubs")
+
+
+def add_key():
+    """
+    add keys
+    """
+
+    fol_src = retrieve_path('meta_pubs')
+    fol_dst = fol_src
+
+    for fil in os.listdir(fol_src):
+
+        fil_src = os.path.join(fol_src, fil)
+        fil_dst = fil_src
+
+        pubs_dst = []
+
+        for pub in retrieve_json(fil_src)['pubs']:
+
+            pub['authors'] = add_authors(pub)
+            pub['affs'] = add_affs(pub)
+            pub['funders'] = add_funder(pub)
+            pubs_dst.append(pub)
+
+            print('pub[authors] = ')
+            print(pub['authors'])
+
+        json_dst = {}
+        json_dst['pub_count'] = len(pubs_dst)
+        json_dst['pubs'] = pubs_dst
+
+        with open(fil_dst, "w+") as fp:
+            json.dump(json_dst, fp, indent = 8)
+            fp.close()
+
+
+def add_funder(pub):
+    """
+
+    """
+
+    funders = []
+
+    if 'funder' not in pub.keys(): return(funders)
+    for funder in pub['funder']:
+
+        funder_name = funder['name']
+        if funder_name in funders: continue
+        funders.append(funder_name)
+
+    return(funders)
+
+
+def add_affs(pub):
+    """
+    list unique affiliations for each pub
+    """
+    affs = []
+
+    if 'author' not in pub.keys(): return(affs)
+
+    for author in pub['author']:
+
+        if 'affiliation' not in author.keys(): continue
+        for affiliation in author['affiliation']:
+
+            if 'name' not in affiliation.keys(): continue
+            aff = affiliation['name']
+
+            if aff in affs: continue
+            affs.append(aff)
+
+    return(affs)
+
+
+def add_authors(pub):
+    """
+    list unique authors for each pub
+    """
+
+    authors = []
+
+    if 'author' not in pub.keys(): return(authors)
+
+    for author in pub['author']:
+
+        if 'family' not in author.keys(): continue
+        if 'given' not in author.keys(): continue
+
+        name = str(author['family'] + ', ' + author['given'])
+
+        if name in authors: continue
+        authors.append(name)
+
+    return(authors)
+
+
+def crossref_doi(doi):
+    """
+
+    """
+
+    works = Works()
+    pub = works.doi(doi)
+    print('pub = ')
+    print(pub)
+    return(pub)
 
 
 def crossref_titles():
@@ -101,108 +211,6 @@ def check_crossref(fil_src, pub_link):
         return(True, pub)
 
     return(False, {})
-
-
-def json_group(fil_src):
-    """
-    create json for each group by copying from compiled
-    """
-
-    list_meta = []
-    fol_src = os.path.join(retrieve_path('gscholar_json_summary'), fil_src)
-    fil_ref = os.path.join(retrieve_path('crossref_json'), 'compiled.json')
-
-    for pub in retrieve_json(fol_src)['results']:
-
-        for pub_ref in retrieve_json(fil_ref)['results']:
-
-            if pub['title_link'] != pub_ref['title_link']: continue
-            if pub_ref in list_meta: continue
-            list_meta.append(pub_ref)
-            break
-
-    json_meta = {}
-    json_meta['results_count'] = len(list_meta)
-    json_meta['results'] = list_meta
-
-    # save the dictionary as json
-    fil_dst = os.path.join(retrieve_path('crossref_json'), fil_src)
-    #print('fil_dst = ' + str(fil_dst))
-    with open(fil_dst, "w") as fp:
-        json.dump(json_meta, fp, indent = 8)
-        fp.close()
-
-
-def json_meta(fil_src):
-    """
-    save meta for json
-    """
-
-    list_meta = []
-    fol_src = os.path.join(retrieve_path('gscholar_json_summary'), fil_src)
-    json_src = retrieve_json(fol_src)
-
-    for pub in json_src['results']:
-
-        print('title = ')
-        print(pub['title'])
-        pub['title_search'] = search_scrub(pub['title'])
-
-        if 'uscrip' in str(pub['title_search']): continue
-
-        pub_meta = search_crossref(pub['title_search'])
-
-        for key in pub_meta.keys():
-            pub[key] = pub_meta[key]
-
-        if len(list_affs(pub)) == 0:
-            pub = find_hardcoded_crossref_affs(pub)
-
-        pub['affs'] = list_affs(pub)
-        pub['affs_found'] = list_affs(pub)
-        pub['affs_combine'] = combine_affs(pub)
-        pub['affs'] = combine_affs(pub)
-        if len( list_affs(pub)) == 0:
-            list_crossref_without_aff(pub)
-
-        pub['groups'] = find_pubs(pub)
-        pub['color'] = make_color()
-
-        # don't add pubs if they don't have authors
-        if 'author' not in pub.keys(): continue
-
-        list_meta.append(pub)
-        json_meta = {}
-        json_meta['results_count'] = len(list_meta)
-        json_meta['results'] = list_meta
-
-        # save the dictionary as json
-        fil_dst = os.path.join(retrieve_path('crossref_json'), fil_src)
-        #print('fil_dst = ' + str(fil_dst))
-        with open(fil_dst, "w") as fp:
-            json.dump(json_meta, fp, indent = 8)
-            fp.close()
-
-
-def list_crossref_without_aff(pub):
-    """
-    list pub without affs
-    """
-
-    if 'reset' in pub.keys():
-        pubs = []
-
-    if 'reset' not in pub.keys():
-        pubs = retrieve_json('crossref_missing_affs')['pubs']
-        pubs.append(pub)
-
-    pubs_json = {}
-    pubs_json ['count'] = len(pubs)
-    pubs_json ['pubs'] = pubs
-    fil_dst = retrieve_path('crossref_missing_affs')
-    with open(fil_dst, "w") as fp:
-        json.dump(pubs_json , fp, indent = 8)
-        fp.close()
 
 
 def search_scrub(title):

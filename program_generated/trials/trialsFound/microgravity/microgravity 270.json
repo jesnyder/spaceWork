@@ -1,0 +1,1860 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "OverallOfficialName",
+                     "OverallOfficialRole",
+                     "OverallStatus",
+                     "OversightHasDMC",
+                     "PatientRegistry",
+                     "Phase",
+                     "PointOfContactEMail",
+                     "PointOfContactOrganization",
+                     "PointOfContactPhone",
+                     "PointOfContactPhoneExt",
+                     "PointOfContactTitle",
+                     "PrimaryCompletionDate",
+                     "PrimaryCompletionDateType",
+                     "PrimaryOutcomeDescription",
+                     "PrimaryOutcomeMeasure",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "OverallOfficialName": [
+                                   "Josephine Allen, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [
+                                   "No"
+                            ],
+                            "Phase": [],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "February 1, 2020"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The study team are interesting in the effect of co-cultured Endothelial cells on the kinetics of stem cell colony formation (i.e. differentiation). As compared to normal gravity samples, the colonies that form while in co-culture with ECs will be counted and monitored. This gives a measure of the differentiation potential of these cells."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Differentiation (Colony Forming) Kinetics of normal vs microgravity cultured stem cells"
+                            ],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "OverallOfficialName": [
+                                   "Pierre DP Denise, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "September 2018"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "effect of microgravity on central aortic blood pressure (measured in mmHg)."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "central aortic pressure"
+                            ],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 1, 2021"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The percentage of normal spermatozoa in terms of motility grades a,b,c according to WHO",
+                                   "The percentage of normal spermatozoa in terms of morphology is assessed by staining. The lower reference limit for normal forms is 4% (WHO 2010).",
+                                   "The percentage of live spermatozoa is assessed by identifying those with an intact cell membrane, from dye exclusion. The lower reference limit for vitality (membrane-intact spermatozoa) is 58% (WHO 2010).",
+                                   "Sperm DNA fragmentation is evaluated by Halosperm\u00ae kit, based on the SCD technique, patented by Halotech. This kit is based on a controlled DNA denaturation process to facilitate the subsequent removal of the proteins contained in each spermatozoon. In this way, normal spermatozoa create halos formed by loops of DNA at the head of the sperm, which are not present in those with damaged DNA.\n\nThresholds for frequency of Sperm DNA Fragmentation (SDF) have been suggested by Dr. Evenson et al. (Evenson and Nixon, Reprod Biomed Online 12:466-472, 2006). The authors reported that couples with no known infertility problems were more likely to achieve a pregnancy/delivery if the DNA fragmentation index (DFI) was <30%.",
+                                   "Annexin V recognizes an antigen (externalized phosphatidylserine, EPS) in the plasma membrane of apoptotic cells. Apoptotic cell depletion begins with the magnetic labeling of apoptotic cells by the MACS\u00ae ART Annexin V Reagent. The labeled cells are then passed through a separation column located in a fixed magnetic field. Unwanted cells are selectively retained in the column. Living spermatozoa are not labeled by the reagent, so they pass through the column and are collected for later use.\n\nIn our study, after collecting living spermatozoa we also collected the retained apoptotic spermatozoa for comparing the concentration (M/ml) of apoptotic vs no apoptotic cells."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in Sperm motility",
+                                   "Change Sperm Morphology",
+                                   "Change Sperm Vitality",
+                                   "Change in Sperm DNA Fragmentation",
+                                   "Change Sperm APOPTOSIS (Annexin V )"
+                            ],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "OverallOfficialName": [
+                                   "Josephine Allen, Ph.D."
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Withdrawn"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [
+                                   "No"
+                            ],
+                            "Phase": [],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "June 1, 2021"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Isolation of circulating immune cells, termed macrophages from whole blood. The study team will isolate the macrophages that are contained within the peripheral blood mononuclear cell fraction (PBMNC). The investigators expect to isolate 800,000-3,200,000 PBMNC per ml of blood. The isolated cells will then be subject to culture in a simulated microgravity device."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Isolate macrophages"
+                            ],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "OverallOfficialName": [
+                                   "Jochen Hinkelbein, MD, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Chair"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "April 30, 2020"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Summarizing the number of Intubation attempts or attempts to place the supraglottic airway",
+                                   "Time from beginning with the airway manoeuvre (taking the decice) until successful airway secure and first ventilation"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Number of inserts",
+                                   "Time to first ventilation"
+                            ],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 2015"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Leg blood volume"
+                            ],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "OverallOfficialName": [
+                                   "Paul Coen, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Active, not recruiting"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "June 2023"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Collection of the muscle biopsy parameters (isolated satellite cells), from 9 participants in each of young and old study groups."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Muscle biopsy parameters"
+                            ],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "OverallOfficialName": [
+                                   "Pierre DP Denise, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "September 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "tested during three different tasks: (1) leg press, (2) plantarflexion and (3) grip strength."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "maximum voluntary contraction (MVC)"
+                            ],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Active, not recruiting"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 2023"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Number of LcS in feces will be assessed by PMA-qPCR, during pre-flight, in-flight and post-flight.",
+                                   "Levels of immune markers in blood/saliva will be assessed by ELISA and bioassay, during pre-flight, in-flight and post-flight.",
+                                   "Numbers and composition of bacteria in feces will be assessed by RT-qPCR/qPCR and next generation sequencer analysis, during pre-flight, in-flight and post-flight."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Longitudinal changes in the number of LcS in feces",
+                                   "Longitudinal changes in the level of immune markers",
+                                   "Longitudinal changes in numbers and composition of intestinal microbiota"
+                            ],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "OverallOfficialName": [
+                                   "Dr. Ronita L Cromwell, Ph.D."
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "Yes"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 2014"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "October 2015"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "evaluated by BCG, ECG, ICG and echocardiography during the free-floating protocol",
+                                   "evaluated by BCG, ECG, ICG and echocardiography during the free-floating protocol",
+                                   "evaluated by BCG, ECG, ICG and echocardiography during the free-floating protocol"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Heart rate",
+                                   "stroke volume",
+                                   "ejection fraction"
+                            ],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "October 2015"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "balance skill, expressed by the postural sway in mm",
+                                   "neuromuscular activity, expressed by the Electromyograpy (EMG)-amplitudes",
+                                   "spinal excitability, expressed by H-Reflexes"
+                            ],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 30, 2020"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "defined as >2 cm of compression depth",
+                                   "defined as 50-60 mm of depth",
+                                   "defined as any compression of the thorax",
+                                   "defined as 100-120 compressions min-1",
+                                   "defined as 50-60 mm of depth"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "total number of chest compressions",
+                                   "number of correct chest compressions",
+                                   "compression rate",
+                                   "correct compression rate",
+                                   "depth rate"
+                            ],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Not yet recruiting"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 23, 2023"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Freiburg Mindfulness Inventory questionnaire of 14 items (each item has a score from 1 to 4 i.e. minimal value 14 and maximal value 56, with a couple of reversed item to score)",
+                                   "Freiburg Mindfulness Inventory questionnaire of 14 items (each item has a score from 1 to 4 i.e. minimal value 14 and maximal value 56, with a couple of reversed item to score)",
+                                   "Perceived Stress Scale questionnaire: 10 item-questionnaire to perceive stress (each item from 0 to 4: minimal value 0/no stress and maximal value 40 highest stress level)",
+                                   "Perceived Stress Scale questionnaire: 10 item-questionnaire to perceive stress (each item from 0 to 4: minimal value 0/no stress and maximal value 40 highest stress level)",
+                                   "Cognitive test battery questionnaire, 2D and 3D testing during one session: three scores ponderated (each with 6 plots represented with a spider graph measuring the surface from arbitrary unit)",
+                                   "Cognitive test battery questionnaire, 2D and 3D testing during one session: three scores ponderated (each with 6 plots represented with a spider graph measuring the surface from arbitrary unit)",
+                                   "Olfactive discrimination test",
+                                   "Olfactive discrimination test",
+                                   "Ellipse of the center of gravity measurment",
+                                   "Ellipse of the center of gravity measurment",
+                                   "Heart Rate variability"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Psychological data",
+                                   "Psychological data",
+                                   "stress",
+                                   "stress",
+                                   "Cognition",
+                                   "Cognition",
+                                   "Olfaction",
+                                   "Olfaction",
+                                   "Posture",
+                                   "Posture",
+                                   "Physiological data"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "The judgment criteria are the concentration of C02, CO and NH4, 3 exhaled gas"
+                            ],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "OverallOfficialName": [
+                                   "Christophe Kassel, Hospital Manager"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Director"
+                            ],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "September 30, 2021"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Measurement of the cervical blood flow in external (ECA), internal (ICA) and vertebral arteries (VA).\n\nICA, VA and ECA blood flow velocities will be measured with a color-coded ultrasound system (Vivid-e; GE Healthcare, Tokyo, Japan) equipped with a 10 MHz linear transducer. ICA blood flow measurements will be performed 1.0-1.5 cm distal to the carotid bifurcation while the subject's chin will be slightly elevated. VA blood flow will be measured between the transverse processes of C3 and the subclavian artery. The systolic and diastolic diameters will be measured in detail, and then the mean diameter (in centimetres) will be calculated in relationship to the blood pressure curve, as follows: mean diameter = (systolic diameter\u00d71/3) +(diastolic diameter \u00d7 2/3).",
+                                   "Measurement of the transcranial blood flow in anterior (ACA), middle (MCA) and posterior (PCA) cerebral arteries. Blood flow velocities in PCA, MCA and ACA will be measured with an echo-doppler device (Philips CX50, Philips, the Netherlands) using vascular probes adapted to transcranial Doppler. Flows in the different branches of the circle of Willis (ACA-1, MCA-1, PCA-1, ACoA, PCoA) will be used to assess the cerebral hemodynamic indices."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Cervical blood flow",
+                                   "Transcranial blood flow"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "OverallOfficialName": [
+                                   "Josephine Allen, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [
+                                   "No"
+                            ],
+                            "Phase": [],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "January 6, 2020"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Post space flight the study team will conduct transcriptomics analysis to assess changes in the cells grown in space (microgravity), on earth (normal gravity), and in a rotating wall vessel bioreactor (ground based simulated microgravity)"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Changes in gene expression in space vs earth cultured vascular cells"
+                            ],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "January 2014"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "prolactin, cortisol, endo-cannabinoids",
+                                   "blood cell counts, B2 integrins, cytokines, C-reactive protein",
+                                   "purines, lactate"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "neuro-endocrine measurements composite",
+                                   "immunological measurements composite",
+                                   "cellular energy metabolism measurements composite"
+                            ],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "OverallOfficialName": [
+                                   "Rebecca BILLETTE DE VILLEMEUR, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Not yet recruiting"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 2022"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Orthostatic tolerance will be assessed during a Lower Body Negative Pressure test (LBNP test)",
+                                   "Exercise capacity wil be assessed by graded cycling on sitting ergometer until exhaustion",
+                                   "Plasma volume (L) will be assessed by the carbon monoxide-rebreathing method",
+                                   "The consequences of the fluid shift on the cardiac and cephalic area will be assessed by quantifying the right and left Jugular veins volumes (mL), as well as the left ventricle diastolic/systolic volumes (mL) by ultrasound.",
+                                   "Vascular endothelium integrity will be assessed by blood parameters of vascular and endothelial integrity. Global change of endothelial state will be estimated using several biomarkers, including zonulin, cell adhesion molecules (E-selectin, L-selectin, CD146), growth factors (VEGF, VEGFR-1), glycocalyx breakdown products (syndecan-1, hyaluronic acid, heparan sulfate).",
+                                   "Continuous 24-h recording of systolic and diastolic blood pressure will be performed by a Non Invasive Blood Pressure system (SOMNOtouch\u2122NIBP) designed for ambulatory continuous measurements",
+                                   "Venous compliance of lower limbs will be assessed by plethysmography",
+                                   "Extracellular, intracellular and total body water will be estimated by bioimpedance",
+                                   "Muscle strength will be assessed from single leg isometric maximal voluntary contraction on the knee extensors & flexors, the plantarflexors and dorsiflexors. The Isometric Torque will be measured in Nm. The peak of the three maximal attempts will be recorded for strength measures",
+                                   "Muscle fatigability will be assessed during a submaximal isometric knee extension contraction held for 30 seconds at 50% of the baseline Maximal Voluntary Contraction (MVC) value",
+                                   "Muscle dehydration, eventual atrophy and fatty degeneration will be measured by quantitative Dixon MRI sequences at calf level",
+                                   "Contraction time will be assessed during a measurement using the tensiomyography method in the following muscles: vastus lateralis, Gastrocnemius medialis and Biceps femoris of dominant leg / arm.",
+                                   "Change in bone-specific Alkaline Phosphatase (bAP, \u00b5g/L) and procollagen type I N-terminal propeptide (P1NP, \u00b5g/L) will be assessed by chemiluminescence immunoassay",
+                                   "Change in C-terminal cross-linked telopeptide of type I collagen (CTx, pmol/L) and N-terminal cross-linked telopeptide of type I collagen (NTX, pmol/L) will be assessed by chemiluminescence immunoassay",
+                                   "Change in serum CP II and in human cartilage glycoprotein-39 (YKL-40) concentrations",
+                                   "Change in serum Cartilage Oligomeric Matrix Protein (COMP) and fragments or propeptide of type II collagen (C2C, C1,2C, Coll-2-1) concentrations",
+                                   "Change in C-telopeptide of type II collagen (CTX-II) and nitrated form of peptide of the \u03b1-helical region of type II collagen (Coll-2-1NO2) concentrations",
+                                   "RMR will be measured by indirect calorimetry technique",
+                                   "Nitrogen balance is a measure of nitrogen input minus nitrogen output. Nitrogen intake is calculated with a nutrition software. Protein oxidation measured in the 24-Hour urine collection estimates nitrogen output",
+                                   "Dual energy x-ray absorptiometry is a standard clinical technique to assess fat (g) and lean (g) body mass.",
+                                   "Glucose and insulin levels will be measured at baseline (fasting) and 30, 60, 90, and 120 minutes after drinking within 5 min a water solution containing 75 g of glucose",
+                                   "Measured by electronic ingestible temperature capsules (e-Celsius Performance)",
+                                   "Measured in supine and standing position",
+                                   "Transcranial Doppler measurements",
+                                   "Change in mood is assessed using the Profile of Mood States (POMS) questionnaire. POMS questionnaire gives 6 measures of mood:\n\nTension/anxiety,\nDepression,\nAnger/hostility\nDynamism,\nFatigue,\nConfusion A Total Mood Disturbance (TMD) score is calculated by summing the totals for the negative subscales (tension, depression, fatigue, confusion, anger) and then subtracting the totals for the positive subscale (vigor /esteem-related affect).",
+                                   "Positive and Negative Schedule (PANAS) questionnaire will be used to assess the intensity of positive and negative affective states. PANAS self-report questionnaire consists of two 10-item scales to measure both positive and negative affects\n\nEach item is rated on a five-point Likert Scale, ranging from 1 = Not at all to 5 = Extremely, to measure the extent to which the affect has been experienced in a specified time frame.\n\nPositive affects: scores can range from 10 - 50 with higher scores representing higher levels of positive affect.\n\nNegative affects: scores can range from 10 - 50 with higher scores representing higher levels of negative affect.",
+                                   "Pittsburgh Sleep Dairy (PghSD) will be used to assess sleep perceived quality. The PghSD is an instrument with separate components to be completed at bedtime and waketime. The following parameters are registered or assessed:\n\nBedtime, waketime, sleep latency, wake after sleep onset, total sleep time, mode of awakening and ratings of sleep quality, mood, and alertness on wakening, as well as daytime information on naps, exercise, meals and caffeine, tobacco and medications use.",
+                                   "General Health Questionnaire-28 (GHQ-28) will be used to assess psychological well-being and capture distress\n\nGHQ-28 gives an overall total score and 4 scores for 4 subscales:\n\nSomatic symptoms,\nAnxiety/insomnia,\nSocial dysfunction,\nSevere depression. Higher scores indicate higher levels of distress",
+                                   "Brief Cope Questionnaire is designed to measure effective and ineffective ways to cope with a stressful life event, and will be used to assess coping strategies. The Brief Cope is a shortened form (28 items) of the Carver and Scheier COPE inventory.\n\nThere are 14 coping strategies. These strategies can be then gathered in two main categories : approach coping and avoidance coping.",
+                                   "Transcranial Doppler measurements of mid cerebral artery blood flow velocity will allow to determine cerebral autoregulation",
+                                   "ICP changes will be monitored through OtoAcoustic Emissions (OAE)",
+                                   "The optic nerve sheath diameter (ONSD) variations will be measured by echography",
+                                   "Thickness of the optic nerve fibers will be measured by Optical Coherence Tomography (OCT)",
+                                   "IOP measured by applanation",
+                                   "Far and near visual acuity are tested uncorrected, or if applicable with own correction with digital acuity system",
+                                   "Visual field measured by standard automated perimetry",
+                                   "Optical biometry measured by partial coherence interferometry",
+                                   "Central corneal thickness on a single point on the cornea measured by Ultrasonic pachymetry",
+                                   "Non-mydriatic fundus retinography allows a fundus photography to be taken and thus a color image of the papilla, retinal vessels and macula",
+                                   "Cornea topography measured by corneal topography equipment (like Pentacam). The elevation topography according to Scheimpflug principle allows the mapping of the anterior and posterior surface of the cornea.",
+                                   "Visualization of cerebral structures and intracranial venous system will be performed by MRI coupled with injection of gadolinium",
+                                   "Walking balance will be assessed by Dynamic Gait Index, specific parameter is: total Score (range 0-24). Higher scores mean a better outcome",
+                                   "Standing balance will be assessed by posturography eyes open and eyes closed on a platform covered with 12-cm thick medium density foam",
+                                   "Assessed by the Motion Sickness Susceptibility Questionnaire Short form (MSSQ-Short). MSSQ-Short scores possible range from minimum 0 to maximum 54, the maximum being unlikely. Higher scores means a higher motion sickness susceptibility",
+                                   "Thrombotic and fibrinolytic processes will be assessed by the following four coagulation values:\n\ni) plasma levels of tissue factor (TF), the physiological trigger for the coagulation cascade, by using the assay Actichrome Tissue factor ELISA from American Diagnostica (Pfungstadt, Germany); ii) Endogenous thrombin potential, an appropriate method to assess the coagulability of a given plasma sample, by using calibrated automated thrombography (CAT, Thrombinoscope BV, Maastricht, the Netherlands); iii) tissue-Plasminogen activator (tPA), by using the assay IMUBIND tPA ELISA kit from American Diagnostica (Pfungstadt, Germany); iv) thromboelastometry (TEM, coagulation analyzer from Matel Medizintechnik, Graz, Austria), providing a kinetic analysis of the clot formation process and of clot dissolution by the fibrinolytic system.",
+                                   "Change in Forced vital capacity (FVC, L), Tidal Volume (TV, L), Inspiratory reserve Volume (IRV, L), Expiratory reserve volume (ERV, L) will be assessed using spirometry",
+                                   "Change in Forced expiratory volume in 1 second (FEV1, L/s) and in Peak expiratory flow (PEF, L/min), will be assessed using spirometry"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in orthostatic tolerance",
+                                   "Change in peak aerobic power (VO2max test)",
+                                   "Change in plasma volume",
+                                   "Change in fluid shift distribution towards the cardiac and cephalic region",
+                                   "Change in vascular endothelium integrity",
+                                   "Change in circadian rhythms of blood pressure",
+                                   "Change in lower limb veins functions",
+                                   "Change in body fluid compartments by bioelectrical impedance analysis",
+                                   "Change in muscle strength",
+                                   "Change in muscle fatigue",
+                                   "Change in muscle volume at calf level",
+                                   "Change in contraction time",
+                                   "Change in serum bone formation markers",
+                                   "Change in serum bone resorption markers",
+                                   "Change in serum cartilage synthesis biomarkers",
+                                   "Change in serum cartilage degradation biomarkers",
+                                   "Change in urine cartilage degradation biomarkers",
+                                   "Change in Resting Metabolic Rate (RMR)",
+                                   "Change in nitrogen balance",
+                                   "Change in fat and lean body mass measured by dual energy x-ray absorptiometry (DEXA)",
+                                   "Change in glucose tolerance (Oral Glucose Tolerance Test)",
+                                   "Change in Core temperature",
+                                   "Change in height",
+                                   "Change in mid cerebral artery (MCA) blood flow velocity",
+                                   "Change in mood",
+                                   "Change in affective states",
+                                   "Change in sleep quality",
+                                   "Change in psychological state: mental health",
+                                   "Change in coping strategies",
+                                   "Change in cerebral autoregulation",
+                                   "Change in Intra Cranial Pressure (ICP)",
+                                   "Change in optic nerve sheath diameter (ONSD) considered as an indirect marker for intracranial pressure (ICP) estimation",
+                                   "Change in the optic nerve fibers thickness",
+                                   "Change in intraocular pressure (IOP)",
+                                   "Change in visual acuity",
+                                   "Change in visual field",
+                                   "Change in the anatomical characteristics of the eye (optical biometry)",
+                                   "Change in the central corneal thickness",
+                                   "Change in the retina by non-mydriatic fundus retinography",
+                                   "Change in the cornea topography",
+                                   "Change in cerebral structures and in venous circulation of the brain by MRI",
+                                   "Change in walking balance",
+                                   "Change in standing balance",
+                                   "Change in motion sickness susceptibility",
+                                   "Change in thrombotic and fibrinolytic processes",
+                                   "Change in respiratory volumes",
+                                   "Change in respiratory flows"
+                            ],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "OverallOfficialName": [
+                                   "Jos\u00e9 A. Morais, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Recruiting"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "February 2022"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "NIH Toolbox Cognition Battery (computerized)",
+                                   "CLSA cognition questionnaire",
+                                   "Positive and Negative Affect Scale\n\n- For both scales scores can range from 10-50, with higher scores representing higher levels of positive or negative affect.",
+                                   "General Health Questionnaire (GHQ-28).\n\nUsing Likert 4-point scale with the min score being 0 and max score being 84.\nHigher scores indicate a higher level of distress.",
+                                   "Assessment of brain anatomy using a MRI.",
+                                   "Measurement of neuronal, cerebrovascular, and connectivity integrity with functional MRI.",
+                                   "Body MRI",
+                                   "Body MRI",
+                                   "Body MRI",
+                                   "Using a heart MRI left and right ventricular volumes will be assessed.",
+                                   "Using a heart MRI left and right ventricular mass will be assessed.",
+                                   "High resolution peripheral quantitative computed tomography (HR-pQCT)",
+                                   "Quantitative Muscle Dynamometry (Biodex)",
+                                   "Vertical jump",
+                                   "Supine-to-stand test",
+                                   "Postural equilibrium control test",
+                                   "Tilt test",
+                                   "Using high frame rate ultrasound (HiFRUS) arterial wall shear stress will be assessed.",
+                                   "Using high frame rate ultrasound (HiFRUS) arterial wall stiffness will be assessed.",
+                                   "Using high frame rate ultrasound (HiFRUS) cardiac mass will be assessed.",
+                                   "Using high frame rate ultrasound (HiFRUS) patterns of blood flow will be assessed.",
+                                   "Measurement of protein turnover.",
+                                   "Sleep quality will be assessed using a 3-electrode electroencephalogram (EEG) Sleep Profiler and a wrist worn actigraphy.",
+                                   "Using 3-electrode electroencephalogram (EEG) Sleep Profiler electrical patterns of brain activity will be measured in order to assess sleep cycles and sleep stages.",
+                                   "CLSA-FI questionnaire",
+                                   "To assess gut microbiome, stool samples will be collected and targeted sequencing of the variable regions 4 and 5 (V4-V5) of the 16S ribosomal RNA gene will be performed on an Illumina MiSeq.",
+                                   "To assess oral microbiome, saliva samples will be collected and targeted sequencing of the variable regions 4 and 5 (V4-V5) of the 16S ribosomal RNA gene will be performed on an Illumina MiSeq.",
+                                   "Short Physical Performance Battery test",
+                                   "Timed-up-and-Go test",
+                                   "Four-square step test",
+                                   "The following bone markers will be assessed using ELISA kits:\n\nTotal osteocalcin\nUndercarboxylated osteocalcin\nSclerostin\nNTX (N-terminal Telopeptide)\nCTX (C-terminal telopeptide)\nBone Specific Alkaline Phosphatase (BSAP)\nProcollagen type 1 amino-terminal propeptide (P1NP)",
+                                   "The following growth factors will be measured with Multiplex:\n\nBasic fibroblast growth factor\nGranulocyte colony-stimulating factor (G-CSF)\nGranulocyte-macrophage colony-stimulating factor (GM-CSF)\nPlatelet-derived growth factor BB (PDGF-BB)\nTransforming growth factor \u03b2 (TGF-\u03b2)\nVascular endothelial growth factor (VEGF)",
+                                   "The following cytokines will be measured with Multiplex:\n\nEotaxin\nInterferon gamma (IFN-\u03b3)\nIL-1\u03b2, IL-1Ra, IL-2, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-12 (p70), IL-13, IL-15, IL-17\nTumour necrosis factor (TNF-\u03b1)\nInterferon gamma- induced protein 10 (IP-10)\nMonocyte chemoattractant protein 1 (MCP-1)\nMacrophage inflammatory protein-1\u03b1 (MIP-1\u03b1)\nMacrophage inflammatory protein-1\u03b2 (MIP-1\u03b2)"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Changes in cognition status of participants with head down bed rest (HDBR) with and without exercise countermeasure.",
+                                   "Changes in cognition status of participants with head down bed rest (HDBR) with and without exercise countermeasure.",
+                                   "Changes in emotional status of participants with HDBR with and without exercise countermeasure.",
+                                   "Changes in emotional status of participants with HDBR with and without exercise countermeasure.",
+                                   "Changes in brain structure with HDBR with and without exercise countermeasure.",
+                                   "Changes in brain function with HDBR with and without exercise countermeasure.",
+                                   "Changes in muscle muscle mass with HDBR with and without exercise countermeasure.",
+                                   "Changes in muscle fat infiltration with HDBR with and without exercise countermeasure.",
+                                   "Changes in adiposity with HDBR with and without exercise countermeasure.",
+                                   "Changes in ventricular volume of the heart with HDBR with and without exercise countermeasure.",
+                                   "Changes in ventricular mass with HDBR with and without exercise countermeasure.",
+                                   "Changes in bone structure with HDBR with and without exercise countermeasure.",
+                                   "Changes in muscle strength with HDBR with and without exercise countermeasure.",
+                                   "Changes in muscle strength with HDBR with and without exercise countermeasure.",
+                                   "Changes in muscle-pump baroreflex with HDBR with and without exercise countermeasure.",
+                                   "Changes in balance control with HDBR with and without exercise countermeasure.",
+                                   "Changes in orthostatic tolerance with HDBR with and without exercise countermeasure.",
+                                   "Cardiac and vascular changes with HDBR with and without exercise countermeasure.",
+                                   "Cardiac and vascular changes with HDBR with and without exercise countermeasure.",
+                                   "Cardiac and vascular changes with HDBR with and without exercise countermeasure.",
+                                   "Cardiac and vascular changes with HDBR with and without exercise countermeasure.",
+                                   "Changes in Fractional Synthesis Rate (FSR) with HDBR with and without exercise countermeasure.",
+                                   "Changes in sleep quality with HDBR with and without exercise countermeasure.",
+                                   "Changes in sleep architecture with HDBR with and without exercise countermeasure.",
+                                   "Changes in frailty status with HDBR with and without exercise countermeasure.",
+                                   "Changes in the gut microbiome with HDBR with and without exercise countermeasure.",
+                                   "Changes in the constitution of the oral microbiome with HDBR with and without exercise countermeasure.",
+                                   "Changes in physical performance with HDBR with and without exercise countermeasure.",
+                                   "Changes in physical performance with HDBR with and without exercise countermeasure.",
+                                   "Changes in dynamic balance with HDBR with and without exercise countermeasure.",
+                                   "Changes in bone markers with HDBR with and without exercise countermeasure.",
+                                   "Changes in growth factors with HDBR with and without exercise countermeasure.",
+                                   "Changes in cytokines with HDBR with and without exercise countermeasure."
+                            ],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "OverallOfficialName": [
+                                   "Jim Thomas, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Terminated"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "June 2008"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Diagnostic 2D and 3D echocardiography"
+                            ],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "October 31, 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The visuomotor performance will be assessed by a multi-directional tapping task as defined by ISO9241-9, which requests for motor responses by aimed pointing movements.",
+                                   "common external display guidance method (ED) and exocentric \"in-view\" cueing (EXO), using common guidance method with an external display (ED) as a control condition"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "visuomotor performance",
+                                   "common external display guidance method (ED)"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "OverallOfficialName": [
+                                   "Arnaud BECK, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 8, 2021"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Orthostatic tolerance will be assessed during a Lower Body Negative Pressure test (LBNP test)",
+                                   "Exercise capacity wil be assessed by graded cycling on sitting ergometer until exhaustion",
+                                   "Plasma volume (L) will be assessed by the CO-rebreathing method.",
+                                   "The hemodynamic and morphologic consequences of the fluid shift on the cephalic blood vessels (jugular vein, carotid, femoral, intracranial veins) and on the left ventricle will be investigated by ultrasound.\n\nThe hormones involved in fluid distribution will be assessed in blood and urine samples",
+                                   "Vascular endothelium integrity will be assessed by blood parameters of vascular and endothelial integrity. Global score of endothelial state will be calculated.",
+                                   "Continuous 24-h recording of blood pressure will be performed by SOMNOtouch\u2122 NIBP system designed for ambulatory continuous measurements",
+                                   "Venous compliance of lower limbs will be assessed by plethysmography.",
+                                   "Extracellular, intracellular and total body water will be estimated by bioimpedance",
+                                   "Muscle strength will be assessed from single leg isometric maximal voluntary contraction on the knee extensors & flexors, the plantarflexors and dorsiflexors. The Isometric Torque will be measured in Nm. The peak of the three maximal attempts will be recorded for strength measures.",
+                                   "Muscle fatigability will be assessed during a submaximal isometric knee extension contraction held for 30 seconds at 50% of the baseline MVC value.",
+                                   "Muscle dehydration, eventual atrophy and fatty degeneration will be measured by quantitative Dixon MRI sequences at calf level",
+                                   "Contraction time will be assessed during a tensiomyographic test in vastus lateralis, Gastrocnemius medialis and Biceps femoris of dominant leg / arm",
+                                   "Bone metabolism in response to immobilization by dry immersion will be assessed by measuring bone biomarkers in blood samples.",
+                                   "Cartilage metabolism in response to immobilization by dry immersion will be assessed by measuring cartilage biomarkers in blood and urine samples.",
+                                   "RMR will be measured by indirect calorimetry technique",
+                                   "Nitrogen balance is a measure of nitrogen input minus nitrogen output. Nitrogen intake is calculated with a nutrition software. Protein oxidation measured in the 24-Hour urine collection estimates nitrogen output.",
+                                   "DEXA is a standard clinical technique to assess body composition",
+                                   "Glucose and insulin levels will be measured at baseline (fasting) and 30, 60, 90, and 120 minutes after drinking within 5 min a water solution containing 75 g of glucose.",
+                                   "Measured by electronic ingestible temperature capsules (e-Celsius Performance)",
+                                   "Measured in supine and standing position",
+                                   "Transcranial Doppler measurements",
+                                   "Change in mood is assessed using the Profile of Mood States (POMS) questionnaire. (POMS).",
+                                   "PANAS Questionnaire will be used to assess the intensity of positive and negative affective states",
+                                   "Pittsburgh Sleep Dairy will be used to assess sleep perceived quality",
+                                   "GHQ-28 Questionnaire will be used to assess psychological well-being and capture distress",
+                                   "Brief Cope Questionnaire, designed to measure effective and ineffective ways to cope with a stressful life event, will be used to assess coping strategies",
+                                   "Transcranial Doppler measurements of mid cerebral artery blood flow velocity will allow to determine cerebral autoregulation",
+                                   "ICP changes will be monitored through OtoAcoustic Emissions (OAE).",
+                                   "The optic nerve sheath diameter (ONSD) variations will be measured by echography.",
+                                   "Thickness of the optic nerve fibers will be measured by Optical Coherence Tomography (OCT)",
+                                   "IOP measured by applanation",
+                                   "Far and near visual acuity are tested uncorrected, or if applicable with own correction with digital acuity system.",
+                                   "Visual field measured by standard automated perimetry",
+                                   "Optical biometry measured by partial coherence interferometry",
+                                   "Central corneal thickness on a single point on the cornea measured by Ultrasonic pachymetry",
+                                   "Non-mydriatic fundus retinography allows a fundus photography to be taken and thus a color image of the papilla, retinal vessels and macula.",
+                                   "Cornea topography measured by corneal topography equipment (like Pentacam). The elevation topography according to Scheimpflug principle allows the mapping of the anterior and posterior surface of the cornea.",
+                                   "Visualization of cerebral structures and intracranial venous system will be performed by MRI coupled with injection of gadolinium.",
+                                   "Walking balance will be assessed by Dynamic Gait Index, specific parameter is: total Score (range 0-24). Higher scores mean a better outcome.",
+                                   "Standing balance will be assessed by posturography eyes open and eyes closed on a platform covered with 12-cm thick medium density foam.",
+                                   "Motion Sickness Questionnaire",
+                                   "Coagulation cascade in response to immobilization by dry immersion will be assessed by measuring coagulation parameters in blood."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in orthostatic tolerance",
+                                   "Change in peak aerobic power (VO2max test)",
+                                   "Change in plasma volume",
+                                   "Change in fluid shift distribution towards the cephalic region",
+                                   "Change in vascular endothelium integrity",
+                                   "Change in circadian rhythms of blood pressure",
+                                   "Change in lower limb veins functions",
+                                   "Change in body fluid compartments by bioelectrical impedance analysis",
+                                   "Change in muscle strength",
+                                   "Change in muscle fatigue",
+                                   "Change in muscle volume at calf level",
+                                   "Change in contraction time",
+                                   "Change in bone metabolism",
+                                   "Changes in cartilage metabolism",
+                                   "Change in Resting Metabolic Rate (RMR)",
+                                   "Change in nitrogen balance",
+                                   "Change in Body Composition measured by DEXA",
+                                   "Change in glucose tolerance (Oral Glucose Tolerance Test)",
+                                   "Change in Core temperature",
+                                   "Change in height",
+                                   "Change in mid cerebral artery (MCA) blood flow velocity",
+                                   "Change in mood",
+                                   "Change in psychological affects",
+                                   "Change in psychological state: sleep quality",
+                                   "Change in psychological state: mental health",
+                                   "Change in psychological state: coping strategies",
+                                   "Change in cerebral autoregulation",
+                                   "Change in Intra Cranial Pressure (ICP)",
+                                   "Change in optic nerve sheath diameter (ONSD) considered as an indirect marker for intracranial pressure (ICP) estimation.",
+                                   "Change in the optic nerve fibers thickness.",
+                                   "Change in intraocular pressure (IOP)",
+                                   "Change in visual acuity",
+                                   "Change in visual field",
+                                   "Change in the anatomical characteristics of the eye (optical biometry)",
+                                   "Change in the central corneal thickness",
+                                   "Change in the retina by non-mydriatic fundus retinography",
+                                   "Change in the cornea topography",
+                                   "Change in cerebral structures and in venous circulation of the brain by MRI",
+                                   "Change in walking balance",
+                                   "Change in standing balance",
+                                   "Change in motion sickness susceptibility",
+                                   "Change in coagulation cascade"
+                            ],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 2013"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "measurements between normal gravity and microgravity hypergravity during parabolic flight",
+                                   "measurements between normal gravity and microgravity hypergravity during parabolic flight",
+                                   "measurements between normal gravity and microgravity hypergravity during parabolic flight",
+                                   "measurements between normal gravity and microgravity hypergravity during parabolic flight"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "eye movements",
+                                   "acceleration of the head",
+                                   "perception by the subjects of the right-front.",
+                                   "acceleration of the arms"
+                            ],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "OverallOfficialName": [
+                                   "Fr\u00e9d\u00e9ric Roche, MD PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "July 2011"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "heart rate variability"
+                            ],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "April 2012"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in body composition"
+                            ],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "MICR0-G sensors and accompanying kinematic video system analyses of the astronaut movement control strategy (joint forces and torques, kinetic and acceleration measurements).",
+                                   "MICR0-G sensors and accompanying kinematic video system analyses of the astronaut movement control strategy (joint forces and torques, kinetic and acceleration measurements)."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "motion perception performance under different gravity states",
+                                   "locomotor operation performance under different gravity states"
+                            ],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 30, 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "amplitude and treshold"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "vestibular-evoked myogenic potentials (P13-N23)"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "June 2020"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "will be assessed continuously using the Triggerfish"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Intraocular Pressure"
+                            ],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "OverallOfficialName": [
+                                   "Jacques Bernard, Dr"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Phase 1"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [],
+                            "PrimaryCompletionDateType": [],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Muscle size and function",
+                                   "Muscle protein composition, muscle fiber type composition andmuscle enzyme content of soleus and vastus lateralis muscles",
+                                   "Bone mineral content and structure",
+                                   "Isokinetic muscle strength (using Cybex)",
+                                   "Fluid volume shift",
+                                   "Calcium metabolism and hormonal control",
+                                   "Sleep assessment by questionnaires and actigraphy",
+                                   "RR interval from an ECG lead signal by an high impedance probe, Systolic (SAP), Diastolic (DAP) and Mean arterial pressure (MAP) by Finapres (or Portapres) andRespiration by a piezoelectric pneumobelt,",
+                                   "Acetaminophen pharmacokinetic parameters,",
+                                   "24 h profile of spine geometry,flexibility index of spine, activity of lower back muscles,",
+                                   "and subjective rating of back pain",
+                                   "Maximal oxygen consumption.",
+                                   "Cardiovascular oxygen transport (oxygen delivery and oxygen return), requiring measurement of cardiac output, heart rate, arterialized blood gas composition, and arterial oxygen saturation.",
+                                   "Gas exchange kinetics at the onset and offset of exercise, requiring measurement of breath-by-breath ventilation and expired gas composition.",
+                                   "Blood volume",
+                                   "Plasma concentrations of arginin vasopressin, atrial natriuretic peptide, renin, endothelin, cyclic GMP and catecholamines. Urine concentrations of catecholamines, arginin vasopressin and cyclic GMP Blood concentration of nitric oxide.",
+                                   "Total energy expenditure, Lipid metabolism, body composition, water turnover and the formation of metabolic water.",
+                                   "Heart rate variability and post-ganglionic sympathetic nerve activity.",
+                                   "Arterial cardiac chronotropic baroreflex sensitivity and ventricular interdependence.",
+                                   "Ventricular mass and cardiac dimension.",
+                                   "Muscle architecture, including angle of pennation, fibre length, muscle thickness and muscle cross-sectional area",
+                                   "Energetics and biomechanics of walking and running",
+                                   "Parameters of vascular peripheral hemodynamics",
+                                   "Parameters of central hemodynamics"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 2012"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "The heart rate (HR) and the heart rate variability (HRV) derived from the ECG",
+                                   "The systolic, diastolic and mean arterial blood pressure (SP, DP, MAP)",
+                                   "The autonomic cardiovascular control evaluated with a spectral analysis of HRV and BPV.",
+                                   "the blood pressure variability (BPV) derived from the continuous blood pressure recording"
+                            ],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "OverallOfficialName": [
+                                   "Benjamin Levine, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 1, 2020"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The change in choroid area measured by optical coherence tomography.",
+                                   "The change in choroid volume measured by optical coherence tomography."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in choroid area",
+                                   "Change in choroid volume"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "OverallOfficialName": [
+                                   "Igor Mekjavic, PhD",
+                                   "J\u00f6rn Rittweger, MD, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Director",
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "Yes"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 2013"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "assessed before (day -5), on days 2, 10 and 21 of the intervention and at the 14-day follow-up visit (40 days after 1st measurement) using pQCT scans of the calf and thigh."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in bone mineral content, from baseline"
+                            ],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "OverallOfficialName": [
+                                   "Igor Mekjavic, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "Yes"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 2013"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "a fasted sample and a sample taken every 10mins for 2hrs following eating, before and after 17days of intervention"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Postprandial whole blood glucose concentration"
+                            ],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "OverallOfficialName": [
+                                   "Ivana Rosenzweig, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "August 30, 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The primary aim of this study is to investigate whole body skeletal muscle loss induced through 7 consecutive days of HBF using three independent methods; dual x-ray absorptiometry (DXA), magnetic resonance imaging (MRI) and D3-Creatine dilution (D3-cr)"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Whole body skeletal muscle loss"
+                            ],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "OverallOfficialName": [
+                                   "Pierre DP Denise, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "evaluated by fMRI"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Structural and functional changes of brain"
+                            ],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "OverallOfficialName": [
+                                   "Djamel Bensmail, MDPHD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Director"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "September 2015"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "text input speed (characters/minute)"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change from Text Input Speed at 1 month"
+                            ],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "OverallOfficialName": [
+                                   "Philippe van de Borne, Professor"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Recruiting"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [
+                                   "No"
+                            ],
+                            "Phase": [],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 31, 2022"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Feasibility is assessed by a repeatability score, namely the intraclass correlation coefficients ranging from 0, a non repeatable measure to 1 a perfectly repeatable measure .The score is computed between measure done at the hospital by a professional and the one done by the patient at the hospital and at home."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Feasibility of KCG measurement performed by the patients themselves",
+                                   "Validation of KCG parameters by comparisons from different modalities: Kinocardiograph device and OKCARDIO smartphone application.",
+                                   "Repeatability of OKCARDIO smartphone application recorded by an experimented operator and by the patient"
+                            ],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "October 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Blind pulling error, i.e. difference between the actual position of the visual target and the final position of the subject between 1G, 1.8G, and 0G during parabolic flight and with blind pulling evaluation method",
+                                   "Blind pulling error, i.e. difference between the actual position of the visual target and the final position of the subject between 1G, 1.8G, and 0G during parabolic flight and with verbal report evaluation method"
+                            ],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "OverallOfficialName": [
+                                   "Arnaud BECK, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 2020"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Plasma triglycerides concentration will be analyzed by enzymatic colorimetric method (reagent kit) after ultracentrifugation to isolate chylomicrons and Very Low Density Lipoproteins"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in fasting plasma triglycerides concentration"
+                            ],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 22, 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The optic nerve sheath diameter (ONSD) variations will be measured by echography."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in optic nerve sheath diameter (ONSD) considered as an indirect marker for intracranial pressure (ICP) estimation"
+                            ],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

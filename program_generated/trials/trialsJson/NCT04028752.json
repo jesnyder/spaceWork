@@ -1,0 +1,479 @@
+{
+       "Rank": 4,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "The investigators are interested in sampling a wide variety of individuals from varying ethnic groups, sex, and age range."
+       ],
+       "ArmGroupInterventionName": [
+              "Biological: Blood collected specifically for this study"
+       ],
+       "ArmGroupLabel": [
+              "Males and females"
+       ],
+       "ArmGroupType": [],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT04028752"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The proposal contained herein seeks to examine the effect of simulated microgravity on important cell-cell interactions that govern vascular health. The interest lies in endothelial cell (EC) and macrophage cell interactions. The investigators are proposing to first understand how microgravity effects the macrophage and EC function or pro-healing capabilities. Next, the study team plans to develop a 3D tissue regeneration model in which macrophages and ECs are co-cultured in a hydrogel matrix. Utilizing this model, the team will assess how microgravity influenced macrophage-EC interactions in 3D. The investigators will assess EC tubule volume (or blood vessel development), macrophage spreading and the interactions with endothelial tubule sprouts. This model will serve as a critical foundation for future grant opportunities as it allows the assessment of tissue regeneration and vascular health in a 3D tissue microenvironment"
+       ],
+       "BriefTitle": [
+              "A 3D Hydrogel Model to Assess Endothelial Cell-macrophage Interactions in Simulated Microgravity (OR-DRPD-SRI2019)"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "UNKNOWN"
+       ],
+       "CollaboratorName": [
+              "Florida Space Institute"
+       ],
+       "CompletionDate": [
+              "June 1, 2021"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Cardiovascular Diseases"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [
+              "D000002318"
+       ],
+       "ConditionMeshTerm": [
+              "Cardiovascular Diseases"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [],
+       "DesignInterventionModel": [],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [
+              "Case-Only"
+       ],
+       "DesignPrimaryPurpose": [],
+       "DesignTimePerspective": [
+              "Prospective"
+       ],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "While some knowledge has been gained with regards to macrophage alterations during space travel, most of this work has been limited to macrophage cell lines and has not considered how the effects of microgravity alter macrophages' ability to stimulate tissue repair and regeneration. Specifically, how the macrophage secretion profile and/or interaction with endothelial cells is altered during microgravity culture. Given the extensive data showing the consequence of simulated microgravity to alter endothelial cells, and the mounting evidence that simulated microgravity affects macrophage cells, the investigators hypothesize that microgravity alters the functional response of macrophages in close association with endothelial cells. To test this hypothesis, the study team has established 2 specific aims:\n\nSpecific Aim 1: Assess the effect of simulated microgravity on endothelial and macrophage pro-healing states.\n\nSpecific Aim 2: Assess the effect of simulated microgravity on the pro-healing states of 3-dimensional co-cultured macrophages and endothelial cells.\n\nCompletion of the above described aims will lay a strong foundation of knowledge about the impact of simulated microgravity in important cell-cell interactions involved in tissue regeneration and healing"
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nSelf-reported healthy individuals\nWillingness to have 50mls of whole blood collected\n\nExclusion Criteria:\n\n\u2022 Unwillingness to have blood used in microgravity study"
+       ],
+       "EnrollmentCount": [
+              "0"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [
+              "Data obtained will be disseminated through publications and conference presentations. No subject data will be shared with other researchers."
+       ],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Males and females"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "The subject will be sitting in a chair, and a needle will be inserted into a vein in the arm. Study Team will draw about 45ml or 3 tablespoons of whole blood for research."
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Blood collected specifically for this study"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Biological"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "macrophage",
+              "microgravity",
+              "blood",
+              "cardiovascular disease"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "August 2, 2021"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "July 26, 2021"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "University of Florida"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [],
+       "LocationFacility": [],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [],
+       "MaximumAge": [
+              "50 Years"
+       ],
+       "MinimumAge": [
+              "21 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "OR-DRPD-SRI2019: A 3D Hydrogel Model to Assess Endothelial Cell-macrophage Interactions in Simulated Microgravity"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "University of Florida"
+       ],
+       "OrgStudyId": [
+              "IRB201902002"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "University of Florida"
+       ],
+       "OverallOfficialName": [
+              "Josephine Allen, Ph.D."
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Withdrawn"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [
+              "No"
+       ],
+       "Phase": [],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "June 1, 2021"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Isolation of circulating immune cells, termed macrophages from whole blood. The study team will isolate the macrophages that are contained within the peripheral blood mononuclear cell fraction (PBMNC). The investigators expect to isolate 800,000-3,200,000 PBMNC per ml of blood. The isolated cells will then be subject to culture in a simulated microgravity device."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Isolate macrophages"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "within 4 hours of blood collection"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [
+              "United States"
+       ],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [
+              "Non-Probability Sample"
+       ],
+       "SecondaryId": [
+              "P0132429",
+              "OCR25782"
+       ],
+       "SecondaryIdDomain": [
+              "Florida Space Institute",
+              "UF OnCore"
+       ],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [
+              "Other Grant/Funding Number",
+              "Other Identifier"
+       ],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "June 2021"
+       ],
+       "StartDateType": [
+              "Anticipated"
+       ],
+       "StatusVerifiedDate": [
+              "July 2021"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "July 23, 2019"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "July 19, 2019"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "July 19, 2019"
+       ],
+       "StudyPopulation": [
+              "General population between 21-50 years old."
+       ],
+       "StudyType": [
+              "Observational"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": [
+              "Grant ended"
+       ]
+}

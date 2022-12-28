@@ -1,0 +1,734 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "OverallOfficialName",
+                     "OverallOfficialRole",
+                     "OverallStatus",
+                     "OversightHasDMC",
+                     "PatientRegistry",
+                     "Phase",
+                     "PointOfContactEMail",
+                     "PointOfContactOrganization",
+                     "PointOfContactPhone",
+                     "PointOfContactPhoneExt",
+                     "PointOfContactTitle",
+                     "PrimaryCompletionDate",
+                     "PrimaryCompletionDateType",
+                     "PrimaryOutcomeDescription",
+                     "PrimaryOutcomeMeasure",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "OverallOfficialName": [
+                                   "Daniel Garin, MD, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Chair"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "July 2012"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "\"per lobe and per quadrant at 5th intercostal space level\""
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "change in regional ventilation distribution"
+                            ],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "OverallOfficialName": [
+                                   "Frederick R Carrick, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Withdrawn"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "January 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The patient will grade the pain level using a numeric pain scale (0 no pain; 10 unbearable pain requiring pain medication).\n\nChanges will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Changes in pain level"
+                            ],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "OverallOfficialName": [
+                                   "Pierre DP Denise, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "April 2018"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "brain cortical activity induced by micro- and hypergravity conditions : Electro cortical power in alpha frequency ranges (EEG-LORETA)",
+                                   "Brain tissue oxygenation ( oxy- or deoxygenated hemoglobin values) NIRS"
+                            ],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "October 31, 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The visuomotor performance will be assessed by a multi-directional tapping task as defined by ISO9241-9, which requests for motor responses by aimed pointing movements.",
+                                   "common external display guidance method (ED) and exocentric \"in-view\" cueing (EXO), using common guidance method with an external display (ED) as a control condition"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "visuomotor performance",
+                                   "common external display guidance method (ED)"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Responses to the questionnaire \"Botvinick Cohen\" on the sensations of the body out experiments",
+                                   "Answers on the location of auditory stimuli"
+                            ],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "OverallOfficialName": [
+                                   "Faisal Karmali, Ph.D."
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Phase 4"
+                            ],
+                            "PointOfContactEMail": [
+                                   "faisal_karmali@meei.harvard.edu"
+                            ],
+                            "PointOfContactOrganization": [
+                                   "Massachusetts Eye and Ear Infirmary"
+                            ],
+                            "PointOfContactPhone": [
+                                   "617-573-5593"
+                            ],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [
+                                   "Faisal Karmali"
+                            ],
+                            "PrimaryCompletionDate": [
+                                   "December 2016"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Note that this applies to arms 1-4 only.\n\nSubjects sat on a chair on a moving platform on top of a centrifuge that created an artificial gravity environment. Subjects were repeatedly roll tilted to angles between 11 and 19 degrees, and then reported their perceived tilt angle using a subjective visual vertical task. They did this while experiencing centripetal acceleration equivalent to Earth gravity (1 Gz), and then hypogravity (0.5 Gz). We hypothesized that, after entering hypogravity, subjects would tend to underestimate their tilt angle. We calculated the percent change in their perception of tilt between 1 Gz and 0.5 Gz.",
+                                   "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Yaw rotation means rotations about an axis that is perpendicular to gravity.\n\nThis outcome measure applies only to arm 5 subjects.",
+                                   "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Roll tilt means rotations about an axis that is Earth-horizontal.\n\nThis outcome measure applies only to arm 5 subjects.",
+                                   "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Interaural translation refers to translations in the horizontal plane to the subject's left or right.\n\nThis outcome measure applies only to arm 5 subjects.",
+                                   "Note that this applies to arms 6-9 only.\n\nSubjects sat on a chair on a moving platform on top of a centrifuge that created an artificial gravity environment. Subjects completed a manual control task in which their charge was randomly perturbed in roll tilt, and they used a joystick to attempt to keep themselves aligned with upright, while in the dark. They did this while experiencing centripetal acceleration equivalent to Earth gravity (1 Gz), and then hypogravity (0.5 Gz). We calculated their performance by calculating the standard deviation of chair position across time, with a smaller number indicating better performance. Then we calculated the percent change in their performance between 1 Gz and 0.5 Gz."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Percent Change in Roll Tilt Perception After Exposure to Hypogravity",
+                                   "Yaw Perceptual Motion Threshold",
+                                   "Roll Perceptual Motion Threshold",
+                                   "Interaural Perceptual Motion Threshold",
+                                   "Percent Change in Manual Control Performance After Exposure to Hypogravity"
+                            ],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "October 2015"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "EMG (electrical activity produced my muscles when they contract) will be recorded with a MyoSystem 1400L using surface electrodes at the level of the lateral gastrocnemius, medial gastrocnemius, tibialis anterior and peroneus longus, and on the thigh at the level of the vastus lateralis, vastus medialis and lateral hamstrings and medial hamstrings.\n\nEMG activation (amplitude and latency) will be measured during jumps at different level of gravity and pull-down forces."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Electromyography (Amplitude - mV and latency - ms)"
+                            ],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 2013"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "measurements between normal gravity and microgravity hypergravity during parabolic flight",
+                                   "measurements between normal gravity and microgravity hypergravity during parabolic flight",
+                                   "measurements between normal gravity and microgravity hypergravity during parabolic flight",
+                                   "measurements between normal gravity and microgravity hypergravity during parabolic flight"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "eye movements",
+                                   "acceleration of the head",
+                                   "perception by the subjects of the right-front.",
+                                   "acceleration of the arms"
+                            ],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Not yet recruiting"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 23, 2023"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Freiburg Mindfulness Inventory questionnaire of 14 items (each item has a score from 1 to 4 i.e. minimal value 14 and maximal value 56, with a couple of reversed item to score)",
+                                   "Freiburg Mindfulness Inventory questionnaire of 14 items (each item has a score from 1 to 4 i.e. minimal value 14 and maximal value 56, with a couple of reversed item to score)",
+                                   "Perceived Stress Scale questionnaire: 10 item-questionnaire to perceive stress (each item from 0 to 4: minimal value 0/no stress and maximal value 40 highest stress level)",
+                                   "Perceived Stress Scale questionnaire: 10 item-questionnaire to perceive stress (each item from 0 to 4: minimal value 0/no stress and maximal value 40 highest stress level)",
+                                   "Cognitive test battery questionnaire, 2D and 3D testing during one session: three scores ponderated (each with 6 plots represented with a spider graph measuring the surface from arbitrary unit)",
+                                   "Cognitive test battery questionnaire, 2D and 3D testing during one session: three scores ponderated (each with 6 plots represented with a spider graph measuring the surface from arbitrary unit)",
+                                   "Olfactive discrimination test",
+                                   "Olfactive discrimination test",
+                                   "Ellipse of the center of gravity measurment",
+                                   "Ellipse of the center of gravity measurment",
+                                   "Heart Rate variability"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Psychological data",
+                                   "Psychological data",
+                                   "stress",
+                                   "stress",
+                                   "Cognition",
+                                   "Cognition",
+                                   "Olfaction",
+                                   "Olfaction",
+                                   "Posture",
+                                   "Posture",
+                                   "Physiological data"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "OverallOfficialName": [
+                                   "Cl\u00e9ment GC Gilles"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Director"
+                            ],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "September 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "the time between when the target or shape appears and the subject lifts their finger off of the screen"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Response time"
+                            ],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 30, 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "amplitude and treshold"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "vestibular-evoked myogenic potentials (P13-N23)"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 2013"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "alterations in brain cortical activity (EEG)",
+                                   "brain oxygenation level (NIRS)"
+                            ],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "October 2016"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "perceived size and perceived mass of objects in 0G and 1.8G compared to 1G using the size-mass illusion (SMI) (composite)"
+                            ],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "October 2017"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Blind pulling error, i.e. difference between the actual position of the visual target and the final position of the subject between 1G, 1.8G, and 0G during parabolic flight and with blind pulling evaluation method",
+                                   "Blind pulling error, i.e. difference between the actual position of the visual target and the final position of the subject between 1G, 1.8G, and 0G during parabolic flight and with verbal report evaluation method"
+                            ],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "September 30, 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Functional capillary density"
+                            ],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "OverallOfficialName": [
+                                   "Christophe Kassel, Hospital Manager"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Director"
+                            ],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "September 30, 2021"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Measurement of the cervical blood flow in external (ECA), internal (ICA) and vertebral arteries (VA).\n\nICA, VA and ECA blood flow velocities will be measured with a color-coded ultrasound system (Vivid-e; GE Healthcare, Tokyo, Japan) equipped with a 10 MHz linear transducer. ICA blood flow measurements will be performed 1.0-1.5 cm distal to the carotid bifurcation while the subject's chin will be slightly elevated. VA blood flow will be measured between the transverse processes of C3 and the subclavian artery. The systolic and diastolic diameters will be measured in detail, and then the mean diameter (in centimetres) will be calculated in relationship to the blood pressure curve, as follows: mean diameter = (systolic diameter\u00d71/3) +(diastolic diameter \u00d7 2/3).",
+                                   "Measurement of the transcranial blood flow in anterior (ACA), middle (MCA) and posterior (PCA) cerebral arteries. Blood flow velocities in PCA, MCA and ACA will be measured with an echo-doppler device (Philips CX50, Philips, the Netherlands) using vascular probes adapted to transcranial Doppler. Flows in the different branches of the circle of Willis (ACA-1, MCA-1, PCA-1, ACoA, PCoA) will be used to assess the cerebral hemodynamic indices."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Cervical blood flow",
+                                   "Transcranial blood flow"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "OverallOfficialName": [
+                                   "Dominique Felten, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Chair"
+                            ],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "June 30, 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "computerized tomography: 0-5 scale for size and localization",
+                                   "electrical impedance tomography: deltaZ on regions of interest",
+                                   "ultrasound: number of lung comets + localization"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "atelectasis formation (change between pre and post-protocol)",
+                                   "change in pulmonary ventilation between 1 Gz, 1.6 Gz and 3.5 Gz",
+                                   "change in pulmonary tissue density from baseline at centrifuge stop and 1h30 min after stop"
+                            ],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "OverallOfficialName": [
+                                   "Marie-Jos\u00e9e FRAYSSE"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Unknown status"
+                            ],
+                            "OversightHasDMC": [],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "January 15, 2019"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "This primary outcome measure denotes the evolution of the deterioration of the quality of life of patients due to tinnitus. THI is a questionnaire composed of 25 questions each with 3 response options converting in 0, 2, and 4 points scoring, making it a scale from 0 to 100 points."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Comparison of initial and final Tinnitus Handicap Inventory (THI) distributions"
+                            ],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

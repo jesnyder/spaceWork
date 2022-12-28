@@ -1,0 +1,591 @@
+{
+       "Rank": 33,
+       "Acronym": [
+              "PlanHab"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Participants ambulatory in normobaric hypoxia with standardised nutritional intake",
+              "Participants are on bed rest in normobaric hypoxia with standardised nutritional intake",
+              "Participants are on bed rest in normobaric normoxia with standardised nutritional intake"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Hypoxia",
+              "Other: Ambulatory",
+              "Other: Standardised nutritional intake",
+              "Other: Hypoxia",
+              "Other: Bed Rest",
+              "Other: Standardised nutritional intake",
+              "Other: Normoxia",
+              "Other: Bed Rest",
+              "Other: Standardised nutritional intake"
+       ],
+       "ArmGroupLabel": [
+              "Hypoxic ambulatory",
+              "Hypoxic Bed rest",
+              "Normoxic bed rest"
+       ],
+       "ArmGroupType": [
+              "Active Comparator",
+              "Experimental",
+              "Active Comparator"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT02637921"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Bone losses are well known to occur in response to unloading (in microgravity or during immobilisation) and in patients with chronic obstructive airway disease (COPD). However, it is unknown whether there is an interactive effect between hypoxia and musculoskeletal unloading upon bone and mineral metabolism. Fourteen non-obese men, who are otherwise healthy, will undergo 3x 21-day interventions; normobaric normoxic bed rest (NBR; FiO2=21%), normobaric hypoxic ambulatory confinement (HAMB; FiO2=14%; ~4000 m simulated altitude), and normobaric hypoxic bed rest (HBR; FiO2=14%). The effects of hypoxia and bedrest on bone metabolism and phosphor-calcic homeostasis will be assessed (before and during each intervention, and 14 days after each intervention period) using venous blood sampling, 24hr urine collections, and peripheral quantitative computerized tomography (pQCT)."
+       ],
+       "BriefTitle": [
+              "Planetary Habitat Simulation: Bone Metabolism Studies"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "Jozef Stefan Institute",
+              "DLR German Aerospace Center",
+              "KTH Royal Institute of Technology",
+              "European Commission"
+       ],
+       "CompletionDate": [
+              "September 2015"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Hypoxia",
+              "Bone Resorption"
+       ],
+       "ConditionAncestorId": [
+              "D000012818",
+              "D000001847",
+              "D000009140"
+       ],
+       "ConditionAncestorTerm": [
+              "Signs and Symptoms, Respiratory",
+              "Bone Diseases",
+              "Musculoskeletal Diseases"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC23",
+              "All",
+              "BC05"
+       ],
+       "ConditionBrowseBranchName": [
+              "Symptoms and General Pathology",
+              "All Conditions",
+              "Musculoskeletal Diseases"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Hypoxia",
+              "Bone Resorption"
+       ],
+       "ConditionBrowseLeafId": [
+              "M3337",
+              "M4293",
+              "M14775",
+              "M4278",
+              "M11249"
+       ],
+       "ConditionBrowseLeafName": [
+              "Hypoxia",
+              "Bone Resorption",
+              "Signs and Symptoms, Respiratory",
+              "Bone Diseases",
+              "Musculoskeletal Diseases"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "high",
+              "high",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000001862",
+              "D000000860"
+       ],
+       "ConditionMeshTerm": [
+              "Bone Resorption",
+              "Hypoxia"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Crossover Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "The risk of bone loss in response to immobilization and space flight is widely recognized, with such bone losses occurring predominantly in the legs. Loading forces in the lower extremities are typically low in space and during bed rest, but musculoskeletal loading countermeasures can prevent or reduce bone losses induced in these conditions. Although the primary origin may be of a mechanical nature, bone losses in astronauts and immobilized patients are likely to be modulated by the endocrine and the internal environment.\n\nBone loss and osteoporosis is also prevalent in those with chronic obstructive pulmonary disease (COPD). The most discussed etiological factors for this condition include lack of physical activity, vitamin-D deficiency, hypogonadism, use of corticosteroids and smoking. However, COPD is associated with tissue hypoxemia and it is unclear whether hypoxia per se will affect bone turnover or metabolism.\n\nThe protocol of the current study standardises potential confounding factors, such as physical activity, ambient temperature, hypoxic stimulus and nutritional composition of the diet across all 3 interventions, and aims to extend our knowledge of the effects of hypoxia and bedrest on bone metabolism and phospho-calcic homeostasis.\n\nFourteen non-obese men, who are otherwise healthy, will be recruited following medical and psychological screening. They will be invited to attend the Olympic Sport Centre, Planica, Slovenia on 3 occasions, with each visit being 31 days in duration and separated by 5 months. Each 31-day visit ('campaign') includes a baseline recording period (5 days), 21 days of intervention, and a recovery period (5 days), with a follow-up visit being carried out 14 days after each intervention. The 3 interventions will be allocated in a randomized, cross over design: i) Normobaric normoxic bed rest (NBR; FiO2=21%), ii) Normobaric hypoxic ambulatory confinement (HAMB; FiO2=14%; ~4000 m simulated altitude), and iii) Normobaric hypoxic bed rest (HBR; FiO2=14%). A standardized, repeating, 14-day dietary menu, comprised of foods commonly consumed in the Slovenian diet, will be applied during all campaigns. Targeted energy intakes will be calculated individually using a modified Benedict-Harris formula, with physical activity factor multipliers of 1.2 for the HBR and NBR campaigns and 1.4 for the HAMB campaign, used to promote energy balance. Body mass will be monitored daily during the campaigns using a gurney incorporating load cells, and whole body composition will be determined before and immediately after each intervention using fan beam dual-emission X-ray absorptiometry. Macronutrient composition of the diet will be approximately 17% protein, 53% carbohydrate and 30% fat, with >1.1g of protein per kg body weight provided per day, and daily salt (sodium chloride) intake being <10g. Food will be provided in weighed portions and subjects will be encouraged to eat all food supplied. However, any food not eaten will be weighed and actual amount consumed recorded in a diet analysis programme.\n\nParticipants will have bone mineral content assessed at 5 time points (before, 3 during and one after each intervention) using pQCT scans of the calf and thigh. Horizontal scans will be taken at 4%, 14%, 38%, and 66% of the tibia (assessed from its distal end), and at 4% and 33% of the femur. Twenty-four hour urine collections will be obtained before (2 time points), during (11 time points) and after (3 time points) each intervention, and will be assessed for urinary calcium and phosphate content, and for a marker of bone reabsorption (N-terminal telopeptide). In addition, early morning, fasting venous blood samples will also be taken before (2 time points), and during (5 time points) each intervention. These will be analysed for calcium, phosphate, bone specific alkaline phosphatase, parathyroid hormone, 25-Hydroxyvitamin D, Procollagen-I-N-terminal propeptide and regulators of bone metabolism, (Dickkopf-related protein 1 and Sclerostin)."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nPhysically and mentally healthy subjects\nBody mass index < 25 kg/m2\nHeight 158 - 190 cm\nWaist circumference < 94 cm\nVolunteers that are able to declare their willingness to participate in the entire study\nWilling to be assigned randomly to the three groups\nSuccessfully passing the psychological and medical screening\ncompetent to sign informed consent\nSlovenian social insurance\nEnglish language fluency\n\nExclusion Criteria:\n\nMedication required that may interfere with the interpretation of the results\nBone mineral density (as measured by DEXA) more than 1.5 standard deviations < t score\nRecent sub-standard nutritional status\nFamily history of thrombosis or positive response in thrombosis screening procedure.\n\n(Biochemical analysis of the following parameters: ATIII, High sensitive C-reactive protein, S-Akt., Factor V-Leiden, Prothrombin, Lupus-partial thromboplastin time, Factor II)\n\nHistory of: thyroid dysfunction, renal stones, diabetes, allergies, hypertension, hypocalcemia, uric acidaemia, lipidaemia, or hyperhomocysteinaemia\nGastro-esophageal reflux disease or renal function disorder, Hiatus hernia\nHistory of medical illness\nSmoker within six months prior to the start of the study\nAbuse of drugs, medicine or alcohol\nParticipation in another study up to two months before study onset\nNo signed consent form before the onset of the experiment\nBlood donors in the past three months before the onset of the experiment\nVegetarian and Vegans\nMigraines\nHistory of orthostatic intolerance\nHistory of vestibular disorders\nClaustrophobia\nmetallic implants, osteosynthesis material\nChronic back pain"
+       ],
+       "EnrollmentCount": [
+              "14"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Hypoxic Bed rest",
+              "Hypoxic ambulatory",
+              "Hypoxic ambulatory",
+              "Normoxic bed rest",
+              "Hypoxic Bed rest",
+              "Normoxic bed rest",
+              "Hypoxic Bed rest",
+              "Hypoxic ambulatory",
+              "Normoxic bed rest"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "21 days confinement in normobaric hypoxic (FiO2 = 14%)",
+              "Participants hava a standardized activity level throughout the intervention",
+              "21 days confinement in normobaric normoxic (FiO2 = 21%) environment",
+              "Participants remain on supine bed rest throughout the intervention",
+              "Macronutrient, salt and dietary energy intake will be standardized per kg body weight for each participant"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Hypoxia",
+              "Ambulatory",
+              "Normoxia",
+              "Bed Rest",
+              "Standardised nutritional intake"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other",
+              "Other",
+              "Other",
+              "Other",
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "bed rest",
+              "bone metabolism"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "March 15, 2019"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "March 13, 2019"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "University of Nottingham"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [],
+       "LocationFacility": [],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [],
+       "MaximumAge": [
+              "45 Years"
+       ],
+       "MinimumAge": [
+              "25 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Planetary Habitat Simulation: The Combined Effects of Bed Rest and Normobaric Hypoxia Upon Bone and Mineral Metabolism (WP3)"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "University of Nottingham"
+       ],
+       "OrgStudyId": [
+              "284438/WP3"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Jozef Stefan Institute",
+              "German Aerospace Center (DLR)"
+       ],
+       "OverallOfficialName": [
+              "Igor Mekjavic, PhD",
+              "J\u00f6rn Rittweger, MD, PhD"
+       ],
+       "OverallOfficialRole": [
+              "Study Director",
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "Yes"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "November 2013"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "assessed before (day -5), on days 2, 10 and 21 of the intervention and at the 14-day follow-up visit (40 days after 1st measurement) using pQCT scans of the calf and thigh."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Change in bone mineral content, from baseline"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "40 days"
+       ],
+       "ReferenceCitation": [
+              "Rittweger J, Debevec T, Frings-Meuthen P, Lau P, Mittag U, Ganse B, Ferstl PG, Simpson EJ, Macdonald IA, Eiken O, Mekjavic IB. On the combined effects of normobaric hypoxia and bed rest upon bone and mineral metabolism: Results from the PlanHab study. Bone. 2016 Oct;91:130-8. doi: 10.1016/j.bone.2016.07.013. Epub 2016 Jul 18."
+       ],
+       "ReferencePMID": [
+              "27443510"
+       ],
+       "ReferenceType": [
+              "result"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "University of Nottingham"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Elizabeth Simpson"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Dr"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "assessed from 24hr urine collections taken before (day -5), on days 1,2,3,4,8,10,12,14,16,18, and 21 of the intervention and on the 2nd, 3rd, and 4th day after each intervention period (last urine collection 30 days after first measurement)",
+              "assessed from 24hr urine collections taken before (day -5), on days 1,2,3,4,8,10,12,14,16,18, and 21 of the intervention and on the 2nd, 3rd, and 4th day after each intervention period (last urine collection 31 days after first measurement)",
+              "assessed from 24hr urine collections taken before (day -5), on days 1,2,3,4,8,10,12,14,16,18, and 21 of the intervention and on the 2nd, 3rd, and 4th day after each intervention period (last urine collection 31 days after first measurement)",
+              "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+              "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+              "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+              "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+              "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+              "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+              "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+              "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample"
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Change in urinary calcium concentration, from baseline",
+              "Change in urinary phosphate concentration, from baseline",
+              "Change in urinary N-terminal telopeptide concentration, from baseline",
+              "Change in fasting serum calcium concentration, from baseline",
+              "Change in fasting serum phosphate concentration, from baseline",
+              "Change in fasting serum bone specific alkaline phosphatase concentration, from baseline",
+              "Change in fasting serum parathyroid hormone concentration, from baseline",
+              "Change in fasting serum 25-Hydroxyvitamin D concentration, from baseline",
+              "Change in fasting serum Procollagen-I-N-terminal propeptide concentration, from baseline",
+              "Change in fasting serum Dickkopf-related protein 1 concentration, from baseline",
+              "Change in fasting serum Sclerostin concentration, from baseline"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "30 days",
+              "31 days",
+              "31 days",
+              "26 days",
+              "26 days",
+              "26 days",
+              "26 days",
+              "26 days",
+              "26 days",
+              "26 days",
+              "26 days"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "March 2012"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "March 2019"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "December 22, 2015"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "December 1, 2015"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "December 18, 2015"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

@@ -1,0 +1,510 @@
+{
+       "Rank": 21,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [],
+       "ArmGroupInterventionName": [],
+       "ArmGroupLabel": [],
+       "ArmGroupType": [],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT00598598"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The National Space Biomedical Research Institute is interested in learning more about heart function in space. One potential problem with long duration, manned space flight is muscle loss- including loss of heart muscle. One goal of our research is to help identify why this muscle loss occurs. We are interested in patients undergoing aortic valve surgery because this procedure is performed to correct a problem with the valve that may also change heart function. This change in heart function may provide information that is useful in understanding and potentially preventing the loss of cardiac muscle in space.\n\nThree patient groups will be studied, patients having surgery for aortic regurgitation, aortic stenosis, and coronary bypass. We are planing to perform this study on 30 patients, 10 in each group.\n\nThe aim of this study is to continue our ongoing study of the magnitude and predictors of the changes in size of the left ventricle following acute volume and pressure unloading as a ground-based analog for manned space flight."
+       ],
+       "BriefTitle": [
+              "Echocardiographic Assessment of Cardiovascular Changes in Long Term Space Flight"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "National Space Biomedical Research Institute"
+       ],
+       "CompletionDate": [
+              "July 2008"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Aortic Valve Insufficiency",
+              "Aortic Valve Stenosis"
+       ],
+       "ConditionAncestorId": [
+              "D000082862",
+              "D000006349",
+              "D000006331",
+              "D000002318",
+              "D000014694"
+       ],
+       "ConditionAncestorTerm": [
+              "Aortic Valve Disease",
+              "Heart Valve Diseases",
+              "Heart Diseases",
+              "Cardiovascular Diseases",
+              "Ventricular Outflow Obstruction"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC23",
+              "All",
+              "BC14",
+              "Rare"
+       ],
+       "ConditionBrowseBranchName": [
+              "Symptoms and General Pathology",
+              "All Conditions",
+              "Heart and Blood Diseases",
+              "Rare Diseases"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Aortic Valve Stenosis",
+              "Aortic Valve Insufficiency",
+              "Aortic Valve Stenosis"
+       ],
+       "ConditionBrowseLeafId": [
+              "M5627",
+              "M3492",
+              "M3490",
+              "M2380",
+              "M8589",
+              "M8571",
+              "M16592",
+              "T449"
+       ],
+       "ConditionBrowseLeafName": [
+              "Constriction, Pathologic",
+              "Aortic Valve Stenosis",
+              "Aortic Valve Insufficiency",
+              "Aortic Valve Disease",
+              "Heart Valve Diseases",
+              "Heart Diseases",
+              "Ventricular Outflow Obstruction",
+              "Aortic Valve Stenosis"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "high",
+              "low",
+              "low",
+              "low",
+              "low",
+              "high"
+       ],
+       "ConditionMeshId": [
+              "D000001024",
+              "D000001022"
+       ],
+       "ConditionMeshTerm": [
+              "Aortic Valve Stenosis",
+              "Aortic Valve Insufficiency"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [],
+       "DesignInterventionModel": [],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [
+              "Cohort"
+       ],
+       "DesignPrimaryPurpose": [],
+       "DesignTimePerspective": [
+              "Prospective"
+       ],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "Among the most serious of the risks identified by NASA in the area of cardiovascular alterations are serious dysrhythmias and the development of orthostatic intolerance. Prolonged exposure to microgravity may lead to a reduction in cardiac performance, particularly during times of stress and that undiagnosed cardiovascular disease may manifest during long missions. The PI and colleagues have worked closely with NASA and NSBRI over the last six years to optimize use of ultrasound in the space program as an investigative modality, addressing fundamental cardiovascular problems in need of countermeasures development. We propose the following specific aim:\n\nTo continue our ongoing study of the magnitude and predictors of LV mass regression following acute volume and pressure unloading as a ground-based analog for manned spaceflight. This work will continue to focus on patients undergoing aortic valve surgery, but exploit recent knowledge of the roles of cytokines and integrins involved in cardiac hypertrophy and regression as well as emerging technologies such as gene chip analysis.\n\nThis work will be closely focused on risks and critical questions identified by the Cardiovascular Alterations Team as described in the Bioastronautics Critical Path Road Map Baseline Document. If successful, this project will enhance assessment of cardiac function during long duration missions and potentially suggest cytokine promoters or signal transduction pathways that could be targeted for cardiac atrophy countermeasures. In addition, we will continue to provide the facilities of our Core laboratory for access by investigators throughout the NASA and NSBRI programs in need of assistance in acquiring or analyzing ultrasonic data."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\n> 18 years of age\nIsolated severe aortic stenosis\nPreserved left ventricular function\nCABG patients will have normal LV function and mass"
+       ],
+       "EnrollmentCount": [
+              "1"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "No"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [],
+       "InterventionOtherName": [],
+       "InterventionType": [],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Aortic valve insufficiency",
+              "Aortic valve stenosis",
+              "3D echocardiogram"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "January 12, 2017"
+       ],
+       "LastUpdatePostDateType": [
+              "Estimate"
+       ],
+       "LastUpdateSubmitDate": [
+              "January 10, 2017"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "The Cleveland Clinic"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Cleveland"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States"
+       ],
+       "LocationFacility": [
+              "Cleveland Clinic"
+       ],
+       "LocationState": [
+              "Ohio"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "44195"
+       ],
+       "MaximumAge": [],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Echocardiographic Assessment of Cardiovascular Adaptation and Counter Measures n Microgravity"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "The Cleveland Clinic"
+       ],
+       "OrgStudyId": [
+              "NSBRI NCC9-59-172 #3"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "The Cleveland Clinic"
+       ],
+       "OverallOfficialName": [
+              "Jim Thomas, MD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Terminated"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "June 2008"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [],
+       "PrimaryOutcomeMeasure": [
+              "Diagnostic 2D and 3D echocardiography"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "6-12 months"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [
+              "Non-Probability Sample"
+       ],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [
+              "Endogenous gene expression"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "1 week"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "October 2003"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "January 2008"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "January 22, 2008"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "December 27, 2007"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "January 21, 2008"
+       ],
+       "StudyPopulation": [
+              "Patients coming to the Cleveland Clinic with aortic valve insufficiency or aortic valve stenosis, undering going repair or replacement, or patient undergoing coronary bypass surgery."
+       ],
+       "StudyType": [
+              "Observational"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": [
+              "funding issues"
+       ]
+}

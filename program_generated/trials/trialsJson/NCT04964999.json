@@ -1,0 +1,624 @@
+{
+       "Rank": 20,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Participants will perform aerobic and strength exercises for 2 weeks.",
+              "Participants will not perform any exercises."
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Exercise"
+       ],
+       "ArmGroupLabel": [
+              "Exercise",
+              "No exercise"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "No Intervention"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT04964999"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Physical activity appears to be an important lifestyle habit to achieve healthy aging by promoting autonomy and quality of life. Interestingly, the dramatic changes that the human body undergoes due to bedrest for illnesses and hospitalization are similar to those seen over decades of normal aging. Bedrest in otherwise healthy older individuals can lead to a reduction of muscle size and strength, changes in bone strength and function of the heart and blood vessels. Bedrest can also lead to changes in keeping proper balance as well as changes in processing and understanding information. All of these factors negatively affect activities of daily living leading to physical function impairment and development of frailty, a clinical condition associated with an increased risk for disease and death.\n\nThe purpose of this study is to investigate whether exercise can counteract the negative effects of 2-week head tilt down bed rest on muscle function and metabolism, postural control, bone structure, orthostatic tolerance and cognitive function in adults.\n\nFor this study the investigators will recruit 24 healthy men and women between 55 - 65 years of age. All subjects will spend a total of 26 days (5 days of adaption period, 14 days of bed rest with 6 degrees of downward inclination, and 7 days of recovery period) at the McGill University Health Centre (MUHC). During this study, 12 subjects will randomly undergo an exercise intervention as countermeasure during the 14 days of bed rest period and 12 will serve as control.\n\nEach subjects participation in this study will involve 1 telephone call (pre-screening) and 4 visits at the MUHC: 1 screening visit (Visit 1) followed by a 26-day long visit (Visit 2) and 2 follow-up visits (Visit 3 and Visit 4). During Visits 2 - 4 various measurements will be performed to assess sensorimotor control, muscle function and metabolism, bone structure, cardiovascular function, cognitive performance and function, and specimen collection (blood, urine, saliva, feces and muscle tissue)."
+       ],
+       "BriefTitle": [
+              "Understanding the Negative Effects of Bed Rest and Using Exercise as Countermeasure"
+       ],
+       "CentralContactEMail": [
+              "guyelhajj@gmail.com",
+              "jose.morais@mcgill.ca"
+       ],
+       "CentralContactName": [
+              "Guy Hajj Boutros",
+              "Jos\u00e9 A. Morais, MD"
+       ],
+       "CentralContactPhone": [
+              "514-934-1934",
+              "514-934-1934"
+       ],
+       "CentralContactPhoneExt": [
+              "35016",
+              "34499"
+       ],
+       "CentralContactRole": [
+              "Contact",
+              "Contact"
+       ],
+       "CollaboratorClass": [
+              "UNKNOWN",
+              "OTHER_GOV",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "Canadian Space Agency",
+              "Canadian Institutes of Health Research (CIHR)",
+              "Canadian Frailty Network"
+       ],
+       "CompletionDate": [
+              "April 2022"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Aging"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [
+              "Randomized controlled study - Participants will be randomly allocated to the exercise or control group."
+       ],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nA minimum of 20 and a maximum of 24 non-smoking participants in the age group of 55 to 65 years old, half male and half female.\nFemale participants must be menopausal (no menses for at least 1 year (or documented ovariectomy) and a serum FSH above 30 IU/L).\nHeight between 158 to 190 cm with a body mass index between 20 to 30 kg/m2.\nPhysically and mentally healthy subjects that will have successfully passed the psychological and medical screening appropriate for the age group.\nParticipation in at least 2.5 hours of exercise at a moderate to vigorous-intensity aerobic activity per week.\nWilling to be assigned randomly either to the exercise or the control group.\n\nExclusion Criteria:\n\nParticipants must be dementia-free, drug- or alcohol-addiction free, with no history of heart attacks, no thrombosis risk, no severe allergies, no hypocalcaemia, no uric acidemia, no orthostatic intolerance, no vestibular disorders, no considerable musculoskeletal issues, no chronic back pain, no head trauma, no seizures, no ulcers, no renal stones, no gastro-esophageal reflux disease or renal function disorder, no hiatus hernia, no migraines, and no mental illness.\nElectrocardiogram abnormalities\nAnemia\nLow bone mineral density\nMedication requirements that may interfere with the interpretation of the results\nRecent substandard nutritional status\nClaustrophobia\nSpecial dietary requests (e.g. vegetarian, vegan or some other diet)\nSedentary people and people that are addicted to exercise\nMetallic implants (pacemakers, ICDs, CRT devices, infusion pumps, cerebral artery aneurysm clips, dental implants, tissue expander etc.), osteosynthesis material\nGiven blood in the past 3 months before the onset of the experiment\nSmoked (tobacco and/or marijuana (THC)) within 6 months prior to the start of the study\nAbused drugs, medicine or alcohol within up to 30 days prior to the start of the study\nParticipated in another study within 2 months before study onset"
+       ],
+       "EnrollmentCount": [
+              "24"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Exercise"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "Participants will undergo an exercise program during the 2-week bed rest period."
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Exercise"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Bed rest",
+              "Exercise",
+              "Aging"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "September 5, 2021"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "September 2, 2021"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "McGill University Health Centre/Research Institute of the McGill University Health Centre"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Montr\u00e9al"
+       ],
+       "LocationContactEMail": [
+              "guyelhajj@gmail.com"
+       ],
+       "LocationContactName": [
+              "Guy Hajj Boutros"
+       ],
+       "LocationContactPhone": [
+              "514-8934-1934"
+       ],
+       "LocationContactPhoneExt": [
+              "35016"
+       ],
+       "LocationContactRole": [
+              "Contact"
+       ],
+       "LocationCountry": [
+              "Canada"
+       ],
+       "LocationFacility": [
+              "Royal Victoria Hospital - Glen site"
+       ],
+       "LocationState": [
+              "Quebec"
+       ],
+       "LocationStatus": [
+              "Recruiting"
+       ],
+       "LocationZip": [
+              "H4A 3J1"
+       ],
+       "MaximumAge": [
+              "65 Years"
+       ],
+       "MinimumAge": [
+              "55 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Microgravity Research Analogue (MRA): Understanding the Health Impact of Inactivity for the Benefit of Older Adults and Astronauts Initiative"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "McGill University Health Centre/Research Institute of the McGill University Health Centre"
+       ],
+       "OrgStudyId": [
+              "MP-37-2021-7170"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "McGill University Health Centre/Research Institute of the McGill University"
+       ],
+       "OverallOfficialName": [
+              "Jos\u00e9 A. Morais, MD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Recruiting"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "February 2022"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "NIH Toolbox Cognition Battery (computerized)",
+              "CLSA cognition questionnaire",
+              "Positive and Negative Affect Scale\n\n- For both scales scores can range from 10-50, with higher scores representing higher levels of positive or negative affect.",
+              "General Health Questionnaire (GHQ-28).\n\nUsing Likert 4-point scale with the min score being 0 and max score being 84.\nHigher scores indicate a higher level of distress.",
+              "Assessment of brain anatomy using a MRI.",
+              "Measurement of neuronal, cerebrovascular, and connectivity integrity with functional MRI.",
+              "Body MRI",
+              "Body MRI",
+              "Body MRI",
+              "Using a heart MRI left and right ventricular volumes will be assessed.",
+              "Using a heart MRI left and right ventricular mass will be assessed.",
+              "High resolution peripheral quantitative computed tomography (HR-pQCT)",
+              "Quantitative Muscle Dynamometry (Biodex)",
+              "Vertical jump",
+              "Supine-to-stand test",
+              "Postural equilibrium control test",
+              "Tilt test",
+              "Using high frame rate ultrasound (HiFRUS) arterial wall shear stress will be assessed.",
+              "Using high frame rate ultrasound (HiFRUS) arterial wall stiffness will be assessed.",
+              "Using high frame rate ultrasound (HiFRUS) cardiac mass will be assessed.",
+              "Using high frame rate ultrasound (HiFRUS) patterns of blood flow will be assessed.",
+              "Measurement of protein turnover.",
+              "Sleep quality will be assessed using a 3-electrode electroencephalogram (EEG) Sleep Profiler and a wrist worn actigraphy.",
+              "Using 3-electrode electroencephalogram (EEG) Sleep Profiler electrical patterns of brain activity will be measured in order to assess sleep cycles and sleep stages.",
+              "CLSA-FI questionnaire",
+              "To assess gut microbiome, stool samples will be collected and targeted sequencing of the variable regions 4 and 5 (V4-V5) of the 16S ribosomal RNA gene will be performed on an Illumina MiSeq.",
+              "To assess oral microbiome, saliva samples will be collected and targeted sequencing of the variable regions 4 and 5 (V4-V5) of the 16S ribosomal RNA gene will be performed on an Illumina MiSeq.",
+              "Short Physical Performance Battery test",
+              "Timed-up-and-Go test",
+              "Four-square step test",
+              "The following bone markers will be assessed using ELISA kits:\n\nTotal osteocalcin\nUndercarboxylated osteocalcin\nSclerostin\nNTX (N-terminal Telopeptide)\nCTX (C-terminal telopeptide)\nBone Specific Alkaline Phosphatase (BSAP)\nProcollagen type 1 amino-terminal propeptide (P1NP)",
+              "The following growth factors will be measured with Multiplex:\n\nBasic fibroblast growth factor\nGranulocyte colony-stimulating factor (G-CSF)\nGranulocyte-macrophage colony-stimulating factor (GM-CSF)\nPlatelet-derived growth factor BB (PDGF-BB)\nTransforming growth factor \u03b2 (TGF-\u03b2)\nVascular endothelial growth factor (VEGF)",
+              "The following cytokines will be measured with Multiplex:\n\nEotaxin\nInterferon gamma (IFN-\u03b3)\nIL-1\u03b2, IL-1Ra, IL-2, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-12 (p70), IL-13, IL-15, IL-17\nTumour necrosis factor (TNF-\u03b1)\nInterferon gamma- induced protein 10 (IP-10)\nMonocyte chemoattractant protein 1 (MCP-1)\nMacrophage inflammatory protein-1\u03b1 (MIP-1\u03b1)\nMacrophage inflammatory protein-1\u03b2 (MIP-1\u03b2)"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Changes in cognition status of participants with head down bed rest (HDBR) with and without exercise countermeasure.",
+              "Changes in cognition status of participants with head down bed rest (HDBR) with and without exercise countermeasure.",
+              "Changes in emotional status of participants with HDBR with and without exercise countermeasure.",
+              "Changes in emotional status of participants with HDBR with and without exercise countermeasure.",
+              "Changes in brain structure with HDBR with and without exercise countermeasure.",
+              "Changes in brain function with HDBR with and without exercise countermeasure.",
+              "Changes in muscle muscle mass with HDBR with and without exercise countermeasure.",
+              "Changes in muscle fat infiltration with HDBR with and without exercise countermeasure.",
+              "Changes in adiposity with HDBR with and without exercise countermeasure.",
+              "Changes in ventricular volume of the heart with HDBR with and without exercise countermeasure.",
+              "Changes in ventricular mass with HDBR with and without exercise countermeasure.",
+              "Changes in bone structure with HDBR with and without exercise countermeasure.",
+              "Changes in muscle strength with HDBR with and without exercise countermeasure.",
+              "Changes in muscle strength with HDBR with and without exercise countermeasure.",
+              "Changes in muscle-pump baroreflex with HDBR with and without exercise countermeasure.",
+              "Changes in balance control with HDBR with and without exercise countermeasure.",
+              "Changes in orthostatic tolerance with HDBR with and without exercise countermeasure.",
+              "Cardiac and vascular changes with HDBR with and without exercise countermeasure.",
+              "Cardiac and vascular changes with HDBR with and without exercise countermeasure.",
+              "Cardiac and vascular changes with HDBR with and without exercise countermeasure.",
+              "Cardiac and vascular changes with HDBR with and without exercise countermeasure.",
+              "Changes in Fractional Synthesis Rate (FSR) with HDBR with and without exercise countermeasure.",
+              "Changes in sleep quality with HDBR with and without exercise countermeasure.",
+              "Changes in sleep architecture with HDBR with and without exercise countermeasure.",
+              "Changes in frailty status with HDBR with and without exercise countermeasure.",
+              "Changes in the gut microbiome with HDBR with and without exercise countermeasure.",
+              "Changes in the constitution of the oral microbiome with HDBR with and without exercise countermeasure.",
+              "Changes in physical performance with HDBR with and without exercise countermeasure.",
+              "Changes in physical performance with HDBR with and without exercise countermeasure.",
+              "Changes in dynamic balance with HDBR with and without exercise countermeasure.",
+              "Changes in bone markers with HDBR with and without exercise countermeasure.",
+              "Changes in growth factors with HDBR with and without exercise countermeasure.",
+              "Changes in cytokines with HDBR with and without exercise countermeasure."
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: during HDBR period",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughput the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "McGill University Health Centre/Research Institute of the McGill University Health Centre"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Jose Morais"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Professor and Director, Division of Geriatric Medicine, McGill University"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "Neuromuscular activity will be assessed using electromyography.",
+              "Bicycle Ergometer Test",
+              "Lean muscle and fat mass will be assess using dual energy X-ray absorptiometry.",
+              "Will measure excursion curves of glucose and insulin.",
+              "The following bone markers will be assessed using ELISA kits:\n\nNeurofilament light chain\nGlial fibrillary acidic protein\nMyelin basic protein\nTotal tau\nA\u03b21-40\nA\u03b21-42\nBDNF"
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Changes in neuromotor function with HDBR with and without exercise countermeasure.",
+              "Changes in aerobic capacity with HDBR with and without exercise countermeasure.",
+              "Changes in body composition with HDBR with and without exercise countermeasure.",
+              "Changes in insulin sensitivity with HDBR with and without exercise countermeasure.",
+              "Changes in neuronal factors with HDBR with and without exercise countermeasure."
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+              "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "July 12, 2021"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "September 2021"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "July 16, 2021"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "May 6, 2021"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "July 6, 2021"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

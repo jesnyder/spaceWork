@@ -3,7 +3,6 @@ name,path
 # admin referenced
 ref_variable,user_provided admin ref_variable.csv
 
-
 # referenced by query_gscholar
 gscholar_search_terms,user_provided admin gscholar_search_terms.csv
 
@@ -20,4 +19,25 @@ locate_affs,program_generated pubs affs located_affs.json
 affs_missing,program_generated pubs affs missing_affs.json
 
 # created by write_geojson
-geojson,docs js 
+geojson,docs js
+
+# referenced by summarize_data
+skip_words,user_provided admin skip_words.csv
+
+# created by summarize_data
+word_count,program_generated counts fields wordcount.csv
+field_count,program_generated counts fields
+table_js,docs js table
+
+# referenced by query_clinicaltrials
+search_fields,user_provided admin search_fields.json
+ctrials_search_terms,user_provided admin ctrials_search_terms.csv
+
+# created by query_clinicaltrials
+trials_json_id,program_generated trials trialsJson
+trials_found,program_generated trials  trialsFound
+nctids,program_generated trials nctids.csv
+scraped_trials,program_generated trials scraped_trials.json
+scraped_trials_df,program_generated trials scraped_trials_df.csv
+located_trials,program_generated trials located_trials.json
+geojson_trials,docs js geojson geojson_trials.js

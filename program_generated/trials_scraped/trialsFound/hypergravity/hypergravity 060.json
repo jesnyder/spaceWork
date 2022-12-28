@@ -1,0 +1,760 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "BriefSummary",
+                     "BriefTitle",
+                     "CentralContactEMail",
+                     "CentralContactName",
+                     "CentralContactPhone",
+                     "CentralContactPhoneExt",
+                     "CentralContactRole",
+                     "CollaboratorClass",
+                     "CollaboratorName",
+                     "CompletionDate",
+                     "CompletionDateType",
+                     "Condition",
+                     "ConditionAncestorId",
+                     "ConditionAncestorTerm",
+                     "ConditionBrowseBranchAbbrev",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "BriefSummary": [
+                                   "The primary aim of this project is to get further knowledge on the effects of + Gz accelerations and hyperoxia on lung ventilation in humans. The secondary aim is to study lung perfusion and cardiovascular function in these conditions."
+                            ],
+                            "BriefTitle": [
+                                   "Effect of Hyperoxia and Hypergravity on Lung Ventilation and Perfusion"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "UNKNOWN",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Val de Gr\u00e2ce Hospital",
+                                   "Uppsala University Hospital"
+                            ],
+                            "CompletionDate": [
+                                   "July 2012"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Atelectasis"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000008171",
+                                   "D000012140",
+                                   "D000012818"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Lung Diseases",
+                                   "Respiratory Tract Diseases",
+                                   "Signs and Symptoms, Respiratory"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC10",
+                                   "BC14",
+                                   "All",
+                                   "BC08",
+                                   "BC23"
+                            ],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "BriefSummary": [
+                                   "Determine if adding \"extra-gravity\" (sustained increase in vertical loading) during standard rehabilitation exercises has a beneficial effect on pain reduction in subjects suffering from shoulder pain of different origin."
+                            ],
+                            "BriefTitle": [
+                                   "Effects on Shoulder Pain of Simulated Hyper-gravity During Rehabilitation Exercises"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "January 2017"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Shoulder Pain"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000018771",
+                                   "D000007592",
+                                   "D000009140",
+                                   "D000010146",
+                                   "D000009461"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Arthralgia",
+                                   "Joint Diseases",
+                                   "Musculoskeletal Diseases",
+                                   "Pain",
+                                   "Neurologic Manifestations"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC05",
+                                   "BC23",
+                                   "All",
+                                   "BC10"
+                            ],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "BriefSummary": [
+                                   "The main objective of this experiment is to evaluate the alterations in brain cortical activity induced by micro- and hypergravity conditions.\n\nA secondary objective is to correlate changes in brain cortical activity and brain oxygenation level with neurocognitive performance.\n\nAnother secondary objective is to differentiate between the influences of hemodynamic and electro cortical changes and the influence of stress on cognitive performance alterations"
+                            ],
+                            "BriefTitle": [
+                                   "Neurocognitive Performance During Space Flight. Validation of a Test Battery"
+                            ],
+                            "CentralContactEMail": [
+                                   "pierre.denise@unicaen.fr",
+                                   "gaillard-c@chu-caen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Pierre DP Denise, PhD",
+                                   "Cathy GC Gaillard"
+                            ],
+                            "CentralContactPhone": [
+                                   "02.31.06.81.32",
+                                   "02 31 06 53 49"
+                            ],
+                            "CentralContactPhoneExt": [
+                                   "+33",
+                                   "+33"
+                            ],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "INDUSTRY"
+                            ],
+                            "CollaboratorName": [
+                                   "Novespace"
+                            ],
+                            "CompletionDate": [
+                                   "April 2018"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "BriefSummary": [
+                                   "Although most ground studies showed that an egocentric reference frame better supports spatial orientation, it is not proven it will be the same during weightlessness.\n\nAlthough it might justify that visuomotor performance will be better supported by egocentric target cueing under altered gravity conditions, the fact that exocentric target cueing induces less head movements and called for least attentional and physiological workload could be the key factors for a more efficient task localization process. Moreover, weightlessness can induce spatial disorientation, which can be additionally influenced by the intrinsic and extrinsic spatial reference frames (Gurfinkel et al., 1993; Glasauer & Mittelst\u00e4dt, 1997, 1998; Harm et al., 1998; Lipshits et al. 2005). We expect that during weightlessness the workload will be the key factor and thus we hypothesize that an exocentric target cueing will outperform egocentric target cueing.\n\nTo test this hypothesis, and find out which presentation scheme for target cueing (EGO, EXO, ED) contributes most to an efficient visual search, performance to a visuomotor task will be evaluated during parabolic flights in normogravity (1g), hypergravity (1.8g) and microgravity (0g). The visuomotor performance will be assessed by a multi-directional tapping task as defined by ISO9241-9, which requests for motor responses by aimed pointing movements. Besides analyzing the pointing performance, different workload indices will be additionally assessed to evaluate the effort spent on visuomotor coordination. The attentional workload will be evaluated by the performance of a secondary task (visual reaction-time task), which needs to be conducted in parallel to the visuomotor task. Furthermore, the workload will be also assessed subjectively by the NASA TLX rating scale and physiologically, by analyzing the heart rate variability (HRV)."
+                            ],
+                            "BriefTitle": [
+                                   "THE INFLUENCE OF GRAVITY"
+                            ],
+                            "CentralContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Pierre Denise, MD-PhD"
+                            ],
+                            "CentralContactPhone": [
+                                   "+33 231.06.81.32"
+                            ],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 31, 2019"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "BriefSummary": [
+                                   "The investigators objective is twofold. Investigators propose to study how the vestibular and auditory information interact in the construction of coherence between the staff and extrapersonal space.\n\nFurthermore, investigators want to investigate whether, even in the absence of gravity, the auditory spatial information allocentric provide a framework for spatial reference."
+                            ],
+                            "BriefTitle": [
+                                   "Hearing and Vestibular Interactions in the Collection of Own Body and Sense of Self"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "BriefSummary": [
+                                   "The investigators will study adaptation of motion perception and manual control in altered gravity, including the effects of a drug (promethazine). The investigators will also study whether promethazine affects motion perceptual thresholds."
+                            ],
+                            "BriefTitle": [
+                                   "Countermeasures to Reduce Sensorimotor Impairment and Space Motion Sickness Resulting From Altered Gravity Levels"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "National Space Biomedical Research Institute",
+                                   "Massachusetts Institute of Technology"
+                            ],
+                            "CompletionDate": [
+                                   "December 2016"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Vestibular"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "BriefSummary": [
+                                   "In this project, investigators propose to study the jump in different reduced gravity fields obtained during parabolic flights profiles but also during increased gravity fields obtained during turns of the airplane or during the pull-up phase of the parabola. By means of a pneumatic device, an additional pull-down force will be added to the vertical force caused by the gravity field. By combining different levels of gravity to different levels of the added pull-down force it will be possible to dissociate the respective contribution of the otolithic and proprioceptive systems to the anticipatory landing response. To the investigators' knowledge, only one study has modified the gravity field during a jump. However, these authors did not add a pull-down force and only analyzed the vertical ground reaction force.\n\nA better knowledge of the sensory-motor control of the landing phase of a jump will also increase the investigators' understanding of the physiopathology of joint instability. Indeed, similarities could be found between the evolution of the motor response due to the absence gravity during long-duration space flights and the pathological process of chronic ankle and knee instability. The knowledge generated by this study will thus provide invaluable information in the context of human performance and rehabilitation."
+                            ],
+                            "BriefTitle": [
+                                   "The Effect of Gravity on the Muscular Control of Landing From a Jump"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "BriefSummary": [
+                                   "The goal of this study is to objectively determine the perceived direction of the right-front by the subjects in weightlessness. The direction of the right-front has not been investigated to date with the measurements of the position of the eyes. The investigators will compare the intersection of the horizontal and vertical saccadic trajectories (jerky) with the apparent direction of the right-front indicated by the subjects when they look right front in the dark (LOOK) and that they indicate when they determine whether a visual target through the right-front apparent (PERCEPTION). Then, the investigators will compare these measurements between normal gravity and microgravity hypergravity during parabolic flight."
+                            ],
+                            "BriefTitle": [
+                                   "Right-front Direction in Parabolic Flight"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "January 2014"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "BriefSummary": [
+                                   "The overall objective of this study is to better understand the relationship between the body and its environment, including cognitive performance, following repeated changes in gravity, including microgravity (0G) and modified gravity (i.e., hypergravity (1.8G) and modified gravity (Martian gravity)"
+                            ],
+                            "BriefTitle": [
+                                   "Body-environment Relationship Related Modified Gravity"
+                            ],
+                            "CentralContactEMail": [
+                                   "stephane.besnard@unicaen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Stephane BESNARD"
+                            ],
+                            "CentralContactPhone": [
+                                   "+33677978649"
+                            ],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "CollaboratorName": [
+                                   "Institut de Recherche Biomedicale des Armees"
+                            ],
+                            "CompletionDate": [
+                                   "December 23, 2023"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Body Schema"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "BriefSummary": [
+                                   "Parabolic flight is the only ground-based condition in which weightlessness (0G) can be created long enough for safely testing changes in human perception and behavior. In addition to the 0G period, parabolic flight generates equal duration periods of 1.8G, which present another unique opportunity to test the same responses to hypergravity and back to 1G.\n\nSpatial orientation perception is a critical subsystem that is used by the central nervous system in the control of vehicles and other complex systems in a high-level integrative function. Evidence from space flight research demonstrates that spatial orientation is altered by the transitions in gravito-inertial force levels (Cl\u00e9ment 2011; Cl\u00e9ment & Reschke 2008), transitions corresponding to mission phases particularly critical for crew safety and mission success. Accurate perception of self-in-space motion and self-motion relative to other objects is critical for successful operations that involve motor control e.g. doing an extra-vehicule activity or piloting the spacecraft. To date, there is only limited operational evidence that these alterations cause functional impacts on mission-critical operations and control capabilities. Immediately after space flight, most crewmembers have reported some degree of disorientation/perceptual illusion, often accompanied by nausea (or other symptoms of motion sickness), and frequently manifested by lack of coordination, particularly during locomotion The hypothesis is that alteration in sensorimotor performance induced by inverted vision is gravity depend: maximum alteration during hypergravity, intermediary alteration during normal gravity, minimal alteration during weightlessness."
+                            ],
+                            "BriefTitle": [
+                                   "Effects of Inverted Vision on Pointing and Grasping in Parabolic Flight"
+                            ],
+                            "CentralContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Pierre DP Denise, PhD"
+                            ],
+                            "CentralContactPhone": [
+                                   "02.31.06.81.32"
+                            ],
+                            "CentralContactPhoneExt": [
+                                   "+33"
+                            ],
+                            "CentralContactRole": [
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "UNKNOWN"
+                            ],
+                            "CollaboratorName": [
+                                   "International Space University"
+                            ],
+                            "CompletionDate": [
+                                   "October 2017"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Pointing Task",
+                                   "Gasping Task"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "BriefSummary": [
+                                   "Recently, new clinical testing of saccular and utricular function have been developed and validated, the so-called vestibular-evoked myogenic potentials - VEMP (Brantberg et al. 2009, Cornell et al. 2009, Curthoys 2010, Manzari et al. 2012). Among them, the cervical VEMP (cVEMP) are short-latency electromyographic (EMG) modulations of the contracted sternocleidomastoid muscles in responses to vibration applied on the forehead. The clinical literature suggests that cVEMP are almost entirely saccular in origin (Halmagyi et al 1995).\n\nThe aim of our research is to evaluate changes in the otolith function in microgravity and hypergravity using this clinical test. Cervical vestibular-evoked myogenic potentials (cVEMP) will be recorded by surface EMG electrodes in response to bone conducted vibration to specifically assess saccular function (Halmagyi et al 1995). The primary measures will include muscle activity response amplitudes and the stimulus intensity threshold at which the cVEMP is detected.\n\nGiven that there is an off-loading of the saccules in microgravity and an increased loading in hypergravity, we hypothesize that there will be a reduction in cVEMP amplitude in microgravity and an increase in cVEMP amplitude in hypregravity compared to normal gravity. These changes in amplitude will be accompanied by changes in the threshold of the stimulus level required to elicit a cVEMP."
+                            ],
+                            "BriefTitle": [
+                                   "VESTIBULAR EVOKED MYOGENIC POTENTIALS IN ALTERED GRAVITY"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 30, 2019"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "BriefSummary": [
+                                   "Alongside a well-known physiological deconditioning, such as a decrease in muscle mass or bone demineralization, extended stays in weightlessness also cause cognitive dysfunction. However, the studies on this subject during space missions short or long term could not determine how these cognitive dysfunction resulted from a direct effect of weightlessness or a stress-related effect.\n\nAnalysis of electro-encephalography (EEG) using a standardized mapping method is used to study the changes of operation of the cerebral cortex as the near infrared spectroscopy (NIRS) is a reflection of changes in the cerebral hemodynamics. Their combined use is a relatively simple and economical method for studying brain changes in an environment where the normal brain imaging techniques can not be used.\n\nThe main objective of this experiment is to evaluate the alterations in brain cortical activity and brain oxygenation level induced by micro- and hypergravity conditions."
+                            ],
+                            "BriefTitle": [
+                                   "Coherence Between Brain Cortical Function and Neurocognitive Performance During Changed Gravity Conditions"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "BriefSummary": [
+                                   "Parabolic flight is the only ground-based condition in which free-fall (0G) can be created long enough for safely testing changes in human perception and behavior. In addition to the 0G period, parabolic flight generates equal duration periods of 1.8G, which present another unique opportunity to test the same responses to hypergravity and back to 1G.\n\nIt is well known that performance decrements occur in astronauts during and after gravity level transitions. Illusions are commonly felt in orbit as well disorientation and perceptual limitations, mainly due to both psycho-physiological changes and adaptation and lack of familiar points of reference in the space environment. Studies performed during previous space missions showed several changes occurring in different gravity conditions, pointing out, for example, that colors and shadows were misleading, the depth and distance perception were weakened, and the linear perspective was lost. Visual perception is of primary importance for spatial orientation and object recognition because the static vestibular (otolithic) and proprioceptive signals are absent when free-floating. Consequently, astronauts become increasingly dependent on vision to perceive motion and orientation. All these factors play an important role in the adaptation of humans to spaceflight that needs to be analyzed to understand the underlying mechanisms that regulate human psycho-physiological adaptive process to changing gravity. Human psycho-physiological health has to be safeguarded and possibly improved when long-term human space missions are programmed in the near future.\n\nThe primary objective of this experiment is to investigate if the SWI illusion is present in altered gravity environments. Since weight cannot be estimated in 0G, investigators have developed a procedure during which the subject is asked to estimate the objects' mass by shaking them rather than lifting them. Our results in 1G indicate that a size-mass illusion (SMI) is also present in 1G. Our hypothesis is that the previously observed alteration in 3D visual perception in 0G, particularly in the height of 3D objects, as well as the change in proprioceptive inputs, will be responsible for changes in the SMI in 0G and 1.8G compared to 1G. In a separate proposal, investigators will also propose to perform this experiment using the ESA short-arm human centrifuge (SAHC), with subjects exposed to various centrifugal force levels, to further investigate the role of proprioceptive cues in the size-mass illusion."
+                            ],
+                            "BriefTitle": [
+                                   "Influence of Gravity on the Size-mass Illusion"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC10",
+                                   "BC23",
+                                   "BXM",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "BriefSummary": [
+                                   "Parabolic flight is the only ground-based condition in which weightlessness (0G) can be created long enough for safely testing changes in human perception and behavior. In addition to the 0G period, parabolic flight generates equal duration periods of 1.8G, which present another unique opportunity to test the same responses to hypergravity and back to 1G.\n\nCognitive function, together with good oculomotor control, eye-hand coordination, and spatial orientation perception, is a critical subsystem that is used by the CNS in the control of vehicles and other complex systems in a high-level integrative function. Evidence from space flight research demonstrates that the function of each of these subsystems is altered by the transitions in gravito-inertial force levels. These neuro-vestibular alterations, unfortunately, correspond to mission phases where physical and cognitive performance are particularly critical for crew safety and mission success. To date, there is only limited operational evidence that these alterations cause functional impacts on mission-critical vehicle (or complex system) control capabilities. However, the true operational risks will be estimable only after the investigators have filled the knowledge gaps and when the investigators can accurately assess integrated performance in off-nominal operational settings.\n\nAccurate perception of self-in-space motion and self-motion relative to other objects are critical to piloting, driving, and remote manipulator operations. Immediately after space flight, most crewmembers have reported some degree of disorientation/perceptual illusion, often accompanied by nausea (or other symptoms of motion sickness), and frequently manifested by lack of coordination, particularly during locomotion. Despite recent, intensive training, some Shuttle landings were outside of the desired performance boundaries. Scores indicating neurovestibular dysfunction in returning astronauts generally correlated with poorer flying performances, including a lower approach and landing shorter, faster, and harder. An underestimation of distance, coupled to an overestimation of tilt magnitude or misperception of the type of motion, could be at the origin of these poorer performances.\n\nThis study should confirm that the unloading of the otoliths in weightlessness induces an alteration in the egocentric reference during space flight. Errors in egocentric localization might contribute at a higher level to the computation of misleading world-centered representations, and therefore be partly responsible for illusory sensations and motion sickness symptoms during space flight, and postural instability and oscillopsia after returning in a reduced or terrestrial gravitational force level.\n\nBeside their fundamental implications, the results of this study have also practical implications in the design of man-machine interfaces. Changes in judgment of distance in microgravity or in reduced gravity affect crew posture and reach, display orientation, and other visual cues, which should be considered in hardware and operations design."
+                            ],
+                            "BriefTitle": [
+                                   "Influence of Gravity on the Perception of Egocentric Distance (Blindpulling)"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "BriefSummary": [
+                                   "During weightlessness, the cardiovascular system is subject to rapid changes which has been demonstrated in studies of short term (Space Shuttle) and long term missions to Skylab, MIR, and the International Space Station (Nicogossian et al., 1989; Blomquist, 1994; Platts et al., 2014). There is also evidence for changes in the blood vessel structure, the metabolism and the responses to vasodilator and constrictor substances that might have long-term health consequences resembling the effects of aging on the cardiovascular system (Hughson and Shoemaker, 2004). Cardiovascular adaptations cause an increased incidence of postflight orthostatic intolerance (fainting), decreased cardiac output and reduced exercise capacity. Besides these postflight effects, weightlessness could also have harmful consequences during the flight. For example, it has been shown that cardiac arrhythmia may occur during space missions, even in healthy individuals (Convertino, 2009).\n\nTo understand the cardiovascular reactions of the human body to changing conditions of gravity is thus an important aim of space science.\n\nWhile non-invasive imaging of microcirculation is a very promising tool to evaluate cardiovascular condition, knowledge on the involvement of the microcirculation in cardiovascular alterations induced by weightlessness is very limited and further research in this field seems promising. Before using a non-invasive technique for imaging the microcirculation during space flights, it has to be evaluated on earth.\n\nDifferent proven simulation models exist for investigating the effects of weightlessness on the human body under terrestrial conditions: head down bed rest, dry and wet immersion, and parabolic flights. Among these models, only parabolic flight recreates a real state of weightlessness (see the participant document of information for a description of parabolic flights). Cardiovascular studies have often been performed during parabolic flights. Within the limitations inherent to the method (short duration of weightlessness - about 21 s - following and followed by hypergravity 20 s periods at 1.8g), some remarkable results have been published over the years.\n\nThe aim of our research approach is to test feasibility of the in vivo evaluation of the microcirculation in parabolic flight in order to be able to better describe cardiovascular response mechanisms under these conditions. In this context, we expect alterations in the microcirculatory flow during the weightlessness period of parabolic flight.\n\nOur approach might help develop a diagnostic tool to more easily identify weightlessness-induced cardiovascular diseases and improve strategies for adapting astronauts to weightlessness prior to the space mission."
+                            ],
+                            "BriefTitle": [
+                                   "VISUALIZATION OF THE MICROCIRCULATION IN WEIGHTLESSNESS"
+                            ],
+                            "CentralContactEMail": [
+                                   "denise-p@chu-caen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Pierre Denise, MD,PhD"
+                            ],
+                            "CentralContactPhone": [
+                                   "0231.06.81.32"
+                            ],
+                            "CentralContactPhoneExt": [
+                                   "+33"
+                            ],
+                            "CentralContactRole": [
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 30, 2019"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "BriefSummary": [
+                                   "When astronauts return from space flight, they manifest a set of symptoms, the most striking of which is orthostatic intolerance, that is, the inability to stay upright. This orthostatic intolerance is related to cardiovascular adaptation and disappears in a few days, but the prospect of long-term space travel makes this maladaptation a major concern of space agencies, at a time when there is serious consideration to make \" land \"a ship on Mars.\n\nPrevious studies suggest that brain vessel adaptation may contribute to spatial post-flight orthostatic intolerance. The question remains controversial because not all studies are consistent. These studies are all based on the measurement of blood flow in a single artery of the brain (the average cerebral, see cerebral circulation diagram) easily accessible with a Doppler ultrasound machine. Our team has good reason to believe that the adaptation of the cerebral vessels is not carried out in the same way in all the arteries of the brain and that in particular the arteries that irrigate the posterior and inferior parts of the brain are a major determinant. from cerebrovascular adaptation to orthostatism and that orthostatic intolerance is more specifically related to a decrease in blood flow in these arteries. On the other hand our team has shown that the external carotid artery plays, under certain conditions, a buffer role of the sudden variations of perfusion pressure of the brain.\n\nDuring the weightless phase of parabolic flight, part of the blood from the legs and abdomen \"rises\" to the thorax and this transfer of fluid induces changes in blood pressure and cardiac output that affect the cerebral circulation. From a cardiovascular point of view, it is the same thing for a seated subject to lie down, but the parabolic flight offers the unique possibility of achieving this transfer in a fraction of a second and thus allowing to study the immediate response of the cerebral circulation. .\n\nInvestigators goal is therefore to quantify the changes in blood flow in the posterior and anterior territories of the brain (transcranial ultrasound) as well as in the internal carotid and vertebral (Doppler ultrasound) during changes in blood pressure and cardiac output induced by transfers. liquid resources associated with the transition to weightlessness.\n\nThe oxidative stress generated by weightlessness has been identified as a determining factor in cerebrovascular deconditioning associated with orthostatic intolerance. In order to quantify the biochemical markers of this stress, a venous sample will be taken before and just after the parabolic flight."
+                            ],
+                            "BriefTitle": [
+                                   "Cerebral Blood Flow Distribution During Parabolic Flight-induced Microgravity"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER_GOV",
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Centre National d'Etudes Spatiales",
+                                   "Universit\u00e9 de Caen Normandie",
+                                   "The University of New South Wales"
+                            ],
+                            "CompletionDate": [
+                                   "September 30, 2021"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Weightlessness",
+                                   "Cerebral Blood Flow"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "BriefSummary": [
+                                   "The primary aim of this project is to get further knowledge of the physiology of flight atelectasis and its prevention. We seek to: 1) assess whether low levels of positive pressure breathing can prevent atelectasis formation in humans during exposure to hyperoxia and +Gz-accelerations. 2) get further knowledge on the effects of hypobaria on regional ventilation and perfusion.\n\nA secondary aim is to evaluate the effect of anti G-trouser inflation on ventilation and regional perfusion."
+                            ],
+                            "BriefTitle": [
+                                   "Atelectasis Formation: Role of Positive Pressure Breathing, Hyperoxia, and Hypobaria"
+                            ],
+                            "CentralContactEMail": [
+                                   "stephanie.montmerle@intradef.gouv.fr",
+                                   "catherine.verret@intradef.gouv.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Stephanie S Montmerle-Borgdorff, MD, PhD",
+                                   "Catherine Verret, MD, PhD"
+                            ],
+                            "CentralContactPhone": [
+                                   "+33(1)78651249",
+                                   "+33(1)78651115"
+                            ],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "UNKNOWN"
+                            ],
+                            "CollaboratorName": [
+                                   "Uppsala University Hospital",
+                                   "Percy Hospital"
+                            ],
+                            "CompletionDate": [
+                                   "January 1, 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Pulmonary Atelectasis"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000008171",
+                                   "D000012140",
+                                   "D000012818"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Lung Diseases",
+                                   "Respiratory Tract Diseases",
+                                   "Signs and Symptoms, Respiratory"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC08",
+                                   "BC23",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "BriefSummary": [
+                                   "Neuro-feedback for treating tinnitus seem to be a promising approach to help people suffering from chronic tinnitus. The past studies on this approach suffered interindividual variability in their results. The investigators' current hypothesis is that the variability of the results is the consequences of two possible flaws: lack of appropriate patient selection and lack of support of the patient during the therapy. This study is aimed at testing these hypotheses."
+                            ],
+                            "BriefTitle": [
+                                   "Neuro-feedback Therapy for Treating Tinnitus"
+                            ],
+                            "CentralContactEMail": [
+                                   "Alain.londero@aphp.fr",
+                                   "r.simeon@ch-bry.org"
+                            ],
+                            "CentralContactName": [
+                                   "Alain LONDERO",
+                                   "Renaud SIMEON"
+                            ],
+                            "CentralContactPhone": [
+                                   "05 61 77 21 19",
+                                   "01 40 19 36 61"
+                            ],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "University Hospital, Toulouse"
+                            ],
+                            "CompletionDate": [
+                                   "January 15, 2019"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Tinnitus",
+                                   "Hearing Loss"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000006311",
+                                   "D000004427",
+                                   "D000010038",
+                                   "D000012678",
+                                   "D000009461",
+                                   "D000009422"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Hearing Disorders",
+                                   "Ear Diseases",
+                                   "Otorhinolaryngologic Diseases",
+                                   "Sensation Disorders",
+                                   "Neurologic Manifestations",
+                                   "Nervous System Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC09",
+                                   "BC10",
+                                   "BC23",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

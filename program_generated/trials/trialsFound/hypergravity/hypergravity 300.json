@@ -1,0 +1,476 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "ResultsFirstSubmitDate",
+                     "ResultsFirstSubmitQCDate",
+                     "RetractionPMID",
+                     "RetractionSource",
+                     "SamplingMethod",
+                     "SecondaryId",
+                     "SecondaryIdDomain",
+                     "SecondaryIdLink",
+                     "SecondaryIdType",
+                     "SecondaryOutcomeDescription",
+                     "SecondaryOutcomeMeasure",
+                     "SecondaryOutcomeTimeFrame",
+                     "SeeAlsoLinkLabel",
+                     "SeeAlsoLinkURL",
+                     "SeriousEventAssessmentType",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "\"per lobe and per quadrant at 5th intercostal space level\"",
+                                   "\"echocardiography (sub-aortic diameter), photoplethysmography (Liljestrand, systolic area and Windkessel algorithms)\""
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "change in regional pulmonary perfusion",
+                                   "cardiac output (L/min)"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "baseline, 2hrs 30min",
+                                   "2hrs"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "The Stability Score is calculated as percentage ratio of the actual sway and the theoretical limit of stability.\n\nChanges will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies.",
+                                   "It is measured as shoulder abduction through \"Scaption Range\", external / internal rotation in abduction at 90 degrees, and single arm overhead press motion.\n\nChanges will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies.",
+                                   "A 30-item, self-report questionnaire designed to measure physical function and symptoms in patients with any or several musculoskeletal disorders of the upper limb.\n\nChanges will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies.",
+                                   "An 8-minute computerized auditory sustained attention test. Changes will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Changes in Stability Score",
+                                   "Changes in shoulder range of motion",
+                                   "Changes in Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure",
+                                   "Test of Sustained Selective Attention (TOSSA)"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "three months",
+                                   "three months",
+                                   "three months",
+                                   "three months"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "ResultsFirstSubmitDate": [
+                                   "August 16, 2017"
+                            ],
+                            "ResultsFirstSubmitQCDate": [
+                                   "December 7, 2017"
+                            ],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "Only for the grasping task - the time between when the subject lifts their finger from the screen after having seen the shape, grasps the shape and touches the screen again. This will also be measured for the time between when the subject touches the screen, places the shape in the correct form fitter and touches the screen again",
+                                   "Only for the pointing task - the measured Euclidian distance from the target center to the coordinates of where the subject touched the screen."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Task duration",
+                                   "Accuracy"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "During flight",
+                                   "During flight"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [
+                                   "Site for weightlessness experimentations"
+                            ],
+                            "SeeAlsoLinkURL": [
+                                   "http://www.novespace.fr/"
+                            ],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "The secondary outcome measure denotes the evolution of the intensity of tinnitus and the disturbance associated measured by two scales. First the Visual Analog Scale (VAS) for intensity of Tinnitus enables the patient to rate his tinnitus intensity with integers values between 1 to 10 (included). Second, the Visual Analog Scale (VAS) for Tinnitus associated disturbance enables the patient to rate his tinnitus associated diturbance with integers values between 1 to 10 (included). For both scales, a high value (near 10) indicates a high gravity of the symptom, regarding either its intensity or its associated disturbance, while low values (near 1), indicate lighter impact of the symptom regarding its intensity or its associated disturbance. The scores are assessed subjectively by the patient when asked.",
+                                   "Evaluation of maintenance of effects perceived 3 months after the treatment. The THI and the VAS scales are used similarly to the precedent outcome measures. THI is a questionnaire composed of 25 questions each with 3 response options converting in 0, 2, and 4 points scoring, making it a scale from 0 to 100 points. the Visual Analog Scale (VAS) for intensity of Tinnitus enables the patient to rate his tinnitus intensity with integers values between 1 to 10 (included). The Visual Analog Scale (VAS) for Tinnitus associated disturbance enables the patient to rate his tinnitus associated diturbance with integers values between 1 to 10 (included). For both visual analog scales, a high value (near 10) indicates a high gravity of the symptom, regarding either its intensity or its associated disturbance, while low values (near 1), indicate lighter impact of the symptom regarding its intensity or its associated disturbance.",
+                                   "Evaluation of potential side effects during the study. At each session patients will be asked if they want to declare any side effects they believe to be related to the treatment.",
+                                   "Evaluation of the proportion of daily time that the patient reports experiencing and being disturbed by his tinnitus through 4 questions.",
+                                   "Correlation between the plastic effects induced by therapy on electrophysiological measurements and the assessment of the severity of tinnitus through the THI/VAS.",
+                                   "Evolution of the precedent quoted measures before and after treatment measured as percentages of the initial value (proportion of evolution of the THI, VAS and BAHIA measurements)."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Comparison of initial and final Visual Analog Scale (VAS) distributions",
+                                   "Evolution of Tinnitus Handicap Inventory (THI) and Visual Analog Scales (VAS) on tinnitus intensity and associated disturbance 3 month after the treatment",
+                                   "Side effects",
+                                   "Evolution of pathological attention level (BAHIA) standing for (in french) Biphasique, Acouph\u00e8ne, Hyperacousie, Insensibilit\u00e9 de la face et Autres sensations.",
+                                   "Correlation of the electrophysiological measurements and the THI/VAS measurements",
+                                   "Evolution of the THI, BAHIA, and VAS scores, expressed as a percentage of the initial value"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Comparison of initial and final VAS before and after treatment for a Time frame of 5 weeks.",
+                                   "3 months after the end of the 5 week treatment",
+                                   "The total duration of the study",
+                                   "Comparison of initial and final BAHIA before and after treatment for a Time frame of 5 weeks.",
+                                   "Over the 5 weeks of treatment",
+                                   "Comparison of initial and final measurements before and after treatment for a Time frame of 5 weeks."
+                            ],
+                            "SeeAlsoLinkLabel": [
+                                   "Reduced Variability of Auditory Alpha Activity in Chronic Tinnitus"
+                            ],
+                            "SeeAlsoLinkURL": [
+                                   "https://www.hindawi.com/journals/np/2014/436146/"
+                            ],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

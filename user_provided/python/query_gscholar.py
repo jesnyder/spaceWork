@@ -35,7 +35,7 @@ def query_gscholar():
 
     print("running query_gscholar")
 
-    tasks = [1]
+    tasks = [0, 1]
     for term in list(retrieve_df('gscholar_search_terms')['term']):
 
         print('term = ' + term)

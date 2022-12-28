@@ -1,0 +1,584 @@
+{
+       "Rank": 17,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Primary aim, item 1",
+              "Primary aim, item 1"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: +Gz accelerations and positive pressure breathing",
+              "Other: +Gz accelerations and positive pressure breathing"
+       ],
+       "ArmGroupLabel": [
+              "100%O2 breathing",
+              "Air breathing"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT03311347"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The primary aim of this project is to get further knowledge of the physiology of flight atelectasis and its prevention. We seek to: 1) assess whether low levels of positive pressure breathing can prevent atelectasis formation in humans during exposure to hyperoxia and +Gz-accelerations. 2) get further knowledge on the effects of hypobaria on regional ventilation and perfusion.\n\nA secondary aim is to evaluate the effect of anti G-trouser inflation on ventilation and regional perfusion."
+       ],
+       "BriefTitle": [
+              "Atelectasis Formation: Role of Positive Pressure Breathing, Hyperoxia, and Hypobaria"
+       ],
+       "CentralContactEMail": [
+              "stephanie.montmerle@intradef.gouv.fr",
+              "catherine.verret@intradef.gouv.fr"
+       ],
+       "CentralContactName": [
+              "Stephanie S Montmerle-Borgdorff, MD, PhD",
+              "Catherine Verret, MD, PhD"
+       ],
+       "CentralContactPhone": [
+              "+33(1)78651249",
+              "+33(1)78651115"
+       ],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [
+              "Contact",
+              "Contact"
+       ],
+       "CollaboratorClass": [
+              "OTHER",
+              "UNKNOWN"
+       ],
+       "CollaboratorName": [
+              "Uppsala University Hospital",
+              "Percy Hospital"
+       ],
+       "CompletionDate": [
+              "January 1, 2020"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Pulmonary Atelectasis"
+       ],
+       "ConditionAncestorId": [
+              "D000008171",
+              "D000012140",
+              "D000012818"
+       ],
+       "ConditionAncestorTerm": [
+              "Lung Diseases",
+              "Respiratory Tract Diseases",
+              "Signs and Symptoms, Respiratory"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC08",
+              "BC23",
+              "All"
+       ],
+       "ConditionBrowseBranchName": [
+              "Respiratory Tract (Lung and Bronchial) Diseases",
+              "Symptoms and General Pathology",
+              "All Conditions"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Atelectasis",
+              "Hyperoxia"
+       ],
+       "ConditionBrowseLeafId": [
+              "M26290",
+              "M3719",
+              "M19753",
+              "M10320",
+              "M14129",
+              "M14775"
+       ],
+       "ConditionBrowseLeafName": [
+              "Respiratory Aspiration",
+              "Pulmonary Atelectasis",
+              "Hyperoxia",
+              "Lung Diseases",
+              "Respiratory Tract Diseases",
+              "Signs and Symptoms, Respiratory"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "high",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000001261",
+              "D000018496"
+       ],
+       "ConditionMeshTerm": [
+              "Pulmonary Atelectasis",
+              "Hyperoxia"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Non-Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [
+              "Two arms are studied, breathing air or 100%O2. In each arm, subjects are studied at two occasions: with and without positive pressure breathing. These occasions are randomized."
+       ],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "The effect of positive pressure breathing on lung function is being studied, when applied during exposure to hyperoxia and +Gz-accelerations. Focus is on lung tissue compression, ventilation and regional perfusion. In addition, the influence of hypobaria on these parameters is assessed.\n\nThis study is conducted in accordance with the amended Declaration of Helsinki. The Ethics Committee Ile-de-France III (ref. 3274) and the French National Agency for Drug Safety ANSM have approved the protocol (ref. ID RCB 2015-A00485-44 and ANSM 151046B-32).\n\nPrimary aim, item 1: Experiments are conducted in a human centrifuge. The protocol mimics a routine peacetime flight in combat aircraft, and includes 1hr05 min at +1Gz followed by 10-min exposure to +1.4 to +3.5Gz . Subjects are exposed three times to this sequence, breathing at positive pressure levels of 0, 5 or 10 hPa. Two groups of sixteen healthy male non-smoking volunteers, wearing anti-G trousers, are studied and compared: group 1 breathes air, group 2 100% O2.\n\nPrimary aim, item 2: Experiments are conducted in a hypobaric chamber. Sixteen healthy male non-smoking volunteers are exposed to four conditions: 0 or 15,000 ft altitude, breathing air or 100%O2. Protocol duration is 1h15min. Positive breathing pressure can be applied depending on the results of the experiments of item 1.\n\nSecondary aim: Experiments are conducted in a human centrifuge. Sixteen healthy male non-smoking volunteers are exposed to four conditions: uninflated or inflated anti-G trousers (175 hPa), +1 or +3.5 Gz for 3 min."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nnormal lung function checked by pulmonary function tests.\nnormal ECG\nnormal clinical examination\n\nAim 1 exclusion criteria:\n\nsmoking\nmyopia\npast medical history of heart or lung disease\ncurrent medical treatment for heart or lung disease\npast medical history of back pain or spine trauma or disease\notitis\nbad tolerance to +Gz accelerations (G-induced loss of consciousness, motion sickness)\nclaustrophobia in the centrifuge gondola\n\nAim 2 exclusion criteria:\n\nsmoking\npast medical history of heart or lung disease\ncurrent medical treatment for heart or lung disease\notitis\nbad tolerance to the altitude chamber (15,000 ft): ear pain, claustrophobia"
+       ],
+       "EnrollmentCount": [
+              "80"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "100%O2 breathing",
+              "Air breathing"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "+Gz accelerations and positive pressure breathing"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "pulmonary ultrasound",
+              "hypergravity",
+              "human physiology",
+              "oxygen",
+              "lung ventilation",
+              "lung perfusion",
+              "computed tomography",
+              "electrical impedance tomography",
+              "altitude chamber"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [
+              "Recruiting"
+       ],
+       "LastUpdatePostDate": [
+              "May 14, 2019"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "May 13, 2019"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Br\u00e9tigny-sur-Orge",
+              "Clamart"
+       ],
+       "LocationContactEMail": [
+              "stephanie.montmerle@intradef.gouv.fr",
+              "david.maquilon@intradef.gouv.fr"
+       ],
+       "LocationContactName": [
+              "Stephanie S Montmerle-Borgdorff, MD, PhD",
+              "Maquilon-Lefebvre David, nurse",
+              "Stephanie S Montmerle-Borgdorff, MD, PhD",
+              "G\u00f6ran Hedenstierna, Pr, MD, PhD",
+              "Jo\u00e3o Batista Borges, MD, PhD",
+              "Caroline Dussault, PhD"
+       ],
+       "LocationContactPhone": [
+              "+33(1)78651249",
+              "+33(1)78651091"
+       ],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [
+              "Contact",
+              "Contact",
+              "Principal Investigator",
+              "Sub-Investigator",
+              "Sub-Investigator",
+              "Sub-Investigator"
+       ],
+       "LocationCountry": [
+              "France",
+              "France"
+       ],
+       "LocationFacility": [
+              "Armed Forces Biomedical Research Institute",
+              "Department of Radiology, Percy hospital"
+       ],
+       "LocationState": [],
+       "LocationStatus": [
+              "Recruiting",
+              "Active, not recruiting"
+       ],
+       "LocationZip": [
+              "91 223",
+              "92140"
+       ],
+       "MaximumAge": [
+              "45 Years"
+       ],
+       "MinimumAge": [
+              "25 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Influence of Hyperoxia and Hypobaria on Atelectasis Occurrence and Mitigation of Atelectasis Formation"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es"
+       ],
+       "OrgStudyId": [
+              "PDH1-SMO2-0714"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Armed Forces Biomedical Research Institute"
+       ],
+       "OverallOfficialName": [
+              "Dominique Felten, MD"
+       ],
+       "OverallOfficialRole": [
+              "Study Chair"
+       ],
+       "OverallStatus": [
+              "Unknown status"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "June 30, 2019"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "computerized tomography: 0-5 scale for size and localization",
+              "electrical impedance tomography: deltaZ on regions of interest",
+              "ultrasound: number of lung comets + localization"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "atelectasis formation (change between pre and post-protocol)",
+              "change in pulmonary ventilation between 1 Gz, 1.6 Gz and 3.5 Gz",
+              "change in pulmonary tissue density from baseline at centrifuge stop and 1h30 min after stop"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "pre-protocol (baseline) and 1h30 min after centrifuge stop",
+              "pre-protocol (baseline), baseline + 1hr, baseline +1h10 min, baseline +1h15 min",
+              "pre protocol (baseline), at centrifuge stop (baseline + 1h15 min) and 1h30 min after centrifuge stop"
+       ],
+       "ReferenceCitation": [
+              "Dussault C, Gontier E, Verret C, Soret M, Boussuges A, Hedenstierna G, Montmerle-Borgdorff S. Hyperoxia and hypergravity are independent risk factors of atelectasis in healthy sitting humans: a pulmonary ultrasound and SPECT/CT study. J Appl Physiol (1985). 2016 Jul 1;121(1):66-77. doi: 10.1152/japplphysiol.00085.2016. Epub 2016 Apr 21.",
+              "Borges JB, Hedenstierna G, Bergman JS, Amato MB, Avenel J, Montmerle-Borgdorff S. First-time imaging of effects of inspired oxygen concentration on regional lung volumes and breathing pattern during hypergravity. Eur J Appl Physiol. 2015 Feb;115(2):353-63. doi: 10.1007/s00421-014-3020-9. Epub 2014 Oct 17."
+       ],
+       "ReferencePMID": [
+              "27103651",
+              "25323531"
+       ],
+       "ReferenceType": [
+              "background",
+              "result"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "September 14, 2015"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "May 2019"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "October 17, 2017"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "April 5, 2017"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "October 11, 2017"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

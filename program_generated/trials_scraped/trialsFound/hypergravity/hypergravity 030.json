@@ -1,0 +1,442 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "BaselineClassDenomCountValue",
+                     "BaselineClassDenomUnits",
+                     "BaselineClassTitle",
+                     "BaselineDenomCountGroupId",
+                     "BaselineDenomCountValue",
+                     "BaselineDenomUnits",
+                     "BaselineGroupDescription",
+                     "BaselineGroupId",
+                     "BaselineGroupTitle",
+                     "BaselineMeasureCalculatePct",
+                     "BaselineMeasureDenomCountGroupId",
+                     "BaselineMeasureDenomCountValue",
+                     "BaselineMeasureDenomUnits",
+                     "BaselineMeasureDenomUnitsSelected",
+                     "BaselineMeasureDescription",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [
+                                   "BG000",
+                                   "BG001",
+                                   "BG002",
+                                   "BG003",
+                                   "BG004"
+                            ],
+                            "BaselineDenomCountValue": [
+                                   "10",
+                                   "10",
+                                   "5",
+                                   "5",
+                                   "30"
+                            ],
+                            "BaselineDenomUnits": [
+                                   "Participants"
+                            ],
+                            "BaselineGroupDescription": [
+                                   "placebo\n\nHyper gravity training: Subject receives hypergravity training before testing\n\nPlacebo: Placebo",
+                                   "placebo\n\nHyper gravity training: Subject receives hypergravity training before testing\n\nPlacebo: Placebo",
+                                   "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with promethazine then once with placebo, separated by >4 days.\n\nPromethazine: Subject receives promethazine\n\nPlacebo: Placebo",
+                                   "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with placebo then once with promethazine, separated by >4 days.\n\nPromethazine: Subject receives promethazine\n\nPlacebo: Placebo",
+                                   "Total of all reporting groups"
+                            ],
+                            "BaselineGroupId": [
+                                   "BG000",
+                                   "BG001",
+                                   "BG002",
+                                   "BG003",
+                                   "BG004"
+                            ],
+                            "BaselineGroupTitle": [
+                                   "Tilt Perception, Training, Placebo",
+                                   "Manual Control, Training, Placebo",
+                                   "Perceptual Thresholds,Drug Then Placebo",
+                                   "Perceptual Thresholds,Placebo Then Drug",
+                                   "Total"
+                            ],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "BaselineClassDenomCountValue": [],
+                            "BaselineClassDenomUnits": [],
+                            "BaselineClassTitle": [],
+                            "BaselineDenomCountGroupId": [],
+                            "BaselineDenomCountValue": [],
+                            "BaselineDenomUnits": [],
+                            "BaselineGroupDescription": [],
+                            "BaselineGroupId": [],
+                            "BaselineGroupTitle": [],
+                            "BaselineMeasureCalculatePct": [],
+                            "BaselineMeasureDenomCountGroupId": [],
+                            "BaselineMeasureDenomCountValue": [],
+                            "BaselineMeasureDenomUnits": [],
+                            "BaselineMeasureDenomUnitsSelected": [],
+                            "BaselineMeasureDescription": [],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

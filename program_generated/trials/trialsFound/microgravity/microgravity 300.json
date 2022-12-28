@@ -1,0 +1,1408 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "ResultsFirstSubmitDate",
+                     "ResultsFirstSubmitQCDate",
+                     "RetractionPMID",
+                     "RetractionSource",
+                     "SamplingMethod",
+                     "SecondaryId",
+                     "SecondaryIdDomain",
+                     "SecondaryIdLink",
+                     "SecondaryIdType",
+                     "SecondaryOutcomeDescription",
+                     "SecondaryOutcomeMeasure",
+                     "SecondaryOutcomeTimeFrame",
+                     "SeeAlsoLinkLabel",
+                     "SeeAlsoLinkURL",
+                     "SeriousEventAssessmentType",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [
+                                   "Non-Probability Sample"
+                            ],
+                            "SecondaryId": [
+                                   "16-2016GL_FP-0011"
+                            ],
+                            "SecondaryIdDomain": [
+                                   "National Aeronautics and Space Administration"
+                            ],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "Other Grant/Funding Number"
+                            ],
+                            "SecondaryOutcomeDescription": [
+                                   "The study team will use rtPCR to probe the stem cells for the up regulation of Endothelial cell (EC) specific genes and down regulation of stem cell genes. EC specific genes include vascular endothelial cadherin (CD144), platelet endothelial cell adhesion molecule (PECAM), and von Willebrand factor (vWF). Stem cell markers include CD34. The study team will use GAPDH as a control.",
+                                   "The study team will utilize platelet adhesion and blood clotting assays to assess any changes in how anti-thrombogenic the differentiated endothelial cells are."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Gene and Protein expression of normal vs microgravity cultured stem cells",
+                                   "Anti-thrombogenic function of normal vs microgravity cultured stem cells"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "through study completion, up to 2 years from the start of the study",
+                                   "through study completion, up to 2 years from the start of the study"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [
+                                   "Related Info"
+                            ],
+                            "SeeAlsoLinkURL": [
+                                   "https://www.dexeus.com/"
+                            ],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [
+                                   "Non-Probability Sample"
+                            ],
+                            "SecondaryId": [
+                                   "P0132429",
+                                   "OCR25782"
+                            ],
+                            "SecondaryIdDomain": [
+                                   "Florida Space Institute",
+                                   "UF OnCore"
+                            ],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "Other Grant/Funding Number",
+                                   "Other Identifier"
+                            ],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [
+                                   "Heart-rate",
+                                   "Blood pressure"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "110 min",
+                                   "110 min"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [
+                                   "Translational Research Institute for Metabolism and Diabetes"
+                            ],
+                            "SeeAlsoLinkURL": [
+                                   "http://www.tri-md.org/"
+                            ],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [
+                                   "parameters of muscle function, Rate of force development",
+                                   "parameters of muscle function, Electromyographic activity",
+                                   "parameters of muscle function, Ultrasound measure: fascicle length",
+                                   "parameters of muscle function, Ultrasound measure: pennation angle of the gastrocnemius medialis muscle",
+                                   "parameters of muscle function, Superimposed twitch torque (M-waves at rest and V-waves in MVC conditions)",
+                                   "parameters of muscle function, Maximum voluntary activation capacity (%VA): %VA = (1-[torque superimposed twitch/torque resting twitch])*100%."
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline",
+                                   "baseline",
+                                   "baseline",
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [
+                                   "Non-Probability Sample"
+                            ],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [
+                                   "NASA For Educators: The Bedrest Studies",
+                                   "One Man's Rest Is Another Man's Research",
+                                   "WIRED Science: Do You Have the Right Stuff to Be a NASA Pillownaut?",
+                                   "Popular Science: Pillownauts Stay in Bed for the Sake of Science"
+                            ],
+                            "SeeAlsoLinkURL": [
+                                   "http://www.nasa.gov/audience/foreducators/lying-around.html",
+                                   "http://www.nasa.gov/mission_pages/station/behindscenes/bed_rest_study.html",
+                                   "http://www.wired.com/wiredscience/2009/06/pillownaut",
+                                   "http://www.popsci.com/military-aviation-amp-space/article/2009-06/pillownaut-stays-bed-sake-science"
+                            ],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "time without effective compression after the onset of chest compressions",
+                                   "correct thorax release after compression",
+                                   "Depth Frequency Feasibility Exhaustion All in All Quality"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "no-flow-time",
+                                   "thorax release",
+                                   "Self-Satisfaction-Score"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "60 seconds video clip with afterwards evaluation",
+                                   "60 seconds video clip with afterwards evaluation",
+                                   "60 Seconds, Questionnaire filled out by participants after dive"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [
+                                   "Site for weightlessness experimentations"
+                            ],
+                            "SeeAlsoLinkURL": [
+                                   "http://www.novespace.fr/"
+                            ],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [
+                                   "Non-Probability Sample"
+                            ],
+                            "SecondaryId": [
+                                   "P0036354"
+                            ],
+                            "SecondaryIdDomain": [
+                                   "Florida Space Institute"
+                            ],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "Other Grant/Funding Number"
+                            ],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [
+                                   "2022-A00881-42"
+                            ],
+                            "SecondaryIdDomain": [
+                                   "ANSM"
+                            ],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "Other Identifier"
+                            ],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "Neuromuscular activity will be assessed using electromyography.",
+                                   "Bicycle Ergometer Test",
+                                   "Lean muscle and fat mass will be assess using dual energy X-ray absorptiometry.",
+                                   "Will measure excursion curves of glucose and insulin.",
+                                   "The following bone markers will be assessed using ELISA kits:\n\nNeurofilament light chain\nGlial fibrillary acidic protein\nMyelin basic protein\nTotal tau\nA\u03b21-40\nA\u03b21-42\nBDNF"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Changes in neuromotor function with HDBR with and without exercise countermeasure.",
+                                   "Changes in aerobic capacity with HDBR with and without exercise countermeasure.",
+                                   "Changes in body composition with HDBR with and without exercise countermeasure.",
+                                   "Changes in insulin sensitivity with HDBR with and without exercise countermeasure.",
+                                   "Changes in neuronal factors with HDBR with and without exercise countermeasure."
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [
+                                   "Non-Probability Sample"
+                            ],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [
+                                   "Endogenous gene expression"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "1 week"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [
+                                   "2021-A00705-36"
+                            ],
+                            "SecondaryIdDomain": [
+                                   "ANSM"
+                            ],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "Other Identifier"
+                            ],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [
+                                   "2007-A00727-46"
+                            ],
+                            "SecondaryIdDomain": [
+                                   "AFSSAPS"
+                            ],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "Other Identifier"
+                            ],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [
+                                   "Blood pressure variability",
+                                   "Spontaneous baroreflex activity",
+                                   "Pulmonary diffusion",
+                                   "Upper limbs vascular resistance",
+                                   "post ischemic forearm hyperemia",
+                                   "Hematocrit rate",
+                                   "Cardiac haemodynamic"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "inclusion, one week, two weeks",
+                                   "inclusion, one week, two weeks",
+                                   "inclusion, one week, two weeks",
+                                   "inclusion, one week, two weeks",
+                                   "inclusion, one week, two weeks",
+                                   "Inclusion, one week, two weeks",
+                                   "Inclusion, one week, two weeks"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "During a an Isometric Maximum Voluntary Contraction Test on the knee extensors & flexors, the plantarflexors and dorsiflexors, the elbow extensors & flexors the Isometric Torque will be measured in Nm.",
+                                   "Locomotion will be assessed by Dynamic Gait Index, specific parameters are: total Score and Subscore",
+                                   "Muscle sympathetic nerve activity is measured by MSNA recording by microneurography technique.",
+                                   "Visual Orientation is assessed by 'Oriented Character Recognition Test' and Luminous Line Test. The main parameter is Score.",
+                                   "Blood cell count, reticulocytes, Haptoglobin, Bilirubin, Ferritin, EPO, Thrombopoietin, Urinary Urobilinogen and Fecal Urobilinogen (markers of blood cell degradation)",
+                                   "Orthostatic tolerance will be assessed by Head up tilt test. The following parameters are assessed to measure orthostatic tolerance: beat-to-beat heart rate [bpm], beat-to-beat blood pressure [bpm] time to presyncope [min, s]"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Plasma Volume",
+                                   "Maximum volume of oxygen uptake",
+                                   "Isometric torque",
+                                   "Muscle fatigue",
+                                   "Bone metabolism",
+                                   "Bone mineral density + content",
+                                   "Standing balance",
+                                   "Locomotion",
+                                   "Body mass",
+                                   "Intracranial pressure",
+                                   "Monitoring of Vitamin K status",
+                                   "Fat metabolism",
+                                   "Glucose metabolism",
+                                   "Nitrogen balance",
+                                   "Energy metabolism",
+                                   "Glucocorticoid activity",
+                                   "Muscle metabolism",
+                                   "Acid base balance",
+                                   "Sympathetic activity during orthostatic stress",
+                                   "Visual Orientation",
+                                   "Plasma galanin and adrenomedullin responses during head up tilt test (orthostatic stress)",
+                                   "Cartilage metabolism and -thickness",
+                                   "Hematopoetic system",
+                                   "Fat accumulation in bone marrow",
+                                   "Achilles tendon structure",
+                                   "Headache - frequency and quality",
+                                   "Muscle volume",
+                                   "Free water and fat content in muscle",
+                                   "Orthostatic tolerance"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 2,5,14,21 days of bed rest, 1, 5, 14, 28 days after finishing bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Daily for a duration of 35 days",
+                                   "Baseline, after 1,4, 7,10,13,14,15,16,17,18,19,20,21 days of bed rest,1,2,4 days after finishing bed rest",
+                                   "Baseline, after 2,5,14,21 days of bed rest, 1, 5 days after finishing bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 21 days of bed rest, 4 days after finishing bed rest",
+                                   "Daily for a duration of 33 days",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 2,3,7,8,12,13,16,17 days of bed rest, 2,3 days after finishing bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 2, 14, 21 days of bed rest, 5 days after finishing bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 6,12,20 days of bed rest, 2,4 days after finishing bed rest",
+                                   "Baseline, after 21 days of bed rest",
+                                   "Baseline, after 2,3,5,7,14,21 days of bed rest, 5 days after finishing bed rest",
+                                   "Baseline, after 10, 21 days of bed rest, 1, 28 days after finishing bed rest",
+                                   "Baseline, after 10, 21 days of bed rest, 3, 28 days after finishing bed rest",
+                                   "Baseline, after 21 days of bed rest, 2, 28 days after finishing bed rest",
+                                   "Baseline, daily during 21 days of bed rest",
+                                   "Baseline, after 20, 21 days of bed rest, 3 days after finishing bed rest",
+                                   "Baseline, after 20, 21 days of bed rest, 3 days after finishing bed rest",
+                                   "Baseline, after 21 days of bed rest"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "assessed from 24hr urine collections taken before (day -5), on days 1,2,3,4,8,10,12,14,16,18, and 21 of the intervention and on the 2nd, 3rd, and 4th day after each intervention period (last urine collection 30 days after first measurement)",
+                                   "assessed from 24hr urine collections taken before (day -5), on days 1,2,3,4,8,10,12,14,16,18, and 21 of the intervention and on the 2nd, 3rd, and 4th day after each intervention period (last urine collection 31 days after first measurement)",
+                                   "assessed from 24hr urine collections taken before (day -5), on days 1,2,3,4,8,10,12,14,16,18, and 21 of the intervention and on the 2nd, 3rd, and 4th day after each intervention period (last urine collection 31 days after first measurement)",
+                                   "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+                                   "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+                                   "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+                                   "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+                                   "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+                                   "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+                                   "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample",
+                                   "assessed from venous blood samples taken before (day -5), and on days 2,5,10,14 and 21 of each intervention. Last sample point made 26 days after baseline sample"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Change in urinary calcium concentration, from baseline",
+                                   "Change in urinary phosphate concentration, from baseline",
+                                   "Change in urinary N-terminal telopeptide concentration, from baseline",
+                                   "Change in fasting serum calcium concentration, from baseline",
+                                   "Change in fasting serum phosphate concentration, from baseline",
+                                   "Change in fasting serum bone specific alkaline phosphatase concentration, from baseline",
+                                   "Change in fasting serum parathyroid hormone concentration, from baseline",
+                                   "Change in fasting serum 25-Hydroxyvitamin D concentration, from baseline",
+                                   "Change in fasting serum Procollagen-I-N-terminal propeptide concentration, from baseline",
+                                   "Change in fasting serum Dickkopf-related protein 1 concentration, from baseline",
+                                   "Change in fasting serum Sclerostin concentration, from baseline"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "30 days",
+                                   "31 days",
+                                   "31 days",
+                                   "26 days",
+                                   "26 days",
+                                   "26 days",
+                                   "26 days",
+                                   "26 days",
+                                   "26 days",
+                                   "26 days",
+                                   "26 days"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "a fasted sample and a sample taken every 20mins for 2hrs following eating, before and after 17days of intervention",
+                                   "a fasted sample and a sample taken every 20mins for 2hrs following eating, before and after 17days of intervention",
+                                   "Early morning fasted sample taken before and on day 17 of intervention",
+                                   "Early morning fasted sample taken before and on day 17 of intervention",
+                                   "Early morning fasted sample taken before and on day 17 of intervention",
+                                   "Early morning fasted sample taken before and on day 17 of intervention",
+                                   "Early morning fasted sample taken before and on day 17 of intervention",
+                                   "Early morning fasted sample taken before and on day 17 of intervention",
+                                   "Early morning fasted sample taken before and on day 17 of intervention",
+                                   "a fasted sample and a sample taken every 20mins for 2hrs following eating, before and after 17days of intervention",
+                                   "a fasted sample and a sample taken every 20mins for 2hrs following eating, before and after 17days of intervention",
+                                   "a fasted sample and a sample taken every 20mins for 2hrs following eating, before and after 17days of intervention",
+                                   "a fasted sample and a sample taken every 20mins for 2hrs following eating, before and after 17days of intervention",
+                                   "a fasted sample and a sample taken every 10mins for 2hrs following eating, before and after 17days of intervention",
+                                   "A fasted measurement of respiratory exchange ratio and measures between 15-30, 45-60min, 75-90min and 105-120min after eating, before and on day 17 of intervention",
+                                   "A fasted measurement of resting energy expenditure and measures between 15-30, 45-60min, 75-90min and 105-120min after eating, before and on day 17 of intervention",
+                                   "A fasted measurement of combined appetite score (measured using visual analogue scales), followed by assessment every 30min for 2hrs after eating, before and on day 17 of intervention.",
+                                   "Collection of breath samples when fasted and every 30min for 2hrs after eating, before and on day 17 of intervention."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Postprandial serum insulin concentration",
+                                   "Postprandial serum C-Peptide concentration",
+                                   "Fasting serum leptin concentration",
+                                   "Fasting serum adiponectin concentration",
+                                   "Fasting serum total cholesterol concentration",
+                                   "Fasting serum LDL cholesterol concentration",
+                                   "Fasting serum HDL cholesterol concentration",
+                                   "Fasting plasmaTriacylglycerol concentration",
+                                   "Fasting plasma non-esterified fatty acids concentration",
+                                   "Postprandial plasma peptide YY concentration",
+                                   "Postprandial plasma Ghrelin concentration",
+                                   "Postprandial plasma GLP-1 concentration",
+                                   "Postprandial plasma catecholamine concentration",
+                                   "Postprandial whole blood lactate concentration",
+                                   "postprandial fuel oxidation",
+                                   "postprandial resting energy expenditure",
+                                   "postprandial subjective appetite",
+                                   "postprandial expired 13CO2"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "2hrs",
+                                   "2hrs",
+                                   "early morning fasted sample",
+                                   "early morning fasted sample",
+                                   "early morning fasted sample",
+                                   "early morning fasted sample",
+                                   "early morning fasted sample",
+                                   "early morning fasted sample",
+                                   "early morning fasted sample",
+                                   "2hrs",
+                                   "2hrs",
+                                   "2hrs",
+                                   "2hrs",
+                                   "2hrs",
+                                   "2hrs",
+                                   "2hrs",
+                                   "2hrs",
+                                   "2hrs"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "Regional (upper v lower limb) differences in muscle atrophy induced by HBF",
+                                   "To determine the relationship between change in total skeletal muscle mass (measured by MRI) and change in physiological cross sectional area (PCSA) of the rectus femoris as determined by ultrasound measurements of fascicle length and pennation angle.",
+                                   "To use neuroimaging, polysomnography and cognitive battery to investigate any structural (MR brain), neurophysiological (PSG/EEG) and functional (rs-fMRI and CANTAB battery test) central nervous system changes induced by the intervention",
+                                   "To determine the change in single muscle fibre cross-sectional area, using immunohistochemical staining, compared to total quadriceps cross-sectional area using ultrasound. Myofiber cross-sectional area will be measured using muscle biopsy tissue which will be mounted onto cork and cut into 5 \u03bcm-thick cryosections. Immunohistochemical stainings of muscle tissue cross sections will then measured using a microscope.",
+                                   "To determine the change in biochemical (protein:DNA ratio) markers of quadriceps size in relation to the MRI and ultrasound measurements",
+                                   "To determine the relationship between change in quadriceps skeletal muscle mass (measured by MRI) and change in fractional protein synthesis (FPS) rate measured using tracer (D2O) techniques",
+                                   "To investigate changes of anabolic and catabolic signalling markers (such as MAFbx/atrogin-1 and MuRF1) in quadriceps muscle after 7 days HBF",
+                                   "To measure changes in muscle function as a result of 7 days HBF. These will include maximal voluntary isometric strength of the knee extensors, plantar flexors in the trunk and hand (hand grip) and explosive power during a countermovement jump.",
+                                   "To measure changes in cardio respiratory fitness (maximal aerobic capacity (VO2max)) with 7 days of immobilisation",
+                                   "To measure changes in bone mineral density (BMD) of before and after a 7 days HBF",
+                                   "To determine the effect of 7 day HBF upon plantar flexion power output using an isokinetic dynamometer",
+                                   "To determine the effect of 7-day HBF upon the viscoelastic properties of superficial muscles and the Achilles tendon using Myoton.The viscoelastic properties of relaxed arm flexor, arm extensor, erector spinae, lateral gastrocnemius and Achilles tendon will be determined at rest (HBF) using the Myoton (hand-held myometer) on day 1, day 3, day 5 and day 7 (last day) of the HBF. This will be done by applying a short (15ms) and almost imperceptible mechanical impulse (force 0.4N) applied directly to the skin. The following parameters are derived from the oscillation acceleration signal generated by the mechanical impulse in real time by the Myoton's software: 1) Dynamic stiffness: which indicates the resistance to deformation of a tissue, 2) Oscillation frequency: which indicates the (muscle) tone or intrinsic tension of a tissue, 3) The logarithmic decrement of the oscillation: which characterises tissue elasticity.",
+                                   "To determine the ability, utility and potential efficacy of FRED following 7 days HBF"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Regional differences in muscle loss",
+                                   "Relationship between change in total skeletal muscle mass and rectus femoris cross sectional area",
+                                   "Central nervous system changes induced by 7-day HBF",
+                                   "Myofiber cross-sectional area changes with unloading compared with quadriceps cross sectional area",
+                                   "Muscle biochemistry",
+                                   "Change in fractional protein synthesis",
+                                   "Changes in anabolic and catabolic signalling markers in muscle",
+                                   "Changes in muscle function",
+                                   "Changes in cardiorespiratory fitness",
+                                   "Bone mineral density",
+                                   "Plantarflexion strength",
+                                   "Muscle tone",
+                                   "Functional re-adaptive exercise device (FRED)"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days",
+                                   "7 days"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "using a series computer-based tasks",
+                                   "determined in venous blood samples",
+                                   "evaluated with a computer-based test assessing spatial cognition."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Spatial Cognitive performance",
+                                   "Key neurotrophins",
+                                   "visuo-spatial performance"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "We record errors in text entry test",
+                                   "Number of use of word prediction software",
+                                   "Satisfaction of people with spinal cord injury about word prediction software (visual analogue scale)",
+                                   "Cognitive load of people with spinal cord injury (visual analogue scale)",
+                                   "speed sensation of people with spinal cord injury with word prediction software (visual analogue scale)"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Change from Errors at 1 month",
+                                   "Change from Prediction use at 1 month",
+                                   "Change from Satisfaction",
+                                   "Change from Cognitive load at 1 month",
+                                   "Change from Speed sensation at 1 month"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Phase 1 After every test (10 minutes) Phase 2 : 1 month",
+                                   "Phase after every test (10 minutes) Phase 2 : 1 month",
+                                   "Phase 1 After every test (10 minutes) Phase 2 : 1 month",
+                                   "Phase 1 After every test (10 minutes) Phase 2 : 1 month",
+                                   "Phase 1 After every test (10 minutes) Phase 2 : 1 month"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [
+                                   "Non-Probability Sample"
+                            ],
+                            "SecondaryId": [
+                                   "Sponsor study reference"
+                            ],
+                            "SecondaryIdDomain": [
+                                   "FONDERASME_SRB2020340"
+                            ],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "Other Identifier"
+                            ],
+                            "SecondaryOutcomeDescription": [
+                                   "Mean and interquartile ranges of KCG derived HRV over the observation period in patients with active clinical syndromes that may be concomitant in the field of cardiac disorders (hypertension, atrial fibrillation, ischemia, valvulopathy, heart-failure,\u2026) and pulmonary (asthma, infection,..). These clinical diagnoses are supported by the physical examination and the patient's medical record at inclusion.",
+                                   "Mean and interquartile ranges of KCG derived HR over the observation period in patients with active clinical syndromes that may be concomitant in the field of cardiac disorders (hypertension, atrial fibrillation, ischemia, valvulopathy, heart-failure,\u2026) and pulmonary (asthma, infection,..). These clinical diagnoses are supported by the physical examination and the patient's medical record at inclusion."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Compliance percentage of patients measuring KCG at home with the OKCARDIO smartphone application or the Kinocardiograph device.",
+                                   "Mean and interquartile ranges of KCG derived HRV over the observation period.",
+                                   "Mean and interquartile ranges of KCG derived HR over the observation period.",
+                                   "Adverse events related to the use of the Kinocardiograph devices and/or OKCARDIO smartphone. Count of adverse events.",
+                                   "Mean and interquartile ranges of KCG parameters (Kinetic Energy, namely iK) over the observation period.",
+                                   "Build a predictive score on a selection of several kinocardiography parameters based on machine learning algorithms with the aim to sort patients according to their pathological status."
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "12 weeks",
+                                   "Through study completion, an average of 1 year",
+                                   "Through study completion, an average of 1 year",
+                                   "Through study completion, an average of 1 year",
+                                   "Through study completion, an average of 1 year",
+                                   "12 weeks"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "This will be performed by using MR scanning sequences that specifically measure water and fat signals then calculate the respective content.",
+                                   "Next generation sequencing (NGS) of IgM heavy chain transcripts extracted from PBMC will 1) indicate if the expression frequencies of Ig gene segments are modified during bed rest thereby indicating a change in B lymphopoiesis (because each B cell created in the marrow is characterized by its own VH-D-JH-C\u00b5 mRNA) and 2) allow the assessment of the activities of enzymes required for the formation of the B cell antigen receptor repertoire.\n\nFlow cytometry will be used to determine if there is an egress of HSC/progenitors from the bone marrow into blood stream thereby indicating a decrease of the interactions between HSC and their niche. The same technique will be used to determine if there are changes in B cell subsets in peripheral blood.",
+                                   "Mass spectrometry will be performed on proteins obtained from muscle biopsies, microdialysis and serum. The generated peptides will be analysed using high resolution mass shot-gun mass spectrometry.",
+                                   "The end point is a reduction in muscle pump indices: a) decrease in causality between EMG and Blood pressure, b) decrease in gain between EMG and Blood pressure, and c) decrease in the interaction time between EMG and Blood pressure.",
+                                   "Skeletal muscle insulin resistance will be assessed during a euglycaemic hyperinsulinaemic clamp.\n\nWhole blood will be immediately analyzed for glucose concentration, serum insulin will be quantified by radioimmunoassay and catecholamines will be quantified by high-performance liquid chromatography. Peripheral insulin sensitivity will be calculated during the final hour of the clamp in steady state.",
+                                   "Both structural and functional brain changes associated with head-down bedrest will be examined by 3T MRI. Imaging sequence parameters will be selected to maximize sensitivity to effects of interest.",
+                                   "Subjects perform a video game-like task of shooting a projectile out of a hand-held tool so that it passes between the gaps of an oriented target grill. Since the projectile and the tool are long and narrow, the subject must place the tool at the same orientation as the grill to achieve success. On certain trials, the subject is required to move the head between the time that the target is acquired and the moment of the response. Trials vary in terms of what the subject can see and feel during the execution of the task, and on body posture.\n\nA 3D motion caption system is used to track in real-time the movements of the subject' head and hands. A virtual reality helmet is used to provide visual and audio information. A moving head support will be used to allow the subject to tilt the head laterally in both seated and laying conditions.",
+                                   "Change in pulse wave velocity in carotid and femoral arteries will be assessed by non-invasive ultrasound measurements.",
+                                   "Within-subjects changes in adipose gene expression between intervention groups will be evaluated using RNAseq",
+                                   "Measurement of changes to objective sleep will be determined using continuous 24-h EEG monitoring at regular intervals throughout the protocol (including baseline, head down tilt, and recovery).",
+                                   "Changes in subjective sleep quality will be measured using the Karolinska sleepiness scale (KSS) four times per day (mealtimes and bed time) doing every day of the protocol.",
+                                   "Changes to the circadian rhythms of melatonin and cortisol will be measured by radioimmunoassay on saliva samples taken hourly throughout the day at regular intervals throughout the protocol (including baseline, head down tilt, and recovery; same as for EEG).",
+                                   "Changes to the circadian rhythmicity of the whole-blood transcriptome will be measured by whole-genome microarray analyses of RNA extracted from six 4-hourly blood samples taken over a 24-h period at regular intervals throughout the protocol (including baseline, head down tilt, and recovery; same as for EEG).",
+                                   "Vastus Lateralis needle biopsies will be performed before, at the end of the Head Down Tilt period (after about 60 days of bedrest) and of the recovery phases. Change in levels of S-nitrosylated proteins will be measured in active vs. atrophic muscle following extended bed rest.",
+                                   "Vastus Lateralis needle biopsies will be performed before, at the end of the Head Down Tilt period (after about 60 days of bedrest) and of the recovery phases. Change in skeletal muscle gene expression will be analyzed by microarray technology.",
+                                   "Bone resorption marker CTX will be analyzed in the aliquots of total 24h-urine, collected at different timepoints of the study (pre, during and after the bedrest phase).",
+                                   "Energy substrates labeled with stable (non radioactive) isotopes will be used to measure intermediary metabolism and fluxes.",
+                                   "In a healthy standing subject, Galvanic Vestibular Stimulation (GVS) evokes a postural sway response directed towards the anode electrode. The direction of the response is fixed in head coordinates and so it will rotate as the head is turned. To determine if bedrest has affected the accuracy and precision of this sway response, we will measure the direction of the ground reaction force (GRF) response evoked by GVS in standing volunteers under different head orientations. The mean direction (accuracy) along with the trial-to-trial variability (precision) of the GRF vector will be separately determined. Any reduction in accuracy or precision will indicate degraded vestibular control of balance.",
+                                   "24h ECG Holters will be done at different timepoints of the study (pre, during and after the bedrest phase). A conventional Holter analysis will be performed using dedicated commercial software. Moreover, the recordings obtained will be analyzed using several advanced signal processing techniques, which will be focused on different aspects of ventricular repolarization."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Change in vertebral bone marrow fat fraction.",
+                                   "Change in B lymphopoiesis",
+                                   "Changes in myokines.",
+                                   "Change in cardio-postural stability",
+                                   "Change in insulin sensitivity",
+                                   "Changes in brain structure",
+                                   "Change in head movements in response to a virtual projectile",
+                                   "Change in pulse wave velocity in carotid and femoral arteries",
+                                   "Adipose Tissue Transcriptomics",
+                                   "Measurement of changes to the sleep electroencephalogram (EEG)",
+                                   "Measurement of changes in subjective sleep quality",
+                                   "Measurement of changes in circadian rhythms of melatonin and cortisol",
+                                   "Measurement of changes in the whole-blood transcriptome in response to 60-day head down tilt bed rest",
+                                   "Change in levels of S-nitrosylated proteins",
+                                   "Change in skeletal muscle gene expression (transcriptome)",
+                                   "Change in bone resorption marker CTX",
+                                   "Change in de novo lipogenesis",
+                                   "Accuracy and precision of vestibular-evoked sway responses",
+                                   "Change in T wave morphology"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days (pre and post bed rest)",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days",
+                                   "60 days"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "Thickness of the optic nerve fibers will be measured by Optical Coherence Tomography (OCT)",
+                                   "Visualization of cerebral structures and intracranial venous system will be performed by MRI coupled with injection of gadolinium",
+                                   "Cerebral perfusion will be assessed by HMPAO scintigraphy",
+                                   "Intra ocular pressure (IOP) will be measured by applanation tonometry",
+                                   "Orthostatic tolerance will be assessed during a Lower Body Negative Pressure test (LBNP test)",
+                                   "Extracellular, intracellular and total body water will be estimated by bioimpedance",
+                                   "Continuous 24-h recording of blood pressure will be performed by SOMNOtouch\u2122 NIBP system designed for ambulatory continuous measurements",
+                                   "The hemodynamic and morphologic consequences of the fluid shift on the cephalic organs (thyroid, eyes), cephalic blood vessels (jugular vein, carotid, femoral, middle cerebral vein) will be investigated by ultrasound",
+                                   "Whole-body metabolic flexibility will be measured through the changes in respiratory quotient (RQ) from fasting state to postprandial state induced by high-carbohydrate standard meal, Skeletal muscle metabolic flexibility will be assessed in primary cell culture (cell isolation from biopsies of the vastus lateralis muscle).",
+                                   "Vastus Lateralis needle biopsies will be performed before and at the end of the 5 days of dry-immersion. The expression pattern of many proteins implied in the regulation of skeletal muscle homeostasis will be studied using biochemical technics.The contractile proteome will be investigated by analyzing the phenotype expression of myosin isoforms (heavy-MHC and light-MLC chains), regulatory proteins, i.e. troponin (TnI,TnC and TnT) and tropomyosin isoforms, main proteins implied in the sarcoplasmic reticulum function i.e. Ca-ATPase SERCA and Ca leakage channel RyR (primary antibodies from Sigma, Cell Signalling, Millipore).",
+                                   "Vastus Lateralis needle biopsies will be performed before and at the end of the 5 days of dry-immersion. The muscle gene expression will be analyzed by microarray technology",
+                                   "Vastus Lateralis needle biopsies will be performed before and at the end of the 5 days of dry-immersion. Skinned fibers will be prepared by processing in skinning solution. Maximal tension and calcium affinity of single skinned fibers will be assessed using tensiometry.",
+                                   "Vastus Lateralis needle biopsies will be performed before and at the end of the 5 days of dry-immersion. The expression of markers related to adipocytes structure and function (PPAR-\u03b3, CEBP-\u03b1,CEBP-\u03b4, lipoprotein lipase, ACLP, adipsin, leptin, adiponectin, FABP4, UCP1, IL6, IL15, CD36, GLUT4)will be quantified by RT-qPCR and western blotting. Additionally, the CD34+CD15+CD56- specific adipogenic progenitors of skeletal muscle will be quantified by RT-qPCR and western blotting.",
+                                   "Concentration of bone formation markers [bone-specific Alkaline Phosphatase (bAP), procollagen type I N-terminal propeptide (P1NP), total osteocalcin, uncarboxylated and carboxylated osteocalcin] and of bone resorption markers [C-terminal cross-linked telopeptide of type I collagen (CTx)] will be analyzed by automated chemiluminescence immunoassay or by enzyme-immunoassay kits.",
+                                   "The concentration of glycosaminoglycan (GAG) and water in the IVD will be measured by MRI with spectroscopy (MRS)"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Change in the optic nerve fibers thickness",
+                                   "Change in cerebral structures and in venous circulation of the brain by MRI",
+                                   "Change in cerebral perfusion",
+                                   "Change in intraocular pressure.",
+                                   "Change in orthostatic tolerance",
+                                   "Change in body fluid compartments by bioelectrical impedance analysis",
+                                   "Change in circadian rhythms of blood pressure",
+                                   "Measurement of the fluid shift towards the cephalic region by ultrasound",
+                                   "Change of whole-body and skeletal muscle metabolic flexibility (i.e. capacity to adapt fuel oxidation to fuel availability)",
+                                   "Change in expression pattern of atrophic and phenotypic modifiers in skeletal muscle",
+                                   "Change in muscle transcriptome profile",
+                                   "Measurement of muscle contractile properties using skinned fibers",
+                                   "Measurement of fat cell invasion into skeletal muscle",
+                                   "Change in the balance of bone remodeling markers",
+                                   "Change in the composition of the intervertebral disc (IVD)."
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Baseline and five days of dry-immersion",
+                                   "Baseline and five days of dry-immersion",
+                                   "Baseline and five days of dry-immersion",
+                                   "Baseline and five days of dry-immersion",
+                                   "Baseline and five days of dry-immersion",
+                                   "Baseline and during five days of dry-immersion",
+                                   "Baseline and during the five days of the dry-immersion period",
+                                   "The first day to quantify the short term effect and the fourth day of dry-immersion to quantify the long term effect of fluid shift",
+                                   "Baseline and 4 days of dry-immersion",
+                                   "Baseline and 5 days of dry-immersion",
+                                   "Baseline and 5 days of dry-immersion",
+                                   "Baseline and 5 days of dry-immersion",
+                                   "Baseline and 5 days of dry-immersion",
+                                   "Baseline, during and after 5 days of dry-immersion",
+                                   "Baseline and 5 days of dry-immersion"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

@@ -1,0 +1,543 @@
+{
+       "Rank": 1,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "hypergravity gas mixture"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: hypergravity",
+              "Other: gas mixture"
+       ],
+       "ArmGroupLabel": [
+              "ventilation"
+       ],
+       "ArmGroupType": [
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT01993394"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The primary aim of this project is to get further knowledge on the effects of + Gz accelerations and hyperoxia on lung ventilation in humans. The secondary aim is to study lung perfusion and cardiovascular function in these conditions."
+       ],
+       "BriefTitle": [
+              "Effect of Hyperoxia and Hypergravity on Lung Ventilation and Perfusion"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "UNKNOWN",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "Val de Gr\u00e2ce Hospital",
+              "Uppsala University Hospital"
+       ],
+       "CompletionDate": [
+              "July 2012"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Atelectasis"
+       ],
+       "ConditionAncestorId": [
+              "D000008171",
+              "D000012140",
+              "D000012818"
+       ],
+       "ConditionAncestorTerm": [
+              "Lung Diseases",
+              "Respiratory Tract Diseases",
+              "Signs and Symptoms, Respiratory"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC10",
+              "BC14",
+              "All",
+              "BC08",
+              "BC23"
+       ],
+       "ConditionBrowseBranchName": [
+              "Nervous System Diseases",
+              "Heart and Blood Diseases",
+              "All Conditions",
+              "Respiratory Tract (Lung and Bronchial) Diseases",
+              "Symptoms and General Pathology"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Atelectasis",
+              "Hyperoxia"
+       ],
+       "ConditionBrowseLeafId": [
+              "M21459",
+              "M3719",
+              "M19753",
+              "M10320",
+              "M14129",
+              "M14775"
+       ],
+       "ConditionBrowseLeafName": [
+              "Stroke",
+              "Pulmonary Atelectasis",
+              "Hyperoxia",
+              "Lung Diseases",
+              "Respiratory Tract Diseases",
+              "Signs and Symptoms, Respiratory"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "high",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000001261",
+              "D000018496"
+       ],
+       "ConditionMeshTerm": [
+              "Pulmonary Atelectasis",
+              "Hyperoxia"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "N/A"
+       ],
+       "DesignInterventionModel": [
+              "Single Group Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "Single"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [
+              "Outcomes Assessor"
+       ],
+       "DetailedDescription": [
+              "Experiments were conducted in a human centrifuge. The protocol aimed at mimicking a routine peacetime flight in combat aircraft, and included 10-min exposure to +1.4 - +3.5 Gz. Subjects were exposed three times to this sequence, breathing air, 44.5% O2 or 100% O2.\n\nTen volunteers wearing anti-G trousers participated in the study. The Ethics Committee Ile-de-France III and the French National Agency for Drug Safety (ANSM) approved the protocol (number 2009-A01092-55).\n\nThree different imaging techniques, electrical impedance tomography (EIT), pulmonary ultrasound and chest SPECT/CT were used and compared. EIT enabled ventilation monitoring in the human centrifuge, whereas pulmonary ultrasound and SPECT/CT gave functional and topographical information before and after exposure to +Gz accelerations. EIT analysis focused on regional ventilation, SPECT on global lung ventilation and perfusion, CT on the presence of atelectasis, and pulmonary ultrasound analysis looked for comet tails in 64 chest areas. Arterial blood pressure was recorded continuously by finger photoplethysmography. Cardiac output and stroke volume were computed from these recordings, using three different algorithms. Echocardiography was used as reference non-invasive technique for stroke volume determination and performed before and after exposure to +Gz accelerations."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nnormal lung function checked by pulmonary function tests\n\nPart 1 exclusion Criteria:\n\npast medical history of heart or lung disease\ncurrent medical treatment for heart or lung disease\nsmoking\nbad tolerance to +Gz accelerations (G-induced loss of consciousness, motion sickness)\n\nPart 2 exclusion criteria:\n\npast medical history of heart or lung disease\ncurrent medical treatment for heart or lung disease\nsmoking\nThe use of medication for hypertension\nasymmetric values of left/right humeral arterial blood pressure\nsignificant echocardiographic abnormalities or bad echogenicity\nbad tolerance to +Gz accelerations (G-induced loss of consciousness, motion sickness)"
+       ],
+       "EnrollmentCount": [
+              "20"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "ventilation",
+              "ventilation"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "1hr sitting rest followed by 10 min of hypergravity (2 centrifuge runs)",
+              "breathing air, 44.5%O2 or 100%O2"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "hypergravity",
+              "gas mixture"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other",
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "human centrifuge, oxygen, imaging, stroke volume, lung"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "November 25, 2013"
+       ],
+       "LastUpdatePostDateType": [
+              "Estimate"
+       ],
+       "LastUpdateSubmitDate": [
+              "November 20, 2013"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Br\u00e9tigny-sur-Orge",
+              "Paris"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "France",
+              "France"
+       ],
+       "LocationFacility": [
+              "Armed Forces Biomedical Research Institute",
+              "Department of Nuclear Medicine, Val-de-Gr\u00e2ce hospital"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [
+              "91 223",
+              "75005"
+       ],
+       "MaximumAge": [
+              "45 Years"
+       ],
+       "MinimumAge": [
+              "25 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Influence of Hyperoxia and Hypergravity on Pulmonary Ventilation and Perfusion"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es"
+       ],
+       "OrgStudyId": [
+              "10co706"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [
+              "global (mL, area under the flow versus time curve) and regional (% change per quadrant at 5th intercostal space level)"
+       ],
+       "OtherOutcomeMeasure": [
+              "tidal volume"
+       ],
+       "OtherOutcomeTimeFrame": [
+              "2hrs 30min"
+       ],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Armed Forces Biomedical Research Institute"
+       ],
+       "OverallOfficialName": [
+              "Daniel Garin, MD, PhD"
+       ],
+       "OverallOfficialRole": [
+              "Study Chair"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "July 2012"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "\"per lobe and per quadrant at 5th intercostal space level\""
+       ],
+       "PrimaryOutcomeMeasure": [
+              "change in regional ventilation distribution"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "baseline, 2hrs 30min"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "St\u00e9phanie Montmerle-Borgdorff"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "researcher"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "\"per lobe and per quadrant at 5th intercostal space level\"",
+              "\"echocardiography (sub-aortic diameter), photoplethysmography (Liljestrand, systolic area and Windkessel algorithms)\""
+       ],
+       "SecondaryOutcomeMeasure": [
+              "change in regional pulmonary perfusion",
+              "cardiac output (L/min)"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "baseline, 2hrs 30min",
+              "2hrs"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "October 2011"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "November 2013"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "November 25, 2013"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "November 14, 2013"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "November 20, 2013"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

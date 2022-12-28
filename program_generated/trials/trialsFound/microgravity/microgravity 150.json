@@ -1,0 +1,1490 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "InterventionArmGroupLabel",
+                     "InterventionBrowseBranchAbbrev",
+                     "InterventionBrowseBranchName",
+                     "InterventionBrowseLeafAsFound",
+                     "InterventionBrowseLeafId",
+                     "InterventionBrowseLeafName",
+                     "InterventionBrowseLeafRelevance",
+                     "InterventionDescription",
+                     "InterventionMeshId",
+                     "InterventionMeshTerm",
+                     "InterventionName",
+                     "InterventionOtherName",
+                     "InterventionType",
+                     "IsFDARegulatedDevice",
+                     "IsFDARegulatedDrug",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "InterventionArmGroupLabel": [
+                                   "self-reported healthy individuals"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "The subject will be sitting in a chair, and a needle will be inserted into a vein in their arm. Study Team will draw about 45ml or 3 tablespoons of whole blood for research."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Blood volume collected specifically for this study"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Biological"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "InterventionArmGroupLabel": [
+                                   "Microgravity"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Blood pressure will only be measured during the 0g (microgravity) phase. Seven 5 ml blood sample will be drawn in the aircraft: before the first parabola (1) and after each block of 5 parabola (6).\n\nOn ground after flight, a 9th 5 ml blood sample will be drawn and then the mobil-o-graph, the SOMNOtouch NIBP and the intravenous cannula will be removed."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "central aortic pressure (measured in mmHg)."
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "InterventionArmGroupLabel": [
+                                   "Effect of microgravity on human sperm"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Sperm analysis (total motility M/ml; grade a+b sperm M/ml, vitality, DNA Frag and apoptosis) will be measured on ground at 1g before the flight and after flight were sperm samples have been exposed to simulated microgravity"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "InterventionArmGroupLabel": [
+                                   "Males and females"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "The subject will be sitting in a chair, and a needle will be inserted into a vein in the arm. Study Team will draw about 45ml or 3 tablespoons of whole blood for research."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Blood collected specifically for this study"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Biological"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "InterventionArmGroupLabel": [
+                                   "Airway device placement"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Airway management with a submerged manikin using different airway devices in randomized order"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Airway management with a submerged model"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Device"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "InterventionArmGroupLabel": [
+                                   "Subjects"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Leg exercises"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Behavioral"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "InterventionArmGroupLabel": [
+                                   "Older adults",
+                                   "Young adults",
+                                   "Older adults",
+                                   "Young adults"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "Derm",
+                                   "All"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Dermatologic Agents",
+                                   "All Drugs and Chemicals"
+                            ],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [
+                                   "M5415"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Coal Tar"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "low"
+                            ],
+                            "InterventionDescription": [
+                                   "A biopsy of the Vastus Lateralis muscle will be performed on the left leg using the Bergstrom technique.The skin will be incised (approximately 0.75 cm) with a #11 scalpel, and the Bergstrom needle will be inserted into the Vastus Lateralis. Approximately 150 mg of muscle tissue will be obtained under suction. After the biopsy, pressure will be applied to stop bleeding and the skin will be closed with Steri strips (suture(s) if allergy to steri strips and removal 7-10 days post biopsy). A sterile dressing will be applied. Ace bandage may also be used along with applied pressure and an ice pack for any swelling and pain relief.",
+                                   "Aerobic fitness will be determined by measuring maximal O2 consumption (VO2max) during a stationary bicycle exercise test. Heart rate, blood pressure and ECG will be recorded throughout this test. Subjects will breathe through a low resistance mouthpiece and wear a nose clip. Expired gases will be measured by indirect calorimetry and heart rate monitored by a portable heart rate monitor. Following a standardized warm up, subjects will begin exercising at a moderate intensity with the workload increased every minute until the subject can no longer continue. A leveling-off (plateau) or decline in oxygen uptake should be demonstrated in order to be reasonably sure that a subject has achieved the maximum capacity for aerobic metabolism."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Muscle Tissue Biopsy",
+                                   "Maximal Oxygen Consumption (V02max)"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Procedure",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "InterventionArmGroupLabel": [
+                                   "high-load resistance training for long term space flights"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "MVC tested during three different tasks: (1) leg press, (2) plantarflexion and (3) grip strength.\n\nparameters of muscle function that can be easily implemented in parabolic flight:\n\nRate of force development\nElectromyographic activity\nUltrasound measure: fascicle length and pennation angle of the gastrocnemius medialis muscle\nSuperimposed twitch torque (M-waves at rest and V-waves in MVC conditions)\nMaximum voluntary activation capacity (%VA): %VA = (1-[torque superimposed twitch/torque resting twitch])*100%."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "examination of muscle function and MVC in weightlessness"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "InterventionArmGroupLabel": [
+                                   "LcS group"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Continuously take five capsules containing freeze-dried LcS on ISS for four weeks, from four weeks before the return (R-4W) to one day before the return (R-1d)"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Probiotic capsule"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Dietary Supplement"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "InterventionArmGroupLabel": [],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [],
+                            "InterventionOtherName": [],
+                            "InterventionType": [],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "InterventionArmGroupLabel": [
+                                   "Cardiovascular parameters measurements",
+                                   "Cardiovascular parameters measurements",
+                                   "Cardiovascular parameters measurements"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "All"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "All Drugs and Chemicals"
+                            ],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [
+                                   "M3945"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "BCG Vaccine"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "low"
+                            ],
+                            "InterventionDescription": [
+                                   "with Ballistocardiography (BCG), electric cardiography (ECG), impedance cardiography (ICG) and echocardiography"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight",
+                                   "Cardiovascular parameters measurements",
+                                   "3D-BCG sensor"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other",
+                                   "Device"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "InterventionArmGroupLabel": [
+                                   "in balance control in response to microgravity",
+                                   "in balance control in response to microgravity",
+                                   "in balance control in response to microgravity"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight",
+                                   "balance control measurements",
+                                   "electromagnetic maneuverable postural platform"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other",
+                                   "Device"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "InterventionArmGroupLabel": [
+                                   "Hinkelbein-Schmitz-Method",
+                                   "Schmitz-Hinkelbein-Method"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Two different methods of CPR in an analogue model of mircogravity"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "External Chest Compressions on Manikin in Underwater Setting"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Procedure"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "InterventionArmGroupLabel": [
+                                   "Microgravity condition"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Cognitive ans sensory performances during repetitive micro and partial gravity exposure"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Cognition and emotional neuropsychologicl evaluations"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "InterventionArmGroupLabel": [
+                                   "gas concentration",
+                                   "gas concentration"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "measurement of the concentration of C02, CO and NH4, 3 exhaled gas with E-Nose system",
+                                   "Parabolic flight"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "InterventionArmGroupLabel": [
+                                   "Weightlessness"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Volunteers will be studied during parabolic flight. Cerebral blood flow will be measured in different part of the brain during weightlessness ans compared to 1g and hypergravity measurements."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Weightlessness"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "InterventionArmGroupLabel": [
+                                   "Self-reported healthy males and females"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "The subject will be sitting in a chair, and a needle will be inserted into a vein in their arm. Study Team will draw about 45ml or 3 tablespoons of whole blood for research."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Blood volume collected specifically for this study"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Biological"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "InterventionArmGroupLabel": [
+                                   "Stress response measurements",
+                                   "Stress response measurements",
+                                   "Stress response measurements",
+                                   "Stress response measurements"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "All",
+                                   "Infl"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "All Drugs and Chemicals",
+                                   "Anti-Inflammatory Agents"
+                            ],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [
+                                   "M8941",
+                                   "M9064",
+                                   "M155022",
+                                   "M228602",
+                                   "M263157"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Hormones",
+                                   "Hydrocortisone",
+                                   "Hydrocortisone 17-butyrate 21-propionate",
+                                   "Hydrocortisone acetate",
+                                   "Hydrocortisone hemisuccinate"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "InterventionDescription": [
+                                   "psychic stress tests, stress hormones: prolactin, cortisol, endo-cannabinoids",
+                                   "blood cell counts, B2 integrins, cytokines, C-reactive protein",
+                                   "purines, lactate"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight",
+                                   "neuro-endocrine measurements",
+                                   "immunological measurements",
+                                   "cellular energy metabolism measurements"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other",
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "InterventionArmGroupLabel": [
+                                   "Dry immersion"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Subjects are immersed up to the neck for 5 days in a specially designed bath filled with tap water."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Dry immersion"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "InterventionArmGroupLabel": [
+                                   "Exercise"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Participants will undergo an exercise program during the 2-week bed rest period."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Exercise"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "InterventionArmGroupLabel": [],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [],
+                            "InterventionOtherName": [],
+                            "InterventionType": [],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "InterventionArmGroupLabel": [
+                                   "parabolic flights"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "healthy volunteers will experience 3 levels of gravity (1G, 1.8G, 0G)."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "3 levels of gravity (1G, 1.8G, 0G)."
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "InterventionArmGroupLabel": [
+                                   "Dry immersion"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Subjects are immersed up to the neck for 5 days in a specially designed bath filled with tap water."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Dry immersion"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "InterventionArmGroupLabel": [
+                                   "Measurements of eye movements and perception",
+                                   "Measurements of eye movements and perception"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight",
+                                   "Measurements of eye movements and perception"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "InterventionArmGroupLabel": [
+                                   "1"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Head-down tilt -6\u00b0 at inclusion, head-down tilt -15\u00b0 at week one and Water Immersion at week two"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Head-down tilt and immersion"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "InterventionArmGroupLabel": [
+                                   "MEP-1",
+                                   "MEP-2",
+                                   "MEP-1",
+                                   "MEP-2"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "Ot",
+                                   "All"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Other Dietary Supplements",
+                                   "All Drugs and Chemicals"
+                            ],
+                            "InterventionBrowseLeafAsFound": [
+                                   "Remifentanil"
+                            ],
+                            "InterventionBrowseLeafId": [
+                                   "T435"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Whey Protein"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "high"
+                            ],
+                            "InterventionDescription": [
+                                   "0.6 mmol WP/kg body weight + 90 mmol KHCO3 during bed rest",
+                                   "Bed rest without dietary supplement"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Whey Protein + Potassium bicarbonate",
+                                   "Control"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Dietary Supplement",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "InterventionArmGroupLabel": [
+                                   "Measurements under different gravity states",
+                                   "Measurements under different gravity states"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "motion perception and locomotor operation performance measurements",
+                                   "parabolic flight"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "InterventionArmGroupLabel": [
+                                   "weightlessness"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "parabolic flight"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "weightlessness"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "InterventionArmGroupLabel": [],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "weightlessness during parabolic flight"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "parbolic flight"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "InterventionArmGroupLabel": [],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "BDCA",
+                                   "All"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Bone Density Conservation Agents",
+                                   "All Drugs and Chemicals"
+                            ],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [
+                                   "M6498"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Diphosphonates"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "low"
+                            ],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Ethidronate",
+                                   "Physical training"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Drug",
+                                   "Behavioral"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "InterventionArmGroupLabel": [
+                                   "Cardiovascular parameters measurements",
+                                   "Cardiovascular parameters measurements"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight",
+                                   "Cardiovascular parameters measurements"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "InterventionArmGroupLabel": [
+                                   "Lower body negative pressure"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "lower body negative pressure at -20mmHg delivered via a custom designed sleeping sack"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Lower body negative pressure"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "InterventionArmGroupLabel": [
+                                   "Hypoxic Bed rest",
+                                   "Hypoxic ambulatory",
+                                   "Hypoxic ambulatory",
+                                   "Normoxic bed rest",
+                                   "Hypoxic Bed rest",
+                                   "Normoxic bed rest",
+                                   "Hypoxic Bed rest",
+                                   "Hypoxic ambulatory",
+                                   "Normoxic bed rest"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "21 days confinement in normobaric hypoxic (FiO2 = 14%)",
+                                   "Participants hava a standardized activity level throughout the intervention",
+                                   "21 days confinement in normobaric normoxic (FiO2 = 21%) environment",
+                                   "Participants remain on supine bed rest throughout the intervention",
+                                   "Macronutrient, salt and dietary energy intake will be standardized per kg body weight for each participant"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Hypoxia",
+                                   "Ambulatory",
+                                   "Normoxia",
+                                   "Bed Rest",
+                                   "Standardised nutritional intake"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other",
+                                   "Other",
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "InterventionArmGroupLabel": [
+                                   "Hypoxic ambulatory",
+                                   "Hypoxic Bedrest",
+                                   "Normoxic bedrest"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "21 days confinement in normobaric hypoxic (FiO2 = 14%) environment",
+                                   "21 days supine bedrest in normobaric hypoxic (FiO2 = 14%) environment",
+                                   "21 days supine bedrest in normobaric normoxic (FiO2 = 21%) environment"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Hypoxic ambulatory",
+                                   "Hypoxic Bedrest",
+                                   "Normoxic Bedrest"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "InterventionArmGroupLabel": [
+                                   "HBF Bed Rest"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "7 days of bed rest on hyper-buoyancy floatation (HBF)"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "HBF Bed Rest"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "InterventionArmGroupLabel": [
+                                   "parabolic flight"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "MRI testing will be performed using a 3T MRI facility in Bordeaux close to Novespace (CHU Pellegrin).\n\nSpatial cognition will be assessed using a battery of in-house virtual paradigms General cognitive performance testing will include a wide range of cognitive functions, and particularly executive control using the Cognition Battery Mental status will be assessed on a tablet computer using a visual analogue scale Vigilant attention will be determined using the 3-min Psychomotor Vigilance Test (PVT) Blood samples (5 mL per collection) will be collected prior to neuroimaging by venepuncture"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Assess the impact of parabolic flight"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "InterventionArmGroupLabel": [
+                                   "Rehabilitation Group",
+                                   "Self Training at Home Group"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Rehabilitation program with an occupational therpasit\n\n3 training sessions (one hour) per week for a month (12 sessions)",
+                                   "Only instructions for a self - training at home"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Rehabilitation program",
+                                   "Self - Training at home"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "InterventionArmGroupLabel": [
+                                   "Healthy",
+                                   "Heart failure patients, EF < 40%",
+                                   "Heart failure patients, EF > 40% and < 60%",
+                                   "Heart failure patients, EF > 60%",
+                                   "Hypertensive patients",
+                                   "Patients diagnosed with atrial fibrillation",
+                                   "Patients infected by COVID- 19 with no symptoms",
+                                   "Patients infected by COVID- 19 with symptoms"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Measure with the Kinocardiograph device and the Okcardio application installed on a smartphone"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Kinocardiograph"
+                            ],
+                            "InterventionOtherName": [
+                                   "OKCARDIO smart application"
+                            ],
+                            "InterventionType": [
+                                   "Device"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "InterventionArmGroupLabel": [
+                                   "perceived egocentric distance measurements - parabolic flight",
+                                   "perceived egocentric distance measurements - parabolic flight"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "perceived egocentric distance (PED) measurements",
+                                   "Parabolic flight"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "InterventionArmGroupLabel": [
+                                   "Bed Rest Control Group",
+                                   "Cocktail intervention"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "Micro",
+                                   "All",
+                                   "Infl",
+                                   "Ot",
+                                   "Vi"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Micronutrients",
+                                   "All Drugs and Chemicals",
+                                   "Anti-Inflammatory Agents",
+                                   "Other Dietary Supplements",
+                                   "Vitamins"
+                            ],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [
+                                   "M16705",
+                                   "M16710",
+                                   "M3369",
+                                   "M22125",
+                                   "M22122",
+                                   "M3444",
+                                   "M14607",
+                                   "M22128",
+                                   "T415",
+                                   "T480",
+                                   "T466",
+                                   "T467"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Vitamin E",
+                                   "Vitamins",
+                                   "Anti-Inflammatory Agents",
+                                   "Tocopherols",
+                                   "alpha-Tocopherol",
+                                   "Antioxidants",
+                                   "Selenium",
+                                   "Tocotrienols",
+                                   "Omega 3 Fatty Acid",
+                                   "Vitamin E",
+                                   "Tocopherol",
+                                   "Tocotrienol"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "InterventionDescription": [
+                                   "Subjects are in strict head down tilt bed rest at all time (including for taking showers etc.) for 60 days.",
+                                   "Subjects are in strict head down tilt bed rest at all time (including for taking showers etc.) for 60 days. In addition subjects are receiving a daily supplementation of a Cocktail. The daily dose of Cocktail consists of 6 pills per day: 2 at breakfast, 2 at lunch and 2 at diner. This will be equivalent to a daily dose of around 741 mg of bioactive polyphenols associated with Omega-3, Selenium and Vitamine E."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Bed Rest Control Group",
+                                   "Cocktail intervention"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Dietary Supplement"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "InterventionArmGroupLabel": [
+                                   "Dry immersion Control Group",
+                                   "Thigh Cuffs intervention"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Subjects are immersed up to the neck for 5 days in a specially designed bath filled with tap water.",
+                                   "Subjects are immersed up to the neck for 5 days in a specially designed bath filled with tap water. During the 5 days of dry immersion, the subjects will wear the thigh cuffs daily for 10 hours during the day (8 am to 6 pm). Thigh cuffs are strips of fabric with inserts of elastic fabric. Different sizes exist to adapt to different thighs. Each cuff has five tightening positions (from 1 to 5) and they will be tightened at the upper third of the thighs to create an occlusion pressure of about 30 mmHg."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Dry immersion Control Group",
+                                   "Thigh cuffs intervention"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

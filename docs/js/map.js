@@ -1,7 +1,6 @@
 var cities = L.layerGroup();
-var fdaLocs = L.layerGroup();
-var cdcStats = L.layerGroup();
 var pubs = L.layerGroup();
+var trials = L.layerGroup();
 
 
 var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>';
@@ -31,6 +30,7 @@ var map = L.map('map', {
 
 	var overlays = {
 		'Pubs': pubs,
+		'ClinialTrials': trials,
 	};
 
 	var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
@@ -131,7 +131,9 @@ function onEachPub(feature, layer) {
 
 				    var popupContent = '<p><b>'
 				         + feature.properties.title
-				         + '</b><br>'
+				         + '</b><br><font color="gray">'
+								 + feature.properties.journal
+								 + '</font></b><br>'
 				         + feature.properties.aff
 				         + '<br> Cited by: '
 								 + feature.properties.cited
@@ -196,6 +198,14 @@ function pubToLayer(feature, latlng) {
 		onEachFeature: onEachPub,
 		pointToLayer: pubToLayer,
 	}).addTo(map).addTo(pubs);
+
+
+	var trials = L.geoJson(geojson_trials, {
+		style: pubStyle,
+		onEachFeature: onEachPub,
+		pointToLayer: pubToLayer,
+	}).addTo(map).addTo(trials);
+
 
 console.log('microgravity_space_biology = ')
 console.log(microgravity_space_biology)

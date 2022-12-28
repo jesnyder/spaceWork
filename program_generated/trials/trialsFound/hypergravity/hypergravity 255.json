@@ -1,0 +1,510 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "OutcomeMeasureParamType",
+                     "OutcomeMeasurePopulationDescription",
+                     "OutcomeMeasureReportingStatus",
+                     "OutcomeMeasureTimeFrame",
+                     "OutcomeMeasureTitle",
+                     "OutcomeMeasureType",
+                     "OutcomeMeasureTypeUnitsAnalyzed",
+                     "OutcomeMeasureUnitOfMeasure",
+                     "OutcomeMeasurementComment",
+                     "OutcomeMeasurementGroupId",
+                     "OutcomeMeasurementLowerLimit",
+                     "OutcomeMeasurementSpread",
+                     "OutcomeMeasurementUpperLimit",
+                     "OutcomeMeasurementValue",
+                     "OverallOfficialAffiliation",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "Armed Forces Biomedical Research Institute"
+                            ],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "Carrick Institute for Graduate Studies"
+                            ],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "CHU Caen"
+                            ],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "OutcomeMeasureParamType": [
+                                   "Mean",
+                                   "Geometric Mean",
+                                   "Geometric Mean",
+                                   "Geometric Mean",
+                                   "Mean"
+                            ],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [
+                                   "Posted",
+                                   "Posted",
+                                   "Posted",
+                                   "Posted",
+                                   "Posted"
+                            ],
+                            "OutcomeMeasureTimeFrame": [
+                                   "1 session",
+                                   "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+                                   "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+                                   "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+                                   "1 session"
+                            ],
+                            "OutcomeMeasureTitle": [
+                                   "Percent Change in Roll Tilt Perception After Exposure to Hypogravity",
+                                   "Yaw Perceptual Motion Threshold",
+                                   "Roll Perceptual Motion Threshold",
+                                   "Interaural Perceptual Motion Threshold",
+                                   "Percent Change in Manual Control Performance After Exposure to Hypogravity"
+                            ],
+                            "OutcomeMeasureType": [
+                                   "Primary",
+                                   "Primary",
+                                   "Primary",
+                                   "Primary",
+                                   "Primary"
+                            ],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [
+                                   "percentage change",
+                                   "deg per sec",
+                                   "deg per sec",
+                                   "cm per sec",
+                                   "percentage change"
+                            ],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [
+                                   "OG000",
+                                   "OG000",
+                                   "OG001",
+                                   "OG000",
+                                   "OG001",
+                                   "OG000",
+                                   "OG001",
+                                   "OG000",
+                                   "OG001",
+                                   "OG000",
+                                   "OG001",
+                                   "OG000",
+                                   "OG001",
+                                   "OG000"
+                            ],
+                            "OutcomeMeasurementLowerLimit": [
+                                   "7.4"
+                            ],
+                            "OutcomeMeasurementSpread": [
+                                   ".25",
+                                   ".29",
+                                   ".19",
+                                   ".26",
+                                   ".15",
+                                   ".12",
+                                   ".20",
+                                   ".13",
+                                   ".17",
+                                   ".23",
+                                   ".39",
+                                   ".16",
+                                   "48.8"
+                            ],
+                            "OutcomeMeasurementUpperLimit": [
+                                   "57.1"
+                            ],
+                            "OutcomeMeasurementValue": [
+                                   "27.0",
+                                   ".83",
+                                   ".92",
+                                   ".86",
+                                   "1.06",
+                                   ".27",
+                                   ".32",
+                                   ".39",
+                                   ".39",
+                                   ".57",
+                                   ".78",
+                                   ".77",
+                                   ".80",
+                                   "75.4"
+                            ],
+                            "OverallOfficialAffiliation": [
+                                   "Massachusetts Eye and Ear Infirmary"
+                            ],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "International Space University"
+                            ],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "University Hospital, Caen"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "Armed Forces Biomedical Research Institute"
+                            ],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "University Hospital, Toulouse"
+                            ],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

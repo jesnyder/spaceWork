@@ -1,0 +1,518 @@
+{
+       "Rank": 9,
+       "Acronym": [
+              "ENACT"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "a group of parabolic flyers exposed to micro and partial gravity"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Cognition and emotional neuropsychologicl evaluations"
+       ],
+       "ArmGroupLabel": [
+              "Microgravity condition"
+       ],
+       "ArmGroupType": [
+              "Other"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT05531162"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The overall objective of this study is to better understand the relationship between the body and its environment, including cognitive performance, following repeated changes in gravity, including microgravity (0G) and modified gravity (i.e., hypergravity (1.8G) and modified gravity (Martian gravity)"
+       ],
+       "BriefTitle": [
+              "Body-environment Relationship Related Modified Gravity"
+       ],
+       "CentralContactEMail": [
+              "stephane.besnard@unicaen.fr"
+       ],
+       "CentralContactName": [
+              "Stephane BESNARD"
+       ],
+       "CentralContactPhone": [
+              "+33677978649"
+       ],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [
+              "Contact"
+       ],
+       "CollaboratorClass": [
+              "OTHER_GOV"
+       ],
+       "CollaboratorName": [
+              "Institut de Recherche Biomedicale des Armees"
+       ],
+       "CompletionDate": [
+              "December 23, 2023"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Body Schema"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "N/A"
+       ],
+       "DesignInterventionModel": [
+              "Single Group Assignment"
+       ],
+       "DesignInterventionModelDescription": [
+              "a group of parabolic flyers with and without prior experience of microgravity"
+       ],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Other"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "On the eve of the next long voyages into space and the event of space tourism, it becomes more and more urgent to understand how to preserve the health of spacemen (i.e., by profession or by leisure). Extreme and unusual environments, and isolated and confined environments (EUE/ICE) are characterized by unique sensory stimulation. They are known to have negative effects on human psychology, cognitive abilities and physiology, threatening the outcome of space missions or travel. In addition, with the construction of the future Gateway base, the upcoming colonies to Mars and space tourism, travel from one point to another will be much more frequent. These raise new questions that will have to be addressed, whether it is the prolonged duration of a stay in a microgravity environment (i.e., absence of gravitational force between man and his support), in partial gravity and thus the issue of recovery from one trip to the next. These modifications of the environment imply the implementation of several adaptation processes to preserve the homeostatic capacity of the organism. This allows the organism to maintain a relatively stable internal state that persists despite external changes. Nevertheless, many questions remain unanswered. One such question is the impact of repeated changes in gravity during flight to the point of attachment (e.g., colony). The objective of the study is therefore to better understand the relationship between the body and its environment due to repeated changes in gravity, including microgravity.\n\nBeyond that, these results will contribute to enrich the knowledge of this real human challenge that is the question of the adaptation of the human being to the constraints of space travel."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nExistence of an informed and written consent from the subject\nNot pregnant\nNo anxiety disorder and/or depression\nNot to have suffered a head injury\nHave obtained a medical certificate of aptitude for parabolic flights\nBe affiliated to the French Social Security, or have a European Health Insurance Card or equivalent\n\nExclusion Criteria:\n\nPregnant women, parturients and nursing mothers\nEndocrine pathology (e.g., hyperthyroidism, diabetes)\nHigh blood pressure\nHistory of head trauma, mood or cardiovascular disorders, cognitive impairment\nRecent illicit drug use\nAlcohol dependence\nNeurological disease and/or history of neurological disease Psychiatric disease and/or history of psychiatric disease\nAnti-inflammatory treatment\nPsychotropic treatment\nTreatments that interfere with heart rate (e.g., beta-blockers, calcium channel blockers, a1 receptor agonists)\nPersons deprived of liberty, persons hospitalized without consent, persons admitted to a health or social institution for purposes other than research (L-1121-5 to L-1121-8-1)\nProtected adults, adults unable to express their consent and not subject to a protective measure\nParticipation in other simultaneous trials if this or these protocols concern a pharmacological clinical trial"
+       ],
+       "EnrollmentCount": [
+              "30"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "No"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Microgravity condition"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "Cognitive ans sensory performances during repetitive micro and partial gravity exposure"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Cognition and emotional neuropsychologicl evaluations"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "adaptation",
+              "cognition",
+              "extreme environment",
+              "confined environment",
+              "stress",
+              "performances",
+              "olfaction",
+              "somesthesia",
+              "space mission"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "September 7, 2022"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "September 5, 2022"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "University Hospital, Caen"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Caen"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "France"
+       ],
+       "LocationFacility": [
+              "Caen University Hospital"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [
+              "14033"
+       ],
+       "MaximumAge": [
+              "70 Years"
+       ],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Repetitive Gravitationnal Changes on the Body-environment Relationship"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "University Hospital, Caen"
+       ],
+       "OrgStudyId": [
+              "2022-A01317-36"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [],
+       "OverallOfficialName": [],
+       "OverallOfficialRole": [],
+       "OverallStatus": [
+              "Not yet recruiting"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "December 23, 2023"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Freiburg Mindfulness Inventory questionnaire of 14 items (each item has a score from 1 to 4 i.e. minimal value 14 and maximal value 56, with a couple of reversed item to score)",
+              "Freiburg Mindfulness Inventory questionnaire of 14 items (each item has a score from 1 to 4 i.e. minimal value 14 and maximal value 56, with a couple of reversed item to score)",
+              "Perceived Stress Scale questionnaire: 10 item-questionnaire to perceive stress (each item from 0 to 4: minimal value 0/no stress and maximal value 40 highest stress level)",
+              "Perceived Stress Scale questionnaire: 10 item-questionnaire to perceive stress (each item from 0 to 4: minimal value 0/no stress and maximal value 40 highest stress level)",
+              "Cognitive test battery questionnaire, 2D and 3D testing during one session: three scores ponderated (each with 6 plots represented with a spider graph measuring the surface from arbitrary unit)",
+              "Cognitive test battery questionnaire, 2D and 3D testing during one session: three scores ponderated (each with 6 plots represented with a spider graph measuring the surface from arbitrary unit)",
+              "Olfactive discrimination test",
+              "Olfactive discrimination test",
+              "Ellipse of the center of gravity measurment",
+              "Ellipse of the center of gravity measurment",
+              "Heart Rate variability"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Psychological data",
+              "Psychological data",
+              "stress",
+              "stress",
+              "Cognition",
+              "Cognition",
+              "Olfaction",
+              "Olfaction",
+              "Posture",
+              "Posture",
+              "Physiological data"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "one hour before the flight",
+              "one hour after the flight",
+              "one hour before the flight",
+              "one hour after the flight",
+              "one hour before the flight",
+              "one hour after the flight",
+              "one hour before the flight",
+              "one hour after the flight",
+              "one hour before the flight",
+              "one hour after the flight",
+              "Continuous recording all along microgravity exposure up to 1hour after the end of the flight"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "University Hospital, Caen"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "St\u00e9phane BESNARD"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Associate professor"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "October 23, 2022"
+       ],
+       "StartDateType": [
+              "Anticipated"
+       ],
+       "StatusVerifiedDate": [
+              "September 2022"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "September 7, 2022"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "August 30, 2022"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "September 5, 2022"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

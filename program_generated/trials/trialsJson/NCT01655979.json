@@ -1,0 +1,563 @@
+{
+       "Rank": 26,
+       "Acronym": [
+              "MEP"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [],
+       "ArmGroupInterventionName": [
+              "Dietary Supplement: Whey Protein + Potassium bicarbonate",
+              "Other: Control",
+              "Dietary Supplement: Whey Protein + Potassium bicarbonate",
+              "Other: Control"
+       ],
+       "ArmGroupLabel": [
+              "MEP-1",
+              "MEP-2"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT01655979"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The human being has shown that he can live and work in the space environment, but due to the lack of essential mechanical load on muscle and bone, the fluid-shift as well as alterations in the acid-base balance (mainly on account of nutritional factors), the exposure to microgravity results in a gradual degradation of muscle, bone and cartilage, deconditioning of the cardiovascular system and metabolic changes. Countermeasures to prevent all the deconditioning of the physiological systems are not yet fully effective and require further investigation.\n\nA commonly utilized model of simulating the physiological effects of microgravity on the human organism on ground is the 6\u00b0 head-down-tilt bed rest. In the present study the model has been used to study potential countermeasures to spaceflight-associated deconditioning.\n\nOne of the most constrictive changes appearing during space flight as well as during bed rest, are disuse-induced muscle losses. These are associated with a decrease in muscle protein synthesis, rather then an increase in muscle protein breakdown. Besides an effective training countermeasure, nutritional countermeasures gain respect in this context: supplementing conventional diets with whey protein or essential amino acids has been shown to increase muscle protein synthesis. Due to these anabolic properties whey protein seems promising to counteract disuse-induced muscle wasting.\n\nDrawbacks of a high protein intake are calciuric effects, ascribed to the proton-release when metabolizing sulfur-containing amino acids. The so called 'low grade metabolic acidosis' has also shown to activate osteoclastic bone resorption and muscle protein degradation. Therefore, to maximize the anabolic potential of a whey protein supplementation, the acidogenic properties need to be compensated. As previous works suggest, a shift of acid base balance into the acid direction and the resulting changes in bone and protein turnover may be hindered by supplementing alkaline mineral salts.\n\nIn this regard, a mid-term bed rest study was performed in order to investigate the effect of a combined whey protein (0.6 g/kg body weight/day) and potassium bicarbonate (90 mmol/day) supplementation as a potential countermeasure to multiple physiological and metabolic alterations on the human body resulting from real and simulated microgravity."
+       ],
+       "BriefTitle": [
+              "Medium-term Bedrest Whey Protein (MEP)"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER",
+              "OTHER",
+              "UNKNOWN",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "European Space Agency",
+              "University Hospital, Clermont-Ferrand",
+              "Institut Pluridisciplinaire Hubert Curien, Strasbourg, France",
+              "Charite University, Berlin, Germany",
+              "University of Milan",
+              "Universit\u00e9 de Nice Sophia Antipolis",
+              "University of Ottawa",
+              "Manchester Metropolitan University",
+              "University of Toronto",
+              "Medical University of Graz",
+              "University of Cologne",
+              "Radboud University Medical Center",
+              "University Hospital, Lille",
+              "Leiden University Medical Center"
+       ],
+       "CompletionDate": [],
+       "CompletionDateType": [],
+       "Condition": [
+              "Countermeasure Evaluation"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Crossover Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Treatment"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nHealthy males, 20 -45 years\nBMI: 20 - 25 kg/m2\nHeight: 158 - 190 cm\nWeight: 65 - 85 kg\nmaximum relative oxygen uptake: 30 - 60 ml/min/kg\nnon-smokers\nsuccessful medical and psychological screening\nWillingness to participate in the entire study\nsigned informed consent\nsocial insurance\nClear criminal background check\n\nExclusion Criteria:\n\nAbuse of drugs, medicine or alcohol\nVegetarians, Vegans\nMigraines\nHistory of mental illness\nClaustrophobia\nHistory of: thyroid dysfunction, renal stones, diabetes, allergies, hypertension, hypocalcaemia, uric acidaemia, lipidaemia, hyperhomocysteinaemia\nRheumatism\nMuscle-, Cartilage- or Joint Injuries\nGastro-esophageal reflux disease, renal function disorder, Hiatus hernia\nChronic back pain\nBone diseases\nHerniated discs\nAchilles tendon injuries\nCruciate ligament rupture or any other severe knee injury\nBMD more than 1.5 SD < t-score\nHistory of orthostatic intolerance or vestibular disorders\nAnaemia\nVitamin D Deficiency\nPositive response in thrombosis screening\nUse of metallic implants, osteosynthesis material\nPorphyria, Blood dyscrasia\nHIV, Hepatitis\nIncreased Inner Eye pressure\nIntolerance to local anesthetics\nParticipation in another study up to three month before study onset"
+       ],
+       "EnrollmentCount": [
+              "10"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "MEP-1",
+              "MEP-2",
+              "MEP-1",
+              "MEP-2"
+       ],
+       "InterventionBrowseBranchAbbrev": [
+              "Ot",
+              "All"
+       ],
+       "InterventionBrowseBranchName": [
+              "Other Dietary Supplements",
+              "All Drugs and Chemicals"
+       ],
+       "InterventionBrowseLeafAsFound": [
+              "Remifentanil"
+       ],
+       "InterventionBrowseLeafId": [
+              "T435"
+       ],
+       "InterventionBrowseLeafName": [
+              "Whey Protein"
+       ],
+       "InterventionBrowseLeafRelevance": [
+              "high"
+       ],
+       "InterventionDescription": [
+              "0.6 mmol WP/kg body weight + 90 mmol KHCO3 during bed rest",
+              "Bed rest without dietary supplement"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Whey Protein + Potassium bicarbonate",
+              "Control"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Dietary Supplement",
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "August 2, 2012"
+       ],
+       "LastUpdatePostDateType": [
+              "Estimate"
+       ],
+       "LastUpdateSubmitDate": [
+              "July 31, 2012"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "DLR German Aerospace Center"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Cologne"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "Germany"
+       ],
+       "LocationFacility": [
+              "DLR German Aerospace Center"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [
+              "51147"
+       ],
+       "MaximumAge": [
+              "45 Years"
+       ],
+       "MinimumAge": [
+              "20 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "DLR German Aerospace Center"
+       ],
+       "OrgStudyId": [
+              "ESA-AO-06-BR"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [],
+       "OverallOfficialName": [],
+       "OverallOfficialRole": [],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "April 2012"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [],
+       "PrimaryOutcomeMeasure": [
+              "Change in body composition"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Baseline, after 21 days of bed rest"
+       ],
+       "ReferenceCitation": [
+              "Rudwill F, O'Gorman D, Lefai E, Chery I, Zahariev A, Normand S, Pagano AF, Chopard A, Damiot A, Laurens C, Hodson L, Canet-Soulas E, Heer M, Meuthen PF, Buehlmeier J, Baecker N, Meiller L, Gauquelin-Koch G, Blanc S, Simon C, Bergouignan A. Metabolic Inflexibility Is an Early Marker of Bed-Rest-Induced Glucose Intolerance Even When Fat Mass Is Stable. J Clin Endocrinol Metab. 2018 May 1;103(5):1910-1920. doi: 10.1210/jc.2017-02267."
+       ],
+       "ReferencePMID": [
+              "29546280"
+       ],
+       "ReferenceType": [
+              "derived"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "During a an Isometric Maximum Voluntary Contraction Test on the knee extensors & flexors, the plantarflexors and dorsiflexors, the elbow extensors & flexors the Isometric Torque will be measured in Nm.",
+              "Locomotion will be assessed by Dynamic Gait Index, specific parameters are: total Score and Subscore",
+              "Muscle sympathetic nerve activity is measured by MSNA recording by microneurography technique.",
+              "Visual Orientation is assessed by 'Oriented Character Recognition Test' and Luminous Line Test. The main parameter is Score.",
+              "Blood cell count, reticulocytes, Haptoglobin, Bilirubin, Ferritin, EPO, Thrombopoietin, Urinary Urobilinogen and Fecal Urobilinogen (markers of blood cell degradation)",
+              "Orthostatic tolerance will be assessed by Head up tilt test. The following parameters are assessed to measure orthostatic tolerance: beat-to-beat heart rate [bpm], beat-to-beat blood pressure [bpm] time to presyncope [min, s]"
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Plasma Volume",
+              "Maximum volume of oxygen uptake",
+              "Isometric torque",
+              "Muscle fatigue",
+              "Bone metabolism",
+              "Bone mineral density + content",
+              "Standing balance",
+              "Locomotion",
+              "Body mass",
+              "Intracranial pressure",
+              "Monitoring of Vitamin K status",
+              "Fat metabolism",
+              "Glucose metabolism",
+              "Nitrogen balance",
+              "Energy metabolism",
+              "Glucocorticoid activity",
+              "Muscle metabolism",
+              "Acid base balance",
+              "Sympathetic activity during orthostatic stress",
+              "Visual Orientation",
+              "Plasma galanin and adrenomedullin responses during head up tilt test (orthostatic stress)",
+              "Cartilage metabolism and -thickness",
+              "Hematopoetic system",
+              "Fat accumulation in bone marrow",
+              "Achilles tendon structure",
+              "Headache - frequency and quality",
+              "Muscle volume",
+              "Free water and fat content in muscle",
+              "Orthostatic tolerance"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 2,5,14,21 days of bed rest, 1, 5, 14, 28 days after finishing bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Daily for a duration of 35 days",
+              "Baseline, after 1,4, 7,10,13,14,15,16,17,18,19,20,21 days of bed rest,1,2,4 days after finishing bed rest",
+              "Baseline, after 2,5,14,21 days of bed rest, 1, 5 days after finishing bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 21 days of bed rest, 4 days after finishing bed rest",
+              "Daily for a duration of 33 days",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 2,3,7,8,12,13,16,17 days of bed rest, 2,3 days after finishing bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 2, 14, 21 days of bed rest, 5 days after finishing bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 6,12,20 days of bed rest, 2,4 days after finishing bed rest",
+              "Baseline, after 21 days of bed rest",
+              "Baseline, after 2,3,5,7,14,21 days of bed rest, 5 days after finishing bed rest",
+              "Baseline, after 10, 21 days of bed rest, 1, 28 days after finishing bed rest",
+              "Baseline, after 10, 21 days of bed rest, 3, 28 days after finishing bed rest",
+              "Baseline, after 21 days of bed rest, 2, 28 days after finishing bed rest",
+              "Baseline, daily during 21 days of bed rest",
+              "Baseline, after 20, 21 days of bed rest, 3 days after finishing bed rest",
+              "Baseline, after 20, 21 days of bed rest, 3 days after finishing bed rest",
+              "Baseline, after 21 days of bed rest"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "August 2011"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "July 2012"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "August 2, 2012"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "July 23, 2012"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "July 31, 2012"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

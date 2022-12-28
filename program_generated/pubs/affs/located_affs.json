@@ -1,5 +1,5 @@
 {
-        "count_aff": 305,
+        "count_aff": 335,
         "affs": [
                 {
                         "name": "Adelaide Medical School, University of Adelaide, Adelaide 5005, Australia",
@@ -771,6 +771,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/100049%20China?format=json"
                 },
                 {
+                        "name": "Centre\nfor Rural Technology, Indian Institute of Technology, Guwahati, India",
+                        "name_edit": "Centre\nfor Rural Technology, Indian Institute of Technology, Guwahati, India",
+                        "place_id": 118918106,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 52435139,
+                        "boundingbox": [
+                                "26.1823597",
+                                "26.2018409",
+                                "91.6860336",
+                                "91.7042369"
+                        ],
+                        "lat": "26.19247875",
+                        "lon": "91.69463568731132",
+                        "display_name": "Indian Institute of Technology Guwahati, NH27, North Guwahati (Pt), Kamrup Metropolitan, Assam, 781031, India",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 0.936855406087553,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": " Indian Institute of Technology  Guwahati  India",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Indian%20Institute%20of%20Technology%20%20Guwahati%20%20India?format=json"
+                },
+                {
                         "name": "Centre of Excellence in Astrobiology, Amity University Mumbai, Mumbai, India.",
                         "name_edit": "Centre of Excellence in Astrobiology, Amity University Mumbai, Mumbai, India.",
                         "place_id": 299509894,
@@ -792,6 +815,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
                         "found_address": " Mumbai  India ",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Mumbai%20%20India%20?format=json"
+                },
+                {
+                        "name": "Centre of Water and Environmental Research, University of Duisburg-Essen, Essen, Germany",
+                        "name_edit": "Centre of Water and Environmental Research, University of Duisburg-Essen, Essen, Germany",
+                        "place_id": 144346430,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 164084646,
+                        "boundingbox": [
+                                "51.4253127",
+                                "51.4331306",
+                                "6.7977667",
+                                "6.8030864"
+                        ],
+                        "lat": "51.4290899",
+                        "lon": "6.8008580326401",
+                        "display_name": "Universit\u00e4t Duisburg-Essen, L+M-Bereich, Gneisenaustra\u00dfe, Wabenquartier, Neudorf-Nord, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 0.31010000000000004,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": " University of Duisburg Essen  Essen  Germany",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20University%20of%20Duisburg%20Essen%20%20Essen%20%20Germany?format=json"
                 },
                 {
                         "name": "Centro de Investigaciones Biol\u00f3gicas Margarita Salas \u2013 CSIC  Madrid Spain",
@@ -1193,6 +1239,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Toyama%20Japan?format=json"
                 },
                 {
+                        "name": "Department of Aerospace Physiology, Fourth Military Medical University, Xi\u2019an, China.",
+                        "name_edit": "Department of Aerospace Physiology, Fourth Military Medical University, Xi\u2019an, China.",
+                        "place_id": 298554465,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 3226004,
+                        "boundingbox": [
+                                "33.695219",
+                                "34.7459524",
+                                "107.655623",
+                                "109.7914365"
+                        ],
+                        "lat": "34.3430507",
+                        "lon": "108.9350839",
+                        "display_name": "\u897f\u5b89\u5e02, \u9655\u897f\u7701, \u4e2d\u56fd",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.6041451660332813,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " Xi an  China ",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Xi%20an%20%20China%20?format=json"
+                },
+                {
                         "name": "Department of Allied Health Sciences, School of Health Sciences and Technology, University of Petroleum and Energy Studies (UPES), Energy Acres Building , Bidholi Dehradun, 248007 Uttarakhand, India",
                         "name_edit": "Department of Allied Health Sciences, School of Health Sciences and Technology, University of Petroleum and Energy Studies , Energy Acres Building , Bidholi Dehradun, 248007 Uttarakhand, India",
                         "place_id": 41113056,
@@ -1237,6 +1306,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
                         "found_address": "Toyama Japan",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Toyama%20Japan?format=json"
+                },
+                {
+                        "name": "Department of Basic Medicine, Xi\u2019an Medical University, Xi\u2019an, China.",
+                        "name_edit": "Department of Basic Medicine, Xi\u2019an Medical University, Xi\u2019an, China.",
+                        "place_id": 298554465,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 3226004,
+                        "boundingbox": [
+                                "33.695219",
+                                "34.7459524",
+                                "107.655623",
+                                "109.7914365"
+                        ],
+                        "lat": "34.3430507",
+                        "lon": "108.9350839",
+                        "display_name": "\u897f\u5b89\u5e02, \u9655\u897f\u7701, \u4e2d\u56fd",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.6041451660332813,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " Xi an  China ",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Xi%20an%20%20China%20?format=json"
                 },
                 {
                         "name": "Department of Biochemistry and Molecular and Cellular Biology, Georgetown University, Washington, DC, USA",
@@ -1469,6 +1561,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Aarhus%20C%20%20Denmark?format=json"
                 },
                 {
+                        "name": "Department of Biotechnology, D.Y. Patil Deemed to be University, Mumbai, India",
+                        "name_edit": "Department of Biotechnology, D.Y. Patil Deemed to be University, Mumbai, India",
+                        "place_id": 299509894,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 7888990,
+                        "boundingbox": [
+                                "18.8939566",
+                                "19.2694771",
+                                "72.776333",
+                                "72.9817485"
+                        ],
+                        "lat": "19.0785451",
+                        "lon": "72.878176",
+                        "display_name": "Mumbai, Mumbai Suburban, Maharashtra, India",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.879949910197148,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " Mumbai  India",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Mumbai%20%20India?format=json"
+                },
+                {
                         "name": "Department of Biotechnology, SRM Institute of Science and Technology, Kattankulathur, India.",
                         "name_edit": "Department of Biotechnology, SRM Institute of Science and Technology, Kattankulathur, India.",
                         "place_id": 298398193,
@@ -1490,6 +1605,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
                         "found_address": " India ",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20India%20?format=json"
+                },
+                {
+                        "name": "Department of Cardiology, Xijing Hospital, Fourth Military Medical University, Xi\u2019an, China.",
+                        "name_edit": "Department of Cardiology, Xijing Hospital, Fourth Military Medical University, Xi\u2019an, China.",
+                        "place_id": 298554465,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 3226004,
+                        "boundingbox": [
+                                "33.695219",
+                                "34.7459524",
+                                "107.655623",
+                                "109.7914365"
+                        ],
+                        "lat": "34.3430507",
+                        "lon": "108.9350839",
+                        "display_name": "\u897f\u5b89\u5e02, \u9655\u897f\u7701, \u4e2d\u56fd",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.6041451660332813,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " Xi an  China ",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Xi%20an%20%20China%20?format=json"
                 },
                 {
                         "name": "Department of Cardiothoracic Surgery, Southcoast Health, Fall River, Massachusetts",
@@ -1721,6 +1859,52 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Milan%20Italy?format=json"
                 },
                 {
+                        "name": "Department of Community Medicine, Tabriz University of Medical Sciences, Tabriz, Iran",
+                        "name_edit": "Department of Community Medicine, Tabriz University of Medical Sciences, Tabriz, Iran",
+                        "place_id": 64373921,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 5973317285,
+                        "boundingbox": [
+                                "36.2753049",
+                                "36.2754049",
+                                "59.6113506",
+                                "59.6114506"
+                        ],
+                        "lat": "36.2753549",
+                        "lon": "59.6114006",
+                        "display_name": "\u0647\u062a\u0644 \u0622\u067e\u0627\u0631\u062a\u0645\u0627\u0646 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u062a\u0628\u0631\u06cc\u0632, \u062e\u06cc\u0627\u0628\u0627\u0646 \u0639\u0646\u0635\u0631\u06cc, \u0639\u0646\u0635\u0631\u06cc, beik khorasani saipa, \u0645\u0646\u0637\u0642\u0647 \u06f7, \u0634\u0647\u0631 \u0645\u0634\u0647\u062f, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0634\u0647\u062f, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0634\u0647\u062f, \u0627\u0633\u062a\u0627\u0646 \u062e\u0631\u0627\u0633\u0627\u0646 \u0631\u0636\u0648\u06cc, 91656-73117, \u0627\u06cc\u0631\u0627\u0646",
+                        "class": "tourism",
+                        "type": "hotel",
+                        "importance": 0.0001,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/accommodation_hotel2.p.20.png",
+                        "found_address": " Tabriz University of Medical Sciences  Tabriz  Iran",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Tabriz%20University%20of%20Medical%20Sciences%20%20Tabriz%20%20Iran?format=json"
+                },
+                {
+                        "name": "Department of Dairy\nScience and Food Technology, Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",
+                        "name_edit": "Department of Dairy\nScience and Food Technology, Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",
+                        "place_id": 63279249,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 5808894659,
+                        "boundingbox": [
+                                "25.2662387",
+                                "25.2663387",
+                                "82.9927469",
+                                "82.9928469"
+                        ],
+                        "lat": "25.2662887",
+                        "lon": "82.9927969",
+                        "display_name": "\u0915\u093e\u0936\u0940 \u0939\u093f\u0928\u094d\u0926\u0942 \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f, Semi Circle Road 2, Karbirdas Colony, Kabir Colony, Varanasi, Sadar, Varanasi, Uttar Pradesh, 221008, India",
+                        "class": "amenity",
+                        "type": "college",
+                        "importance": 0.22010000000000002,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_school.p.20.png",
+                        "found_address": " Banaras Hindu University  Varanasi  India",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Banaras%20Hindu%20University%20%20Varanasi%20%20India?format=json"
+                },
+                {
                         "name": "Department of Electrical and Electronics Engineering and the Physics Department, Birla Institute of Technology and Science, Pilani, Hyderabad, Telangana, India",
                         "name_edit": "Department of Electrical and Electronics Engineering and the Physics Department, Birla Institute of Technology and Science, Pilani, Hyderabad, Telangana, India",
                         "place_id": 299254648,
@@ -1813,6 +1997,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Colorado%20State%20University%20%20Fort%20Collins%20%20CO%20%20USA?format=json"
                 },
                 {
+                        "name": "Department of Food Technology, Lady Irwin College, University of Delhi, New Delhi, India",
+                        "name_edit": "Department of Food Technology, Lady Irwin College, University of Delhi, New Delhi, India",
+                        "place_id": 171650087,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 265771682,
+                        "boundingbox": [
+                                "28.5789688",
+                                "28.5904097",
+                                "77.1607162",
+                                "77.1683156"
+                        ],
+                        "lat": "28.5846757",
+                        "lon": "77.16358980822572",
+                        "display_name": "University of Delhi South Campus, South Campus (internal Road), Vasant Vihar Tehsil, New Delhi, Delhi, 110021, India",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 0.6300099999999998,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": " University of Delhi  New Delhi  India",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20University%20of%20Delhi%20%20New%20Delhi%20%20India?format=json"
+                },
+                {
                         "name": "Department of Health Sciences Universit\u00e0 degli Studi di Milano  Milan Italy",
                         "name_edit": "Department of Health Sciences Universit\u00e0 degli Studi di Milano  Milan Italy",
                         "place_id": 298088434,
@@ -1879,6 +2086,52 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%203000%20Leuven%20%20Belgium?format=json"
                 },
                 {
+                        "name": "Department of Immunology, School of Basic Medical Sciences NHC Key Laboratory of Medical Immunology, Peking University  Beijing China",
+                        "name_edit": "Department of Immunology, School of Basic Medical Sciences NHC Key Laboratory of Medical Immunology, Peking University  Beijing China",
+                        "place_id": 113841134,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 30663365,
+                        "boundingbox": [
+                                "39.9851791",
+                                "39.9982402",
+                                "116.2983911",
+                                "116.3095853"
+                        ],
+                        "lat": "39.99171495",
+                        "lon": "116.30393496863539",
+                        "display_name": "\u5317\u4eac\u5927\u5b66, 5\u53f7, \u9890\u548c\u56ed\u8def, \u7a3b\u9999\u56ed\u5317\u793e\u533a, \u6d77\u6dc0\u9547, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100871, \u4e2d\u56fd",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 0.557740373274367,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": " Peking University  Beijing China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Peking%20University%20%20Beijing%20China?format=json"
+                },
+                {
+                        "name": "Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences Peking University  Beijing China",
+                        "name_edit": "Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences Peking University  Beijing China",
+                        "place_id": 338379347,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 25248662,
+                        "boundingbox": [
+                                "39.746217",
+                                "40.066217",
+                                "116.2312757",
+                                "116.5512757"
+                        ],
+                        "lat": "39.906217",
+                        "lon": "116.3912757",
+                        "display_name": "\u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd",
+                        "class": "place",
+                        "type": "city",
+                        "importance": 0.7344014383682882,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png",
+                        "found_address": "Beijing China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Beijing%20China?format=json"
+                },
+                {
                         "name": "Department of Integrative Biology, University of California, Berkeley, California, USA",
                         "name_edit": "Department of Integrative Biology, University of California, Berkeley, California, USA",
                         "place_id": 298687249,
@@ -1922,6 +2175,29 @@
                         "importance": 1.0215173743608474,
                         "found_address": " Baylor College of Medicine  Houston  Texas",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Baylor%20College%20of%20Medicine%20%20Houston%20%20Texas?format=json"
+                },
+                {
+                        "name": "Department of Kinesiology, Indiana University School of Public Health\u2013Bloomington, Bloomington",
+                        "name_edit": "Department of Kinesiology, Indiana University School of Public Health\u2013Bloomington, Bloomington",
+                        "place_id": 297995266,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 127716,
+                        "boundingbox": [
+                                "39.1213291",
+                                "39.2213618",
+                                "-86.5918944",
+                                "-86.4711305"
+                        ],
+                        "lat": "39.1670396",
+                        "lon": "-86.5342881",
+                        "display_name": "Bloomington, Monroe County, Indiana, United States",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.6679355155989937,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " Bloomington",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Bloomington?format=json"
                 },
                 {
                         "name": "Department of Life Sciences, School of Health Sciences, Birmingham City University, Birmingham B15 3TN, United Kingdom",
@@ -2449,6 +2725,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/MA%20USA?format=json"
                 },
                 {
+                        "name": "Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Key Laboratory of Molecular Cardiovascular Science Ministry of Education, Peking University  Beijing China",
+                        "name_edit": "Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Key Laboratory of Molecular Cardiovascular Science Ministry of Education, Peking University  Beijing China",
+                        "place_id": 113841134,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 30663365,
+                        "boundingbox": [
+                                "39.9851791",
+                                "39.9982402",
+                                "116.2983911",
+                                "116.3095853"
+                        ],
+                        "lat": "39.99171495",
+                        "lon": "116.30393496863539",
+                        "display_name": "\u5317\u4eac\u5927\u5b66, 5\u53f7, \u9890\u548c\u56ed\u8def, \u7a3b\u9999\u56ed\u5317\u793e\u533a, \u6d77\u6dc0\u9547, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100871, \u4e2d\u56fd",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 0.557740373274367,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": " Peking University  Beijing China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Peking%20University%20%20Beijing%20China?format=json"
+                },
+                {
                         "name": "Department of Plant Pathology, University of Florida, Merritt Island, Florida, USA.",
                         "name_edit": "Department of Plant Pathology, University of Florida, Merritt Island, Florida, USA.",
                         "place_id": 113874483,
@@ -2607,6 +2906,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Royal%20Perth%20Hospital%20%20Perth%20%20WA%20%206000%20%20Australia?format=json"
                 },
                 {
+                        "name": "Department of Radiology, Tabriz University of Medical Sciences, Tabriz, Iran",
+                        "name_edit": "Department of Radiology, Tabriz University of Medical Sciences, Tabriz, Iran",
+                        "place_id": 64373921,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 5973317285,
+                        "boundingbox": [
+                                "36.2753049",
+                                "36.2754049",
+                                "59.6113506",
+                                "59.6114506"
+                        ],
+                        "lat": "36.2753549",
+                        "lon": "59.6114006",
+                        "display_name": "\u0647\u062a\u0644 \u0622\u067e\u0627\u0631\u062a\u0645\u0627\u0646 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u062a\u0628\u0631\u06cc\u0632, \u062e\u06cc\u0627\u0628\u0627\u0646 \u0639\u0646\u0635\u0631\u06cc, \u0639\u0646\u0635\u0631\u06cc, beik khorasani saipa, \u0645\u0646\u0637\u0642\u0647 \u06f7, \u0634\u0647\u0631 \u0645\u0634\u0647\u062f, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0634\u0647\u062f, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0634\u0647\u062f, \u0627\u0633\u062a\u0627\u0646 \u062e\u0631\u0627\u0633\u0627\u0646 \u0631\u0636\u0648\u06cc, 91656-73117, \u0627\u06cc\u0631\u0627\u0646",
+                        "class": "tourism",
+                        "type": "hotel",
+                        "importance": 0.0001,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/accommodation_hotel2.p.20.png",
+                        "found_address": " Tabriz University of Medical Sciences  Tabriz  Iran",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Tabriz%20University%20of%20Medical%20Sciences%20%20Tabriz%20%20Iran?format=json"
+                },
+                {
                         "name": "Department of Respiratory and Critical Care Medicine, Binzhou Medical University Hospital , Binzhou , China",
                         "name_edit": "Department of Respiratory and Critical Care Medicine, Binzhou Medical University Hospital , Binzhou , China",
                         "place_id": 298482904,
@@ -2697,6 +3019,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png",
                         "found_address": " Moscow   Russian Federation",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Moscow%20%20%20Russian%20Federation?format=json"
+                },
+                {
+                        "name": "Division of Interventional Radiology and Image-Guided Medicine, Department of Radiology and Imaging Sciences, Emory University School of Medicine, Atlanta, GA, USA",
+                        "name_edit": "Division of Interventional Radiology and Image-Guided Medicine, Department of Radiology and Imaging Sciences, Emory University School of Medicine, Atlanta, GA, USA",
+                        "place_id": 398713,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 153843609,
+                        "boundingbox": [
+                                "33.5889924",
+                                "33.9089924",
+                                "-84.5502644",
+                                "-84.2302644"
+                        ],
+                        "lat": "33.7489924",
+                        "lon": "-84.3902644",
+                        "display_name": "Atlanta, Fulton County, Georgia, 30303, United States",
+                        "class": "place",
+                        "type": "city",
+                        "importance": 0.8008028207926616,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png",
+                        "found_address": " Atlanta  GA  USA",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Atlanta%20%20GA%20%20USA?format=json"
                 },
                 {
                         "name": "D\u00e9partement des Sciences Biologiques, Universit\u00e9 de Montr\u00e9al, Montr\u00e9al, Quebec, Canada",
@@ -3133,6 +3478,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Friedrich%20Alexander%20University%20%20Erlangen%20%20Germany?format=json"
                 },
                 {
+                        "name": "Group for Aquatic Microbial Ecology, Department of Chemistry, Environmental Microbiology and Biotechnology, University of Duisburg-Essen, Essen, Germany",
+                        "name_edit": "Group for Aquatic Microbial Ecology, Department of Chemistry, Environmental Microbiology and Biotechnology, University of Duisburg-Essen, Essen, Germany",
+                        "place_id": 144346430,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 164084646,
+                        "boundingbox": [
+                                "51.4253127",
+                                "51.4331306",
+                                "6.7977667",
+                                "6.8030864"
+                        ],
+                        "lat": "51.4290899",
+                        "lon": "6.8008580326401",
+                        "display_name": "Universit\u00e4t Duisburg-Essen, L+M-Bereich, Gneisenaustra\u00dfe, Wabenquartier, Neudorf-Nord, Duisburg-Mitte, Duisburg, Nordrhein-Westfalen, 47057, Deutschland",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 0.31010000000000004,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": " University of Duisburg Essen  Essen  Germany",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20University%20of%20Duisburg%20Essen%20%20Essen%20%20Germany?format=json"
+                },
+                {
                         "name": "Gunma University Heavy Ion Medical Center Maebashi Japan",
                         "name_edit": "Gunma University Heavy Ion Medical Center Maebashi Japan",
                         "place_id": 299030107,
@@ -3245,6 +3613,29 @@
                         "importance": 0.32010000000000005,
                         "found_address": " B 2610 Antwerp  Belgium",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20B%202610%20Antwerp%20%20Belgium?format=json"
+                },
+                {
+                        "name": "Immunology Research Center Beijing Clinical Research Institute, Beijing Friendship Hospital, Capital Medical University  Beijing China",
+                        "name_edit": "Immunology Research Center Beijing Clinical Research Institute, Beijing Friendship Hospital, Capital Medical University  Beijing China",
+                        "place_id": 54682659,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 4792902021,
+                        "boundingbox": [
+                                "39.9123809",
+                                "39.9124809",
+                                "116.349127",
+                                "116.349227"
+                        ],
+                        "lat": "39.9124309",
+                        "lon": "116.349177",
+                        "display_name": "\u5317\u4eac\u513f\u7ae5\u533b\u9662\u5317\u95e8, \u6708\u575b\u5357\u8857, \u6708\u575b\u8857\u9053, \u897f\u57ce\u533a, \u5317\u4eac\u5e02, 100032, \u4e2d\u56fd",
+                        "class": "amenity",
+                        "type": "hospital",
+                        "importance": 0.0001,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png",
+                        "found_address": " Capital Medical University  Beijing China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Capital%20Medical%20University%20%20Beijing%20China?format=json"
                 },
                 {
                         "name": "Institute for Environment, Health and Safety, Radiobiology Unit, Belgian Nuclear Research Centre (SCK CEN), Mol, Belgium",
@@ -3401,6 +3792,29 @@
                         "importance": 0.5867014902539529,
                         "found_address": " National Academy of Sciences of Ukraine",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20National%20Academy%20of%20Sciences%20of%20Ukraine?format=json"
+                },
+                {
+                        "name": "Institute of Molecular Genetics, National Research Center Kurchatov Institute, Moscow, Russia",
+                        "name_edit": "Institute of Molecular Genetics, National Research Center Kurchatov Institute, Moscow, Russia",
+                        "place_id": 298455038,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 2555133,
+                        "boundingbox": [
+                                "55.4913076",
+                                "55.9577717",
+                                "37.290502",
+                                "37.9674277"
+                        ],
+                        "lat": "55.7504461",
+                        "lon": "37.6174943",
+                        "display_name": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f",
+                        "class": "place",
+                        "type": "city",
+                        "importance": 0.7908193282833463,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png",
+                        "found_address": " Moscow  Russia",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Moscow%20%20Russia?format=json"
                 },
                 {
                         "name": "Institute of Physics, Chinese Academy of Sciences  Beijing 100190 China",
@@ -4423,6 +4837,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Huazhong%20University%20of%20Science%20and%20Technology%20%20Wuhan%20430074%20%20People%20s%20Republic%20of%20China?format=json"
                 },
                 {
+                        "name": "Magneto Space",
+                        "name_edit": "Magneto Space, San Francisco, CA",
+                        "place_id": 297983890,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 111968,
+                        "boundingbox": [
+                                "37.6403143",
+                                "37.929811",
+                                "-123.173825",
+                                "-122.281479"
+                        ],
+                        "lat": "37.7790262",
+                        "lon": "-122.419906",
+                        "display_name": "San Francisco, CAL Fire Northern Region, California, United States",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 1.0251309463713039,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " San Francisco  CA",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20San%20Francisco%20%20CA?format=json"
+                },
+                {
                         "name": "Mars Society Australia, CLIFTON HILL, Australia.",
                         "name_edit": "Mars Society Australia, CLIFTON HILL, Australia.",
                         "place_id": 247417344,
@@ -4444,6 +4881,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/transport_train_station2.p.20.png",
                         "found_address": " CLIFTON HILL  Australia ",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20CLIFTON%20HILL%20%20Australia%20?format=json"
+                },
+                {
+                        "name": "Mars University",
+                        "name_edit": "Mars University",
+                        "place_id": 72509181,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 6845716815,
+                        "boundingbox": [
+                                "40.0038334",
+                                "40.0039334",
+                                "-83.0140724",
+                                "-83.0139724"
+                        ],
+                        "lat": "40.0038834",
+                        "lon": "-83.0140224",
+                        "display_name": "Mars, 281, West Lane Avenue, Indianola Forest, University District District 2, University District, Columbus, Sharon, Franklin County, Ohio, 43210, United States",
+                        "class": "tourism",
+                        "type": "artwork",
+                        "importance": 0.2101,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/tourist_art_gallery2.p.20.png",
+                        "found_address": "Mars University",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Mars%20University?format=json"
                 },
                 {
                         "name": "Massachusetts Institute of Technology",
@@ -4513,6 +4973,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
                         "found_address": " MIT  United States",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20MIT%20%20United%20States?format=json"
+                },
+                {
+                        "name": "Medical Radiation Research Center, Tabriz University of Medical Sciences, Tabriz, Iran",
+                        "name_edit": "Medical Radiation Research Center, Tabriz University of Medical Sciences, Tabriz, Iran",
+                        "place_id": 64373921,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 5973317285,
+                        "boundingbox": [
+                                "36.2753049",
+                                "36.2754049",
+                                "59.6113506",
+                                "59.6114506"
+                        ],
+                        "lat": "36.2753549",
+                        "lon": "59.6114006",
+                        "display_name": "\u0647\u062a\u0644 \u0622\u067e\u0627\u0631\u062a\u0645\u0627\u0646 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u062a\u0628\u0631\u06cc\u0632, \u062e\u06cc\u0627\u0628\u0627\u0646 \u0639\u0646\u0635\u0631\u06cc, \u0639\u0646\u0635\u0631\u06cc, beik khorasani saipa, \u0645\u0646\u0637\u0642\u0647 \u06f7, \u0634\u0647\u0631 \u0645\u0634\u0647\u062f, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0634\u0647\u062f, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0634\u0647\u062f, \u0627\u0633\u062a\u0627\u0646 \u062e\u0631\u0627\u0633\u0627\u0646 \u0631\u0636\u0648\u06cc, 91656-73117, \u0627\u06cc\u0631\u0627\u0646",
+                        "class": "tourism",
+                        "type": "hotel",
+                        "importance": 0.0001,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/accommodation_hotel2.p.20.png",
+                        "found_address": " Tabriz University of Medical Sciences  Tabriz  Iran",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Tabriz%20University%20of%20Medical%20Sciences%20%20Tabriz%20%20Iran?format=json"
                 },
                 {
                         "name": "Medical School The University of Rochester  Rochester NY USA",
@@ -4649,6 +5132,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Houston%20%20TX%20%20USA?format=json"
                 },
                 {
+                        "name": "NIFTEM, Kundii, India",
+                        "name_edit": "NIFTEM, Kundii, India",
+                        "place_id": 298398193,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 304716,
+                        "boundingbox": [
+                                "6.5531169",
+                                "35.6745457",
+                                "67.9544415",
+                                "97.395561"
+                        ],
+                        "lat": "22.3511148",
+                        "lon": "78.6677428",
+                        "display_name": "India",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.957689135880987,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " India",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20India?format=json"
+                },
+                {
                         "name": "National Demonstration Center for Experimental Mechanical and Electrical Engineering Education (Tianjin University of Technology), Tianjin, People\u2019s Republic of China",
                         "name_edit": "National Demonstration Center for Experimental Mechanical and Electrical Engineering Education , Tianjin, People\u2019s Republic of China",
                         "place_id": 591076,
@@ -4670,6 +5176,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png",
                         "found_address": " Tianjin  People s Republic of China",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Tianjin%20%20People%20s%20Republic%20of%20China?format=json"
+                },
+                {
+                        "name": "National Demonstration Center for Experimental Mechanical and Electrical Engineering Education, Tianjin University of Technology, Tianjin, People\u2019s Republic of China",
+                        "name_edit": "National Demonstration Center for Experimental Mechanical and Electrical Engineering Education, Tianjin University of Technology, Tianjin, People\u2019s Republic of China",
+                        "place_id": 177798350,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 299988733,
+                        "boundingbox": [
+                                "39.0546058",
+                                "39.0652215",
+                                "117.1302289",
+                                "117.139735"
+                        ],
+                        "lat": "39.05902805",
+                        "lon": "117.13500210677157",
+                        "display_name": "\u5929\u6d25\u7406\u5de5\u5927\u5b66, \u5316\u6210\u8def, \u897f\u9752\u533a, \u5929\u6d25\u5e02, 300387, \u4e2d\u56fd",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 0.0001,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": " Tianjin University of Technology  Tianjin  People s Republic of China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Tianjin%20University%20of%20Technology%20%20Tianjin%20%20People%20s%20Republic%20of%20China?format=json"
                 },
                 {
                         "name": "National Demonstration Center for Experimental, Mechanical and Electrical Engineering Education, Tianjin University of Technology, Tianjin 300384, P. R. China",
@@ -4740,6 +5269,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Beijing%20China?format=json"
                 },
                 {
+                        "name": "National Key Laboratory of Human Factors Engineering China Astronauts Research and Training Center  Beijing China",
+                        "name_edit": "National Key Laboratory of Human Factors Engineering China Astronauts Research and Training Center  Beijing China",
+                        "place_id": 338379347,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 25248662,
+                        "boundingbox": [
+                                "39.746217",
+                                "40.066217",
+                                "116.2312757",
+                                "116.5512757"
+                        ],
+                        "lat": "39.906217",
+                        "lon": "116.3912757",
+                        "display_name": "\u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd",
+                        "class": "place",
+                        "type": "city",
+                        "importance": 0.7344014383682882,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png",
+                        "found_address": "Beijing China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Beijing%20China?format=json"
+                },
+                {
                         "name": "National Microgravity Laboratory Institute of Mechanics Chinese Academy of Sciences  Beijing 100190 China",
                         "name_edit": "National Microgravity Laboratory Institute of Mechanics Chinese Academy of Sciences  Beijing 100190 China",
                         "place_id": 300090337,
@@ -4780,6 +5332,28 @@
                         "importance": 0.4112913654810438,
                         "found_address": " Ltd   Hiroshima Japan",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Ltd%20%20%20Hiroshima%20Japan?format=json"
+                },
+                {
+                        "name": "New York University Abu Dhabi",
+                        "name_edit": "New York University Abu Dhabi",
+                        "place_id": 79598316,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 7617599835,
+                        "boundingbox": [
+                                "24.5139459",
+                                "24.5339459",
+                                "54.4241015",
+                                "54.4441015"
+                        ],
+                        "lat": "24.5239459",
+                        "lon": "54.4341015",
+                        "display_name": "New York University Abu Dhabi, \u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0633\u0639\u062f\u064a\u0627\u062a, \u0623\u0628\u0648\u0638\u0628\u064a, \u0623\u0628\u0648 \u0638\u0628\u064a, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+                        "class": "place",
+                        "type": "neighbourhood",
+                        "importance": 0.75,
+                        "found_address": "New York University Abu Dhabi",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/New%20York%20University%20Abu%20Dhabi?format=json"
                 },
                 {
                         "name": "Noto Center for Fisheries Science and Technology Kanazawa University Noto\u2010cho, Ishikawa Japan",
@@ -5033,6 +5607,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Moab%20%20UT%2084532?format=json"
                 },
                 {
+                        "name": "Program in Neuroscience, The College of Arts and Sciences, Indiana University, Bloomington",
+                        "name_edit": "Program in Neuroscience, The College of Arts and Sciences, Indiana University, Bloomington",
+                        "place_id": 123279933,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 74173036,
+                        "boundingbox": [
+                                "39.16268",
+                                "39.1965546",
+                                "-86.5283818",
+                                "-86.4898149"
+                        ],
+                        "lat": "39.1798386",
+                        "lon": "-86.50936842298121",
+                        "display_name": "Indiana University Bloomington, South Woodlawn Avenue, Bloomington, Monroe County, Indiana, 47401, United States",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 0.8323270870485062,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": " Indiana University  Bloomington",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Indiana%20University%20%20Bloomington?format=json"
+                },
+                {
                         "name": "Qian Xuesen Laboratory of Space Technology China Academy of Space Technology  Beijing 100094 China",
                         "name_edit": "Qian Xuesen Laboratory of Space Technology China Academy of Space Technology  Beijing 100094 China",
                         "place_id": 300090322,
@@ -5165,6 +5762,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
                         "found_address": "Rensselaer Polytechnic Institute",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Rensselaer%20Polytechnic%20Institute?format=json"
+                },
+                {
+                        "name": "Research Center of Psychiatry and Behavioral Sciences, Tabriz University of Medical Sciences, Tabriz, Iran",
+                        "name_edit": "Research Center of Psychiatry and Behavioral Sciences, Tabriz University of Medical Sciences, Tabriz, Iran",
+                        "place_id": 64373921,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 5973317285,
+                        "boundingbox": [
+                                "36.2753049",
+                                "36.2754049",
+                                "59.6113506",
+                                "59.6114506"
+                        ],
+                        "lat": "36.2753549",
+                        "lon": "59.6114006",
+                        "display_name": "\u0647\u062a\u0644 \u0622\u067e\u0627\u0631\u062a\u0645\u0627\u0646 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0639\u0644\u0648\u0645 \u067e\u0632\u0634\u06a9\u06cc \u062a\u0628\u0631\u06cc\u0632, \u062e\u06cc\u0627\u0628\u0627\u0646 \u0639\u0646\u0635\u0631\u06cc, \u0639\u0646\u0635\u0631\u06cc, beik khorasani saipa, \u0645\u0646\u0637\u0642\u0647 \u06f7, \u0634\u0647\u0631 \u0645\u0634\u0647\u062f, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0634\u0647\u062f, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0634\u0647\u062f, \u0627\u0633\u062a\u0627\u0646 \u062e\u0631\u0627\u0633\u0627\u0646 \u0631\u0636\u0648\u06cc, 91656-73117, \u0627\u06cc\u0631\u0627\u0646",
+                        "class": "tourism",
+                        "type": "hotel",
+                        "importance": 0.0001,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/accommodation_hotel2.p.20.png",
+                        "found_address": " Tabriz University of Medical Sciences  Tabriz  Iran",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Tabriz%20University%20of%20Medical%20Sciences%20%20Tabriz%20%20Iran?format=json"
                 },
                 {
                         "name": "Research Group \u2018Magdeburger Arbeitsgemeinschaft F\u00fcr Forschung Unter Raumfahrt- Und Schwerelosigkeitsbedingungen\u2018 (MARS), Otto-von-Guericke University, Magdeburg, Germany",
@@ -5730,6 +6350,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20NG17%205LF%20England%20%20United%20Kingdom?format=json"
                 },
                 {
+                        "name": "Skolkovo Institute of Science and Technology, Moscow, Russia",
+                        "name_edit": "Skolkovo Institute of Science and Technology, Moscow, Russia",
+                        "place_id": 298455038,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 2555133,
+                        "boundingbox": [
+                                "55.4913076",
+                                "55.9577717",
+                                "37.290502",
+                                "37.9674277"
+                        ],
+                        "lat": "55.7504461",
+                        "lon": "37.6174943",
+                        "display_name": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f",
+                        "class": "place",
+                        "type": "city",
+                        "importance": 0.7908193282833463,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png",
+                        "found_address": " Moscow  Russia",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Moscow%20%20Russia?format=json"
+                },
+                {
                         "name": "Songshan Lake Materials Laboratory  Dongguan Guangdong 523808 China",
                         "name_edit": "Songshan Lake Materials Laboratory  Dongguan Guangdong 523808 China",
                         "place_id": 123974158,
@@ -6001,6 +6644,29 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Beijing%20China?format=json"
                 },
                 {
+                        "name": "State Key Laboratory of Space Medicine Fundamentals and Application Chinese Astronaut Research and Training Center  Beijing China",
+                        "name_edit": "State Key Laboratory of Space Medicine Fundamentals and Application Chinese Astronaut Research and Training Center  Beijing China",
+                        "place_id": 338379347,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "node",
+                        "osm_id": 25248662,
+                        "boundingbox": [
+                                "39.746217",
+                                "40.066217",
+                                "116.2312757",
+                                "116.5512757"
+                        ],
+                        "lat": "39.906217",
+                        "lon": "116.3912757",
+                        "display_name": "\u5317\u4eac\u5e02, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd",
+                        "class": "place",
+                        "type": "city",
+                        "importance": 0.7344014383682882,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png",
+                        "found_address": "Beijing China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Beijing%20China?format=json"
+                },
+                {
                         "name": "State Key Laboratory of Space Medicine Fundamentals and Application, China Astronaut Research and Training Center  Beijing China",
                         "name_edit": "State Key Laboratory of Space Medicine Fundamentals and Application, China Astronaut Research and Training Center  Beijing China",
                         "place_id": 338379347,
@@ -6088,6 +6754,29 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_town.p.20.png",
                         "found_address": " Droitwich  Worcestershire WR9 9AS  United Kingdom",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Droitwich%20%20Worcestershire%20WR9%209AS%20%20United%20Kingdom?format=json"
+                },
+                {
+                        "name": "Texas A & M University Wm Michael Barnes 64 Department of Industrial and Systems Engineering, , College Station, TX 77840-3131",
+                        "name_edit": "Texas A & M University Wm Michael Barnes 64 Department of Industrial and Systems Engineering, , College Station, TX 77840-3131",
+                        "place_id": 298971498,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 6605762,
+                        "boundingbox": [
+                                "30.5164801",
+                                "30.6584084",
+                                "-96.3876547",
+                                "-96.1965627"
+                        ],
+                        "lat": "30.5955289",
+                        "lon": "-96.3071042",
+                        "display_name": "College Station, Brazos County, Texas, United States",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.7532908587543785,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": "   College Station  TX 77840 3131",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20%20%20College%20Station%20%20TX%2077840%203131?format=json"
                 },
                 {
                         "name": "The Saban Research Institute, Children\u2019s Hospital Los Angeles, University of Southern California, Los Angeles, Southern California, USA",

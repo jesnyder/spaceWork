@@ -147,10 +147,19 @@ def replace_aff(aff):
         return('MIT Media Lab, Massachusetts Institute of Technology')
 
     if aff == 'Songshan Lake Materials Laboratory Dongguan Guangdong 523808 China':
-        return('Songshan Lake Materials Laboratory Dongguan, Guangdong, China')
+        return('Guangdong China')
 
     if aff == 'Institute of Food Biotechnology and Genomics NAS of Ukraine':
         return('Institute of Food Biotechnology and Genomics NAS of Ukraine, Kyiv, Ukraine')
+
+    if aff == 'NFESFlorida State UniversityTallahasseeFL':
+        return('NFES, Florida State University, Tallahassee, FL')
+
+    if aff == 'Magneto Space':
+        return('Magneto Space, San Francisco, CA')
+
+    if aff == 'University UPO':
+        return('University UPO, University Eastern Piedmont, UPO, Alessandria, Novara, Vercelli, Italy')
 
     return(aff)
 

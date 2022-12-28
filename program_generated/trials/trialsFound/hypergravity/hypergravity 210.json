@@ -1,0 +1,416 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "OtherEventStatsGroupId",
+                     "OtherEventStatsNumAffected",
+                     "OtherEventStatsNumAtRisk",
+                     "OtherEventStatsNumEvents",
+                     "OtherEventTerm",
+                     "OtherOutcomeDescription",
+                     "OtherOutcomeMeasure",
+                     "OtherOutcomeTimeFrame",
+                     "OutcomeAnalysisCILowerLimit",
+                     "OutcomeAnalysisCILowerLimitComment",
+                     "OutcomeAnalysisCINumSides",
+                     "OutcomeAnalysisCIPctValue",
+                     "OutcomeAnalysisCIUpperLimit",
+                     "OutcomeAnalysisCIUpperLimitComment",
+                     "OutcomeAnalysisDispersionType",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [
+                                   "global (mL, area under the flow versus time curve) and regional (% change per quadrant at 5th intercostal space level)"
+                            ],
+                            "OtherOutcomeMeasure": [
+                                   "tidal volume"
+                            ],
+                            "OtherOutcomeTimeFrame": [
+                                   "2hrs 30min"
+                            ],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "OtherEventStatsGroupId": [],
+                            "OtherEventStatsNumAffected": [],
+                            "OtherEventStatsNumAtRisk": [],
+                            "OtherEventStatsNumEvents": [],
+                            "OtherEventTerm": [],
+                            "OtherOutcomeDescription": [],
+                            "OtherOutcomeMeasure": [],
+                            "OtherOutcomeTimeFrame": [],
+                            "OutcomeAnalysisCILowerLimit": [],
+                            "OutcomeAnalysisCILowerLimitComment": [],
+                            "OutcomeAnalysisCINumSides": [],
+                            "OutcomeAnalysisCIPctValue": [],
+                            "OutcomeAnalysisCIUpperLimit": [],
+                            "OutcomeAnalysisCIUpperLimitComment": [],
+                            "OutcomeAnalysisDispersionType": [],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

@@ -1,0 +1,1191 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "FlowRecruitmentDetails",
+                     "FlowTypeUnitsAnalyzed",
+                     "Gender",
+                     "GenderBased",
+                     "GenderDescription",
+                     "HasExpandedAccess",
+                     "HealthyVolunteers",
+                     "IPDSharing",
+                     "IPDSharingAccessCriteria",
+                     "IPDSharingDescription",
+                     "IPDSharingInfoType",
+                     "IPDSharingTimeFrame",
+                     "IPDSharingURL",
+                     "InterventionAncestorId",
+                     "InterventionAncestorTerm",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [
+                                   "Data obtained will be disseminated through publications and conference presentations. No subject data will be shared with other researchers."
+                            ],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "No"
+                            ],
+                            "IPDSharing": [
+                                   "Undecided"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "No"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "Undecided"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "Undecided"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "No"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Female"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "No"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [
+                                   "Yes"
+                            ],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [],
+                            "IPDSharing": [
+                                   "Undecided"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

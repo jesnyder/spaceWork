@@ -34,11 +34,103 @@
 
 <body>
 
-<div id=map></div>
+<div id=map style="width:90% ; margin-left: 3%; max-width:2000px;"></div>
 <script src="js/microgravity_space_biology.js"></script>
+<script src="js/geojson/geojson_trials.js"></script>
 <script type="text/javascript"  src="js/fda.js"></script>
 <script type="text/javascript"  src="js/cdc.js"></script>
 <script type="text/javascript"  src="js/map.js"></script>
+
+<div style="width:80% ; margin-left: 3%; max-width:1000px;">
+<br>
+Welcome to the map.
+<ol>
+<li> Map publications from 2022-2023 on microgravity space biology. Search
+  <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
+  for
+  <a href="https://scholar.google.com/scholar?as_ylo=2022&q=microgravity+space+biology&hl=en&as_sdt=0,5" target="_blank" rel="noopener">"microgravity space biology" published since 2022</a>.
+  Scrape the titles, create an aggregated list, and query
+  <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/" target="_blank" rel="noopener">CrossRef</a>
+  for metadata, including author name and author affiliations. Geolocate the affiliations using
+  <a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMaps</a>.
+  Map the locations using
+  <a href="https://leafletjs.com/" target="_blank" rel="noopener">Leaflet</a>
+  , an open-source JavaScript library for interactive maps.
+
+<li> Map clinical trials on microgravity or hypergravity. Search
+  <a href="https://clinicaltrials.gov/ct2/home" target="_blank" rel="noopener">ClinicalTrials.gov</a>
+  for "hypergraivty" or "microgravity" trials. Similar to the publications, list and then geolocate the trial sponsor on the map.
+
+</ol>
+</div>
+
+<script src="js/table/microgravityspacebiology.js"></script>
+<script src="js/setTableMakerPub.js"></script>
+
+<div style="width:90% ; margin-left: 3%;  max-width:2000px; font-family: Calibri;"><br><br>
+<button id="download-csv-microgravityspacebiology">Publications: Download CSV</button></div>
+<div id="microgravityspacebiology" style="width:90% ; margin-left: 3%;  max-width:2000px; font-family: Calibri;">
+<script> var setVars = {"tabledata": microgravityspacebiology, "divName": 'microgravityspacebiology'}; setTableMakerPub(setVars);</script>
+</div>
+
+
+<script src="js/table/affs.js"></script>
+<script src="js/table/authors.js"></script>
+<script src="js/table/containertitle.js"></script>
+<script src="js/table/funder.js"></script>
+<script src="js/table/isreferencedbycount.js"></script>
+<script src="js/table/language.js"></script>
+<script src="js/table/source.js"></script>
+<script src="js/table/subject.js"></script>
+<script src="js/table/type.js"></script>
+<script src="js/table/wordcount"></script>
+<script src="js/table/year.js"></script>
+
+
+<script src="js/setTableMaker.js"></script>
+
+
+<div style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;"><br><br>
+<button id="download-csv-affs">Affiliations: Download CSV</button></div>
+<div id="affs" style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;">
+<script> var setVars = {"tabledata": affs, "divName": 'affs'}; setTableMaker(setVars);</script>
+</div>
+
+<div style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;"><br><br>
+<button id="download-csv-authors">Authors: Download CSV</button></div>
+<div id="authors" style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;">
+<script> var setVars = {"tabledata": authors, "divName": 'authors'}; setTableMaker(setVars);</script>
+</div>
+
+<div style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;"><br><br>
+<button id="download-csv-subject">Subjects: Download CSV</button></div>
+<div id="subject" style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;">
+<script> var setVars = {"tabledata": subject, "divName": 'subject'}; setTableMaker(setVars);</script>
+</div>
+
+<div style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;"><br><br>
+<button id="download-csv-funder">Funders: Download CSV</button></div>
+<div id="funder" style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;">
+<script> var setVars = {"tabledata": funder, "divName": 'funder'}; setTableMaker(setVars);</script>
+</div>
+
+<div style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;"><br><br>
+<button id="download-csv-type">Types: Download CSV</button></div>
+<div id="type" style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;">
+<script> var setVars = {"tabledata": type, "divName": 'type'}; setTableMaker(setVars);</script>
+</div>
+
+<div style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;"><br><br>
+<button id="download-csv-containertitle">Publisher: Download CSV</button></div>
+<div id="containertitle" style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;">
+<script> var setVars = {"tabledata": containertitle, "divName": 'containertitle'}; setTableMaker(setVars);</script>
+</div>
+
+<div style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;"><br><br>
+<button id="download-csv-wordcount">wordcount: Download CSV</button></div>
+<div id="wordcount2" style="width:60% ; margin-left: 3%;  max-width:800px; font-family: Calibri;">
+<script> var setVars = {"tabledata": wordcount2, "divName": 'wordcount'}; setTableMaker(setVars);</script>
+</div>
 
 </body>
 </html>

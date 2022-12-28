@@ -1,0 +1,582 @@
+{
+       "Rank": 38,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [],
+       "ArmGroupInterventionName": [
+              "Device: Kinocardiograph",
+              "Device: Kinocardiograph",
+              "Device: Kinocardiograph",
+              "Device: Kinocardiograph",
+              "Device: Kinocardiograph",
+              "Device: Kinocardiograph",
+              "Device: Kinocardiograph",
+              "Device: Kinocardiograph"
+       ],
+       "ArmGroupLabel": [
+              "Healthy",
+              "Patients infected by COVID- 19 with no symptoms",
+              "Patients infected by COVID- 19 with symptoms",
+              "Patients diagnosed with atrial fibrillation",
+              "Hypertensive patients",
+              "Heart failure patients, EF < 40%",
+              "Heart failure patients, EF > 40% and < 60%",
+              "Heart failure patients, EF > 60%"
+       ],
+       "ArmGroupType": [],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT04772807"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Kinocardiographic measures mechanical and electrical function of the heart. The proposed solution is based on measurements of body vibrations. By measuring these movements on the surface of the body, it is possible to deduce, taking into account the individual's weight and size, the quality of the heartbeat that caused this vibration. The technique developed consists of a device measuring these vibrations at two places in the body: on the torso (Seismocardiography) and on the lower back (Ballistocardiography). The first measurement is a reflection of the local strength of the heartbeat as well as the transmission of blood to the body's main artery, the aorta. The second measurement, in the lower back, is the result of the contraction and movement of blood within the arterial system. Based on these two measurements, the energy produced by the heart and transmitted to the torso or the whole body is calculated. The energy over an entire cardiac cycle and the distribution of that energy within a heartbeat are used to characterize the mechanical function of the heart.\n\nClinical studies carried out previously have demonstrated the repeatability of kinocardiographic measurements (KCG) and their robustness with respect to the use of different sensors.\n\nKCG measurements also showed a high sensitivity (> 94%) to different hemodynamic states induced by the injection of active inotropic agents, i.e. dobutamine also used as a treatment for heart failure in an advanced stage. In a randomized, double-blind, cross-over study controlled by Placebo, these measurements showed a strong correlation (r = 0.8, p <0.0001) with cardiac output measured by echocardiography. The technique has also demonstrated its ability to track changes in cardiac mechanical function during expiratory voluntary apnea.\n\nKCG measurements were also evaluated during a micro-gravity simulation in Bedrest on 23 healthy volunteers. The measurements tracked cardiac deconditioning in the control group compared to the exercise group similarly to cardiac MRI measurements. Subsequently, KCG metrics showed an ability to distinguish reduced ejection fraction (HFrEF) heart failure patients from non-insufficient patients. These latest results also showed that the chest sensor alone was sufficient to separate HFrEF patients from normative patients, laying the foundation for possible use of the smartphone alone.\n\nThe prototype of a mobile application, named OKCARDIO, makes it possible to take measurements perfectly similar to the Kino thoracic sensor, but to date have never been used it in a clinical study. Such a tool would allow anyone with a smartphone-type mobile phone to measure their cardiac mechanical function themselves and make it available to the attending physician."
+       ],
+       "BriefTitle": [
+              "Validation of Kinocardiography, a New Technology Measuring Cardiac Mechanical Activity Via Accelerometers and Gyroscopes"
+       ],
+       "CentralContactEMail": [
+              "Philippe.Van.de.Borne@erasme.ulb.ac.be",
+              "amin.hossein@ulb.be"
+       ],
+       "CentralContactName": [
+              "Philippe van de Borne, Professor",
+              "Amin Hossein, MD"
+       ],
+       "CentralContactPhone": [
+              "02 555 39 60",
+              "02 555 32 75"
+       ],
+       "CentralContactPhoneExt": [
+              "+32",
+              "+32"
+       ],
+       "CentralContactRole": [
+              "Contact",
+              "Contact"
+       ],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "December 31, 2022"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Atrial Fibrillation",
+              "Hypertension",
+              "Heart Failure"
+       ],
+       "ConditionAncestorId": [
+              "D000002318",
+              "D000006331",
+              "D000001145",
+              "D000010335"
+       ],
+       "ConditionAncestorTerm": [
+              "Cardiovascular Diseases",
+              "Heart Diseases",
+              "Arrhythmias, Cardiac",
+              "Pathologic Processes"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC14",
+              "All",
+              "BC23"
+       ],
+       "ConditionBrowseBranchName": [
+              "Heart and Blood Diseases",
+              "All Conditions",
+              "Symptoms and General Pathology"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Atrial Fibrillation"
+       ],
+       "ConditionBrowseLeafId": [
+              "M9176",
+              "M3738",
+              "M8573",
+              "M8571",
+              "M3605"
+       ],
+       "ConditionBrowseLeafName": [
+              "Hypertension",
+              "Atrial Fibrillation",
+              "Heart Failure",
+              "Heart Diseases",
+              "Arrhythmias, Cardiac"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000001281"
+       ],
+       "ConditionMeshTerm": [
+              "Atrial Fibrillation"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [],
+       "DesignInterventionModel": [],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [
+              "Cohort"
+       ],
+       "DesignPrimaryPurpose": [],
+       "DesignTimePerspective": [
+              "Prospective"
+       ],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nAdults aged above 18 years old.\nBMI (Body Mass Index) is below 50 kg/m2.\nFit in one of the groups\n\nExclusion Criteria:\n\nPatients younger than 18 years old.\nBMI (Body Mass Index) higher than 50 kg/m2."
+       ],
+       "EnrollmentCount": [
+              "320"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [],
+       "IPDSharing": [
+              "Undecided"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Healthy",
+              "Heart failure patients, EF < 40%",
+              "Heart failure patients, EF > 40% and < 60%",
+              "Heart failure patients, EF > 60%",
+              "Hypertensive patients",
+              "Patients diagnosed with atrial fibrillation",
+              "Patients infected by COVID- 19 with no symptoms",
+              "Patients infected by COVID- 19 with symptoms"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "Measure with the Kinocardiograph device and the Okcardio application installed on a smartphone"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Kinocardiograph"
+       ],
+       "InterventionOtherName": [
+              "OKCARDIO smart application"
+       ],
+       "InterventionType": [
+              "Device"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "July 13, 2022"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "July 12, 2022"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Erasme University Hospital"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Brussels"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [
+              "Amin Hossein, MD"
+       ],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [
+              "Sub-Investigator"
+       ],
+       "LocationCountry": [
+              "Belgium"
+       ],
+       "LocationFacility": [
+              "Erasme Hospital"
+       ],
+       "LocationState": [],
+       "LocationStatus": [
+              "Recruiting"
+       ],
+       "LocationZip": [
+              "1070"
+       ],
+       "MaximumAge": [],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Validation of Kinocardiography, a New Technology Measuring Cardiac Mechanical Activity Via Accelerometers and Gyroscopes"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Erasme University Hospital"
+       ],
+       "OrgStudyId": [
+              "P2020/502"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Hospital Erasme"
+       ],
+       "OverallOfficialName": [
+              "Philippe van de Borne, Professor"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Recruiting"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [
+              "No"
+       ],
+       "Phase": [],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "December 31, 2022"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Feasibility is assessed by a repeatability score, namely the intraclass correlation coefficients ranging from 0, a non repeatable measure to 1 a perfectly repeatable measure .The score is computed between measure done at the hospital by a professional and the one done by the patient at the hospital and at home."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Feasibility of KCG measurement performed by the patients themselves",
+              "Validation of KCG parameters by comparisons from different modalities: Kinocardiograph device and OKCARDIO smartphone application.",
+              "Repeatability of OKCARDIO smartphone application recorded by an experimented operator and by the patient"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "12 weeks",
+              "Through study completion, an average of 1 year",
+              "Through study completion, an average of 1 year"
+       ],
+       "ReferenceCitation": [
+              "Hossein A, Mirica DC, Rabineau J, Rio JID, Morra S, Gorlier D, Nonclercq A, van de Borne P, Migeotte PF. Accurate Detection of Dobutamine-induced Haemodynamic Changes by Kino-Cardiography: A Randomised Double-Blind Placebo-Controlled Validation Study. Sci Rep. 2019 Jul 19;9(1):10479. doi: 10.1038/s41598-019-46823-3. Erratum In: Sci Rep. 2020 Mar 20;10(1):5459.",
+              "Rabineau J, Hossein A, Landreani F, Haut B, Mulder E, Luchitskaya E, Tank J, Caiani EG, van de Borne P, Migeotte PF. Cardiovascular adaptation to simulated microgravity and countermeasure efficacy assessed by ballistocardiography and seismocardiography. Sci Rep. 2020 Oct 19;10(1):17694. doi: 10.1038/s41598-020-74150-5.",
+              "Hossein A, Rabineau J, Gorlier D, Del Rio JIJ, van de Borne P, Migeotte PF, Nonclercq A. Kinocardiography Derived from Ballistocardiography and Seismocardiography Shows High Repeatability in Healthy Subjects. Sensors (Basel). 2021 Jan 26;21(3):815. doi: 10.3390/s21030815.",
+              "Morra S, Hossein A, Rabineau J, Gorlier D, Racape J, Migeotte PF, van de Borne P. Assessment of left ventricular twist by 3D ballistocardiography and seismocardiography compared with 2D STI echocardiography in a context of enhanced inotropism in healthy subjects. Sci Rep. 2021 Jan 12;11(1):683. doi: 10.1038/s41598-020-79933-4."
+       ],
+       "ReferencePMID": [
+              "31324831",
+              "33077727",
+              "33530417",
+              "33436841"
+       ],
+       "ReferenceType": [
+              "background",
+              "background",
+              "background",
+              "background"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [
+              "Non-Probability Sample"
+       ],
+       "SecondaryId": [
+              "Sponsor study reference"
+       ],
+       "SecondaryIdDomain": [
+              "FONDERASME_SRB2020340"
+       ],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [
+              "Other Identifier"
+       ],
+       "SecondaryOutcomeDescription": [
+              "Mean and interquartile ranges of KCG derived HRV over the observation period in patients with active clinical syndromes that may be concomitant in the field of cardiac disorders (hypertension, atrial fibrillation, ischemia, valvulopathy, heart-failure,\u2026) and pulmonary (asthma, infection,..). These clinical diagnoses are supported by the physical examination and the patient's medical record at inclusion.",
+              "Mean and interquartile ranges of KCG derived HR over the observation period in patients with active clinical syndromes that may be concomitant in the field of cardiac disorders (hypertension, atrial fibrillation, ischemia, valvulopathy, heart-failure,\u2026) and pulmonary (asthma, infection,..). These clinical diagnoses are supported by the physical examination and the patient's medical record at inclusion."
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Compliance percentage of patients measuring KCG at home with the OKCARDIO smartphone application or the Kinocardiograph device.",
+              "Mean and interquartile ranges of KCG derived HRV over the observation period.",
+              "Mean and interquartile ranges of KCG derived HR over the observation period.",
+              "Adverse events related to the use of the Kinocardiograph devices and/or OKCARDIO smartphone. Count of adverse events.",
+              "Mean and interquartile ranges of KCG parameters (Kinetic Energy, namely iK) over the observation period.",
+              "Build a predictive score on a selection of several kinocardiography parameters based on machine learning algorithms with the aim to sort patients according to their pathological status."
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "12 weeks",
+              "Through study completion, an average of 1 year",
+              "Through study completion, an average of 1 year",
+              "Through study completion, an average of 1 year",
+              "Through study completion, an average of 1 year",
+              "12 weeks"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "February 5, 2021"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "July 2022"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "February 26, 2021"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "February 18, 2021"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "February 24, 2021"
+       ],
+       "StudyPopulation": [
+              "Patients in the ambulatory routine of the cardiology department at the Erasme hospital"
+       ],
+       "StudyType": [
+              "Observational"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

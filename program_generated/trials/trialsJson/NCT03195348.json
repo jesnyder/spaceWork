@@ -1,0 +1,614 @@
+{
+       "Rank": 35,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "7 days control period followed by a washout period, then 7 days of HBF."
+       ],
+       "ArmGroupInterventionName": [
+              "Other: HBF Bed Rest"
+       ],
+       "ArmGroupLabel": [
+              "HBF Bed Rest"
+       ],
+       "ArmGroupType": [
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT03195348"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "This study is a collaboration between the Centre of Human & Aerospace Physiological Sciences (CHAPS) and the Sleep and Brain Plasticity Centre (Department of Neuroimaging) at King's College London and the Sleep Disorders Centre at Guy's Hospital.The main purpose of the study is to evaluate the effects of a 7 day unloading period (simulating micro gravity) on muscle mass using three independent methods\u037e two scanning techniques (magnetic resonance imaging (MRI) and dual x-ray absorptiometry (DXA)) and one that involves swallowing a capsule that contains a harmless chemical called creatine (D3-Creatine (D3-cr)) and then measuring its concentration in urine. In order to induce muscle loss, participants will be required to lie flat on their back on a water bed filled with water and salt (called hyper-buoyancy flotation (HBF)). As this situation is similar to that experienced in space, the investigators will also measure the effect of HBF on sleep, brain and physiological function - all things known to change in astronauts. Sixteen male subjects (18-40 yrs) will be recruited to participate in the study that will require physiological testing before, during and following both 7 days of normal conditions and 7 days of HBF bed-rest. Each subject will be exposed to the same conditions and assessments over the study period. As some loss of muscle is expected, participants will be offered an exercise rehabilitation programme upon completion of HBF with self-monitored and/or guided sessions based on those provided by the Space Medicine Office of the European Space Agency to returning astronauts."
+       ],
+       "BriefTitle": [
+              "The Effects of Whole Body Unloading on Physiological Function"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "Guy's and St Thomas' NHS Foundation Trust"
+       ],
+       "CompletionDate": [
+              "August 30, 2017"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Muscle Atrophy",
+              "Weightlessness",
+              "Sleep Disturbance",
+              "Astronaut-Bone Demineralisation Syndrome"
+       ],
+       "ConditionAncestorId": [
+              "D000001284",
+              "D000020763",
+              "D000012893",
+              "D000009422",
+              "D000001523",
+              "D000020879",
+              "D000009461",
+              "D000001851",
+              "D000001847",
+              "D000009140",
+              "D000008659"
+       ],
+       "ConditionAncestorTerm": [
+              "Atrophy",
+              "Pathological Conditions, Anatomical",
+              "Sleep Wake Disorders",
+              "Nervous System Diseases",
+              "Mental Disorders",
+              "Neuromuscular Manifestations",
+              "Neurologic Manifestations",
+              "Bone Diseases, Metabolic",
+              "Bone Diseases",
+              "Musculoskeletal Diseases",
+              "Metabolic Diseases"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC23",
+              "All",
+              "BC10",
+              "BXM",
+              "BC05",
+              "BC18"
+       ],
+       "ConditionBrowseBranchName": [
+              "Symptoms and General Pathology",
+              "All Conditions",
+              "Nervous System Diseases",
+              "Behaviors and Mental Disorders",
+              "Musculoskeletal Diseases",
+              "Nutritional and Metabolic Diseases"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Muscle Atrophy",
+              "Sleep Disturbance",
+              "Sleep Disturbance",
+              "Bone Demineralization"
+       ],
+       "ConditionBrowseLeafId": [
+              "M15507",
+              "M11242",
+              "M3741",
+              "M21395",
+              "M21808",
+              "M19745",
+              "M21672",
+              "M14848",
+              "M13625",
+              "M3967",
+              "M21772",
+              "M11556",
+              "M4278",
+              "M4282",
+              "M11249",
+              "M10791"
+       ],
+       "ConditionBrowseLeafName": [
+              "Syndrome",
+              "Muscular Atrophy",
+              "Atrophy",
+              "Parasomnias",
+              "Dyssomnias",
+              "Bone Demineralization, Pathologic",
+              "Pathological Conditions, Anatomical",
+              "Sleep Wake Disorders",
+              "Psychotic Disorders",
+              "Mental Disorders",
+              "Neuromuscular Manifestations",
+              "Neurologic Manifestations",
+              "Bone Diseases",
+              "Bone Diseases, Metabolic",
+              "Musculoskeletal Diseases",
+              "Metabolic Diseases"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "low",
+              "high",
+              "high",
+              "high",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000018488",
+              "D000020920",
+              "D000020447",
+              "D000009133"
+       ],
+       "ConditionMeshTerm": [
+              "Bone Demineralization, Pathologic",
+              "Dyssomnias",
+              "Parasomnias",
+              "Muscular Atrophy"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "N/A"
+       ],
+       "DesignInterventionModel": [
+              "Single Group Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Diagnostic"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "The rapid loss of skeletal muscle occurs in extreme physiological conditions, most notably within intensive care, hypoxia and during spaceflight. The cause of this accelerated loss is unknown; however, interventions aiming to slow the decline may have profound effects on quality of life post-surgery and, in space expedition terms, the ability to complete mission critical tasks. In addition, the current methodologies available to measure total skeletal muscle mass have limitations, lack accuracy (anthropometry and Bioelectrical Impedance Analysis (BIA)) or are immobile and costly (dual x-ray absorptiometry (DXA) and magnetic resonance imaging (MRI)).\n\nThe primary aim of this study is to investigate whole body skeletal muscle loss induced through 7 consecutive days of whole-body immobilisation using three independent methods; dual x-ray absorptiometry (DXA), magnetic resonance imaging (MRI) and D3-Creatine dilution (D3-cr). A number of secondary aims are also targeted, which have the shared objective to measure the impact of 7-days of immobilisation on HBF; 1. Muscular, neuromuscular and cardiovascular adaptation; 2. Neurophysiology, sleep architecture and cognition; 3. A range of spaceflight specific measures, aiming to characterise the intervention proposed within this study (hyper-buoyancy flotation (HBF) bed rest) as an alternative ground-based analogue to observe the physiological response to microgravity.\n\nThe muscular, neuromuscular and cardiovascular research is performed by King's College London Centre of Human & Aerospace Physiological Sciences (KCL CHAPs) and ranges from measurement of whole-body change, to cellular adaptation. Total skeletal muscle mass will be measured using DXA, MRI and D3-cr as well as the cross-sectional area of a single muscle group (quadriceps) using ultrasound. A biopsy will be taken from the same muscle group (quadriceps) in order to investigate changes in muscle protein synthesis (MPS), myofibre size, force and protein: DNA ratio. Muscle performance will also be measured, from whole-body power output using a countermovement jump, to force expressed by the trunk, quadriceps, calf and handgrip. Muscle tone will be measured in three flexor and three extensor muscles in the calf, forearm and lower back. The plantarflexion muscles in the calf will be further assessed, with ankle proprioception, maximal strength and surface EMG of the medial gastrocnemius measured. Blood samples will be taken in order to distinguish changes in immunity and bone markers. The subject's height will be measured and intervertebral disc morphology distinguished using ultrasound and MRI.\n\nThe neuromuscular and muscle performance measurements will be obtained concurrently. Electrical activity produced by the skeletal muscles will be recorded and evaluated using electromyography (EMG). Prior to the force expression of the quadriceps being tested, pads will also be positioned for the muscle to be electrically stimulated and for a maximal involuntary force to be measured. Lastly, a cycle ergometer assessment will be undertaken, where power is ramped gradually and maximal aerobic utilisation (VO2max) determined.\n\nThe neurophysiology, sleep architecture and cognition investigation will be in collaboration with the Sleep and Brain Plasticity Centre (Department of Neuroimaging, IoPPN) and the Sleep Disorders Centre at Guy's Hospital. This study will look at any ensuing changes in sleep architecture and neurophysiology. Any associated cognitive or brain structural changes, which may be induced through 1 week of whole-body immobilisation, will also be investigated.\n\nThe procedures outlined are designed to assess known physiological adaptations occurring as a consequence of a micro-gravity environment, and therefore prove useful comparative tools from which the HBF model can be evaluated.\n\nSixteen male subjects (18-40 yrs) will be recruited to undertake test procedures pre- and post- a 7-day control period, where they will continue their habitual activities and be provided with their total (controlled) calorie intake, and pre- and post- a 7-day unloading period, where subjects will be required to remain on a hyper-buoyancy flotation (HBF) bed."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nMales aged 18-40\nNo clinically significant and relevant abnormalities in medical history\nAbsence of any condition that could affect subject safety or well-being or their ability to understand and follow study procedures and requirements\nAbsence of any condition which has/will result in irregular regulation of skeletal muscle, creatine metabolism or reduction of total skeletal muscle mass\nAbsence of a medical history that includes back pain\n\nExclusion Criteria:\n\nKnown or suspected intolerance or hypersensitivity to the study materials (or closely related compounds) or any of their stated ingredients\nHabitual use (>twice a week) of creatine supplementation within 6 weeks of the study\nPrevious history of smoking\nNo known current or past neurological or psychiatric co-morbidities, no known sleep abnormalities (e.g. insomnia, snoring, sleep apnoea, sleep-walking/talking, nocturnal panic attacks, restless leg syndrome)\nParticipation in another clinical study or receipt of an investigational drug within 30 days of the screening visit\nRelation of any study investigators, personnel at the study site or employee of any of the study sponsors\nAny kind of medication prior to 1 month of screening\nRecent history (within the last 1 year) of alcohol or other substance abuse\nA previous history of nosebleeds"
+       ],
+       "EnrollmentCount": [
+              "12"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [
+              "Yes"
+       ],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "HBF Bed Rest"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "7 days of bed rest on hyper-buoyancy floatation (HBF)"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "HBF Bed Rest"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "October 31, 2017"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "October 30, 2017"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "King's College London"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "London"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United Kingdom"
+       ],
+       "LocationFacility": [
+              "Sleep Disorders Centre"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [],
+       "MaximumAge": [
+              "40 Years"
+       ],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "The Effects of Whole Body Unloading on Physiological Function"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "King's College London"
+       ],
+       "OrgStudyId": [
+              "206237"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "King's College London"
+       ],
+       "OverallOfficialName": [
+              "Ivana Rosenzweig, PhD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "August 30, 2017"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "The primary aim of this study is to investigate whole body skeletal muscle loss induced through 7 consecutive days of HBF using three independent methods; dual x-ray absorptiometry (DXA), magnetic resonance imaging (MRI) and D3-Creatine dilution (D3-cr)"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Whole body skeletal muscle loss"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "7 days"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "Regional (upper v lower limb) differences in muscle atrophy induced by HBF",
+              "To determine the relationship between change in total skeletal muscle mass (measured by MRI) and change in physiological cross sectional area (PCSA) of the rectus femoris as determined by ultrasound measurements of fascicle length and pennation angle.",
+              "To use neuroimaging, polysomnography and cognitive battery to investigate any structural (MR brain), neurophysiological (PSG/EEG) and functional (rs-fMRI and CANTAB battery test) central nervous system changes induced by the intervention",
+              "To determine the change in single muscle fibre cross-sectional area, using immunohistochemical staining, compared to total quadriceps cross-sectional area using ultrasound. Myofiber cross-sectional area will be measured using muscle biopsy tissue which will be mounted onto cork and cut into 5 \u03bcm-thick cryosections. Immunohistochemical stainings of muscle tissue cross sections will then measured using a microscope.",
+              "To determine the change in biochemical (protein:DNA ratio) markers of quadriceps size in relation to the MRI and ultrasound measurements",
+              "To determine the relationship between change in quadriceps skeletal muscle mass (measured by MRI) and change in fractional protein synthesis (FPS) rate measured using tracer (D2O) techniques",
+              "To investigate changes of anabolic and catabolic signalling markers (such as MAFbx/atrogin-1 and MuRF1) in quadriceps muscle after 7 days HBF",
+              "To measure changes in muscle function as a result of 7 days HBF. These will include maximal voluntary isometric strength of the knee extensors, plantar flexors in the trunk and hand (hand grip) and explosive power during a countermovement jump.",
+              "To measure changes in cardio respiratory fitness (maximal aerobic capacity (VO2max)) with 7 days of immobilisation",
+              "To measure changes in bone mineral density (BMD) of before and after a 7 days HBF",
+              "To determine the effect of 7 day HBF upon plantar flexion power output using an isokinetic dynamometer",
+              "To determine the effect of 7-day HBF upon the viscoelastic properties of superficial muscles and the Achilles tendon using Myoton.The viscoelastic properties of relaxed arm flexor, arm extensor, erector spinae, lateral gastrocnemius and Achilles tendon will be determined at rest (HBF) using the Myoton (hand-held myometer) on day 1, day 3, day 5 and day 7 (last day) of the HBF. This will be done by applying a short (15ms) and almost imperceptible mechanical impulse (force 0.4N) applied directly to the skin. The following parameters are derived from the oscillation acceleration signal generated by the mechanical impulse in real time by the Myoton's software: 1) Dynamic stiffness: which indicates the resistance to deformation of a tissue, 2) Oscillation frequency: which indicates the (muscle) tone or intrinsic tension of a tissue, 3) The logarithmic decrement of the oscillation: which characterises tissue elasticity.",
+              "To determine the ability, utility and potential efficacy of FRED following 7 days HBF"
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Regional differences in muscle loss",
+              "Relationship between change in total skeletal muscle mass and rectus femoris cross sectional area",
+              "Central nervous system changes induced by 7-day HBF",
+              "Myofiber cross-sectional area changes with unloading compared with quadriceps cross sectional area",
+              "Muscle biochemistry",
+              "Change in fractional protein synthesis",
+              "Changes in anabolic and catabolic signalling markers in muscle",
+              "Changes in muscle function",
+              "Changes in cardiorespiratory fitness",
+              "Bone mineral density",
+              "Plantarflexion strength",
+              "Muscle tone",
+              "Functional re-adaptive exercise device (FRED)"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days",
+              "7 days"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "March 29, 2017"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "October 2017"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "June 22, 2017"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "May 8, 2017"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "June 19, 2017"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

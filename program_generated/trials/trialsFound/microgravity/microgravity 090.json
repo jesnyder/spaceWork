@@ -1,0 +1,1195 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "DesignTimePerspective",
+                     "DesignWhoMasked",
+                     "DetailedDescription",
+                     "DispFirstPostDate",
+                     "DispFirstPostDateType",
+                     "DispFirstSubmitDate",
+                     "DispFirstSubmitQCDate",
+                     "EligibilityCriteria",
+                     "EnrollmentCount",
+                     "EnrollmentType",
+                     "EventGroupDeathsNumAffected",
+                     "EventGroupDeathsNumAtRisk",
+                     "EventGroupDescription",
+                     "EventGroupId",
+                     "EventGroupOtherNumAffected",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "DesignTimePerspective": [
+                                   "Prospective"
+                            ],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "This study builds upon previously reported space flight data in GenLab, as well as our own published data whereby the investigator evaluate the effect of microgravity on the differentiation and functional potential of circulating stem cells. The goal of this work is to leverage the powerful genetic analyses done in the SPHINX study and look at the consequences these changes have on cell-cell communications essential for vascular homeostasis, for a possible correlation to cardiovascular deconditioning. The application of this work is targeted at possible \"cell based\" countermeasures to address the negative effects of microgravity on the vasculature."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nSelf-reported healthy individuals\nWillingness to have 50mls of whole blood collected\n\nExclusion Criteria:\n\nUnwillingness to have blood used in stem cell research"
+                            ],
+                            "EnrollmentCount": [
+                                   "2"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nSubjects will be staff member of the team or of other teams participating in the parabolic flight campaign.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nTreated or non-treated arterial hypertension\nHistory of cardiovascular disease\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men)\nWho accepted to take part in the study\nWho gave their written informed consent"
+                            ],
+                            "EnrollmentCount": [
+                                   "30"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "DesignTimePerspective": [
+                                   "Prospective"
+                            ],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "While some knowledge has been gained with regards to macrophage alterations during space travel, most of this work has been limited to macrophage cell lines and has not considered how the effects of microgravity alter macrophages' ability to stimulate tissue repair and regeneration. Specifically, how the macrophage secretion profile and/or interaction with endothelial cells is altered during microgravity culture. Given the extensive data showing the consequence of simulated microgravity to alter endothelial cells, and the mounting evidence that simulated microgravity affects macrophage cells, the investigators hypothesize that microgravity alters the functional response of macrophages in close association with endothelial cells. To test this hypothesis, the study team has established 2 specific aims:\n\nSpecific Aim 1: Assess the effect of simulated microgravity on endothelial and macrophage pro-healing states.\n\nSpecific Aim 2: Assess the effect of simulated microgravity on the pro-healing states of 3-dimensional co-cultured macrophages and endothelial cells.\n\nCompletion of the above described aims will lay a strong foundation of knowledge about the impact of simulated microgravity in important cell-cell interactions involved in tissue regeneration and healing"
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nSelf-reported healthy individuals\nWillingness to have 50mls of whole blood collected\n\nExclusion Criteria:\n\n\u2022 Unwillingness to have blood used in microgravity study"
+                            ],
+                            "EnrollmentCount": [
+                                   "0"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Trained anesthesiologist- or emergency physician-divers participate in the study. Simulated microgravity during spaceflight is obtained by using a submerged model. Full-torso manikins is going to be used for performing airway management. Each diver attempted airway management with each device (laryngeal mask, laryngeal tube, orotracheal intubation with video-assisted laryngoscope. The time for airway protection will be measured as well as the success rate."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nAnaesthesiologist with diver licence or Emergency physician with diver license\n\nExclusion Criteria:\n\nAll other"
+                            ],
+                            "EnrollmentCount": [
+                                   "40"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nSigned informed consent\n\nExclusion Criteria:\n\nFracture lower extremities\nRestricted range of motion in hip, knee or ankle joint which restricts standing or walking\nAny injury limiting movements of the lower extremities\nPregnancy\nInability to follow the procedures of the study, e.g. due to language problems, psychological disorders, dementia, etc\nPresence of any psychiatric condition\nTachycardia"
+                            ],
+                            "EnrollmentCount": [
+                                   "10"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nParticipant is capable of giving informed consent and has voluntarily signed and dated an informed consent form, approved by an Institutional Review Board and provided Health Insurance Portability and Accountability Act authorization (HIPAA) or other privacy authorization prior to any participation in study.\nParticipant is 20-40 or 60-80 years of age, inclusive\nParticipant BMI <30 kg/m2\nParticipant states willingness to follow protocol as described, including the prescribed activity level and completing any forms needed throughout the study.\n\nExclusion Criteria:\n\nParticipant reports a history of type 1 or type 2 Diabetes; or Hgb A1c > 6.5% at screening visit.\nParticipant is actively pursuing weight loss and/or lifestyle changes.\nParticipant has a history of pressure ulcers.\nParticipant has a stated history of Deep Vein Thrombosis (DVT), recent (within last 3 months) pulmonary embolism, or has a positive D-dimer test and lower extremity ultrasound at screening, or a known hypercoagulable condition, or other clotting or bleeding disorders.\nParticipant has poorly controlled hypertension or hypotension in the opinion of the study PI or medical investigator (MI).\nParticipant has untreated hypothyroidism or hyperthyroidism.\nParticipant has current infection (requiring prescription antimicrobial or antiviral medication, or hospitalization), or corticosteroid treatment (with the exception of inhaled or topical steroids) in the last 3 months prior to screening visit.\nParticipant is currently taking prescription strength anti-inflammatory medication or has taken prescription strength anti-inflammatory medication in the 6 weeks prior to screening.\nParticipant has had surgery requiring >2 days of hospitalization in the last 3 weeks prior to screening visit.\nParticipant has an active malignancy or autoimmune disease.\nParticipant has current significantly impaired liver function in the opinion of the study PI (mild asymptomatic fatty liver is acceptable), or hepatic enzyme tests are \u22652.5 times normal limit.\nParticipant has a chronic, contagious, infectious disease, such as active tuberculosis, Hepatitis B or C, or HIV, per self-report.\nParticipant is an amputee and/or has presence of partial or full artificial limb.\nParticipant has had a significant cardiovascular event (e.g. myocardial infarction, stroke) \u2264 6 months prior to screening visit; or stated history of congestive heart failure; or participant has evidence of cardiovascular disease assessed during the ECG at screening.\nParticipant has a history of, or currently has uncontrolled severe diarrhea, nausea or vomiting.\nParticipant has an obstruction of the gastrointestinal tract, inflammatory bowel disease, short bowel syndrome or other forms of gastrointestinal disease such as stage III or above gastroesophageal reflux disease, gastroparesis, peptic ulcer disease, celiac disease, intestinal dysmotility, diverticulitis, ischemic colitis.\nParticipant has used tobacco within the last 3 months.\nParticipant has a history of drug or alcohol abuse (> 3 drinks per day) within the last 5 years\nFemale participant is pregnant, lactating or is within 6 weeks postpartum prior to the screening visit\nParticipant has impaired renal function: estimated glomerular filtration rate (eGFR) \u2264 50 ml/min/1.73m2 determined at screening.\nParticipant's triglyceride level is \u2265 250 mg/dl and LDL cholesterol is > 150 mg/dl at screening.\nParticipant has a urine albumin-to-creatinine ratio (UACR) \u2265300 mg/g at screening in a single urine specimen (per National Kidney Foundation guideline)."
+                            ],
+                            "EnrollmentCount": [
+                                   "75"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "The findings from water immersion indicated that some motor tasks, such as plantarflexion (25), but not others, such as the leg-press (7), appear to be affected. Thus, it would be relevant to test a number of motor tasks and body regions. On the other hand, parabolic flight requires that methodologies can be performed in a quick efficient fashion. Hence, we propose examining ankle plantarflexion, leg-press and grip-force.\n\nThe primary hypothesis is that plantarflexion MVC will be reduced in the microgravity phase of parabolic flight.\n\nAs secondary parameters will be assessed parameters of muscle function that can be easily implemented in parabolic flight, such as electromyography and ultrasound measurements of the musculotendinous unit. To assess the muscular system more deeply, for plantarflexion superimposed twitches will be performed (16) during MVC and at rest. An additional experimental condition placing foam (unstable surface; standard size) under the foot during plantarflexion will be included. This approach increases the challenge for the neuromuscular control system and, under such conditions, MVC is reduced (29).\n\nThese secondary investigations, which do not prohibitively complicate the practical implementation of the project, will help to understand what is happening in the musculature should we indeed find impediments of muscle force generation in microgravity.\n\nThe aim of this study is to evaluate the applicability of high-load resistance training as a countermeasure for long term space flights, the current project has two scientific goals.\n\nThe main objective is to perform a deeper examination of muscle function and MVC in weightlessness (parabolic flight).\n\nThe secondary objective is to gather further insight into the underlying mechanisms and structures based on investigations targeting the neuromuscular and musculotendinous systems and their interaction.\n\nThe main judgment criteria is the MVC tested during three different tasks: (1) leg press, (2) plantarflexion and (3) grip strength.\n\nAs secondary criteria, we will assess parameters of muscle function that can be easily implemented in parabolic flight:\n\nRate of force development\nElectromyographic activity\nUltrasound measure: fascicle length and pennation angle of the gastrocnemius medialis muscle\nSuperimposed twitch torque (M-waves at rest and V-waves in MVC conditions)\nMaximum voluntary activation capacity (%VA): %VA = (1-[torque superimposed twitch/torque resting twitch])*100%.\n\nThe primary hypothesis is that plantarflexion and knee extension force generation capacity will be reduced, but not grip-force, in the microgravity phase of parabolic flight."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 21 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho have their right leg as their preferred leg\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nSubjects will be staff member of the team or of other teams participating in the parabolic flight campaign\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPerson with orthopaedic disorders in the upper or lower limbs\nPerson with neurological disorders\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nIndividuals who are scheduled to stay on the ISS for at least 3 months\nIndividuals who fully understand the study protocol and provide written informed consent for the study participation\n\nExclusion Criteria:\n\nIndividuals who routinely use antibiotic, laxative, and/or bowel regulating medicine\nIndividuals who participate in other research that competes with this study in terms of the purpose and field, e.g., study with dietary management or intake of bifidobacteria/lactic acid bacteria, oligosaccharides, antibiotic, laxative, and/or bowel regulating medicine"
+                            ],
+                            "EnrollmentCount": [
+                                   "10"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "DesignTimePerspective": [
+                                   "Prospective"
+                            ],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Flight Analogs/Bed Rest Research Project (FA/BRRP) provides NASA with a ground-based research platform to complement space research. By mimicking on Earth the conditions of weightlessness experienced by the human body in space, NASA can test and refine scientific theories and procedures to develop countermeasures to protect humans from the effects of the space travel. The use of ground analogs, such as bed rest, are essential because access to the resources required to conduct studies in space is very limited, and the expense of studies significantly greater than those conducted using flight analogs. Future space exploration will challenge NASA to answer many critical questions about how humans can live and work for extended missions away from Earth.\n\nFlight analog testing is critical to NASA to validate countermeasures, given the few opportunities to use flight platforms as the Shuttle retires; also, the US has only 1-2 International Space Station (ISS) crewmembers per Expedition. The Flight Analogs/Bed Rest Research Project is one way NASA will devise ways to ensure astronaut safety and productivity on extended missions to the moon and Mars.\n\nIn the Flight Analogs Project (FAP), volunteers spend many days in a controlled research environment in the Flight Analog Research Unit (FARU) in Galveston, TX. In the current campaigns, volunteers will undergo three phases in the bedrest projects: 1) pre-bedrest baseline testing, 2) a bedrest phase, and 3) the recovery period. Bed rest results in many physiologic changes similar to those seen in astronauts. Pre bed rest is used to gather baseline data against which the bed-rest phase data will be compared. Researchers then monitor how the volunteers' bodies change over the course of the study and how quickly they recover once they are allowed to resume normal activities. Post bed rest is used to monitor recovery from bed rest. In longer campaigns, return to the unit for follow-up testing may be requested after 1, 3, 6, and/or 12 months.\n\nTHE COUNTERMEASURE AND FUNCTIONAL TESTING STUDY (CFT) will test the effectiveness of exercise on loss of muscle, bone and cardiovascular function. Participants will perform an exercise program in a system called the standalone Zero Gravity Locomotion Simulator (sZLS), a \"vertical treadmill\" that removes the weight from the long axis of the body to simulate exercise as it is done in space. Resistance (weight lifting) exercise will be performed on special weight machines. Before and after 70 days of bedrest, participants will be tested on a corresponding set of physiological measures. Specific exercises and intensities are rotated such that each workout is different, with some days being heavier and some lighter. Results of the study will help understand which mission tasks might be affected by changes in physiology during space flight and design countermeasures to prevent or minimize impairment to these physiological systems\n\nThe ALTERNATE COMPRESSION GARMENT STUDY (ACG) will determine effectiveness of compression garments on regulating blood pressure and other body systems after extended periods of head-down bed rest. Participants in the experimental group will wear custom-fit compression garments and undergo evaluation on their response to an upright tilt test and a corresponding set of physiological measures before and after 14 days of bed rest. These participants will be compared to another group of participants who did not wear the compression garments. Results of the study will help scientists determine the time it takes for the cardiovascular system to re-adapt to upright posture, determine whether wearing compression garments during recovery is necessary to protect against dizziness and loss of consciousness often experienced after space missions, and determine the effect of wearing custom fit compression garments on the amount of time needed to readjust to a normal, upright posture."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nUS Citizen\nMust be able to pass physical\n\nExclusion Criteria:\n\ntobacco use\nmenopausal\nprescription drug use\nfood allergies\njoint injuries\nThrombosis\nReflux\nHigh blood pressure\nDiabetes"
+                            ],
+                            "EnrollmentCount": [
+                                   "20"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWhose 4 chamber view of the heart during a breath hold is easy to get during a routine cardiac echocardiography (M-Mode - apical view).\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nDifficulty to obtain a clear echocardiography.\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 21 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude. There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPerson with medical history of neurological disorders\nPerson with medical history of musculoskeletal disorders of the lower limbs, especially of the ankle and knee joint.\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "The risk of a severe medical event during long-duration spaceflight is significant and can endanger both the whole mission and crew. There is a certain risk for a cardiac arrest in space requiring cardiopulmonary resuscitation (CPR). So far, 5 known techniques to perform CPR in microgravity have been reported.\n\nThe aim of the present study was to describe and gather data for two new CPR techniques useful in microgravity.\n\nThe investigators conducted a randomized controlled manikin trial and asked 15 participants with valid diving-license to resuscitate a manikin in two different techniques of CPR in a free-floating position underwater. The first technique, (Schmitz-Hinkelbein-Method) is similar to conventional CPR, with the patient in a supine position on the performer's knees for stabilization. The second technique (Hinkelbein-Schmitz-Method) is similar to the first, but chest compressions are conducted with the elbow."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nValid diving-license(SSI - Open Water Diver (OWD), CMAS *, PADI Open Water Diver, ISO 24801-2 (Autonomous Diver), NAUI Scuba Diver or equal license\nGerman EMT-qualification\n\nExclusion Criteria:\n\nany acute or chronic ENT illness/injury\nno valid diving/EMT license"
+                            ],
+                            "EnrollmentCount": [
+                                   "15"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "On the eve of the next long voyages into space and the event of space tourism, it becomes more and more urgent to understand how to preserve the health of spacemen (i.e., by profession or by leisure). Extreme and unusual environments, and isolated and confined environments (EUE/ICE) are characterized by unique sensory stimulation. They are known to have negative effects on human psychology, cognitive abilities and physiology, threatening the outcome of space missions or travel. In addition, with the construction of the future Gateway base, the upcoming colonies to Mars and space tourism, travel from one point to another will be much more frequent. These raise new questions that will have to be addressed, whether it is the prolonged duration of a stay in a microgravity environment (i.e., absence of gravitational force between man and his support), in partial gravity and thus the issue of recovery from one trip to the next. These modifications of the environment imply the implementation of several adaptation processes to preserve the homeostatic capacity of the organism. This allows the organism to maintain a relatively stable internal state that persists despite external changes. Nevertheless, many questions remain unanswered. One such question is the impact of repeated changes in gravity during flight to the point of attachment (e.g., colony). The objective of the study is therefore to better understand the relationship between the body and its environment due to repeated changes in gravity, including microgravity.\n\nBeyond that, these results will contribute to enrich the knowledge of this real human challenge that is the question of the adaptation of the human being to the constraints of space travel."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nExistence of an informed and written consent from the subject\nNot pregnant\nNo anxiety disorder and/or depression\nNot to have suffered a head injury\nHave obtained a medical certificate of aptitude for parabolic flights\nBe affiliated to the French Social Security, or have a European Health Insurance Card or equivalent\n\nExclusion Criteria:\n\nPregnant women, parturients and nursing mothers\nEndocrine pathology (e.g., hyperthyroidism, diabetes)\nHigh blood pressure\nHistory of head trauma, mood or cardiovascular disorders, cognitive impairment\nRecent illicit drug use\nAlcohol dependence\nNeurological disease and/or history of neurological disease Psychiatric disease and/or history of psychiatric disease\nAnti-inflammatory treatment\nPsychotropic treatment\nTreatments that interfere with heart rate (e.g., beta-blockers, calcium channel blockers, a1 receptor agonists)\nPersons deprived of liberty, persons hospitalized without consent, persons admitted to a health or social institution for purposes other than research (L-1121-5 to L-1121-8-1)\nProtected adults, adults unable to express their consent and not subject to a protective measure\nParticipation in other simultaneous trials if this or these protocols concern a pharmacological clinical trial"
+                            ],
+                            "EnrollmentCount": [
+                                   "30"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 20 to 65\nAffiliated to a French Social Security system or, for people living abroad, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho has given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Parabolic flights make it possible to produce a reduced gravity environment on Earth. With the specially adapted A310 Zero-G, each parable produces a period of zero gravity (\"0g\"). The duration of the periods of reduced gravity is about 21 seconds. Each parable begins and ends with a resource (hyper-gravity) at 1.8 g; each resource lasts about 20 seconds. A typical flight lasts from two to three hours and includes 30 parabolic maneuvers, usually all in weightlessness.\n\nParticipants will arrive at Novespace, at Bordeaux-M\u00e9rignac Airport, no later than 2 pm the day before the first flight of the campaign in order to participate in the security briefing. A delay of at least 2 hours will be granted before collection of their written consent.\n\nBefore the flight, the participants will necessarily participate in the safety briefing (2h, organized by the Flight Manager (Novespace) and will meet the research team to become familiar with the procedures and devices that will be used during the experiment.\n\nOn the day of the flight, the participants will have to arrive at the premises of Novespace before 7.30am.\n\nBefore the flight, they will be prepared for flight recordings. Seven self-adhesive electrodes will be placed on the chest to measure the electrical activity of the heart and the blood volume in the chest.\n\nA venous blood test to measure blood markers of oxidative stress will be performed by a doctor or a registered nurse.\n\nDoppler and ultrasound operators will make blood flow measurements in the vertebral, internal carotid, posterior cerebral and anterior cerebral arteries) using an echo-doppler device. These measures are strictly non-invasive and painless. Participants can take medication against motion sickness under the supervision of the flight doctor. The duration of the study is a little less than 6 hours (2 hours before the flight, 3 hours flight, 30 minutes after the flight).\n\nPreparation before parables, in the plane. In addition to the participant, two other subjects will be the participants of the flight, one will also be a subject, and the third will be a rescue participant who will be tested in case the subject or his partner falls ill during the flight. The flight includes 31 parables, but the first participant will be subject only for 16 parables and the second for 15.\n\nWhen it is not subject, the participant is rid of equipment and can join the so-called \"free floating\" area to enjoy the sensations of weightlessness.\n\nAfter takeoff, but before the first parable the subject (or the other participant) will sit on a chair built for the flight. His pelvis will be immobilized by restraints to prevent him from floating freely during the weightlessness.\n\nIt will be connected to different measuring equipment, all non-invasive:\n\nAn arterial pressure sensor on the finger. Electrotrocardiogram (connected to 3 self-adhesive electrodes) Thoracic impedance meter (connected to 4 self-adhesive electrodes) An oxygen scope (for measuring the expired CO2).\n\nDuring the flight During each phase of weightlessness, an operator will apply on the neck or skull of the subject an ultrasound measurement probe (as on the ground). We recommend that participants do not move their head, especially during periods of hypergravity, to prevent motion sickness.\n\nExcept in exceptional circumstances, the aircraft normally completes the mission, but it must be clear that the subject is free to withdraw his consent and participation in the experiment at any time, without prejudice to him or to any other reason, without justification, including during the flight.\n\nAfter the flight Following the flight, a second venous sample will be made to determine the effects of weightlessness on the markers of oxidative stress."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho have passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPersons who took part in a previous biomedical research protocol, of which exclusion period is not terminated.\nPersons with history of cerebral, cardiovascular or vestibular diseases.\nPregnant women (urine pregnancy test for women of childbearing potential)"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "DesignTimePerspective": [
+                                   "Prospective"
+                            ],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Under conditions of simulated microgravity, it is well known that normal cellular processes of vascular cells are altered. While these studies provide important information about these alterations in cells, it is likely not a complete picture due to the limitations of ground based simulated microgravity. It is our hypothesis that real microgravity, as is experienced in space, will reveal changes in EC and SMC phenotype and function that alters cell-cell communication. The study team will test our hypothesis by culturing mature endothelial cells, as well as stem cell derived endothelial cells, and mature smooth muscle cells in low Earth orbit (LEO) on the International Space Station (ISS) U.S. National Laboratory. The specific aims the Study team have proposed are the following:\n\nSpecific Aim #1: Preflight isolation and characterization of circulating stem cell derived endothelial cells. Specifically, the Study team will isolate CSCs from whole blood then direct them down an EC pathway. Once differentiated the study team will characterize their phenotype.\n\nSpecific Aim #2: Culture mature ECs, SMCs, and CSC derived ECs under conditions of low Earth orbit (LEO) aboard the ISS. Specifically, The study team will use advanced flight hardware to establish an active cell culture on the ISS. The cells will be cultured for a duration of 3 and 10 days, at which time the cells will be frozen for subsequent analysis. Simultaneously, the study team will culture the same populations in a ground based microgravity simulator as well as a normal gravity control.\n\nSpecific Aim #3: Assess the morphologic and genetic changes in cells after 3 and 10 days of space flight. Specifically, upon return to Earth, a transcriptome analysis will be completed from the frozen cell samples to assess changes in the cells molecular machinery.\n\nThis proposed study builds upon the abundant literature, including our own, surrounding the effects of ground based simulated microgravity on vascular endothelial cells. However, the study team include the less studied populations of smooth muscle cells and stem cell derived ECs. The goal of this work is to leverage conditions on the ISS, a powerful one-of-a-kind microgravity research platform in low Earth orbit, to study these cells and their cellular processes as it relates to cardiovascular disease (CVD) and cardiovascular deconditioning. This work seeks to reveal currently unknown changes in vascular cell health that lead to these diseases. The impact of this work is broad and can lead to new treatment options for millions of people who suffer from CVD including neointimal hyperplasia."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nSelf-reported healthy individuals\nWillingness to have 50mls of whole blood collected\n\nExclusion Criteria:\n\nUnwillingness to have blood used in stem cell research"
+                            ],
+                            "EnrollmentCount": [
+                                   "4"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho participated in the MARS500 experiment\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude. There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "6"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Space flights have shown the possibilities and limitations of human adaptation to space. For the last 50 years, results have shown that the space environment and microgravity in particular, cause changes that may affect the performance of astronauts. These physiological changes are now better known: prolonged exposure to weightlessness can lead to significant loss of bone and muscle mass, strength, cardiovascular and sensory-motor deconditioning, immune, hormonal and metabolic changes .\n\nMoreover, recently a new suite of physiological adaptations and consequences of space flight has been acknowledged. Indeed, after long flights, some astronauts present persistent ophthalmologic changes, mostly a hyperopic shift, an increase in optic nerve sheath diameter and occasionally a papillary oedema now defined by National Aeronautics and Space Administration (NASA) as Spaceflight-Associated Neuro-ocular Syndrome (SANS). Some of these vision changes remain unresolved for years post-flight. This phenomenon has most likely existed since the beginning of human space flight but is just recently being recognized as a major consequence of adaptation to microgravity.\n\nOverall, spaceflight induces physiological multi-system deconditioning which may impact astronauts' efficiency and create difficulties upon their return to normal gravity. Understanding the underlying mechanisms of these processes and developing efficient countermeasures to prevent, limit or reverse this deconditioning remain important challenges and major priorities for manned space programs.\n\nThe space agencies are actively engaged in studying the physiological adaptation to space environment through studies on board the International Space Station (ISS) but also on the ground. Indeed, considering the limited number of flight opportunities, the difficulties related to the performance of in-flight experiments (operational constraints for astronauts, limited capabilities of in-flight biomedical devices), ground-based experiments simulating the effects of weightlessness are used to better understand the mechanisms of physiological adaptation, design and validate the countermeasures. Different methods are used to simulate microgravity on Earth. However, two approaches, -6\u00b0 head-down bed rest (HDBR) and dry immersion (DI) have provided possibilities for long-term exposures with findings closest to those seen with a weightless state. They produce changes in body composition (including body fluid redistribution), cardiovascular and skeletal muscle characteristics that resemble the effects of microgravity.\n\nThe common physiological denominator is the combination of a cephalad shift of body fluids and reduced physical activity. Being similar in their effects on the human body, these models, however, differ in their specifics and acting factors. The HDBR, as the name implies, implicates a long (from several weeks to a year) stay in the supine position, the head tilted down by -6\u00b0 from the horizontal plane. HDBR is the most frequently used ground-based simulation for gravitational unloading of the human body in western countries.\n\nUnlike bed rest, dry immersion provides a unique opportunity to study the physiological effects of the lack of a supporting structure for the body. Dry immersion means immersing the subject into thermoneutral water, while covered with a special elastic free floating waterproof fabric. The subject, surrounded by the tarp and \"freely suspended\" in the water mass, remains dry. During horizontal immersion, pressure forces are distributed nearly equally around the entire surface of the body (only the head and neck are not entirely supported by water). The absence of mechanical support of specific anatomic zones during immersion creates a state akin to weightlessness called \"supportlessness\". Physiological changes under DI develop more rapidly and are more profound than under HDBR . This advanced ground-based model is extremely suited to test countermeasures for microgravity-induced deconditioning and physical inactivity-related pathologies.\n\nIn 2015, DI facility has been installed at the Space Clinic in Toulouse (France), and a first in Europe three-day dry immersion study was carried out in 12 healthy male volunteers. That study demonstrated an important headward fluid transfer with a significant dilatation of the jugular veins, an increase in venous blood velocities and intracranial pressure, as well as ophthalmological changes consistent with a presumable increase in intracranial pressure at the head at over 20 mmHg (normal values 7 to 15 mmHg), which confirms that dry immersion is a good model to simulate the effects of fluid transfer. In 2019, a second dry-immersion experiment, this time lasting 5 days, was conducted in 18 healthy male volunteers. The goal was to quantify the effect of venoconstrictive thigh cuffs, used for 10 hours/day as a countermeasure, on the time course and extent of DI-induced alterations in body fluids, cephalic circulation, fundus, and brain. These two studies have sparked the interest in the dry immersion model.\n\nIndeed, the European Space Agency (ESA) has decided to include this model in the research programs it promotes on the effects of weightlessness. As a first step, ESA decided to carry out a standardization work like the one done on the bedrest model. ESA tasked a group of European experts to design a first study and the tests that would need to be carried out to better understand and validate the model.\n\nFew studies conducted to date have investigated gender differences in the astronaut population.\n\nThe small number of female astronauts may be part of the reason why scientific data are lacking to draw valid conclusions about possible gender differences. However, if women currently constitute only about 12% of astronauts (only 72 women out of 596 astronauts as of December 2021), they are and will be more and more represented in crews. They now constitute 30% of American crews and NASA (US space agency) has announced gender parity for crews on future lunar missions. It is therefore essential to study the physiological changes induced by weightlessness in both sexes, and to develop efficient sex-specific countermeasures. The expert group has therefore concluded that two different studies with the same design should be carried out, one in women and one in men, to obtain a comparable dataset. An immersion period of 5 days was determined to induce the physiological changes they wish to study. A battery of tests has thus been defined by this expert group based on standard tests carried out in bedrest studies (Bedrest Standard Measurements), supplemented by additional tests to further investigate the model and to acquire a better understanding of the time course of the physiological changes in both sexes.\n\nThis work has started in 2021 with a first study, conducted in women during a 5-day immersion period (awaiting publication). The next step is to realize a similar set of measurements in men, to standardize the dry immersion model taking into account sex differences.\n\nThis study falls within this context and will be the first ESA dry immersion study carried out in men. Its objective is to obtain a standardized dataset for DI in men, which will serve as a basis for the development and evaluation of countermeasures to support future space missions. The main physiological systems will be explored before, during and after the 5 days of immersion through a battery of specific tests and measurements. The results will be analyzed by scientists specializing in each field in order to better understand the dry immersion model, to compare its effects with those of the bedrest model and those of spaceflight. Comparison with results obtained in the female population will be a major part of the analysis. The clinical (adverse effects, comfort of subjects) and operational aspects are also part of the secondary objectives of the study."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy male volunteer (see below the description of medical tests and laboratory analysis performed at the selection visit),\nAge 20 to 40,\nNo overweight nor excessive thinness with BMI (weight Kg/ height m2) between 20 and 26,\nHeight between 158cm and 185 cm,\nCertified as healthy by a comprehensive clinical assessment (detailed medical history and complete physical examination): in particular, free from any chronic disease or any acute infectious disease or cardiovascular, neurological, ear, nose, and throat (ENT) (especially orthostatic hypotension and vestibular disorders), orthopaedic or musculoskeletal disorders,\nFitness level assessment: 35 ml/min./kg < VO2max < 55 ml/min./kg,\nNon active smokers,\nNo alcohol, or drug addiction, and no medical treatment,\nCovered by a Health Insurance System,\nHaving signed the informed consent,\nFree from any engagement during the study.\n\nExclusion criteria\n\nAny history or presence of clinically relevant cardiovascular, neurological or ENT (especially orthostatic hypotension and vestibular disorders), any chronic disease; any acute infectious disease, in particular\nSymptomatic orthostatic hypotension whatever the decrease in blood pressure, or asymptomatic postural hypotension defined by a decrease in systolic blood pressure (SBP) equal to or greater than 20 mmHg within 3 minutes when changing from the supine to the standing position,\nCardiac rhythm disorders,\nHypertension,\nChronic back pains,\nVertebral fracture, scoliosis or herniated disc,\nGlaucoma,\nSelf-reported hearing problems,\nHistory of migraines,\nHistory of hiatus hernia or gastro-esophageal reflux,\nHistory of thyroid dysfunction, renal stones, diabetes,\nHistory of head trauma,\nHistory of genetic muscle and bone diseases of any kind,\nPast records of thrombophlebitis, family history of thrombosis or positive response in thrombosis screening procedure (anti thrombin III, S-protein, C-protein, factor V Leiden mutation and the mutation 20210 of the prothrombin gene),\nSigns of venous insufficiency, varicose veins, or telangiectasia\nBone mineral density: T-score \u2264 -1.5,\nPoor tolerance to blood sampling,\nHaving given whole blood (more than 7ml/kg) in a period of 8 weeks or less before the start of the experiment, or having given whole blood more than 5 times in the past 12 months,\nSignificant history of allergy, especially no dermatological allergy,\nHistory of food allergy,\nSignificant anomaly detected in the biological analysis,\nPositive reaction to any of the following tests: IgM antibodies for the Hepatovirus A (HVA IgM), Hepatitis B surface antigen (HBsAg), anti-Hepatovirus C antibodies (hepatitis C), antibodies to human immunodeficiency virus type 1 and 2,\nVegetarian or vegan,\nRefusal to give permission to contact his general practitioner,\nSubject who, in the judgment of the investigator, is likely to be non-compliant during the study, or unable to cooperate because of a language problem or poor mental development,\nSubject already participating or in the exclusion period of a clinical research,\nSubject who has received more than 4500 Euros within 12 months for being a research subject,\nSubject who cannot be contacted in case of emergency,\nMRI contraindications History or active claustrophobia, Osteosynthesis material, presence of metallic implants or any other contra-indication for MRI, Allergy to Gadolinium.\nVulnerable persons according to law \"Code de la Sant\u00e9 Publique\" (L1121-5 to L1121-8) :\nPregnant women (urine pregnancy test performed at the selection visit and on the day of arrival in the facility),\nWomen during childbirth and breastfeeding mothers,\nPersons deprived of their liberty by an administrative or judicial decision,\nPersons under involuntary psychiatric care,\nPersons admitted in a health or social establishment for purposes other than research,\nMinors,\nAdults subject to legal protection (subject under guardianship or trusteeship) or unable to express their consent."
+                            ],
+                            "EnrollmentCount": [
+                                   "20"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nA minimum of 20 and a maximum of 24 non-smoking participants in the age group of 55 to 65 years old, half male and half female.\nFemale participants must be menopausal (no menses for at least 1 year (or documented ovariectomy) and a serum FSH above 30 IU/L).\nHeight between 158 to 190 cm with a body mass index between 20 to 30 kg/m2.\nPhysically and mentally healthy subjects that will have successfully passed the psychological and medical screening appropriate for the age group.\nParticipation in at least 2.5 hours of exercise at a moderate to vigorous-intensity aerobic activity per week.\nWilling to be assigned randomly either to the exercise or the control group.\n\nExclusion Criteria:\n\nParticipants must be dementia-free, drug- or alcohol-addiction free, with no history of heart attacks, no thrombosis risk, no severe allergies, no hypocalcaemia, no uric acidemia, no orthostatic intolerance, no vestibular disorders, no considerable musculoskeletal issues, no chronic back pain, no head trauma, no seizures, no ulcers, no renal stones, no gastro-esophageal reflux disease or renal function disorder, no hiatus hernia, no migraines, and no mental illness.\nElectrocardiogram abnormalities\nAnemia\nLow bone mineral density\nMedication requirements that may interfere with the interpretation of the results\nRecent substandard nutritional status\nClaustrophobia\nSpecial dietary requests (e.g. vegetarian, vegan or some other diet)\nSedentary people and people that are addicted to exercise\nMetallic implants (pacemakers, ICDs, CRT devices, infusion pumps, cerebral artery aneurysm clips, dental implants, tissue expander etc.), osteosynthesis material\nGiven blood in the past 3 months before the onset of the experiment\nSmoked (tobacco and/or marijuana (THC)) within 6 months prior to the start of the study\nAbused drugs, medicine or alcohol within up to 30 days prior to the start of the study\nParticipated in another study within 2 months before study onset"
+                            ],
+                            "EnrollmentCount": [
+                                   "24"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "DesignTimePerspective": [
+                                   "Prospective"
+                            ],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Among the most serious of the risks identified by NASA in the area of cardiovascular alterations are serious dysrhythmias and the development of orthostatic intolerance. Prolonged exposure to microgravity may lead to a reduction in cardiac performance, particularly during times of stress and that undiagnosed cardiovascular disease may manifest during long missions. The PI and colleagues have worked closely with NASA and NSBRI over the last six years to optimize use of ultrasound in the space program as an investigative modality, addressing fundamental cardiovascular problems in need of countermeasures development. We propose the following specific aim:\n\nTo continue our ongoing study of the magnitude and predictors of LV mass regression following acute volume and pressure unloading as a ground-based analog for manned spaceflight. This work will continue to focus on patients undergoing aortic valve surgery, but exploit recent knowledge of the roles of cytokines and integrins involved in cardiac hypertrophy and regression as well as emerging technologies such as gene chip analysis.\n\nThis work will be closely focused on risks and critical questions identified by the Cardiovascular Alterations Team as described in the Bioastronautics Critical Path Road Map Baseline Document. If successful, this project will enhance assessment of cardiac function during long duration missions and potentially suggest cytokine promoters or signal transduction pathways that could be targeted for cardiac atrophy countermeasures. In addition, we will continue to provide the facilities of our Core laboratory for access by investigators throughout the NASA and NSBRI programs in need of assistance in acquiring or analyzing ultrasonic data."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\n> 18 years of age\nIsolated severe aortic stenosis\nPreserved left ventricular function\nCABG patients will have normal LV function and mass"
+                            ],
+                            "EnrollmentCount": [
+                                   "1"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 67\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "The space agencies are actively engaged in studying the physiological adaptation to space environment through studies on board the International Space Station (ISS) but also on the ground. Ground-based experiments simulating the effects of weightlessness are used to better understand the mechanisms of physiological adaptation, design and validate the countermeasures. Dry immersion (DI) is a ground-based model of prolonged conditions of simulated microgravity, which has been mainly used in Russia. The past years however, the model has been implemented as well in Europe and expertise in conducting DI studies has been gained in particular in France where a few DI studies have been conducted in the MEDES Space Clinic in Toulouse for CNES (French Space Agency). Dry immersion involves immersing the subject in water covered with an elastic waterproof fabric. As a result, the immersed subject, who is freely suspended in the water mass, remains dry. Within a relatively short duration, the model can faithfully reproduce most physiological effects of actual microgravity, including centralization of body fluids, support unloading, and hypokinesia. Furthermore, physiological changes have been reported in the neuromuscular, skeletal and sensorimotor systems, in fluid electrolyte regulation, in the cardiovascular system, metabolism, blood and immunity, respiration, and thermoregulation. Dry immersion provides a unique opportunity to study the physiological effects of the lack of a supporting structure for the body (a phenomenon called 'supportlessness'). As such, dry immersion is proposed to mimic actual spaceflight in terms of the monotonous environment, posture-motion limitations, hemodynamic changes and hypokinetic effects, support unloading, and decreased proprioceptive input. Immersion studies have so far only been conducted in men and a minority of studies using the bedrest model have included women. Likewise, few studies conducted to date have investigated gender differences in the astronaut population. The small number of female astronauts may be part of the reason why scientific data are lacking to draw valid conclusions about possible gender differences. However, if women currently constitute only about 10% of astronauts, women are and will be more and more represented in crews. Women now constitute 30% of American crews and NASA (US space agency) has announced gender parity for crews on future lunar missions. It is therefore essential to study the physiological changes induced by weightlessness in women, to compare them with those observed in men and to develop efficient countermeasures for preventing them. The main physiological systems will be explored before, during and after the 5 days of immersion through a battery of specific standardized tests and measurements. The objective of the study is to evaluate the physiological changes induced by 5 days of dry immersion in the female organism. The study conditions such as patient recruitment, nutrition, data collection, data management, reporting for adverse events are standardized. The results will be analyzed by scientists specializing in each field in order to better understand the dry immersion model, to compare its effects with those of the bedrest model and those of spaceflight. The clinical (adverse effects, comfort of subjects) and operational aspects are also part of the secondary objectives of the study.\n\nTwenty healthy female subjects will participate in the study. There is no published data on dry immersion with female participation to help calculation the sample size. Moreover, female spaceflight and bedrest data are scarce, and do not provide any insight into inter-individual variability. This prolonged DI protocol in women is conceived as a pilot, descriptive, explorative study, as well as an operational and methodological study. Power-based calculation of the number of subjects is not directly applicable for such explorative studies. However, based on effect sizes obtained with previous DI studies in men, a total of 20 subjects was deemed necessary for this study."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy female volunteer (see below the description of medical tests and laboratory analysis performed at the selection visit),\nAge 20 to 40,\nNo overweight nor excessive thinness with BMI (weight Kg/ height m2) between 20 and 26,\nHeight between 158cm and 180 cm,\nRegular menstrual cycles and cycles lasting between 20 and 35 days,\nWithout oestroprogestative contraception (i.e., oral progestative contraception, IUDs, implants or absence of contraception are allowed),\nCertified as healthy by a comprehensive clinical assessment (detailed medical history and complete physical examination): in particular, free from any chronic disease or any acute infectious disease or cardiovascular, neurological, ENT (especially orthostatic hypotension and vestibular disorders), orthopaedic or musculoskeletal disorders,\n\nFitness level assessment:\n\nif age < 35 years: 35 ml/min./kg < VO2max < 55 ml/min./kg,\nif age > 35 years: 30 ml/min./kg < VO2max < 55 ml/min./kg,\nNon active smokers,\nNo alcohol, or drug addiction, and no medical treatment (with the exception of the aforementioned accepted means of contraception),\nCovered by a Health Insurance System,\nHaving signed the informed consent,\nFree from any engagement during the study.\n\nExclusion Criteria:\n\nAny history or presence of clinically relevant cardiovascular, neurological or ENT (especially orthostatic hypotension and vestibular disorders), any chronic disease; any acute infectious disease, in particular,\nSymptomatic orthostatic hypotension whatever the decrease in blood pressure,\nAsymptomatic postural hypotension defined by a decrease in SBP equal to or greater than 20 mmHg within 3 minutes when changing from the supine to the standing position,\nCardiac rhythm disorders,\nHypertension,\nChronic back pains,\nVertebral fracture, scoliosis or herniated disc,\nGlaucoma,\nSelf-reported hearing problems,\nHistory of migraines,\nHistory of hiatus hernia or gastro-esophageal reflux,\nHistory of thyroid dysfunction, renal stones, diabetes,\nHistory of head trauma,\nAbnormal result for lower limbs echo-doppler,\nHistory of genetic muscle and bone diseases of any kind,\nPast records of thrombophlebitis, family history of thrombosis or positive response in thrombosis screening procedure (anti thrombin III, S-protein, C-protein, factor V Leiden mutation and the mutation 20210 of the prothrombin gene),\nWomen who have stopped breastfeeding within 2 months before the start of the study,\nWomen who have undergone an abortion within 3 months before the start of the study,\nIrregular menstrual cycles or cycles lasting less than 20 days or more than 35 days,\nOestroprogestative contraception,\nRecent implementation or change in hormonal contraceptive (in the last 6 months),\nBone mineral density: T-score \u2264 -1.5,\nPoor tolerance to blood sampling,\nHaving given whole blood (more than 8ml/kg) in a period of 8 weeks or less before the start of the experiment, or having given whole blood more than 3 times in the past year,\nSignificant history of allergy, especially no dermatological allergy,\nHistory of food allergy,\nSignificant anomaly detected in the biological analysis,\nPositive reaction to any of the following tests: HVA IgM (hepatitis A), HBs antigen (hepatitis B), anti-HVC antibodies (hepatitis C), anti-HIV1+2 antibodies,\nVegetarian or vegan,\nRefusal to give permission to contact her general practitioner,\nSubject who, in the judgment of the investigator, is likely to be non-compliant during the study, or unable to cooperate because of a language problem or poor mental development,\nSubject already participating or in the exclusion period of a clinical research,\nSubject who has received more than 4500 Euros within 12 months for being a research subject,\nSubject who cannot be contacted in case of emergency,\n\nMRI contraindications\n\nHistory or active claustrophobia,\nOsteosynthesis material, presence of metallic implants or any other contra-indication for MRI,\nAllergy to Gadolinium.\n\nVulnerable persons according to law \"Code de la Sant\u00e9 Publique\" (L1121-5 to L1121-8) :\n\nPregnant women (urine pregnancy test performed at the selection visit and on the day of arrival in the facility),\nWomen during childbirth and breastfeeding mothers,\nPersons deprived of their liberty by an administrative or judicial decision,\nPersons under involuntary psychiatric care,\nPersons admitted in a health or social establishment for purposes other than research,\nMinors,\nAdults subject to legal protection (subject under guardianship or trusteeship) or unable to express their consent."
+                            ],
+                            "EnrollmentCount": [
+                                   "20"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged between 20-65 years\nAffiliates to a social security system\nWho are willing to take part in the study,\nWho gave written informed consent,\nDeclared fit after a similar visit to a medical aeronautical medical fitness for the non-professional cabin crew in civil aviation. There will be no other aptitude tests for the selection of subjects.\n\nExclusion Criteria:\n\nPeople who participated in a biomedical research protocol for which the exclusion period is complete,\npregnant women."
+                            ],
+                            "EnrollmentCount": [
+                                   "10"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nSportsman\nNone coffee, alcohol, cigarettes 6 hours before the start of each visit\nEach meal must have been taken 4 hours before each visit\nNo intensive sport 48 hours before ech visit\nWritten inform consent\n\nExclusion Criteria:\n\nSubject with cardiovascular,renal disease or with metabolic syndrome\nSubject with medication\nSubject who participated to an other medical research"
+                            ],
+                            "EnrollmentCount": [
+                                   "15"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy males, 20 -45 years\nBMI: 20 - 25 kg/m2\nHeight: 158 - 190 cm\nWeight: 65 - 85 kg\nmaximum relative oxygen uptake: 30 - 60 ml/min/kg\nnon-smokers\nsuccessful medical and psychological screening\nWillingness to participate in the entire study\nsigned informed consent\nsocial insurance\nClear criminal background check\n\nExclusion Criteria:\n\nAbuse of drugs, medicine or alcohol\nVegetarians, Vegans\nMigraines\nHistory of mental illness\nClaustrophobia\nHistory of: thyroid dysfunction, renal stones, diabetes, allergies, hypertension, hypocalcaemia, uric acidaemia, lipidaemia, hyperhomocysteinaemia\nRheumatism\nMuscle-, Cartilage- or Joint Injuries\nGastro-esophageal reflux disease, renal function disorder, Hiatus hernia\nChronic back pain\nBone diseases\nHerniated discs\nAchilles tendon injuries\nCruciate ligament rupture or any other severe knee injury\nBMD more than 1.5 SD < t-score\nHistory of orthostatic intolerance or vestibular disorders\nAnaemia\nVitamin D Deficiency\nPositive response in thrombosis screening\nUse of metallic implants, osteosynthesis material\nPorphyria, Blood dyscrasia\nHIV, Hepatitis\nIncreased Inner Eye pressure\nIntolerance to local anesthetics\nParticipation in another study up to three month before study onset"
+                            ],
+                            "EnrollmentCount": [
+                                   "10"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy Chinese volunteers (men or women)\nLiving in France and affiliated to a French Social Security system\nAged from 22 to 45\nBody Mass Index from 19 to 25\nWho accepted to take part in the study\nWho has given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 67\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWith normal cVEMP\nWho have passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPersons who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women (urine pregnancy test for women of childbearing potential)"
+                            ],
+                            "EnrollmentCount": [
+                                   "9"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho have passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPersons who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women (urine pregnancy test for women of childbearing potential)"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "The spaceflights undertaken to date demonstrated that Man can adapt to the conditions existing in space, particularly to weightlessness. However, the space environment and the prevailing micro-gravity induce modifications which may affect the performances of the astronauts. These modifications concern in particular the cardiovascular and hormonal systems, the muscles, the bones, the blood and the immune system. Other problems may occur during long duration flights, such as the problems created by psychological stress due to the confinement, or those resulting from the cosmic rays (radiation).\n\nIn view of the fact that space flight opportunities are few, experiences simulating the effects of weightlessness experiences are undertaken on the earth, in order to better understand the adaptation mechanisms, prepare the spaceflights, perfect and evaluate corrective methods (called counter-measures) such as physical exercise or medication, to facilitate the astronauts' return to base. These experiments are also a necessity, in view of the difficulties encountered when carrying out certain experiences during the flights, due to the presence of too few astronauts on board, and to the lack of advanced biomedical devices onboard (scanner, etc.). The most common simulation is that of the anti-orthostatic bed rest (tilted position with the head slightly under the feet at a -6\u00b0 angle).\n\nSince the current objective is to simulate flights in the International Space Station (3 to 6 months) or possible flights to Mars (500 to 1000 days), it is mandatory to extend the duration of the simulation experiments. This is why three Space Agencies, CNES (France), European Space Agency (ESA, European Union), National Space Development Agency of Japan (NASDA, Japan) decided to join forces and undertake in common such simulation campaigns on ground, to best apprehend the adaptation processes to the constraints of the space environment.\n\nThe 2 main objectives of this experiment are:\n\nto study the physiological changes mechanisms during a ground-based experiment simulating long duration spaceflights,\nto develop and validate preventive methods (countermeasures) using standard tests.\n\nThis is why we will test in the present study the effects of an orthostatic bed rest (decubitus) of 90 days (3 months) on the following physiological systems :\n\nthe bones,\nthe muscles,\nthe cardiovascular system and its control mechanisms,\nthe sleep,\nthe spine.\n\nIn the absence of gravity, the weight of the astronaut and that of the objects disappear completely. This induces modifications of the bones and the muscles which can severely affect the astronaut's life during the flight, and even more when returning to earth. This is a fundamental point to study, since it may become a limiting factor and even an obstacle to long duration flights. This experiment should also permit the test of physical exercise program and of a drug, pamidronate (AREDIA\u00ae), as counter-measures against the effects of weightlessness on the locomotion system (skeleton and muscles).\n\nA total of 28 volunteers will participate to this experiment, split into three groups. Said experiment will spread on 2 years, 14 volunteers participating each time. The 3 groups are the following:\n\nGroup \"physical exercise\" (9 volunteers),\nGroup \"drug\" (pamidronate) (9 volunteers),\nGroup \"control\" (10 volunteers).\n\nMembers of the groups will be drawn by lot among the participants\n\nGroup \"Exercise\" : exposure of Man to microgravity results in a muscular atrophy which affects the muscles of the lumbar region and those of the lower limbs which are concerned by the standing position and the locomotion. During certain flights, physical exercise programs have been implemented, in order to fight against this muscular atrophy, maintain the physical condition required for the mission and prepare the astronauts for their return on earth. In the course of the present experiment, a physical exercise program will be tested on the 9 volunteers of this group (resistance training using both calf and knee extensor muscles with a special devicecalled Fly-Wheel).\nGroup \"Drug\" : a Man in microgravity is the sole experimental model available to test the rapid occurrence of osteoporosis on a healthy subject. Osteoporosis, or porous bone, appears whenever the rate at which the bone material is replaced falls below that of resorption, thus creating a bone fragility and an increased risk of fracture (hip, spine and wrist essentially). It appears generally after menopause, when associated with aging and a lack of physical activity. The pamidronate (Aredia\u00ae) is a drug present on the market since many years, used for the treatment of several bone pathologies. This drug will be tested on the 9 volunteers of this group, to demonstrate its efficiency in treating of bone modifications. This drug (60mg) will be infused intravenously 14 days before bed rest.\nGroup \"control\" : this group will serve as reference for the experimentation. Volunteers in this group will be without physical exercise and without drug. The existence of this group is necessary to be able to compare the results of the 2 types of counter-measures.\n\nThe experience will be carried out during a 120 days stay (a total of 4 months) at the Space Clinic and will comprise:\n\n1 control ambulatory period of 15 days (subjects to report on day before) (-15 at -1),\n1 anti-orthostatic (-6\u00b0) bed rest period of 90 days (1 at 90),\n1 recovery ambulatory period of 15 days (subjects to depart the following morning) (+1 at +15), representing a total of 122 nights spent at the clinic for all volunteers.\n\nThe assessments will be done by different European and Japanese scientific teams,each one specialising in a specific domain. None of the 3 groups of volunteers will be submitted to all experimentation programs."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy male volunteer , citizen of the European Community.\nAge 25 to 45,\nNon smokers,\nNo alcohol, no drug dependence and no medical treatment,\nHeight 165 cm to 185 cm,\nNo overweight nor excessive thinness. BMI (weight Kg/ height m2) between 20 and 27,\nNo personal nor family past record of chronic or acute disease which could affect the physiological data and/or create a risk for the subject during the experiment,\nSubject to be covered by a Social Security system,\nFree of any engagement during four consecutive months.\n\nExclusion Criteria:\n\nHaving given blood (more than 300ml) in a period of three months or less before the start of the experiment,\nSubject already participating in a clinical research experimentation,\nPoor tolerance to blood sampling,\nPast record of orthostatic intolerance,\nCardiac rhythm disorders,\nAllergies,\nIntensive sport training,\nFractures or tendon laceration since less than one year,\nChronic back pains,\nPast records of thrombophlebitis,\nPresence of metallic implants,\nSpecial food diet,\nSleep disorders :Lark and owl type,Subject sleeping more than 10 hours or less than 5 hours,\nPhotosensitive epilepsy."
+                            ],
+                            "EnrollmentCount": [
+                                   "28"
+                            ],
+                            "EnrollmentType": [],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nhealthy male volunteer\naged from 20 to 35\naffiliated to a Social Security system and, for non-French resident, holding an European Health Insurance Card (EHIC)\nwho accepts to take part in the study\nwho has given their written stated consent\nwho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude .There will be no additional test\n\nExclusion Criteria:\n\npersons who took part in a previous biomedical research protocol, of which exclusion period is not terminated,\npersons who take any medication or drugs influencing the autonomic cardiovascular control"
+                            ],
+                            "EnrollmentCount": [
+                                   "12"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Outcomes Assessor"
+                            ],
+                            "DetailedDescription": [
+                                   "The visual impairment observed in many astronauts after long duration spaceflight aboard the International Space Station is considered the most important mission-threatening medical problem identified in the last decade of the space program. Between 2012 and 2014, NASA and NSBRI have spent $3-4 million/year investigating the clinical course and underlying mechanisms of this condition, termed the Visual Impairment Intracranial Pressure Syndrome (VIIP) because of its theoretical association with elevated intracranial pressure and central venous pressure. During the previous funding cycle, the investigators for this application performed the first invasive measures of intracranial pressure during acute (head down tilt bedrest and parabolic flight) and chronic (24 hours HDT bedrest) changes in gravitational gradients simulating spaceflight in healthy humans. Novel observations made from those studies determined that 1) there is a large range of central venous pressure experienced normally during changes in posture in daily life; 2) these changes occur within seconds of postural transients from upright to supine and then are stable over time in that position; 3) with acute assumption of simulated microgravity (HDT bedrest), intracranial pressure and central venous pressure goes up slightly from the supine position, but over the next 24 hours, returns toward, and sometimes below the supine value because of spatial compensation within the brain; 4) during true microgravity (parabolic flight), the acute reduction in central venous pressure reduces cerebral outflow resistance and ICP decreases compared to the supine position, though remains above the upright position in 1G.\n\nThe current hypothesis is that the VIIP syndrome is Not due to a pathologically elevated central venous or intracranial pressure. However, because there is not the usual reduction in pressure typically seen in the upright position on earth, the incessant, low level elevation in ICP (i.e., greater than upright, but less than supine) leads to adaptive changes in the eye which ultimately result in globe flattening, choroidal folds, and visual impairment. Preliminary data suggest that the use of lower body negative pressure (LBNP) can lower ICP while in the head down position, towards the values observed upright. The investigators propose that applying LBNP during sleep in space would be a practical strategy to restore a relevant (though reversed) circadian variability in central venous pressure that would then prevent adaptive changes in the eye. The investigators propose the following hypothesis:\n\nHypothesis 1: Repeated administration of LBNP at night will cause a safe, sustained reduction in central venous pressure while asleep. This restoration of effective circadian variability in central venous pressure will prevent structural changes in the eye induced by microgravity. To test this hypothesis, the long-term efficacy of nightly LBNP (6-8 hrs) to simulate the upright position and prevent structural changes in the eye during four days of bedrest. Comprehensive, non-invasive state-of-the-art imaging will be used to examine the structure of the visual apparatus, using optical coherence tomography combined with invasive direct measurement of CVP."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nage 18-55\n\nExclusion Criteria:\n\ncardiovascular disease\nophthalmological disease"
+                            ],
+                            "EnrollmentCount": [
+                                   "10"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "The risk of bone loss in response to immobilization and space flight is widely recognized, with such bone losses occurring predominantly in the legs. Loading forces in the lower extremities are typically low in space and during bed rest, but musculoskeletal loading countermeasures can prevent or reduce bone losses induced in these conditions. Although the primary origin may be of a mechanical nature, bone losses in astronauts and immobilized patients are likely to be modulated by the endocrine and the internal environment.\n\nBone loss and osteoporosis is also prevalent in those with chronic obstructive pulmonary disease (COPD). The most discussed etiological factors for this condition include lack of physical activity, vitamin-D deficiency, hypogonadism, use of corticosteroids and smoking. However, COPD is associated with tissue hypoxemia and it is unclear whether hypoxia per se will affect bone turnover or metabolism.\n\nThe protocol of the current study standardises potential confounding factors, such as physical activity, ambient temperature, hypoxic stimulus and nutritional composition of the diet across all 3 interventions, and aims to extend our knowledge of the effects of hypoxia and bedrest on bone metabolism and phospho-calcic homeostasis.\n\nFourteen non-obese men, who are otherwise healthy, will be recruited following medical and psychological screening. They will be invited to attend the Olympic Sport Centre, Planica, Slovenia on 3 occasions, with each visit being 31 days in duration and separated by 5 months. Each 31-day visit ('campaign') includes a baseline recording period (5 days), 21 days of intervention, and a recovery period (5 days), with a follow-up visit being carried out 14 days after each intervention. The 3 interventions will be allocated in a randomized, cross over design: i) Normobaric normoxic bed rest (NBR; FiO2=21%), ii) Normobaric hypoxic ambulatory confinement (HAMB; FiO2=14%; ~4000 m simulated altitude), and iii) Normobaric hypoxic bed rest (HBR; FiO2=14%). A standardized, repeating, 14-day dietary menu, comprised of foods commonly consumed in the Slovenian diet, will be applied during all campaigns. Targeted energy intakes will be calculated individually using a modified Benedict-Harris formula, with physical activity factor multipliers of 1.2 for the HBR and NBR campaigns and 1.4 for the HAMB campaign, used to promote energy balance. Body mass will be monitored daily during the campaigns using a gurney incorporating load cells, and whole body composition will be determined before and immediately after each intervention using fan beam dual-emission X-ray absorptiometry. Macronutrient composition of the diet will be approximately 17% protein, 53% carbohydrate and 30% fat, with >1.1g of protein per kg body weight provided per day, and daily salt (sodium chloride) intake being <10g. Food will be provided in weighed portions and subjects will be encouraged to eat all food supplied. However, any food not eaten will be weighed and actual amount consumed recorded in a diet analysis programme.\n\nParticipants will have bone mineral content assessed at 5 time points (before, 3 during and one after each intervention) using pQCT scans of the calf and thigh. Horizontal scans will be taken at 4%, 14%, 38%, and 66% of the tibia (assessed from its distal end), and at 4% and 33% of the femur. Twenty-four hour urine collections will be obtained before (2 time points), during (11 time points) and after (3 time points) each intervention, and will be assessed for urinary calcium and phosphate content, and for a marker of bone reabsorption (N-terminal telopeptide). In addition, early morning, fasting venous blood samples will also be taken before (2 time points), and during (5 time points) each intervention. These will be analysed for calcium, phosphate, bone specific alkaline phosphatase, parathyroid hormone, 25-Hydroxyvitamin D, Procollagen-I-N-terminal propeptide and regulators of bone metabolism, (Dickkopf-related protein 1 and Sclerostin)."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nPhysically and mentally healthy subjects\nBody mass index < 25 kg/m2\nHeight 158 - 190 cm\nWaist circumference < 94 cm\nVolunteers that are able to declare their willingness to participate in the entire study\nWilling to be assigned randomly to the three groups\nSuccessfully passing the psychological and medical screening\ncompetent to sign informed consent\nSlovenian social insurance\nEnglish language fluency\n\nExclusion Criteria:\n\nMedication required that may interfere with the interpretation of the results\nBone mineral density (as measured by DEXA) more than 1.5 standard deviations < t score\nRecent sub-standard nutritional status\nFamily history of thrombosis or positive response in thrombosis screening procedure.\n\n(Biochemical analysis of the following parameters: ATIII, High sensitive C-reactive protein, S-Akt., Factor V-Leiden, Prothrombin, Lupus-partial thromboplastin time, Factor II)\n\nHistory of: thyroid dysfunction, renal stones, diabetes, allergies, hypertension, hypocalcemia, uric acidaemia, lipidaemia, or hyperhomocysteinaemia\nGastro-esophageal reflux disease or renal function disorder, Hiatus hernia\nHistory of medical illness\nSmoker within six months prior to the start of the study\nAbuse of drugs, medicine or alcohol\nParticipation in another study up to two months before study onset\nNo signed consent form before the onset of the experiment\nBlood donors in the past three months before the onset of the experiment\nVegetarian and Vegans\nMigraines\nHistory of orthostatic intolerance\nHistory of vestibular disorders\nClaustrophobia\nmetallic implants, osteosynthesis material\nChronic back pain"
+                            ],
+                            "EnrollmentCount": [
+                                   "14"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "A loss of body weight has been documented in lowland-living individuals when exposed to hypoxic environments, such as at high altitudes, or under laboratory conditions. This weight loss has been attributed both to a reduced appetite (and subsequent fall in dietary energy intake), and to an increase in resting energy expenditure. Interestingly, a reduction in appetite and energy intake has also been reported during space flight, although the mechanism for this has not been explained. As the gas inside future planetary habitats is likely to have lower partial pressure of oxygen than in Earth's atmospheric air, hypoxia induced appetite reduction could pose a challenge for individuals in these environments. For example, persistent under-eating could compromise long term health due to inadequate intake of essential micronutrients, especially in the presence of altered nutrient metabolism and requirements seen during space flight. Moreover, inadequate macronutrient intake could exacerbate the loss of lean body tissue which occurs in situations (such as microgravity, inactivity and bed rest) where muscles are unloaded. Indeed, a protein intake greater than normal could be required in situations where there is muscle inactivity, to achieve the same postprandial anabolic effect of amino acids seen in ambulatory individuals.\n\nThe mechanism for the reduction in appetite observed in hypoxia is not well established. Several incretin hormones and adipokines have been implicated in the control of appetite and may be candidates for inducing this alteration in appetite observed in hypoxia. However, reports in the literature present contradictory findings, perhaps due to the use of different experimental paradigms (hypobaric and normobaric hypoxia, active and resting subjects, variability in the degree and duration of hypoxia).\n\nThe protocol of the current study standardises physical activity, ambient temperature, hypoxic stimulus and nutritional composition of the diet, and aims to extend our knowledge of the effects of hypoxia and bedrest on appetite and its hormonal control.\n\nIn order to discern the separate and combined effects of microgravity and hypoxia, fourteen normal or over-weight men, who are otherwise healthy, will be recruited following medical and psychological screening. They will be invited to attend the Olympic Sport Centre, Planica, Slovenia on 3 occasions, with each visit being 31 days in duration and separated by 5 months. Each 31-day visit ('campaign') includes a baseline recording period (5 days), 21 days of intervention and a recovery period (5 days), with the 3 interventions allocated in a randomized, cross over design: i) Normobaric normoxic bed rest (NBR; FiO2=21%), ii) Normobaric hypoxic ambulatory confinement (HAMB; FiO2=14%; ~4000 m simulated altitude), and iii) Normobaric hypoxic bed rest (HBR; FiO2=14%). A standardized, repeating, 14-day dietary menu, comprised of foods commonly consumed in the Slovenian diet, will be applied during all campaigns, the targeted energy intakes being calculated individually using a modified Benedict-Harris formula with physical activity factor multipliers of 1.2 for the HBR and NBR campaigns and 1.4 for the HAMB campaign. Food will be provided in weighed portions and subjects will be encouraged to eat all food supplied. However, any food not eaten will be weighed and actual amount consumed recorded in a diet analysis programme. Body mass will be assessed daily during the campaigns using a gurney incorporating load cells, and whole body composition will be determined before and immediately after each intervention using fan beam dual-emission X-ray absorptiometry.\n\nParticipants will undergo a mixed meal tolerance test before and on day 17 of each intervention period, in the morning, after a 12 hour fast, with the time of assessment replicated on each study day at every campaign. On arrival, participants will rest supine on a hospital bed and place their hand in a heated hand warming unit (air temperature 50-55oC). An intravenous cannula will then be inserted retrograde into a dorsal hand vein for arterialised-venous blood sampling. After 15mins rest, a baseline, fasting blood sample will be taken for determination of serum insulin, total cholesterol, high density lipoprotein (HDL) cholesterol, low density lipoprotein (LDL) cholesterol, adiponectin and leptin, whole blood glucose and lactate, and plasma catecholamines, ghrelin, PeptideYY (PYY), glucagon-like peptide-1(GLP-1), triglycerides, and non-esterified fatty acid concentration. An expired breath sample will be collected into evacuated tubes for 13 labelled carbon dioxide (13CO2) determination, and a 20min baseline measurement of resting energy expenditure (REE) and respiratory exchange ratio (RER) will be then made using indirect calorimetry, with subjects wearing a mask, and both inspired and expired air being measured on every breath. Appetite assessment will be made by asking subjects to rate their hunger, desire to eat, fullness, and their prospective food intake, by placing a vertical mark on a 0-100mm linear scale. This visual analogue scale will be measured from left to right, with 0 indicating no experience of the variable (e.g. not hungry, unable to eat anything) and 100 indicating the most of each variable that they can imagine experiencing (e.g. intense desire to eat, or completely full). Values for these 4 variables will be combined to calculate a combined appetite score (CAS). Once baseline measurements have been completed, subjects will consume a mixed nutrient milkshake (Ensure Plus, Abbott Nutrition) at 5ml/kg body weight, which will be supplemented (at 1% of carbohydrate content) with 13-Carbon labelled (13C) Glucose. Arterialised venous blood samples will subsequently be taken every 10min for glucose and lactate assessment, and every 20min for assessment of serum insulin and incretin hormones. A measurement of REE and RER will be performed in the last 15min of every 30min period for the following 2 hours to assess fuel oxidation and metabolic rate, and an expired breath sample will be collected into evacuated tubes for 13CO2 determination at a later date. Subjective appetite will be assessed every 15minutes throughout using visual analogue scales, as described above, and at the end of the 2hr postprandial period subjects will be given an ad libitum pasta-based test meal and will be instructed to eat until they feel comfortably full. This meal will be comprised of cooked dried white pasta, commercially available tomato-based pasta sauce, olive oil and grated hard cheese, with a composition of 37% of total energy derived from fat, 48% carbohydrate, and 16% protein. The amount eaten will be recorded and related to subjective appetite ratings."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nPhysically and mentally healthy subjects\nBody mass index < 25 kg/m2\nHeight 158 - 190 cm\nWaist circumference < 94 cm\nVolunteers that are able to declare their willingness to participate in the entire study\nWilling to be assigned randomly to the three groups\nSuccessfully passing the psychological and medical screening\ncompetent to sign informed consent\nSlovenian social insurance\nEnglish language fluency\n\nExclusion Criteria:\n\nMedication required that may interfere with the interpretation of the results\nBone mineral density (as measured by DEXA) more than 1.5 standard deviations < t score\nRecent sub-standard nutritional status\nFamily history of thrombosis or positive response in thrombosis screening procedure.\n\n(Biochemical analysis of the following parameters: ATIII, High sensitive C-reactive protein, S-Akt., Factor V-Leiden, Prothrombin, Lupus-partial thromboplastin time, Factor II)\n\nHistory of: thyroid dysfunction, renal stones, diabetes, allergies, hypertension, hypocalcemia, uric acidaemia, lipidaemia, or hyperhomocysteinaemia\nGastro-esophageal reflux disease or renal function disorder, Hiatus hernia\nHistory of medical illness\nSmoker within six months prior to the start of the study\nAbuse of drugs, medicine or alcohol\nParticipation in another study up to two months before study onset\nNo signed consent form before the onset of the experiment\nBlood donors in the past three months before the onset of the experiment\nVegetarian and Vegans\nMigraines\nHistory of orthostatic intolerance\nHistory of vestibular disorders\nClaustrophobia\nmetallic implants, osteosynthesis material\nChronic back pain"
+                            ],
+                            "EnrollmentCount": [
+                                   "14"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "The rapid loss of skeletal muscle occurs in extreme physiological conditions, most notably within intensive care, hypoxia and during spaceflight. The cause of this accelerated loss is unknown; however, interventions aiming to slow the decline may have profound effects on quality of life post-surgery and, in space expedition terms, the ability to complete mission critical tasks. In addition, the current methodologies available to measure total skeletal muscle mass have limitations, lack accuracy (anthropometry and Bioelectrical Impedance Analysis (BIA)) or are immobile and costly (dual x-ray absorptiometry (DXA) and magnetic resonance imaging (MRI)).\n\nThe primary aim of this study is to investigate whole body skeletal muscle loss induced through 7 consecutive days of whole-body immobilisation using three independent methods; dual x-ray absorptiometry (DXA), magnetic resonance imaging (MRI) and D3-Creatine dilution (D3-cr). A number of secondary aims are also targeted, which have the shared objective to measure the impact of 7-days of immobilisation on HBF; 1. Muscular, neuromuscular and cardiovascular adaptation; 2. Neurophysiology, sleep architecture and cognition; 3. A range of spaceflight specific measures, aiming to characterise the intervention proposed within this study (hyper-buoyancy flotation (HBF) bed rest) as an alternative ground-based analogue to observe the physiological response to microgravity.\n\nThe muscular, neuromuscular and cardiovascular research is performed by King's College London Centre of Human & Aerospace Physiological Sciences (KCL CHAPs) and ranges from measurement of whole-body change, to cellular adaptation. Total skeletal muscle mass will be measured using DXA, MRI and D3-cr as well as the cross-sectional area of a single muscle group (quadriceps) using ultrasound. A biopsy will be taken from the same muscle group (quadriceps) in order to investigate changes in muscle protein synthesis (MPS), myofibre size, force and protein: DNA ratio. Muscle performance will also be measured, from whole-body power output using a countermovement jump, to force expressed by the trunk, quadriceps, calf and handgrip. Muscle tone will be measured in three flexor and three extensor muscles in the calf, forearm and lower back. The plantarflexion muscles in the calf will be further assessed, with ankle proprioception, maximal strength and surface EMG of the medial gastrocnemius measured. Blood samples will be taken in order to distinguish changes in immunity and bone markers. The subject's height will be measured and intervertebral disc morphology distinguished using ultrasound and MRI.\n\nThe neuromuscular and muscle performance measurements will be obtained concurrently. Electrical activity produced by the skeletal muscles will be recorded and evaluated using electromyography (EMG). Prior to the force expression of the quadriceps being tested, pads will also be positioned for the muscle to be electrically stimulated and for a maximal involuntary force to be measured. Lastly, a cycle ergometer assessment will be undertaken, where power is ramped gradually and maximal aerobic utilisation (VO2max) determined.\n\nThe neurophysiology, sleep architecture and cognition investigation will be in collaboration with the Sleep and Brain Plasticity Centre (Department of Neuroimaging, IoPPN) and the Sleep Disorders Centre at Guy's Hospital. This study will look at any ensuing changes in sleep architecture and neurophysiology. Any associated cognitive or brain structural changes, which may be induced through 1 week of whole-body immobilisation, will also be investigated.\n\nThe procedures outlined are designed to assess known physiological adaptations occurring as a consequence of a micro-gravity environment, and therefore prove useful comparative tools from which the HBF model can be evaluated.\n\nSixteen male subjects (18-40 yrs) will be recruited to undertake test procedures pre- and post- a 7-day control period, where they will continue their habitual activities and be provided with their total (controlled) calorie intake, and pre- and post- a 7-day unloading period, where subjects will be required to remain on a hyper-buoyancy flotation (HBF) bed."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nMales aged 18-40\nNo clinically significant and relevant abnormalities in medical history\nAbsence of any condition that could affect subject safety or well-being or their ability to understand and follow study procedures and requirements\nAbsence of any condition which has/will result in irregular regulation of skeletal muscle, creatine metabolism or reduction of total skeletal muscle mass\nAbsence of a medical history that includes back pain\n\nExclusion Criteria:\n\nKnown or suspected intolerance or hypersensitivity to the study materials (or closely related compounds) or any of their stated ingredients\nHabitual use (>twice a week) of creatine supplementation within 6 weeks of the study\nPrevious history of smoking\nNo known current or past neurological or psychiatric co-morbidities, no known sleep abnormalities (e.g. insomnia, snoring, sleep apnoea, sleep-walking/talking, nocturnal panic attacks, restless leg syndrome)\nParticipation in another clinical study or receipt of an investigational drug within 30 days of the screening visit\nRelation of any study investigators, personnel at the study site or employee of any of the study sponsors\nAny kind of medication prior to 1 month of screening\nRecent history (within the last 1 year) of alcohol or other substance abuse\nA previous history of nosebleeds"
+                            ],
+                            "EnrollmentCount": [
+                                   "12"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 67\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nSubjects will be staff member of the team or of other teams participating in the parabolic flight campaign.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPerson with medical history of claustrophobia\nPerson with contraindication to MRI\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "24"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Outcomes Assessor"
+                            ],
+                            "DetailedDescription": [
+                                   "PHASE 1 : The first phase studied the repeated measurement of the efficiency of typing text topics in various situations. Each subject will copy a text different in each test and in a random order. Similarly, if the word prediction software has a capacity for self-improvement the internal dictionary, it will be disabled.\n\nthe investigators will study one setting of the configuration word prediction software. Are available the length of the list of proposals for which three options are selected: 1, 3 or 5 words, according to the literature and to the results of a questionnaire.This questionnaire was sent to identify the use of people with spinal cord injury and professionals about word prediction software.\n\nThe list of words is in the upper position of the screen based on the results of the questionnaire.\n\nFour combinations will be tested on each subject. Twelve Tetraplegics will be required in each group (one group using a virtual keyboard and one group using the physical keyboard) Each combination will be tried for 10 minutes.\n\nPHASE 2 :\n\nThe second phase will evaluate the effeciency of a rehabilitation program reduced cognitive load generated by the software predictions words.\n\nThe investigators propose an evaluation of the effects of 12 training sessions in a controlled, randomized, three parallel groups (experimental group : rehabilitation program, a group : a self-learning and a group : no learning).\n\nText input tests will be performed before and after the training sessions for people who have rehabilitation program. For the other two groups, those will be reviewed one month after the first test.\n\nFor this evaluation, a different text but with the same difficulty will be used. The order of execution will be randomized.\n\nAt the end of the month the three groups will be evaluated according to the same procedures for the firts test."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nTetraplegia (between C4 and C8 ASIA) more than 6 months.\nCan read and write\nNo visual problems preventing the use of computers.\nRecipient of a Health Insurance Plan\nHaving read information note.\n\nExclusion Criteria:\n\nMoving in progress or predictable"
+                            ],
+                            "EnrollmentCount": [
+                                   "42"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "DesignTimePerspective": [
+                                   "Prospective"
+                            ],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nAdults aged above 18 years old.\nBMI (Body Mass Index) is below 50 kg/m2.\nFit in one of the groups\n\nExclusion Criteria:\n\nPatients younger than 18 years old.\nBMI (Body Mass Index) higher than 50 kg/m2."
+                            ],
+                            "EnrollmentCount": [
+                                   "320"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 21 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPerson with medical history of oculomotor disorders\nPerson with medical history of vestibular disorders\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Investigator"
+                            ],
+                            "DetailedDescription": [
+                                   "Space flights have shown the possibilities and limitations of human adaptation to space. For the last 50 years, results showed that the space environment and microgravity in particular, cause changes that may affect the performance of astronauts. These physiological changes particularly challenge the cardiovascular, metabolic, muscle and bone functions. Space agencies regularly conduct simulations on the ground on healthy volunteers to mimic the effects of weightlessness (head down bed rest model) to better understand the mechanisms of adaptations of the organism to space, and develop ways to prevent and / or reduce the negative biological effects of microgravity on astronauts. These protocols are called countermeasures. Since the beginning of space missions, various countermeasures have been tested on the ground and in-flight, including different exercise protocols. To date, however, none has been entirely satisfactory and space agencies continue to conduct simulation studies to evaluate new countermeasures. Nowadays, the human spaceflight program has entered the next phase of space exploration towards the Moon and Mars and there are clearly inherent medical challenges with such a goal, among which, countermeasure developments are a clear priority.\n\nBased on recent evidences, the next countermeasure to be tested during a 60-day bed rest includes a nutritional countermeasure composed of an anti-oxidant and anti-inflammatory dietary mix."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy male volunteer (see below the description of medical tests and laboratory analysis performed at the selection visit),\nAge 20 to 45,\nNo overweight nor excessive thinness with BMI (weight Kg/ height m2) between 22 and 27,\nHeight between 158 and 190 cm,\nNo personal nor family past record of chronic or acute disease or psychological disturbances which could affect the physiological data and/or create a risk for the subject during the experiment,\n\nFitness level assessment:\n\nif age < 35 years: 35 ml/min./kg < VO2max < 60ml/min./kg,\nif age > 35 years: 30 ml/min./kg < VO2max < 60ml/min./kg\nActive and free from any orthopedic, musculoskeletal and cardiovascular disorders,\nNon smokers,\nNo alcohol, no drug dependence and no medical treatment,\nNo shift work or travel across more than one time zone in previous 2 months,\nCovered by a Social Security system,\nHave signed the information consent,\nFree of any engagement during the three hospitalization planned periods.\n\nExclusion Criteria:\n\n- Past record of orthostatic intolerance,\nCardiac rhythm disorders,\nChronic back pains,\nHistory of hiatus hernia or gastro-esophageal reflux,\nHistory of thyroid dysfunction, renal stones, diabetes, migraines,\nPast records of thrombophlebitis, family history of thrombosis or positive response in thrombosis screening procedure,\nAllergy including xylocaine allergy\nAbnormal result for lower limbs echo-doppler,\nHistory or active claustrophobia,\nHistory of genetic muscle and bone diseases of any kind,\nHistory of sleep disorders, no shift work or travel across more than one time zone in previous two months\nVestibular disorders,\nAudition problem,\nVision corrected no more than 20/30, color-blindness\nBone mineral density: T-score \u2264 -1.5,\nOsteosynthesis material, presence of metallic implants,\nHistory of knee problems or joint surgery/broken leg\nPoor tolerance to blood sampling,\nHaving given blood (more than 8ml/kg) in a period of 8 weeks or less before the start of the experiment,\nSpecial food diet, vegetarian or vegan, food allergy especially allergic to peanut or soya.\nPositive reaction to any of the following tests: HVA IgM (hepatitis A), HBs antigen (hepatitis B), anti-HVC antibodies (hepatitis C), anti-HIV1+2 antibodies,\nSubject already participating or in the exclusion period of a clinical research,\nRefusal to give permission to contact his general practitioner,\nIncarcerated persons,\nSubject who, in the judgment of the investigator, is likely to be non-compliant during the study, or unable to cooperate because of a language problem or poor mental development,\nSubject who has received more than 4500 Euros within 12 months for being a research subject.\nSubject under guardianship or trusteeship."
+                            ],
+                            "EnrollmentCount": [
+                                   "20"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Space flights have shown the possibilities and limitations of human adaptation to space. For the last 50 years, results showed that the space environment and microgravity in particular, cause changes that may affect the performance of astronauts. These physiological changes are now better known: prolonged exposure to a weightlessness environment can lead to significant loss of bone, muscle mass, strength, cardiovascular and sensory-motor deconditioning, immune, hormonal and metabolism changes. Nevertheless, more recent missions have revealed a new suite of physiological adaptations and consequences of space flight. Indeed, astronauts exposed to prolonged weightlessness experience hyperopic shifts and structural alteration in the eye (e.g., choroidal folds and optic disc edema). This condition was defined by NASA as Spaceflight-Associated Neuro-ocular Syndrome (SANS). Some of these vision changes remain unresolved for years after flight. This phenomenon has most likely existed since the beginning of human space flight, but is just recently being recognized as a major consequence of adaptation to microgravity. Changes in vision and eye structure are thought to be the result of prolonged exposure to space flight-induced headward fluid shifts and elevated intracranial pressure. Loss of the hydrostatic pressure gradient during spaceflight leads to this redistribution of body fluids toward the head. To prepare for future manned missions beyond the low Earth Orbit, the mechanisms underlying SANS syndrome have to be investigated and countermeasures designed to reverse or prevent SANS are required. Venoconstrictive thigh cuffs (VTCs) represent one possible countermeasure to mitigate a headward fluid shift. The Russian Space Agency uses VTCs (bracelets) to sequester fluid in the lower limbs and mitigate the subjective sensation of head congestion during space-flight. Moreover, experiments on 6-month Mir missions demonstrated that bracelets reduced jugular vein cross-sectional area in cosmonauts by 12% to 20%. However, it is unknown how VTCs (including bracelets) affect ocular physiologic features. The space agencies are actively engaged in studying the initiation and progression of SANS syndrome through studies on the International Space Station and on the ground. Indeed, considering the limited number of flight opportunities, the difficulties related to the performance of in-flight experiments (operational constraints for astronauts, limited capabilities of in-flight biomedical devices), ground-based experiments simulating the effects of weightlessness are used to better understand the mechanisms of physiological adaptation, design and validate the countermeasures. Different methods are used to simulate microgravity on Earth. However, two separate approaches, -6\u00b0 head-down bed rest (HDBR) and dry immersion (DI) have provided possibilities for long-term exposures with findings closest to those seen with a weightless state. They produce changes in body composition (including body fluid redistribution), cardiovascular and skeletal muscle characteristics that resemble the effects of microgravity. The common physiological denominator is the combination of a cephalad shift of body fluids and reduced physical activity. Unlike bed rest, dry immersion provides a unique opportunity to study the physiological effects of the lack of a supporting structure for the body. Dry immersion means immersing into the thermoneutral water covered with special elastic free floating waterproof fabric. The subject, surrounded by film and \"free suspended\" in the water mass, remains dry. During horizontal immersion, pressure forces are distributed nearly equally around the entire surface of the body (only the head and neck are not entirely supported by water). The absence of mechanical support of specific zones during immersion creates a state akin to weightlessness that is called \"supportlessness\". Physiological changes under DI develop more rapidly and are more profound than under HDBR. This advanced ground-based model is extremely suited to test countermeasures for microgravity-induced deconditioning and physical inactivity-related pathologies.\n\nThe present study is organized in this context by the French space agency (CNES) to assess on twenty healthy male volunteers the effects of thigh cuffs to prevent the deconditioning induced by 5 days of dry immersion and in particular the fluid shift and its related ophthalmological disorders. Using an integrated approach, the CNES has selected ten scientific protocols to assess the changes in the different physiological fields and the potential beneficial effects of the countermeasure to prevent and/or reduce these changes."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy male volunteer (see below the description of medical tests and laboratory analysis performed at the selection visit),\nAge 20 to 45,\nNo overweight nor excessive thinness with BMI (weight Kg/ height m2) between 20 and 26,\nHeight between 158 and 185 cm,\nNo personal nor family past record of chronic or acute disease or psychological disturbances which could affect the physiological data and/or create a risk for the subject during the experiment,\n\nFitness level assessment:\n\nif age < 35 years: 35 ml/min/kg < VO2max < 60ml/min/kg\nif age > 35 years: 30 ml/min/kg < VO2max < 60ml/min/kg\nWalking between 7000 - 8000 steps/day,\nActive and free from any orthopedic (in particular no vertebral fracture, scoliosis or herniated disc) musculoskeletal and cardiovascular disorders,\nNon smokers,\nNo alcohol, no drug dependence and no medical treatment,\nNo antibiotic treatment in the 2 previous months before the beginning of the study,\nCovered by a Social Security system,\nHave signed the information consent,\nFree of any engagement during the study.\n\nExclusion Criteria:\n\n- Past record of orthostatic intolerance,\nCardiac rhythm disorders,\nChronic back pains,\nVertebral fracture, scoliosis or herniated disc,\nGlaucoma,\nHTA,\nHistory of migraines,\nHistory of hiatus hernia or gastro-esophageal reflux,\nHistory of thyroid dysfunction, renal stones, diabetes,\nHistory of head trauma,\nPast records of thrombophlebitis, family history of thrombosis or positive response in thrombosis screening procedure (anti thrombin III, S-protein, C-protein, factor V Leiden mutation and the mutation 20210 of the prothrombin gene),\nIndividuals exhibiting mutations involved in hereditary hemochromatosis (HAMP, HFE, HFE2, SCL40A1 and TRF2),\nAbnormal result for lower limbs echo-doppler,\nHistory or active claustrophobia,\nHistory of genetic muscle and bone diseases of any kind,\nBone mineral density: T-score \u2264 -1.5 on the hip,\nOsteosynthesis material, presence of metallic implants or any other contra-indication for MRI,\nPoor tolerance to blood sampling,\nHaving given blood (more than 8ml/kg) in a period of 8 weeks or less before the start of the experiment,\nAntibiotic treatment in the 2 previous months before the beginning of the study,\nVegetarian or vegan,\nHistory of food allergy,\nPositive reaction to any of the following tests: HVA IgM (hepatitis A), HBs antigen (hepatitis B), anti-HVC antibodies (hepatitis C), anti-HIV1+2 antibodies,\nSubject already participating or in the exclusion period of a clinical research,\nRefusal to give permission to contact his general practitioner,\nIncarcerated persons,\nSubject who, in the judgment of the investigator, is likely to be non-compliant during the study, or unable to cooperate because of a language problem or poor mental development,\nSubject who has received more than 4500 Euros within 12 months for being a research subject.\nSubject under guardianship or trusteeship."
+                            ],
+                            "EnrollmentCount": [
+                                   "20"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

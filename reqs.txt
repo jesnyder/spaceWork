@@ -1,3 +1,4 @@
+crossrefapi
 flake8
 jsonlines
 langdetect
@@ -6,6 +7,5 @@ numpy
 pandas
 scipy
 shutil
-sklearn
 sympy
 translate

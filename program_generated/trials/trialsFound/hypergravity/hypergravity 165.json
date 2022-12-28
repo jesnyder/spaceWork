@@ -1,0 +1,547 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "IsPPSD",
+                     "IsUSExport",
+                     "IsUnapprovedDevice",
+                     "Keyword",
+                     "LargeDocDate",
+                     "LargeDocFilename",
+                     "LargeDocHasICF",
+                     "LargeDocHasProtocol",
+                     "LargeDocHasSAP",
+                     "LargeDocLabel",
+                     "LargeDocTypeAbbrev",
+                     "LargeDocUploadDate",
+                     "LastKnownStatus",
+                     "LastUpdatePostDate",
+                     "LastUpdatePostDateType",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "human centrifuge, oxygen, imaging, stroke volume, lung"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [],
+                            "LastUpdatePostDate": [
+                                   "November 25, 2013"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "balance, postural",
+                                   "postural equilibrium",
+                                   "pain scale",
+                                   "range of motion"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [],
+                            "LastUpdatePostDate": [
+                                   "February 20, 2017"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "June 20, 2016"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "October 2, 2017"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "volunteers"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "August 7, 2015"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [],
+                            "LastUpdatePostDate": [
+                                   "January 8, 2018"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "September 30, 2015"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "volunteers"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [],
+                            "LastUpdatePostDate": [
+                                   "August 6, 2015"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "adaptation",
+                                   "cognition",
+                                   "extreme environment",
+                                   "confined environment",
+                                   "stress",
+                                   "performances",
+                                   "olfaction",
+                                   "somesthesia",
+                                   "space mission"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [],
+                            "LastUpdatePostDate": [
+                                   "September 7, 2022"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "September 1, 2016"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "June 19, 2018"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "volunteers"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [],
+                            "LastUpdatePostDate": [
+                                   "August 6, 2015"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "volunteers"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "July 24, 2015"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "July 27, 2015"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Estimate"
+                            ],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "June 19, 2018"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Enrolling by invitation"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "February 25, 2020"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "pulmonary ultrasound",
+                                   "hypergravity",
+                                   "human physiology",
+                                   "oxygen",
+                                   "lung ventilation",
+                                   "lung perfusion",
+                                   "computed tomography",
+                                   "electrical impedance tomography",
+                                   "altitude chamber"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "May 14, 2019"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "IsPPSD": [],
+                            "IsUSExport": [],
+                            "IsUnapprovedDevice": [],
+                            "Keyword": [
+                                   "Tinnitus",
+                                   "Neuro-feedback",
+                                   "Male",
+                                   "Female",
+                                   "Tinnitus Handicap Inventory"
+                            ],
+                            "LargeDocDate": [],
+                            "LargeDocFilename": [],
+                            "LargeDocHasICF": [],
+                            "LargeDocHasProtocol": [],
+                            "LargeDocHasSAP": [],
+                            "LargeDocLabel": [],
+                            "LargeDocTypeAbbrev": [],
+                            "LargeDocUploadDate": [],
+                            "LastKnownStatus": [
+                                   "Recruiting"
+                            ],
+                            "LastUpdatePostDate": [
+                                   "December 12, 2018"
+                            ],
+                            "LastUpdatePostDateType": [
+                                   "Actual"
+                            ],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

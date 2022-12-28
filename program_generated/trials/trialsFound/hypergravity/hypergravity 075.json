@@ -1,0 +1,737 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "ConditionBrowseBranchName",
+                     "ConditionBrowseLeafAsFound",
+                     "ConditionBrowseLeafId",
+                     "ConditionBrowseLeafName",
+                     "ConditionBrowseLeafRelevance",
+                     "ConditionMeshId",
+                     "ConditionMeshTerm",
+                     "DelayedPosting",
+                     "DesignAllocation",
+                     "DesignInterventionModel",
+                     "DesignInterventionModelDescription",
+                     "DesignMasking",
+                     "DesignMaskingDescription",
+                     "DesignObservationalModel",
+                     "DesignPrimaryPurpose",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "ConditionBrowseBranchName": [
+                                   "Nervous System Diseases",
+                                   "Heart and Blood Diseases",
+                                   "All Conditions",
+                                   "Respiratory Tract (Lung and Bronchial) Diseases",
+                                   "Symptoms and General Pathology"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Atelectasis",
+                                   "Hyperoxia"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M21459",
+                                   "M3719",
+                                   "M19753",
+                                   "M10320",
+                                   "M14129",
+                                   "M14775"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Stroke",
+                                   "Pulmonary Atelectasis",
+                                   "Hyperoxia",
+                                   "Lung Diseases",
+                                   "Respiratory Tract Diseases",
+                                   "Signs and Symptoms, Respiratory"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "low",
+                                   "high",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000001261",
+                                   "D000018496"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Pulmonary Atelectasis",
+                                   "Hyperoxia"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "Single"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "ConditionBrowseBranchName": [
+                                   "Musculoskeletal Diseases",
+                                   "Symptoms and General Pathology",
+                                   "All Conditions",
+                                   "Nervous System Diseases"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Shoulder Pain"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M21060",
+                                   "M12218",
+                                   "M19986",
+                                   "M9773",
+                                   "M11249",
+                                   "M11556"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Shoulder Pain",
+                                   "Pain",
+                                   "Arthralgia",
+                                   "Joint Diseases",
+                                   "Musculoskeletal Diseases",
+                                   "Neurologic Manifestations"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000020069"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Shoulder Pain"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Parallel Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Treatment"
+                            ],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "ConditionBrowseBranchName": [
+                                   "Symptoms and General Pathology",
+                                   "All Conditions"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Motion Sickness",
+                                   "Space Motion Sickness"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M11154",
+                                   "M19746"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Motion Sickness",
+                                   "Space Motion Sickness"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "high",
+                                   "high"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000009041",
+                                   "D000018489"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Motion Sickness",
+                                   "Space Motion Sickness"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Crossover Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [
+                                   "The design includes three separate studies:\n\nArm 9&10 follows a crossover design. These results were reported in Diaz-Artiles et al 2017.\nArms 1-4 are a separate study which follow a factorial design, with arm 2 serving as the placebo, arms 1 and 3 assessing the effects of two separate interventions and arm 4 assessing the effect of two combined interventions.\nArms 5-8 are a separate study which follow a factorial design, with arm 6 serving as the placebo, arms 5 and 7 assessing the effects of two separate interventions and arm 8 assessing the effect of two combined interventions."
+                            ],
+                            "DesignMasking": [
+                                   "Double"
+                            ],
+                            "DesignMaskingDescription": [
+                                   "Double masking applies to arms 9&10. Other arms use participant masking only."
+                            ],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [
+                                   "a group of parabolic flyers with and without prior experience of microgravity"
+                            ],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Other"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Non-Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Crossover Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "ConditionBrowseBranchName": [
+                                   "Nervous System Diseases",
+                                   "Symptoms and General Pathology",
+                                   "Behaviors and Mental Disorders",
+                                   "All Conditions"
+                            ],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [
+                                   "M9288"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Illusions"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "low"
+                            ],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [
+                                   "Comparison of cerebral blood flow in 1G, 1.8 G and 0G conditions"
+                            ],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "ConditionBrowseBranchName": [
+                                   "Respiratory Tract (Lung and Bronchial) Diseases",
+                                   "Symptoms and General Pathology",
+                                   "All Conditions"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Atelectasis",
+                                   "Hyperoxia"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M26290",
+                                   "M3719",
+                                   "M19753",
+                                   "M10320",
+                                   "M14129",
+                                   "M14775"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Respiratory Aspiration",
+                                   "Pulmonary Atelectasis",
+                                   "Hyperoxia",
+                                   "Lung Diseases",
+                                   "Respiratory Tract Diseases",
+                                   "Signs and Symptoms, Respiratory"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "low",
+                                   "high",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000001261",
+                                   "D000018496"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Pulmonary Atelectasis",
+                                   "Hyperoxia"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Non-Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Parallel Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [
+                                   "Two arms are studied, breathing air or 100%O2. In each arm, subjects are studied at two occasions: with and without positive pressure breathing. These occasions are randomized."
+                            ],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "ConditionBrowseBranchName": [
+                                   "Ear, Nose, and Throat Diseases",
+                                   "Nervous System Diseases",
+                                   "Symptoms and General Pathology",
+                                   "All Conditions"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Hearing Loss",
+                                   "Tinnitus"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M23573",
+                                   "M5992",
+                                   "M15921",
+                                   "M8552",
+                                   "M6753",
+                                   "M12113",
+                                   "M14642",
+                                   "M11556"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Hearing Loss",
+                                   "Deafness",
+                                   "Tinnitus",
+                                   "Hearing Disorders",
+                                   "Ear Diseases",
+                                   "Otorhinolaryngologic Diseases",
+                                   "Sensation Disorders",
+                                   "Neurologic Manifestations"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "high",
+                                   "low",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000034381",
+                                   "D000014012"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Hearing Loss",
+                                   "Tinnitus"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [
+                                   "An efficiency multicentric pilot study on a targeted population for development and use of Neuro-feedback therapy for treating tinnitus."
+                            ],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Treatment"
+                            ],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

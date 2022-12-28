@@ -1,0 +1,529 @@
+{
+       "Rank": 32,
+       "Acronym": [
+              "STOP-VIIP"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "4 days of strict bed rest",
+              "4 days of strict bed rest with nightly lower body negative pressure at -20mmHg"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Lower body negative pressure"
+       ],
+       "ArmGroupLabel": [
+              "Control",
+              "Lower body negative pressure"
+       ],
+       "ArmGroupType": [
+              "No Intervention",
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT05016414"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "This study is being done to prevent changes in the vision of astronauts during prolonged residence on the International Space Station or a mission to Mars. This project will provide data about the efficacy of lower body negative pressure to mimic daily upright posture by intermittently lowering central venous pressure while in simulated microgravity (3 days of bed rest). The investigators expect that 3 days of bed rest will increase choroid thickness, and choroid area. The investigators hypothesize that nightly LBNP (-20mmHg) will prevent these changes."
+       ],
+       "BriefTitle": [
+              "Countermeasures for Visual Impairment in Astronauts"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "March 1, 2020"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Space Flight Associated Neuro-ocular Syndrome"
+       ],
+       "ConditionAncestorId": [
+              "D000012678",
+              "D000009461",
+              "D000009422",
+              "D000005128"
+       ],
+       "ConditionAncestorTerm": [
+              "Sensation Disorders",
+              "Neurologic Manifestations",
+              "Nervous System Diseases",
+              "Eye Diseases"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC23",
+              "All",
+              "BC10",
+              "BC11"
+       ],
+       "ConditionBrowseBranchName": [
+              "Symptoms and General Pathology",
+              "All Conditions",
+              "Nervous System Diseases",
+              "Eye Diseases"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Visual Impairment",
+              "Visual Impairment"
+       ],
+       "ConditionBrowseLeafId": [
+              "M15507",
+              "M17194",
+              "M16682",
+              "M14642",
+              "M11556",
+              "M7423"
+       ],
+       "ConditionBrowseLeafName": [
+              "Syndrome",
+              "Vision, Low",
+              "Vision Disorders",
+              "Sensation Disorders",
+              "Neurologic Manifestations",
+              "Eye Diseases"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "high",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000014786",
+              "D000015354"
+       ],
+       "ConditionMeshTerm": [
+              "Vision Disorders",
+              "Vision, Low"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Crossover Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "Single"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [
+              "Outcomes Assessor"
+       ],
+       "DetailedDescription": [
+              "The visual impairment observed in many astronauts after long duration spaceflight aboard the International Space Station is considered the most important mission-threatening medical problem identified in the last decade of the space program. Between 2012 and 2014, NASA and NSBRI have spent $3-4 million/year investigating the clinical course and underlying mechanisms of this condition, termed the Visual Impairment Intracranial Pressure Syndrome (VIIP) because of its theoretical association with elevated intracranial pressure and central venous pressure. During the previous funding cycle, the investigators for this application performed the first invasive measures of intracranial pressure during acute (head down tilt bedrest and parabolic flight) and chronic (24 hours HDT bedrest) changes in gravitational gradients simulating spaceflight in healthy humans. Novel observations made from those studies determined that 1) there is a large range of central venous pressure experienced normally during changes in posture in daily life; 2) these changes occur within seconds of postural transients from upright to supine and then are stable over time in that position; 3) with acute assumption of simulated microgravity (HDT bedrest), intracranial pressure and central venous pressure goes up slightly from the supine position, but over the next 24 hours, returns toward, and sometimes below the supine value because of spatial compensation within the brain; 4) during true microgravity (parabolic flight), the acute reduction in central venous pressure reduces cerebral outflow resistance and ICP decreases compared to the supine position, though remains above the upright position in 1G.\n\nThe current hypothesis is that the VIIP syndrome is Not due to a pathologically elevated central venous or intracranial pressure. However, because there is not the usual reduction in pressure typically seen in the upright position on earth, the incessant, low level elevation in ICP (i.e., greater than upright, but less than supine) leads to adaptive changes in the eye which ultimately result in globe flattening, choroidal folds, and visual impairment. Preliminary data suggest that the use of lower body negative pressure (LBNP) can lower ICP while in the head down position, towards the values observed upright. The investigators propose that applying LBNP during sleep in space would be a practical strategy to restore a relevant (though reversed) circadian variability in central venous pressure that would then prevent adaptive changes in the eye. The investigators propose the following hypothesis:\n\nHypothesis 1: Repeated administration of LBNP at night will cause a safe, sustained reduction in central venous pressure while asleep. This restoration of effective circadian variability in central venous pressure will prevent structural changes in the eye induced by microgravity. To test this hypothesis, the long-term efficacy of nightly LBNP (6-8 hrs) to simulate the upright position and prevent structural changes in the eye during four days of bedrest. Comprehensive, non-invasive state-of-the-art imaging will be used to examine the structure of the visual apparatus, using optical coherence tomography combined with invasive direct measurement of CVP."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nage 18-55\n\nExclusion Criteria:\n\ncardiovascular disease\nophthalmological disease"
+       ],
+       "EnrollmentCount": [
+              "10"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Lower body negative pressure"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "lower body negative pressure at -20mmHg delivered via a custom designed sleeping sack"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Lower body negative pressure"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "September 8, 2021"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "August 31, 2021"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "University of Texas Southwestern Medical Center"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Dallas"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States"
+       ],
+       "LocationFacility": [
+              "UT Southwestern Medical Center"
+       ],
+       "LocationState": [
+              "Texas"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "75390"
+       ],
+       "MaximumAge": [
+              "55 Years"
+       ],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Safe and Effective Countermeasures to Reduce Intracranial Pressure and Ameliorate Visual Impairment in Astronauts (STOP VIIP)"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "University of Texas Southwestern Medical Center"
+       ],
+       "OrgStudyId": [
+              "STU 102015-057"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "UT Southwestern Medical Center"
+       ],
+       "OverallOfficialName": [
+              "Benjamin Levine, MD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "March 1, 2020"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "The change in choroid area measured by optical coherence tomography.",
+              "The change in choroid volume measured by optical coherence tomography."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Change in choroid area",
+              "Change in choroid volume"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Baseline, after 3-days of bed rest",
+              "Baseline, after 3-days of bed rest"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "University of Texas Southwestern Medical Center"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Benjamin Levine"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Professor of Medicine"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "March 1, 2019"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "August 2021"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "August 23, 2021"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "August 9, 2021"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "August 16, 2021"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

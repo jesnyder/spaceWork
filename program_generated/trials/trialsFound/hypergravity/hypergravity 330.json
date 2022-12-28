@@ -1,0 +1,482 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "StudyFirstSubmitQCDate",
+                     "StudyPopulation",
+                     "StudyType",
+                     "SubmissionMCPReleaseN",
+                     "SubmissionReleaseDate",
+                     "SubmissionResetDate",
+                     "SubmissionUnreleaseDate",
+                     "TargetDuration",
+                     "UnpostedEventDate",
+                     "UnpostedEventType",
+                     "UnpostedResponsibleParty",
+                     "VersionHolder",
+                     "WhyStopped",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "StudyFirstSubmitQCDate": [
+                                   "November 20, 2013"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "StudyFirstSubmitQCDate": [
+                                   "October 27, 2015"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [
+                                   "Logistics reason at the data collection site"
+                            ],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "StudyFirstSubmitQCDate": [
+                                   "June 15, 2016"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "StudyFirstSubmitQCDate": [
+                                   "September 27, 2017"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "StudyFirstSubmitQCDate": [
+                                   "August 6, 2015"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "StudyFirstSubmitQCDate": [
+                                   "May 8, 2014"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "StudyFirstSubmitQCDate": [
+                                   "September 28, 2015"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "StudyFirstSubmitQCDate": [
+                                   "August 5, 2015"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "StudyFirstSubmitQCDate": [
+                                   "September 5, 2022"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "StudyFirstSubmitQCDate": [
+                                   "August 26, 2016"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "StudyFirstSubmitQCDate": [
+                                   "June 8, 2018"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "StudyFirstSubmitQCDate": [
+                                   "August 4, 2015"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "StudyFirstSubmitQCDate": [
+                                   "July 23, 2015"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "StudyFirstSubmitQCDate": [
+                                   "July 24, 2015"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "StudyFirstSubmitQCDate": [
+                                   "June 7, 2018"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "StudyFirstSubmitQCDate": [
+                                   "June 13, 2019"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "StudyFirstSubmitQCDate": [
+                                   "October 11, 2017"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "StudyFirstSubmitQCDate": [
+                                   "December 11, 2018"
+                            ],
+                            "StudyPopulation": [],
+                            "StudyType": [
+                                   "Interventional"
+                            ],
+                            "SubmissionMCPReleaseN": [],
+                            "SubmissionReleaseDate": [],
+                            "SubmissionResetDate": [],
+                            "SubmissionUnreleaseDate": [],
+                            "TargetDuration": [],
+                            "UnpostedEventDate": [],
+                            "UnpostedEventType": [],
+                            "UnpostedResponsibleParty": [],
+                            "VersionHolder": [
+                                   "December 27, 2022"
+                            ],
+                            "WhyStopped": [],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

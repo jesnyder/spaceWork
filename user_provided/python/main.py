@@ -30,6 +30,8 @@ from query_gscholar import query_gscholar
 from meta_pubs import meta_pubs
 from geolocate_pubs import geolocate_pubs
 from write_geojson import write_geojson
+from summarize_data import summarize_data
+from query_clinicaltrials import query_clinicaltrials
 
 
 def main():
@@ -39,12 +41,17 @@ def main():
 
     print("running main")
 
-    tasks = [2,3]
+    tasks = [5]
 
     if 0 in tasks: query_gscholar()
     if 1 in tasks: meta_pubs()
     if 2 in tasks: geolocate_pubs()
     if 3 in tasks: write_geojson()
+
+    if 4 in tasks: summarize_data()
+
+    if 5 in tasks: query_clinicaltrials()
+
 
     print("completed main")
 

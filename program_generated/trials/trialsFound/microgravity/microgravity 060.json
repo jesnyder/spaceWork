@@ -1,0 +1,1660 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "BriefSummary",
+                     "BriefTitle",
+                     "CentralContactEMail",
+                     "CentralContactName",
+                     "CentralContactPhone",
+                     "CentralContactPhoneExt",
+                     "CentralContactRole",
+                     "CollaboratorClass",
+                     "CollaboratorName",
+                     "CompletionDate",
+                     "CompletionDateType",
+                     "Condition",
+                     "ConditionAncestorId",
+                     "ConditionAncestorTerm",
+                     "ConditionBrowseBranchAbbrev",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "BriefSummary": [
+                                   "The goal of this study is to assess the affect of ground based microgravity on co-cultured vascular cell types. Our goal is to better understand the cross-talk between vascular cell types grown under conditions such as microgravity as is seen in space. In this pilot study, the investigator proposes to assess changes in cell phenotype and function in microgravity as compared to normal gravity."
+                            ],
+                            "BriefTitle": [
+                                   "Microgravity Effects on Co-cultured Vascular Cells Types"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "FED"
+                            ],
+                            "CollaboratorName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "CompletionDate": [
+                                   "February 1, 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Microgravity Exposed Endothelial Cells"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "BriefSummary": [
+                                   "Cardiovascular events remain the main cause of death of the industrialized world (Global status report on noncommunicable diseases 2010. Geneva, World Health Organization, 2011). Arterial hypertension, hyperlipoproteinemia, smoking, diabetes and family history represent the main cardiovascular risk factors. Arteriosclerosis leads to coronary heart disease, cerebrovascular insufficiency and peripheral vascular diseases that reflect in myocardial infarction and stroke.\n\nThe main objective of this experiment is to investigate the differential effect of microgravity on central aortic blood pressure.\n\nThe main criterion is the central aortic pressure (measured in mmHg). The hypothesis is that microgravity leads to an increased central aortic pressure."
+                            ],
+                            "BriefTitle": [
+                                   "Effects of Microgravity on Central Aortic Pressure During Parabolic Flights"
+                            ],
+                            "CentralContactEMail": [
+                                   "pierre.denise@unicaen.fr",
+                                   "gaillard-c@chu-caen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Pierre DP Denise, PhD",
+                                   "Cathy GC Gaillard"
+                            ],
+                            "CentralContactPhone": [
+                                   "02.31.06.81.32",
+                                   "02 31 06 53 49"
+                            ],
+                            "CentralContactPhoneExt": [
+                                   "+33",
+                                   "+33"
+                            ],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "INDUSTRY"
+                            ],
+                            "CollaboratorName": [
+                                   "Novespace"
+                            ],
+                            "CompletionDate": [
+                                   "September 2018"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "BriefSummary": [
+                                   "It has been described that microgravity affects cellular and molecular structures. Cell membrane, cytoskeleton, cytoplasm and nucleus have been found to be sensible to gravitational changes. Alterations in the male and female reproductive systems have also been reported in mouse and other animals. The effects of microgravity on human reproductive cells remain unknown.\n\nThe main objective of this experimental study is to investigate the effect of simulated microgravity in human male reproductive cells under in vitro conditions. Induced microgravity conditions will be obtained with a smaller single-engine aerobatic aircraft that can provide parabolic flights.\n\nThe main parameters to be analyzed are: sperm motility, vitality, DNA fragmentation and apoptosis."
+                            ],
+                            "BriefTitle": [
+                                   "The Effects of Microgravity on Human Sperm"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Universitat Polit\u00e8cnica de Catalunya",
+                                   "Dexeus Clinic Woman"
+                            ],
+                            "CompletionDate": [
+                                   "December 31, 2021"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Semen Quality"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "BriefSummary": [
+                                   "The proposal contained herein seeks to examine the effect of simulated microgravity on important cell-cell interactions that govern vascular health. The interest lies in endothelial cell (EC) and macrophage cell interactions. The investigators are proposing to first understand how microgravity effects the macrophage and EC function or pro-healing capabilities. Next, the study team plans to develop a 3D tissue regeneration model in which macrophages and ECs are co-cultured in a hydrogel matrix. Utilizing this model, the team will assess how microgravity influenced macrophage-EC interactions in 3D. The investigators will assess EC tubule volume (or blood vessel development), macrophage spreading and the interactions with endothelial tubule sprouts. This model will serve as a critical foundation for future grant opportunities as it allows the assessment of tissue regeneration and vascular health in a 3D tissue microenvironment"
+                            ],
+                            "BriefTitle": [
+                                   "A 3D Hydrogel Model to Assess Endothelial Cell-macrophage Interactions in Simulated Microgravity (OR-DRPD-SRI2019)"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "UNKNOWN"
+                            ],
+                            "CollaboratorName": [
+                                   "Florida Space Institute"
+                            ],
+                            "CompletionDate": [
+                                   "June 1, 2021"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Cardiovascular Diseases"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "BriefSummary": [
+                                   "Trained anesthesiologist- or emergency physician-divers will perform an airway management in simulated microgravity on a submerged model."
+                            ],
+                            "BriefTitle": [
+                                   "Airway Management With Simulated Microgravity Using a Submerged Model"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "May 30, 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Airway Management",
+                                   "Emergency Medicine"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000020969",
+                                   "D000010335"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Disease Attributes",
+                                   "Pathologic Processes"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "BriefSummary": [
+                                   "One of the major issues in space explorations is the negative effect of prolonged exposure to very low gravity (i.e. a condition often referred to as microgravity or weightlessness) on astronauts' health. In this unusual condition the human body undergoes an adaptation process, often referred to as \"deconditioning\", that leads to significant loss of bone and muscle mass, hormonal changes, as well as modifications of important cardiovascular parameters. While the new physiological state is adequate to the microgravity environment, it results unsuitable upon return on earth. Hence after the mission astronauts experience various health-related problems and must undertake an intense rehabilitation program. Cardiovascular deconditioning originates mainly from a shift of blood from the lower extremities to the upper part of the body caused by the absence of gravity. In the long term (i.e. days) this causes a loss of blood and body fluid. In the short term (i.e. minutes) it elicits modifications to arterial blood pressure and heart rate.\n\nIn this study, funded by the European Union through the project STAMAS, we intend to evaluate whether leg physical exercises can lead to a displacement of blood towards the lower extremities, therefore ameliorating the upward fluid shift caused by weightlessness. More generally, we aim to investigate the short-term response of the cardiovascular system to leg exercises in microgravity-like conditions. After a clear understanding of these phenomena we will develop a controller that, by monitoring the physiological stare of a subject, will compute the appropriate exercise regime to stabilize his/her cardiovascular parameters to desired safe values. Our contribution will provide a better understanding of the cardiovascular system, and will delineate the physiological ground for the development of novel countermeasure devices against the cardiovascular deconditioning during space flight based on continuous leg exercises.\n\nThe protocol we propose in this document presents minimal risks for our potential subjects, while has the potential to produce important contributions. The cardiovascular parameters we intend to analyse are: blood pressure, heart rate and leg blood volume. These signals will be acquired non-invasively and with minimal risks. Leg exercises will be performed by means of a stepping device (MARCOS) previously developed in our Lab. MARCOS enables to vary the resistance applied against knee-extension movements, and therefore it allows a systematic evaluation of different exercise intensities. Finally, microgravity conditions can be easily emulated by letting the subjects lay on a tilted platform with head-down (i.e. head-down bed rest - HDBR, or head-down tilt - HDT) during the exercise sessions, thus inducing a shift of body fluid toward the thorax. The most effective inclination angle has proved to be as low as -6\u00b0, thus constituting only minimal risks for the subjects. In practice, subjects will comfortably lay on the negatively tilted platform and will perform stepping at different intensities while their cardiovascular parameters are being monitored and recorded in encrypted form for subsequent analysis."
+                            ],
+                            "BriefTitle": [
+                                   "Responses of the Cardiovascular Systems to Leg Exercises in Microgravity-like Conditions"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Cardiovascular Deconditioning"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "BriefSummary": [
+                                   "The purpose of this study is to evaluate the changes of muscle, in microgravity. Which will help explain the health benefits of exercise. There are tests that can be done to tell researchers more about the human body, such as a dual energy x-ray absorptiometry (DEXA) scan, which measures body composition (fat and lean body mass). The use of muscle testing and a Handgrip test can tell us about the strength and power within an individual's muscles. A VO2 max test helps us understand the aerobic fitness level of an individual and one of the most important aspects of this study are muscle cells. A muscle biopsy allows us to obtain muscle cells from the thigh, which will be sent into space by a rocket. Researchers will study these muscle cells in a low gravity environment aboard the International Space Station. Studying the muscle cells under those conditions will potentially mimic an accelerated aging process, which will help researchers better understand muscle wasting in the elderly."
+                            ],
+                            "BriefTitle": [
+                                   "Electrical Stimulation of Human Myocytes in Microgravity"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "June 2023"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Sarcopenia"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000009133",
+                                   "D000020879",
+                                   "D000009461",
+                                   "D000009422",
+                                   "D000001284",
+                                   "D000020763"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Muscular Atrophy",
+                                   "Neuromuscular Manifestations",
+                                   "Neurologic Manifestations",
+                                   "Nervous System Diseases",
+                                   "Atrophy",
+                                   "Pathological Conditions, Anatomical"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC10",
+                                   "BC23",
+                                   "All",
+                                   "BC18"
+                            ],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "BriefSummary": [
+                                   "The aim of this study is to evaluate the applicability of high-load resistance training as a countermeasure for long term space flights, the current project has two scientific goals.\n\nThe main objective is to perform a deeper examination of muscle function and MVC in weightlessness (parabolic flight).\n\nThe secondary objective is to gather further insight into the underlying mechanisms and structures based on investigations targeting the neuromuscular and musculotendinous systems and their interaction."
+                            ],
+                            "BriefTitle": [
+                                   "Muscular Force Generation in Microgravity"
+                            ],
+                            "CentralContactEMail": [
+                                   "pierre.denise@unicaen.fr",
+                                   "gaillard-c@chu-caen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Pierre DP Denise, PhD",
+                                   "Cathy GC Gaillard"
+                            ],
+                            "CentralContactPhone": [
+                                   "02.31.06.81.32",
+                                   "02 31 06 53 49"
+                            ],
+                            "CentralContactPhoneExt": [
+                                   "+33",
+                                   "+33"
+                            ],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "INDUSTRY"
+                            ],
+                            "CollaboratorName": [
+                                   "Novespace"
+                            ],
+                            "CompletionDate": [
+                                   "October 2017"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Maximum Voluntary Contraction"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "BriefSummary": [
+                                   "Human immune function and intestinal microbiota are suggested to be altered within long-duration stay in space. Accumulated evidences on earth support that Lactobacillus casei strain Shirota (LcS) is a promising probiotic strain on improvement of immune function and intestinal microbiota. This study aims to investigate the impact of long-duration spaceflight as well as intake of LcS on the international space station (ISS), on immune system and intestinal microbiota in astronauts."
+                            ],
+                            "BriefTitle": [
+                                   "Probiotics on Immune Function and Intestinal Microbiota in Astronauts Under Closed Microgravity Environment"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Japan Aerospace Exploration Agency"
+                            ],
+                            "CompletionDate": [
+                                   "March 2023"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Immune Function and Intestinal Microbiota"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "BriefSummary": [
+                                   "Space flight simulation study to study effects of microgravity through bedrest coupled with flight exercise counter-measures."
+                            ],
+                            "BriefTitle": [
+                                   "Space Flight Simulation to Study Effects of Micro-gravity Through Bed Rest"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 2014"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Weightlessness"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "BriefSummary": [
+                                   "3-D Ballistocardiography (BCG) recording was performed in microgravity during the Spacelab D2 missions on a single astronaut. The results from this experiment have been published in the literature: the influence of respiration have been demonstrated and the signal processing methodology for the reconstruction of the displacement in one cardiac cycle have been developed. A 3D-BCG sensor has been developed and a collaboration to perform a sustained microgravity experiment onboard the Russian segment of ISS has been initiated. To be integrated in the PNEUMOCARD device, this new sensor needs to be tested in microgravity before implemented on ISS.\n\nThe aim of the present parabolic flight study is to serve as a feasibility demonstrator and test bed in order to evaluate the feasibility of 3D-BCG in sustained microgravity and to test whether the sensitivity of the developed 3D-BCG sensor is appropriate"
+                            ],
+                            "BriefTitle": [
+                                   "3D Ballistocardiography in Microgravity"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "BriefSummary": [
+                                   "The scientific goal of this experiment is to evaluate changes in balance control in response to microgravity during reactive balance tasks. For that purpose, kinematic and neuromuscular parameters under microgravity are compared to normal gravity conditions. To induce postural responses among the test subjects, an electromagnetic maneuverable postural platform will be used in order to randomly elicit perturbations. Postural reactions will be quantified by means of mechanical and electromyographic data. In Addition, peripheral nerve stimulation will be used to assess the spinal excitability by means of H-reflex recordings. H-reflex measurements were chosen as they allow reliable information about inhibitory and facilitatory mechanisms taking place at the spinal level."
+                            ],
+                            "BriefTitle": [
+                                   "The Effect of Altered Gravity Condition on Postural Control"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "BriefSummary": [
+                                   "The risk of a severe medical event during long-duration spaceflight is significant and can endanger both the whole mission and crew. There is a certain risk for a cardiac arrest in space requiring cardiopulmonary resuscitation (CPR). So far, 5 known techniques to perform CPR in microgravity have been reported.\n\nThe aim of the present study was to describe and gather data for two new CPR techniques useful in microgravity."
+                            ],
+                            "BriefTitle": [
+                                   "The Schmitz-Hinkelbein Method. A New Technique for CPR in Space."
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "April 1, 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Cardiac Arrest"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000006331",
+                                   "D000002318"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Heart Diseases",
+                                   "Cardiovascular Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC14",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "BriefSummary": [
+                                   "The overall objective of this study is to better understand the relationship between the body and its environment, including cognitive performance, following repeated changes in gravity, including microgravity (0G) and modified gravity (i.e., hypergravity (1.8G) and modified gravity (Martian gravity)"
+                            ],
+                            "BriefTitle": [
+                                   "Body-environment Relationship Related Modified Gravity"
+                            ],
+                            "CentralContactEMail": [
+                                   "stephane.besnard@unicaen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Stephane BESNARD"
+                            ],
+                            "CentralContactPhone": [
+                                   "+33677978649"
+                            ],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "CollaboratorName": [
+                                   "Institut de Recherche Biomedicale des Armees"
+                            ],
+                            "CompletionDate": [
+                                   "December 23, 2023"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Body Schema"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "BriefSummary": [
+                                   "The main goal of the study is demonstrate that e-Nose system function is not altered in weightlessness and more specifically that gas concentration measurements are the same in weightlessness and normal gravity."
+                            ],
+                            "BriefTitle": [
+                                   "E-NOSE for Breath Gas Analysis Under Microgravity Conditions"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "November 2017"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "BriefSummary": [
+                                   "When astronauts return from space flight, they manifest a set of symptoms, the most striking of which is orthostatic intolerance, that is, the inability to stay upright. This orthostatic intolerance is related to cardiovascular adaptation and disappears in a few days, but the prospect of long-term space travel makes this maladaptation a major concern of space agencies, at a time when there is serious consideration to make \" land \"a ship on Mars.\n\nPrevious studies suggest that brain vessel adaptation may contribute to spatial post-flight orthostatic intolerance. The question remains controversial because not all studies are consistent. These studies are all based on the measurement of blood flow in a single artery of the brain (the average cerebral, see cerebral circulation diagram) easily accessible with a Doppler ultrasound machine. Our team has good reason to believe that the adaptation of the cerebral vessels is not carried out in the same way in all the arteries of the brain and that in particular the arteries that irrigate the posterior and inferior parts of the brain are a major determinant. from cerebrovascular adaptation to orthostatism and that orthostatic intolerance is more specifically related to a decrease in blood flow in these arteries. On the other hand our team has shown that the external carotid artery plays, under certain conditions, a buffer role of the sudden variations of perfusion pressure of the brain.\n\nDuring the weightless phase of parabolic flight, part of the blood from the legs and abdomen \"rises\" to the thorax and this transfer of fluid induces changes in blood pressure and cardiac output that affect the cerebral circulation. From a cardiovascular point of view, it is the same thing for a seated subject to lie down, but the parabolic flight offers the unique possibility of achieving this transfer in a fraction of a second and thus allowing to study the immediate response of the cerebral circulation. .\n\nInvestigators goal is therefore to quantify the changes in blood flow in the posterior and anterior territories of the brain (transcranial ultrasound) as well as in the internal carotid and vertebral (Doppler ultrasound) during changes in blood pressure and cardiac output induced by transfers. liquid resources associated with the transition to weightlessness.\n\nThe oxidative stress generated by weightlessness has been identified as a determining factor in cerebrovascular deconditioning associated with orthostatic intolerance. In order to quantify the biochemical markers of this stress, a venous sample will be taken before and just after the parabolic flight."
+                            ],
+                            "BriefTitle": [
+                                   "Cerebral Blood Flow Distribution During Parabolic Flight-induced Microgravity"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER_GOV",
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Centre National d'Etudes Spatiales",
+                                   "Universit\u00e9 de Caen Normandie",
+                                   "The University of New South Wales"
+                            ],
+                            "CompletionDate": [
+                                   "September 30, 2021"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Weightlessness",
+                                   "Cerebral Blood Flow"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "BriefSummary": [
+                                   "By studying the affect of the space environment on vascular cell types, our goal is to elucidate the mechanism of vascular cell damage in the space environment by exposing vascular cells to space flight. In this pilot study, The study team propose to assess changes in transcriptomics of vascular cell types in space compared to those in a ground based study."
+                            ],
+                            "BriefTitle": [
+                                   "The Role of the Space Environment on Vascular Endothelial and Smooth Muscle Cell Processes"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "UNKNOWN"
+                            ],
+                            "CollaboratorName": [
+                                   "Florida Space Institute"
+                            ],
+                            "CompletionDate": [
+                                   "January 6, 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Cardiovascular Diseases"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "BriefSummary": [
+                                   "From previous parabolic flight campaigns completed by our research group investigators gathered data showing important changes in neuro-endocrine and also immunological changes. This experiment now will complete the data set-up obtained during the MARS500 study on how these respective individuals will re-act to highly physically and emotionally challenging situations during a parabolic flight.\n\nThis add-on experiment to MARS500 will enable answering to the following questions i) if the stress response systems - when compared for two conditions but in the same individuals - do react uniformly and ii) if those subjects prone to have adequate stress response pattern will show gradually less immune modulation effects.\n\nThe understanding of the complex interactions of stress and immunity under chronic and acute stress conditions might help to enable adequate health and immune monitoring and might as well suggest suitable countermeasures for the prevention of the unwanted immunological effects during long-term confinement and space missions."
+                            ],
+                            "BriefTitle": [
+                                   "Effects of Repeated Short-term Microgravity During Parabolic Flight Conditions on Neuro-endocrine, Immune and Metabolic Changes"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "January 2014"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "BriefSummary": [
+                                   "Dry immersion (DI) is a ground-based model of prolonged conditions of simulated microgravity. Dry immersion involves immersing the subject in water covered with an elastic waterproof fabric. As a result, the immersed subject, who is freely suspended in the water mass, remains dry. Within a relatively short duration, the model can faithfully reproduce most physiological effects of actual microgravity, including centralization of body fluids, support unloading, and hypokinesia.\n\nThe main objective of the present study is to investigate the physiological effects of 5 days of dry immersion in 20 healthy male subjects, and to obtain DI-in-Men Reference Dataset. A set of measurements will assess the changes in the cardiovascular, neuro-ophthalmological, hematological, metabolic, sensorimotor, immune, muscle and bone systems."
+                            ],
+                            "BriefTitle": [
+                                   "A 5-day Dry Immersion Study on 20 Healthy Male Volunteers"
+                            ],
+                            "CentralContactEMail": [
+                                   "marie-pierre.bareille@medes.fr",
+                                   "anais.llodra-perez@medes.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Marie-Pierre BAREILLE, PharmD",
+                                   "Ana\u00efs LLODRA-PEREZ"
+                            ],
+                            "CentralContactPhone": [
+                                   "+33 562 174 955",
+                                   "+33 562 174 950"
+                            ],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "European Space Agency"
+                            ],
+                            "CompletionDate": [
+                                   "December 2022"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Weightlessness"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "BriefSummary": [
+                                   "Physical activity appears to be an important lifestyle habit to achieve healthy aging by promoting autonomy and quality of life. Interestingly, the dramatic changes that the human body undergoes due to bedrest for illnesses and hospitalization are similar to those seen over decades of normal aging. Bedrest in otherwise healthy older individuals can lead to a reduction of muscle size and strength, changes in bone strength and function of the heart and blood vessels. Bedrest can also lead to changes in keeping proper balance as well as changes in processing and understanding information. All of these factors negatively affect activities of daily living leading to physical function impairment and development of frailty, a clinical condition associated with an increased risk for disease and death.\n\nThe purpose of this study is to investigate whether exercise can counteract the negative effects of 2-week head tilt down bed rest on muscle function and metabolism, postural control, bone structure, orthostatic tolerance and cognitive function in adults.\n\nFor this study the investigators will recruit 24 healthy men and women between 55 - 65 years of age. All subjects will spend a total of 26 days (5 days of adaption period, 14 days of bed rest with 6 degrees of downward inclination, and 7 days of recovery period) at the McGill University Health Centre (MUHC). During this study, 12 subjects will randomly undergo an exercise intervention as countermeasure during the 14 days of bed rest period and 12 will serve as control.\n\nEach subjects participation in this study will involve 1 telephone call (pre-screening) and 4 visits at the MUHC: 1 screening visit (Visit 1) followed by a 26-day long visit (Visit 2) and 2 follow-up visits (Visit 3 and Visit 4). During Visits 2 - 4 various measurements will be performed to assess sensorimotor control, muscle function and metabolism, bone structure, cardiovascular function, cognitive performance and function, and specimen collection (blood, urine, saliva, feces and muscle tissue)."
+                            ],
+                            "BriefTitle": [
+                                   "Understanding the Negative Effects of Bed Rest and Using Exercise as Countermeasure"
+                            ],
+                            "CentralContactEMail": [
+                                   "guyelhajj@gmail.com",
+                                   "jose.morais@mcgill.ca"
+                            ],
+                            "CentralContactName": [
+                                   "Guy Hajj Boutros",
+                                   "Jos\u00e9 A. Morais, MD"
+                            ],
+                            "CentralContactPhone": [
+                                   "514-934-1934",
+                                   "514-934-1934"
+                            ],
+                            "CentralContactPhoneExt": [
+                                   "35016",
+                                   "34499"
+                            ],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "UNKNOWN",
+                                   "OTHER_GOV",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Canadian Space Agency",
+                                   "Canadian Institutes of Health Research (CIHR)",
+                                   "Canadian Frailty Network"
+                            ],
+                            "CompletionDate": [
+                                   "April 2022"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Aging"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "BriefSummary": [
+                                   "The National Space Biomedical Research Institute is interested in learning more about heart function in space. One potential problem with long duration, manned space flight is muscle loss- including loss of heart muscle. One goal of our research is to help identify why this muscle loss occurs. We are interested in patients undergoing aortic valve surgery because this procedure is performed to correct a problem with the valve that may also change heart function. This change in heart function may provide information that is useful in understanding and potentially preventing the loss of cardiac muscle in space.\n\nThree patient groups will be studied, patients having surgery for aortic regurgitation, aortic stenosis, and coronary bypass. We are planing to perform this study on 30 patients, 10 in each group.\n\nThe aim of this study is to continue our ongoing study of the magnitude and predictors of the changes in size of the left ventricle following acute volume and pressure unloading as a ground-based analog for manned space flight."
+                            ],
+                            "BriefTitle": [
+                                   "Echocardiographic Assessment of Cardiovascular Changes in Long Term Space Flight"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "National Space Biomedical Research Institute"
+                            ],
+                            "CompletionDate": [
+                                   "July 2008"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Aortic Valve Insufficiency",
+                                   "Aortic Valve Stenosis"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000082862",
+                                   "D000006349",
+                                   "D000006331",
+                                   "D000002318",
+                                   "D000014694"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Aortic Valve Disease",
+                                   "Heart Valve Diseases",
+                                   "Heart Diseases",
+                                   "Cardiovascular Diseases",
+                                   "Ventricular Outflow Obstruction"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All",
+                                   "BC14",
+                                   "Rare"
+                            ],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "BriefSummary": [
+                                   "Although most ground studies showed that an egocentric reference frame better supports spatial orientation, it is not proven it will be the same during weightlessness.\n\nAlthough it might justify that visuomotor performance will be better supported by egocentric target cueing under altered gravity conditions, the fact that exocentric target cueing induces less head movements and called for least attentional and physiological workload could be the key factors for a more efficient task localization process. Moreover, weightlessness can induce spatial disorientation, which can be additionally influenced by the intrinsic and extrinsic spatial reference frames (Gurfinkel et al., 1993; Glasauer & Mittelst\u00e4dt, 1997, 1998; Harm et al., 1998; Lipshits et al. 2005). We expect that during weightlessness the workload will be the key factor and thus we hypothesize that an exocentric target cueing will outperform egocentric target cueing.\n\nTo test this hypothesis, and find out which presentation scheme for target cueing (EGO, EXO, ED) contributes most to an efficient visual search, performance to a visuomotor task will be evaluated during parabolic flights in normogravity (1g), hypergravity (1.8g) and microgravity (0g). The visuomotor performance will be assessed by a multi-directional tapping task as defined by ISO9241-9, which requests for motor responses by aimed pointing movements. Besides analyzing the pointing performance, different workload indices will be additionally assessed to evaluate the effort spent on visuomotor coordination. The attentional workload will be evaluated by the performance of a secondary task (visual reaction-time task), which needs to be conducted in parallel to the visuomotor task. Furthermore, the workload will be also assessed subjectively by the NASA TLX rating scale and physiologically, by analyzing the heart rate variability (HRV)."
+                            ],
+                            "BriefTitle": [
+                                   "THE INFLUENCE OF GRAVITY"
+                            ],
+                            "CentralContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "CentralContactName": [
+                                   "Pierre Denise, MD-PhD"
+                            ],
+                            "CentralContactPhone": [
+                                   "+33 231.06.81.32"
+                            ],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 31, 2019"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "BriefSummary": [
+                                   "Dry immersion (DI) is a ground-based model of prolonged conditions of simulated microgravity. Dry immersion involves immersing the subject in water covered with an elastic waterproof fabric. As a result, the immersed subject, who is freely suspended in the water mass, remains dry. Within a relatively short duration, the model can faithfully reproduce most physiological effects of actual microgravity, including centralization of body fluids, support unloading, and hypokinesia.\n\nThe objective of the study is to evaluate the physiological changes induced by 5 days of dry immersion in the female organism. The main physiological systems will be explored before, during and after the 5 days of immersion through a battery of specific tests and measurements. The results will be analyzed by scientists specializing in each field in order to better understand the dry immersion model, to compare its effects with those of the bedrest model and those of spaceflight. The clinical (adverse effects, comfort of subjects) and operational aspects are also part of the secondary objectives of the study."
+                            ],
+                            "BriefTitle": [
+                                   "Integrative Study of Physiological Changes Induced by a 5-Day Dry Immersion on 20 Healthy Female Volunteers (DI5-Women)"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "European Space Agency"
+                            ],
+                            "CompletionDate": [
+                                   "December 10, 2021"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Weightlessness",
+                                   "Weightlessness; Adverse Effect"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "BriefSummary": [
+                                   "The goal of this study is to objectively determine the perceived direction of the right-front by the subjects in weightlessness. The direction of the right-front has not been investigated to date with the measurements of the position of the eyes. The investigators will compare the intersection of the horizontal and vertical saccadic trajectories (jerky) with the apparent direction of the right-front indicated by the subjects when they look right front in the dark (LOOK) and that they indicate when they determine whether a visual target through the right-front apparent (PERCEPTION). Then, the investigators will compare these measurements between normal gravity and microgravity hypergravity during parabolic flight."
+                            ],
+                            "BriefTitle": [
+                                   "Right-front Direction in Parabolic Flight"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "January 2014"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "BriefSummary": [
+                                   "Head down tilt (HDT) was widely used to simulate microgravity effects on cardiovascular system. HDT could be a suitable model of water immersion (WI) which is also used to simulate the cardiovascular effects of microgravity and which is not easy to study in laboratory. To define the possibility to simulate immersion by HDT, a comparison between these models is required. A comparison between WI and few angles during HDT seems necessary to understand which angle is more adapt.\n\nThe immersion induces an increase of the central blood volume. This increase is caused by a redistribution of blood from peripheral portions of the body to the intrathoracic circulation. It seems to load cardiopulmonary and arterial baroreceptors. These baroreceptors bring into play autonomic nervous system (ANS) activation and induce a bradycardia.\n\nHDT induces an increase in central blood volume as supported by the central venous pressure and cardiac volume increase and in return, MSNA and heart rate decrease. These cardiovascular effects seem to be the same as the thermoneutral immersion and suggest that the ANS activation is the same during HDT and WI.\n\nNevertheless, a few previous studies about ANS in HDT indicate some discordant results: a sympathetic decrease was reported but several results show an increase of parasympathetic activity linked with a trend of increase of arterial baroreflex. The aim of this study is to assess ANS activity in HDT on different angles (-6\u00b0 and -15\u00b0) and WI. The investigators suppose an increase of parasympathetic activity during WI corresponding to parasympathetic activation during HDT especially at -6\u00b0."
+                            ],
+                            "BriefTitle": [
+                                   "Cardiac Autonomic Functions During Head-out Immersion and During Head Down Tilt"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "CollaboratorName": [
+                                   "Ministry of Health, France"
+                            ],
+                            "CompletionDate": [
+                                   "July 2011"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "BriefSummary": [
+                                   "The human being has shown that he can live and work in the space environment, but due to the lack of essential mechanical load on muscle and bone, the fluid-shift as well as alterations in the acid-base balance (mainly on account of nutritional factors), the exposure to microgravity results in a gradual degradation of muscle, bone and cartilage, deconditioning of the cardiovascular system and metabolic changes. Countermeasures to prevent all the deconditioning of the physiological systems are not yet fully effective and require further investigation.\n\nA commonly utilized model of simulating the physiological effects of microgravity on the human organism on ground is the 6\u00b0 head-down-tilt bed rest. In the present study the model has been used to study potential countermeasures to spaceflight-associated deconditioning.\n\nOne of the most constrictive changes appearing during space flight as well as during bed rest, are disuse-induced muscle losses. These are associated with a decrease in muscle protein synthesis, rather then an increase in muscle protein breakdown. Besides an effective training countermeasure, nutritional countermeasures gain respect in this context: supplementing conventional diets with whey protein or essential amino acids has been shown to increase muscle protein synthesis. Due to these anabolic properties whey protein seems promising to counteract disuse-induced muscle wasting.\n\nDrawbacks of a high protein intake are calciuric effects, ascribed to the proton-release when metabolizing sulfur-containing amino acids. The so called 'low grade metabolic acidosis' has also shown to activate osteoclastic bone resorption and muscle protein degradation. Therefore, to maximize the anabolic potential of a whey protein supplementation, the acidogenic properties need to be compensated. As previous works suggest, a shift of acid base balance into the acid direction and the resulting changes in bone and protein turnover may be hindered by supplementing alkaline mineral salts.\n\nIn this regard, a mid-term bed rest study was performed in order to investigate the effect of a combined whey protein (0.6 g/kg body weight/day) and potassium bicarbonate (90 mmol/day) supplementation as a potential countermeasure to multiple physiological and metabolic alterations on the human body resulting from real and simulated microgravity."
+                            ],
+                            "BriefTitle": [
+                                   "Medium-term Bedrest Whey Protein (MEP)"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER",
+                                   "UNKNOWN",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "European Space Agency",
+                                   "University Hospital, Clermont-Ferrand",
+                                   "Institut Pluridisciplinaire Hubert Curien, Strasbourg, France",
+                                   "Charite University, Berlin, Germany",
+                                   "University of Milan",
+                                   "Universit\u00e9 de Nice Sophia Antipolis",
+                                   "University of Ottawa",
+                                   "Manchester Metropolitan University",
+                                   "University of Toronto",
+                                   "Medical University of Graz",
+                                   "University of Cologne",
+                                   "Radboud University Medical Center",
+                                   "University Hospital, Lille",
+                                   "Leiden University Medical Center"
+                            ],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Countermeasure Evaluation"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "BriefSummary": [
+                                   "Previous studies have neglected two important aspects for the China National Space Administration. First, while biomechanical models are very sensitive to the characteristics of the subjects, data have been collected on subjects with biomechanical characteristics very different from those of \"typical\" Chinese astronauts. Second, pure video analysis techniques and kinematic data lack the necessary acceleration information important to understanding the forces exerted during movement and control of human motion. While some studies used force and moment sensors to aid in robot torque control and human joint work estimation, investigators are unaware of any studies performed in a microgravity environment that have combined the kinetic force and moment information with acceleration measurements to enable more reliable motion tracking without the need for acceleration estimation.\n\nThis is why MICR0-G sensors and accompanying kinematic video system have been developed in order to provide for detailed analyses of the astronaut movement control strategy (joint forces and torques, kinetic and acceleration measurements). Knowledge of the joint torques permits us to calculate the joint and musculoskeletal dynamics required to execute the microgravity motions, as well to provide insight into the altered movement strategies in reduced gravity as compared to 1-G locomotion."
+                            ],
+                            "BriefTitle": [
+                                   "Validation of Methods for Evaluating Operation Force, Motion and Visual Perception in Weightlessness"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "November 2017"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "BriefSummary": [
+                                   "Recently, new clinical testing of saccular and utricular function have been developed and validated, the so-called vestibular-evoked myogenic potentials - VEMP (Brantberg et al. 2009, Cornell et al. 2009, Curthoys 2010, Manzari et al. 2012). Among them, the cervical VEMP (cVEMP) are short-latency electromyographic (EMG) modulations of the contracted sternocleidomastoid muscles in responses to vibration applied on the forehead. The clinical literature suggests that cVEMP are almost entirely saccular in origin (Halmagyi et al 1995).\n\nThe aim of our research is to evaluate changes in the otolith function in microgravity and hypergravity using this clinical test. Cervical vestibular-evoked myogenic potentials (cVEMP) will be recorded by surface EMG electrodes in response to bone conducted vibration to specifically assess saccular function (Halmagyi et al 1995). The primary measures will include muscle activity response amplitudes and the stimulus intensity threshold at which the cVEMP is detected.\n\nGiven that there is an off-loading of the saccules in microgravity and an increased loading in hypergravity, we hypothesize that there will be a reduction in cVEMP amplitude in microgravity and an increase in cVEMP amplitude in hypregravity compared to normal gravity. These changes in amplitude will be accompanied by changes in the threshold of the stimulus level required to elicit a cVEMP."
+                            ],
+                            "BriefTitle": [
+                                   "VESTIBULAR EVOKED MYOGENIC POTENTIALS IN ALTERED GRAVITY"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 30, 2019"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "BriefSummary": [
+                                   "Spaceflight induces detrimental changes in most organ systems with both acute changes and chronic adaptations. For example, acute fluid shifts associated with weightlessness (also called - improperly - microgravity) cause initial rapid cardiovascular alterations, whereas the chronic changes are more reflective of cardiovascular deconditioning and cerebrovascular/ocular adaptations (Pavy-Le Traon et al., 2007).\n\nLong-duration stays in weightlessness have resulted in ocular structural and functional adaptations in some astronauts, which has been termed the Spaceflight Associated Neuro-ocular Syndrome (SANS ; see review in Lee et al., 2018). The leading hypothesis is that ocular changes are the consequence of chronic exposure to the weightlessness-induced headward (cephalad) fluid shift experienced by all astronauts. Countermeasures targeted to reverse this fluid shift, including lower body negative pressure and veno-occlusive thigh cuffs, have been proposed and tested in ground-based studies using a head-down tilt model of the cephalad fluid shift. However, the amount of fluid shift reversal required to prevent the development of SANS has not been investigated or determined. Similarly, artificial gravity through centrifugation has been proposed as a SANS countermeasure, given its ability to reverse headward fluid shifts and its efficacy as a countermeasure to long-duration bed rest-induced cardiovascular adaptations (long-duration bed rest is widely employed to simulate the effects of microgravity on various physiological systems). However, the minimum level of artificial gravity required also has not been investigated.\n\nThe primary objective of this study is to characterize cardiovascular, cerebrovascular, and ocular changes across a range of gravity levels to identify a threshold of gravitational load that can serve as a countermeasure to SANS during future spaceflight missions."
+                            ],
+                            "BriefTitle": [
+                                   "MULTI-SYSTEM PHYSIOLOGIC RESPONSE TO VARYING LEVELS OF PARTIAL GRAVITY"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "BriefSummary": [
+                                   "Microgravity during space flight induces physiological changes that affect astronauts' health and performance. Space flight simulations such as prolonged bed rest can mimic some of these changes and provide study conditions that are more accessible than during space flight. The European Space Agency, ESA together with the French national space agency, CNES and the Japanese national space agency, NASDA are performing extensive studies using long duration bed rest.\n\nPrevious studies including several long and short term bed rest campaigns have yielded significant medical data on the physiological changes induced by space flight. These data can be used to study the effect of countermeasures, methods helping to prevent these physiological changes.\n\nThe long duration bed rest, lasting 3 months undertakes a variety of investigations involving 28 subjects. This study focuses on countermeasures, studying the effect of a bone tissue stabilisation medication and resistive exercises to determine their suitability for use during long duration stays on ISS.\n\nThe physiological changes recorded during space flight and bed rest mimic those observed in some diseases and in the aging process. Significant clinical applications are expected as a direct result of this experiment and future equivalent studies."
+                            ],
+                            "BriefTitle": [
+                                   "Toulouse Male Long Term Bed Rest 2001-2002"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "European Space Agency",
+                                   "National Space Development Agency, Japan"
+                            ],
+                            "CompletionDate": [
+                                   "June 2003"
+                            ],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Simulation of Weightlessness by Anti-Orthostatic Long Term Bed Rest"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "BriefSummary": [
+                                   "As a direct consequence of exposure to microgravity, astronauts experience a number of physiological changes which can lead to serious medical implications. Most immediate and significant is the headward shift of body fluids and the removal of gravitational loading from bone and muscles, resulting in progressive changes of the cardiovascular and musculoskeletal systems. The cardiovascular systems is subject to rapid changes which has been demonstrated in studies of short term (shuttle) and long term missions to Skylab and MIR.\n\nOur main hypothesis is that there is a linear relationship between the gravity level (0G, 0.16G, 0.38G, 1G, 1.8G) and the cardiovascular parameters (heart rate (HR), heart rate variability (HRV), blood pressure and blood pressure variability (BPV) as well the spectral analysis of HRV and BPV."
+                            ],
+                            "BriefTitle": [
+                                   "Alterations in Autonomic Cardiovascular Control Induced at Partial G Forces"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "BriefSummary": [
+                                   "This study is being done to prevent changes in the vision of astronauts during prolonged residence on the International Space Station or a mission to Mars. This project will provide data about the efficacy of lower body negative pressure to mimic daily upright posture by intermittently lowering central venous pressure while in simulated microgravity (3 days of bed rest). The investigators expect that 3 days of bed rest will increase choroid thickness, and choroid area. The investigators hypothesize that nightly LBNP (-20mmHg) will prevent these changes."
+                            ],
+                            "BriefTitle": [
+                                   "Countermeasures for Visual Impairment in Astronauts"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "March 1, 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Space Flight Associated Neuro-ocular Syndrome"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000012678",
+                                   "D000009461",
+                                   "D000009422",
+                                   "D000005128"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Sensation Disorders",
+                                   "Neurologic Manifestations",
+                                   "Nervous System Diseases",
+                                   "Eye Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All",
+                                   "BC10",
+                                   "BC11"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "BriefSummary": [
+                                   "Bone losses are well known to occur in response to unloading (in microgravity or during immobilisation) and in patients with chronic obstructive airway disease (COPD). However, it is unknown whether there is an interactive effect between hypoxia and musculoskeletal unloading upon bone and mineral metabolism. Fourteen non-obese men, who are otherwise healthy, will undergo 3x 21-day interventions; normobaric normoxic bed rest (NBR; FiO2=21%), normobaric hypoxic ambulatory confinement (HAMB; FiO2=14%; ~4000 m simulated altitude), and normobaric hypoxic bed rest (HBR; FiO2=14%). The effects of hypoxia and bedrest on bone metabolism and phosphor-calcic homeostasis will be assessed (before and during each intervention, and 14 days after each intervention period) using venous blood sampling, 24hr urine collections, and peripheral quantitative computerized tomography (pQCT)."
+                            ],
+                            "BriefTitle": [
+                                   "Planetary Habitat Simulation: Bone Metabolism Studies"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Jozef Stefan Institute",
+                                   "DLR German Aerospace Center",
+                                   "KTH Royal Institute of Technology",
+                                   "European Commission"
+                            ],
+                            "CompletionDate": [
+                                   "September 2015"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Hypoxia",
+                                   "Bone Resorption"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000012818",
+                                   "D000001847",
+                                   "D000009140"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Signs and Symptoms, Respiratory",
+                                   "Bone Diseases",
+                                   "Musculoskeletal Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All",
+                                   "BC05"
+                            ],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "BriefSummary": [
+                                   "A loss of body weight has been documented in lowland-living individuals when exposed to hypoxic environments, such as at high altitude, or under laboratory conditions. A reduction in appetite and energy intake has also been reported during conditions of microgravity, such as during space flight. Fourteen normal or over-weight men, who are otherwise healthy, will undergo 3x 21-day interventions; normobaric normoxic bed rest (NBR; FiO2=21%), normobaric hypoxic ambulatory confinement (HAMB; FiO2=14%; ~4000 m simulated altitude), and normobaric hypoxic bed rest (HBR; FiO2=14%). The effects of hypoxia and bedrest on appetite and its hormonal control will be assessed before and at day 17 of each intervention using a mixed meal tolerance test."
+                            ],
+                            "BriefTitle": [
+                                   "Planetary Habitat Simulation: Nutrition Studies"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Jozef Stefan Institute",
+                                   "KTH Royal Institute of Technology",
+                                   "European Commission"
+                            ],
+                            "CompletionDate": [
+                                   "October 2014"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Hypoxia"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000012818"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Signs and Symptoms, Respiratory"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "BriefSummary": [
+                                   "This study is a collaboration between the Centre of Human & Aerospace Physiological Sciences (CHAPS) and the Sleep and Brain Plasticity Centre (Department of Neuroimaging) at King's College London and the Sleep Disorders Centre at Guy's Hospital.The main purpose of the study is to evaluate the effects of a 7 day unloading period (simulating micro gravity) on muscle mass using three independent methods\u037e two scanning techniques (magnetic resonance imaging (MRI) and dual x-ray absorptiometry (DXA)) and one that involves swallowing a capsule that contains a harmless chemical called creatine (D3-Creatine (D3-cr)) and then measuring its concentration in urine. In order to induce muscle loss, participants will be required to lie flat on their back on a water bed filled with water and salt (called hyper-buoyancy flotation (HBF)). As this situation is similar to that experienced in space, the investigators will also measure the effect of HBF on sleep, brain and physiological function - all things known to change in astronauts. Sixteen male subjects (18-40 yrs) will be recruited to participate in the study that will require physiological testing before, during and following both 7 days of normal conditions and 7 days of HBF bed-rest. Each subject will be exposed to the same conditions and assessments over the study period. As some loss of muscle is expected, participants will be offered an exercise rehabilitation programme upon completion of HBF with self-monitored and/or guided sessions based on those provided by the Space Medicine Office of the European Space Agency to returning astronauts."
+                            ],
+                            "BriefTitle": [
+                                   "The Effects of Whole Body Unloading on Physiological Function"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Guy's and St Thomas' NHS Foundation Trust"
+                            ],
+                            "CompletionDate": [
+                                   "August 30, 2017"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Muscle Atrophy",
+                                   "Weightlessness",
+                                   "Sleep Disturbance",
+                                   "Astronaut-Bone Demineralisation Syndrome"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000001284",
+                                   "D000020763",
+                                   "D000012893",
+                                   "D000009422",
+                                   "D000001523",
+                                   "D000020879",
+                                   "D000009461",
+                                   "D000001851",
+                                   "D000001847",
+                                   "D000009140",
+                                   "D000008659"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Atrophy",
+                                   "Pathological Conditions, Anatomical",
+                                   "Sleep Wake Disorders",
+                                   "Nervous System Diseases",
+                                   "Mental Disorders",
+                                   "Neuromuscular Manifestations",
+                                   "Neurologic Manifestations",
+                                   "Bone Diseases, Metabolic",
+                                   "Bone Diseases",
+                                   "Musculoskeletal Diseases",
+                                   "Metabolic Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All",
+                                   "BC10",
+                                   "BXM",
+                                   "BC05",
+                                   "BC18"
+                            ],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "BriefSummary": [
+                                   "The main objective of this experiment is to assess the impact of parabolic flight on (1) spatial memory and orientation, (2) the changes in brain structure and function, and particularly the hippocampal formation, and (3) biochemical markers of stress and neuroplasticity.\n\nA preliminary study will be performed with the aims (1) to test during weightlessness hardware used to administer visuo-spatial testing and (2) to determine the optimal body posture for testing under microgravity conditions (i.e. body posture for which change in visuo-spatial testing induced by weightlessness is maximal).\n\nThe main criteria are:\n\nStructural and functional changes of brain evaluated by fMRI;\nCognitive performance, and specifically spatial cognition using a series computer-based tasks.\nKey neurotrophins determined in venous blood samples The criteria used in the preliminary experiment is visuo-spatial performance evaluated with a computer-based test assessing spatial cognition.\n\nThe investigators hypothesize that hippocampal structure and function, and particularly the dentate gyrus, will be altered after parabolic flight compared to ground based controls. Specifically, the 3 tested hypotheses are:\n\nParabolic flight induces changes in hippocampal structure;\nWeightlessness induces changes in cognitive performance, and specifically spatial cognition;\nThere is a correlation between changes in hippocampal structure and changes in visuo-spatial memory performance.\nThere is a correlation between changes in hippocampal structure and changes in key neurotrophins.\n\nThe hypothesis tested during the preliminary experiment is that body posture affects the changes in spatial cognition performance."
+                            ],
+                            "BriefTitle": [
+                                   "Effects of Parabolic Flight on Spatial Cognition and Hippocampal Plasticity"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "INDUSTRY"
+                            ],
+                            "CollaboratorName": [
+                                   "Novespace"
+                            ],
+                            "CompletionDate": [
+                                   "September 2019"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "BriefSummary": [
+                                   "Computers now play an important role in the lives of most individuals.Access to computers is crucial for people with disabilities and may improve their quality of life. The use of computers can facilitate mainstreaming at school, for example, and the Internet may provide a valuable means of communication. However, the use of computers requires a certain degree of motor ability. People with motor disabilities frequently experience difficulties using a standard keyboard and standard pointing input systems such as a mouse. Many solutions exist to facilitate computer access, depending on the person's specific impairments and the purpose for which the computer is used. The most common solution relies on the use of a virtual keyboard which is directly displayed on the computer screen. The selection of the desired key on the virtual keyboard can be handled by a large variety of input devices, from a microgravity mouse to single switch devices supplemented by a process of dynamic scanning of the keyboard.Although such assistive devices render computers accessible to people with disabilities, the actual inputting of text can be very slow. A method to increase text input speed is to display words which are predicted from the letters previously typed. Word prediction reduces the number of necessary key strokes by avoiding having to type the whole word. The effect on text input speed is, however uncertain and results in the literature are inconclusive. Indeed, word prediction software provide a enhancement of cognitive load which decrease text input speed.The reduction of cognitive load could therefore be based in part on the optimization settings of the software and / or achievement of a rehabilitation program.Our hypothesis are for people with spinal cord injury : i) optimization settings word prediction software and ii) a rehabilitation program could improve the text input speed.The investigators propose to study the influence of settings word prediction software on text input speed and the influence of a rehabilitation program provided by a therapist, focused on word prediction software to help integrate them. The aim is to increase the performance of people with spinal cord injury and their satisfaction.\n\nThe first phase of this research is to select the word prediction software and configuration that provides the best user support.The second phase corresponds to the objective of evaluating the efficiency of a rehabilitation program ."
+                            ],
+                            "BriefTitle": [
+                                   "Evaluation of the Efficiency of Word Prediction Software to Text Input Speed for Tetraplegia"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "July 2017"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Settings Word Prediction Software",
+                                   "Rehabilitation Program"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000013118",
+                                   "D000002493",
+                                   "D000009422",
+                                   "D000020196",
+                                   "D000014947"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Spinal Cord Diseases",
+                                   "Central Nervous System Diseases",
+                                   "Nervous System Diseases",
+                                   "Trauma, Nervous System",
+                                   "Wounds and Injuries"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC10",
+                                   "BC26",
+                                   "All",
+                                   "BC23"
+                            ],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "BriefSummary": [
+                                   "Kinocardiographic measures mechanical and electrical function of the heart. The proposed solution is based on measurements of body vibrations. By measuring these movements on the surface of the body, it is possible to deduce, taking into account the individual's weight and size, the quality of the heartbeat that caused this vibration. The technique developed consists of a device measuring these vibrations at two places in the body: on the torso (Seismocardiography) and on the lower back (Ballistocardiography). The first measurement is a reflection of the local strength of the heartbeat as well as the transmission of blood to the body's main artery, the aorta. The second measurement, in the lower back, is the result of the contraction and movement of blood within the arterial system. Based on these two measurements, the energy produced by the heart and transmitted to the torso or the whole body is calculated. The energy over an entire cardiac cycle and the distribution of that energy within a heartbeat are used to characterize the mechanical function of the heart.\n\nClinical studies carried out previously have demonstrated the repeatability of kinocardiographic measurements (KCG) and their robustness with respect to the use of different sensors.\n\nKCG measurements also showed a high sensitivity (> 94%) to different hemodynamic states induced by the injection of active inotropic agents, i.e. dobutamine also used as a treatment for heart failure in an advanced stage. In a randomized, double-blind, cross-over study controlled by Placebo, these measurements showed a strong correlation (r = 0.8, p <0.0001) with cardiac output measured by echocardiography. The technique has also demonstrated its ability to track changes in cardiac mechanical function during expiratory voluntary apnea.\n\nKCG measurements were also evaluated during a micro-gravity simulation in Bedrest on 23 healthy volunteers. The measurements tracked cardiac deconditioning in the control group compared to the exercise group similarly to cardiac MRI measurements. Subsequently, KCG metrics showed an ability to distinguish reduced ejection fraction (HFrEF) heart failure patients from non-insufficient patients. These latest results also showed that the chest sensor alone was sufficient to separate HFrEF patients from normative patients, laying the foundation for possible use of the smartphone alone.\n\nThe prototype of a mobile application, named OKCARDIO, makes it possible to take measurements perfectly similar to the Kino thoracic sensor, but to date have never been used it in a clinical study. Such a tool would allow anyone with a smartphone-type mobile phone to measure their cardiac mechanical function themselves and make it available to the attending physician."
+                            ],
+                            "BriefTitle": [
+                                   "Validation of Kinocardiography, a New Technology Measuring Cardiac Mechanical Activity Via Accelerometers and Gyroscopes"
+                            ],
+                            "CentralContactEMail": [
+                                   "Philippe.Van.de.Borne@erasme.ulb.ac.be",
+                                   "amin.hossein@ulb.be"
+                            ],
+                            "CentralContactName": [
+                                   "Philippe van de Borne, Professor",
+                                   "Amin Hossein, MD"
+                            ],
+                            "CentralContactPhone": [
+                                   "02 555 39 60",
+                                   "02 555 32 75"
+                            ],
+                            "CentralContactPhoneExt": [
+                                   "+32",
+                                   "+32"
+                            ],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 31, 2022"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Atrial Fibrillation",
+                                   "Hypertension",
+                                   "Heart Failure"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000002318",
+                                   "D000006331",
+                                   "D000001145",
+                                   "D000010335"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Cardiovascular Diseases",
+                                   "Heart Diseases",
+                                   "Arrhythmias, Cardiac",
+                                   "Pathologic Processes"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC14",
+                                   "All",
+                                   "BC23"
+                            ],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "BriefSummary": [
+                                   "Parabolic flight is the only ground-based condition in which weightlessness (0G) can be created long enough for safely testing changes in human perception and behavior. In addition to the 0G period, parabolic flight generates equal duration periods of 1.8G, which present another unique opportunity to test the same responses to hypergravity and back to 1G.\n\nCognitive function, together with good oculomotor control, eye-hand coordination, and spatial orientation perception, is a critical subsystem that is used by the CNS in the control of vehicles and other complex systems in a high-level integrative function. Evidence from space flight research demonstrates that the function of each of these subsystems is altered by the transitions in gravito-inertial force levels. These neuro-vestibular alterations, unfortunately, correspond to mission phases where physical and cognitive performance are particularly critical for crew safety and mission success. To date, there is only limited operational evidence that these alterations cause functional impacts on mission-critical vehicle (or complex system) control capabilities. However, the true operational risks will be estimable only after the investigators have filled the knowledge gaps and when the investigators can accurately assess integrated performance in off-nominal operational settings.\n\nAccurate perception of self-in-space motion and self-motion relative to other objects are critical to piloting, driving, and remote manipulator operations. Immediately after space flight, most crewmembers have reported some degree of disorientation/perceptual illusion, often accompanied by nausea (or other symptoms of motion sickness), and frequently manifested by lack of coordination, particularly during locomotion. Despite recent, intensive training, some Shuttle landings were outside of the desired performance boundaries. Scores indicating neurovestibular dysfunction in returning astronauts generally correlated with poorer flying performances, including a lower approach and landing shorter, faster, and harder. An underestimation of distance, coupled to an overestimation of tilt magnitude or misperception of the type of motion, could be at the origin of these poorer performances.\n\nThis study should confirm that the unloading of the otoliths in weightlessness induces an alteration in the egocentric reference during space flight. Errors in egocentric localization might contribute at a higher level to the computation of misleading world-centered representations, and therefore be partly responsible for illusory sensations and motion sickness symptoms during space flight, and postural instability and oscillopsia after returning in a reduced or terrestrial gravitational force level.\n\nBeside their fundamental implications, the results of this study have also practical implications in the design of man-machine interfaces. Changes in judgment of distance in microgravity or in reduced gravity affect crew posture and reach, display orientation, and other visual cues, which should be considered in hardware and operations design."
+                            ],
+                            "BriefTitle": [
+                                   "Influence of Gravity on the Perception of Egocentric Distance (Blindpulling)"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Healthy Volunteers"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "BriefSummary": [
+                                   "The objective of this study is to investigate whether the cocktail of natural antioxidants XXS-2A-BR2 comprising vitamin E and coupled with omega-3 helps to prevent and / or reduce the deleterious effects induced by long term physical inactivity through antiorthostatic bedrest. During a randomized 60 day bed rest study in 20 healthy male adults the two following aims will be undertaken:\n\nSixteen scientific protocols will assess the changes in the cardiovascular, metabolism, muscle, bone, neuro sensorial, hematological and immunology systems.\nIn the above mentioned systems, the potential beneficial effects of the countermeasure protocol will also be investigated."
+                            ],
+                            "BriefTitle": [
+                                   "A New Nutritional Countermeasure to Prevent the Deconditioning Induced by 60 Days of Antiorthostatic Bed Rest"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "European Space Agency"
+                            ],
+                            "CompletionDate": [
+                                   "December 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Weightlessness",
+                                   "Weightlessness; Adverse Effect"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "BriefSummary": [
+                                   "The objective of the study is to investigate whether thigh cuffs help to prevent and/or reduce the deconditioning induced by 5 days of dry immersion and in particular the fluid shift and its related ophthalmological disorders. During a randomized 5 day dry-immersion study in 20 healthy male adults the two following aims will be undertaken:\n\nTen scientific protocols will assess the changes in the cerebral, ocular, cardiovascular, metabolism, cognitive, muscle and bone systems.\nIn the above mentioned systems, the potential beneficial effects of the countermeasure protocol will also be investigated."
+                            ],
+                            "BriefTitle": [
+                                   "Thigh Cuffs to Prevent the Deconditioning Induced by 5 Days of Dry Immersion"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "March 23, 2019"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Weightlessness",
+                                   "Weightlessness; Adverse Effect"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

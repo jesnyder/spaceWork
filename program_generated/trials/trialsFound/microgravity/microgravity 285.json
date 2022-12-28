@@ -1,0 +1,1491 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "PrimaryOutcomeTimeFrame",
+                     "ReferenceCitation",
+                     "ReferencePMID",
+                     "ReferenceType",
+                     "RemovedCountry",
+                     "ResponsiblePartyInvestigatorAffiliation",
+                     "ResponsiblePartyInvestigatorFullName",
+                     "ResponsiblePartyInvestigatorTitle",
+                     "ResponsiblePartyOldNameTitle",
+                     "ResponsiblePartyOldOrganization",
+                     "ResponsiblePartyType",
+                     "ResultsFirstPostDate",
+                     "ResultsFirstPostDateType",
+                     "ResultsFirstPostedQCCommentsDate",
+                     "ResultsFirstPostedQCCommentsDateType",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Within 4 weeks of collecting cells"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)",
+                                   "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)",
+                                   "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)",
+                                   "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)",
+                                   "In earth gravity g=1(<4 hours before Parabolic flight) and after simulated microgravity exposure (<4 hours Post Parabolic Flight)"
+                            ],
+                            "ReferenceCitation": [
+                                   "Boada M, Perez-Poch A, Ballester M, Garcia-Monclus S, Gonzalez DV, Garcia S, Barri PN, Veiga A. Microgravity effects on frozen human sperm samples. J Assist Reprod Genet. 2020 Sep;37(9):2249-2257. doi: 10.1007/s10815-020-01877-5. Epub 2020 Jul 18."
+                            ],
+                            "ReferencePMID": [
+                                   "32683528"
+                            ],
+                            "ReferenceType": [
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Institut Universitari Dexeus"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Montserrat Boada"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Director of Reproductive Laboratory"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "within 4 hours of blood collection"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [
+                                   "United States"
+                            ],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "after 5 minutes",
+                                   "after 5 minutes"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "110 min"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Swiss Federal Institute of Technology"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Verena Klamroth"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "MD"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "About 30 minutes"
+                            ],
+                            "ReferenceCitation": [
+                                   "Kim TN, Choi KM. Sarcopenia: definition, epidemiology, and pathophysiology. J Bone Metab. 2013 May;20(1):1-10. doi: 10.11005/jbm.2013.20.1.1. Epub 2013 May 13.",
+                                   "Cohen S, Nathan JA, Goldberg AL. Muscle wasting in disease: molecular mechanisms and promising therapies. Nat Rev Drug Discov. 2015 Jan;14(1):58-74. doi: 10.1038/nrd4467.",
+                                   "Baumgartner RN, Koehler KM, Gallagher D, Romero L, Heymsfield SB, Ross RR, Garry PJ, Lindeman RD. Epidemiology of sarcopenia among the elderly in New Mexico. Am J Epidemiol. 1998 Apr 15;147(8):755-63. doi: 10.1093/oxfordjournals.aje.a009520. Erratum In: Am J Epidemiol 1999 Jun 15;149(12):1161.",
+                                   "Janssen I, Shepard DS, Katzmarzyk PT, Roubenoff R. The healthcare costs of sarcopenia in the United States. J Am Geriatr Soc. 2004 Jan;52(1):80-5. doi: 10.1111/j.1532-5415.2004.52014.x.",
+                                   "Brioche T, Lemoine-Morel S. Oxidative Stress, Sarcopenia, Antioxidant Strategies and Exercise: Molecular Aspects. Curr Pharm Des. 2016;22(18):2664-78. doi: 10.2174/1381612822666160219120531.",
+                                   "Fitts RH, Trappe SW, Costill DL, Gallagher PM, Creer AC, Colloton PA, Peters JR, Romatowski JG, Bain JL, Riley DA. Prolonged space flight-induced alterations in the structure and function of human skeletal muscle fibres. J Physiol. 2010 Sep 15;588(Pt 18):3567-92. doi: 10.1113/jphysiol.2010.188508. Epub 2010 Jul 26.",
+                                   "Trappe S, Costill D, Gallagher P, Creer A, Peters JR, Evans H, Riley DA, Fitts RH. Exercise in space: human skeletal muscle after 6 months aboard the International Space Station. J Appl Physiol (1985). 2009 Apr;106(4):1159-68. doi: 10.1152/japplphysiol.91578.2008. Epub 2009 Jan 15.",
+                                   "Allen DL, Bandstra ER, Harrison BC, Thorng S, Stodieck LS, Kostenuik PJ, Morony S, Lacey DL, Hammond TG, Leinwand LL, Argraves WS, Bateman TA, Barth JL. Effects of spaceflight on murine skeletal muscle gene expression. J Appl Physiol (1985). 2009 Feb;106(2):582-95. doi: 10.1152/japplphysiol.90780.2008. Epub 2008 Dec 12. Erratum In: J Appl Physiol. 2011 Jan;110(1):298.",
+                                   "Vandenburgh H, Chromiak J, Shansky J, Del Tatto M, Lemaire J. Space travel directly induces skeletal muscle atrophy. FASEB J. 1999 Jun;13(9):1031-8. doi: 10.1096/fasebj.13.9.1031.",
+                                   "Higashibata A, Hashizume T, Nemoto K, Higashitani N, Etheridge T, Mori C, Harada S, Sugimoto T, Szewczyk NJ, Baba SA, Mogami Y, Fukui K, Higashitani A. Microgravity elicits reproducible alterations in cytoskeletal and metabolic gene and protein expression in space-flown Caenorhabditis elegans. NPJ Microgravity. 2016 Jan 21;2:15022. doi: 10.1038/npjmgrav.2015.22. eCollection 2016.",
+                                   "Aas V, Bakke SS, Feng YZ, Kase ET, Jensen J, Bajpeyi S, Thoresen GH, Rustan AC. Are cultured human myotubes far from home? Cell Tissue Res. 2013 Dec;354(3):671-82. doi: 10.1007/s00441-013-1655-1. Epub 2013 Jun 8.",
+                                   "Gaster M, Petersen I, Hojlund K, Poulsen P, Beck-Nielsen H. The diabetic phenotype is conserved in myotubes established from diabetic subjects: evidence for primary defects in glucose transport and glycogen synthase activity. Diabetes. 2002 Apr;51(4):921-7. doi: 10.2337/diabetes.51.4.921.",
+                                   "Henry RR, Ciaraldi TP, Abrams-Carter L, Mudaliar S, Park KS, Nikoulina SE. Glycogen synthase activity is reduced in cultured skeletal muscle cells of non-insulin-dependent diabetes mellitus subjects. Biochemical and molecular mechanisms. J Clin Invest. 1996 Sep 1;98(5):1231-6. doi: 10.1172/JCI118906.",
+                                   "Thompson DB, Pratley R, Ossowski V. Human primary myoblast cell cultures from non-diabetic insulin resistant subjects retain defects in insulin action. J Clin Invest. 1996 Nov 15;98(10):2346-50. doi: 10.1172/JCI119046.",
+                                   "McGregor RA, Poppitt SD, Cameron-Smith D. Role of microRNAs in the age-related changes in skeletal muscle and diet or exercise interventions to promote healthy aging in humans. Ageing Res Rev. 2014 Sep;17:25-33. doi: 10.1016/j.arr.2014.05.001. Epub 2014 May 14.",
+                                   "Hangelbroek RW, Fazelzadeh P, Tieland M, Boekschoten MV, Hooiveld GJ, van Duynhoven JP, Timmons JA, Verdijk LB, de Groot LC, van Loon LJ, Muller M. Expression of protocadherin gamma in skeletal muscle tissue is associated with age and muscle weakness. J Cachexia Sarcopenia Muscle. 2016 Dec;7(5):604-614. doi: 10.1002/jcsm.12099. Epub 2016 Feb 2.",
+                                   "Su J, Ekman C, Oskolkov N, Lahti L, Strom K, Brazma A, Groop L, Rung J, Hansson O. A novel atlas of gene expression in human skeletal muscle reveals molecular changes associated with aging. Skelet Muscle. 2015 Oct 9;5:35. doi: 10.1186/s13395-015-0059-1. eCollection 2015.",
+                                   "Chopard A, Lecunff M, Danger R, Lamirault G, Bihouee A, Teusan R, Jasmin BJ, Marini JF, Leger JJ. Large-scale mRNA analysis of female skeletal muscles during 60 days of bed rest with and without exercise or dietary protein supplementation as countermeasures. Physiol Genomics. 2009 Aug 7;38(3):291-302. doi: 10.1152/physiolgenomics.00036.2009. Epub 2009 May 26.",
+                                   "Robinson MM, Dasari S, Konopka AR, Johnson ML, Manjunatha S, Esponda RR, Carter RE, Lanza IR, Nair KS. Enhanced Protein Translation Underlies Improved Metabolic and Physical Adaptations to Different Exercise Training Modes in Young and Old Humans. Cell Metab. 2017 Mar 7;25(3):581-592. doi: 10.1016/j.cmet.2017.02.009.",
+                                   "Adams CM, Ebert SM, Dyle MC. Use of mRNA expression signatures to discover small molecule inhibitors of skeletal muscle atrophy. Curr Opin Clin Nutr Metab Care. 2015 May;18(3):263-8. doi: 10.1097/MCO.0000000000000159.",
+                                   "Dyle MC, Ebert SM, Cook DP, Kunkel SD, Fox DK, Bongers KS, Bullard SA, Dierdorff JM, Adams CM. Systems-based discovery of tomatidine as a natural small molecule inhibitor of skeletal muscle atrophy. J Biol Chem. 2014 May 23;289(21):14913-24. doi: 10.1074/jbc.M114.556241. Epub 2014 Apr 9.",
+                                   "Sparks LM, Moro C, Ukropcova B, Bajpeyi S, Civitarese AE, Hulver MW, Thoresen GH, Rustan AC, Smith SR. Remodeling lipid metabolism and improving insulin responsiveness in human primary myotubes. PLoS One. 2011;6(7):e21068. doi: 10.1371/journal.pone.0021068. Epub 2011 Jul 8."
+                            ],
+                            "ReferencePMID": [
+                                   "24524049",
+                                   "25549588",
+                                   "9554417",
+                                   "14687319",
+                                   "26891808",
+                                   "20660569",
+                                   "19150852",
+                                   "19074574",
+                                   "10336885",
+                                   "28725720",
+                                   "23749200",
+                                   "11916908",
+                                   "8787686",
+                                   "8941652",
+                                   "24833328",
+                                   "27239416",
+                                   "26457177",
+                                   "19470803",
+                                   "28273480",
+                                   "25807353",
+                                   "24719321",
+                                   "21760887"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "9-18 months",
+                                   "9-18 months",
+                                   "9-18 months"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "PrimaryOutcomeTimeFrame": [],
+                            "ReferenceCitation": [
+                                   "Dillon EL, Soman KV, Wiktorowicz JE, Sur R, Jupiter D, Danesi CP, Randolph KM, Gilkison CR, Durham WJ, Urban RJ, Sheffield-Moore M. Proteomic investigation of human skeletal muscle before and after 70 days of head down bed rest with or without exercise and testosterone countermeasures. PLoS One. 2019 Jun 13;14(6):e0217690. doi: 10.1371/journal.pone.0217690. eCollection 2019."
+                            ],
+                            "ReferencePMID": [
+                                   "31194764"
+                            ],
+                            "ReferenceType": [
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "60 seconds video clip with afterwards evaluation",
+                                   "60 seconds video clip with afterwards evaluation",
+                                   "60 seconds video clip with afterwards evaluation",
+                                   "60 seconds video clip with afterwards evaluation",
+                                   "60 seconds video clip with afterwards evaluation"
+                            ],
+                            "ReferenceCitation": [
+                                   "Schmitz J, Ahlback A, DuCanto J, Kerkhoff S, Komorowski M, Low V, Russomano T, Starck C, Thierry S, Warnecke T, Hinkelbein J. Randomized Comparison of Two New Methods for Chest Compressions during CPR in Microgravity-A Manikin Study. J Clin Med. 2022 Jan 27;11(3):646. doi: 10.3390/jcm11030646."
+                            ],
+                            "ReferencePMID": [
+                                   "35160097"
+                            ],
+                            "ReferenceType": [
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "Continuous recording all along microgravity exposure up to 1hour after the end of the flight"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "University Hospital, Caen"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "St\u00e9phane BESNARD"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Associate professor"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "within 1 year of collecting cells"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "At baseline and five days of 5 days of dry immersion",
+                                   "At baseline and the first day of recovery",
+                                   "At baseline and five days of dry immersion",
+                                   "At baseline, the first day to quantify the short term effect and the fifth day of dry-immersion to quantify the long term effect of fluid shift",
+                                   "At baseline and during the five days of the dry-immersion period",
+                                   "At baseline and during the five days of the dry-immersion period",
+                                   "At baseline and four days of dry-immersion and one day of recovery",
+                                   "At baseline and during five days of dry-immersion",
+                                   "Before dry immersion and after one day of recovery",
+                                   "Before dry immersion and after one day of recovery",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline and five days of dry immersion",
+                                   "At baseline and during the 5 days of dry-immersion",
+                                   "At baseline and during the 5 days of dry-immersion",
+                                   "At baseline and during the 5 days of dry-immersion",
+                                   "At baseline and during the 5 days of dry-immersion",
+                                   "At baseline and during the 5 days of dry-immersion",
+                                   "At baseline and 5 days of dry-immersion",
+                                   "At baseline and 5 days of dry-immersion",
+                                   "At baseline and 5 days of dry-immersion",
+                                   "At baseline and 5 days of dry-immersion",
+                                   "At baseline and during the 5 days of dry immersion",
+                                   "Before, during and after the 5 days of dry immersion",
+                                   "At baseline and 5 days of dry immersion",
+                                   "Before, during and after 5 days of dry-immersion",
+                                   "Before, during and after 5 days of dry-immersion",
+                                   "Before, during and after 5 days of dry-immersion",
+                                   "Before, during and after 5 days of dry-immersion",
+                                   "Before, during and after 5 days of dry-immersion",
+                                   "At baseline and 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline, during and after five days of dry-immersion",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline and five days of dry-immersion",
+                                   "At baseline and the first day of recovery",
+                                   "At baseline and the first day of recovery",
+                                   "At baseline, during and after 5 days of dry immersion",
+                                   "Before, during and after 5 days of dry immersion",
+                                   "At baseline, the 1st day of dry immersion and following 5 days of dry immersion",
+                                   "At baseline, the 1st day of dry immersion and following 5 days of dry immersion"
+                            ],
+                            "ReferenceCitation": [
+                                   "Navasiolava NM, Custaud MA, Tomilovskaya ES, Larina IM, Mano T, Gauquelin-Koch G, Gharib C, Kozlovskaya IB. Long-term dry immersion: review and prospects. Eur J Appl Physiol. 2011 Jul;111(7):1235-60. doi: 10.1007/s00421-010-1750-x. Epub 2010 Dec 14.",
+                                   "De Abreu S, Amirova L, Murphy R, Wallace R, Twomey L, Gauquelin-Koch G, Raverot V, Larcher F, Custaud MA, Navasiolava N. Multi-System Deconditioning in 3-Day Dry Immersion without Daily Raise. Front Physiol. 2017 Oct 13;8:799. doi: 10.3389/fphys.2017.00799. eCollection 2017.",
+                                   "Kermorgant M, Leca F, Nasr N, Custaud MA, Geeraerts T, Czosnyka M, Arvanitis DN, Senard JM, Pavy-Le Traon A. Impacts of Simulated Weightlessness by Dry Immersion on Optic Nerve Sheath Diameter and Cerebral Autoregulation. Front Physiol. 2017 Oct 12;8:780. doi: 10.3389/fphys.2017.00780. eCollection 2017.",
+                                   "Linossier MT, Amirova LE, Thomas M, Normand M, Bareille MP, Gauquelin-Koch G, Beck A, Costes-Salon MC, Bonneau C, Gharib C, Custaud MA, Vico L. Effects of short-term dry immersion on bone remodeling markers, insulin and adipokines. PLoS One. 2017 Aug 14;12(8):e0182970. doi: 10.1371/journal.pone.0182970. eCollection 2017."
+                            ],
+                            "ReferencePMID": [
+                                   "21161267",
+                                   "29081752",
+                                   "29075198",
+                                   "28806419"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: during HDBR period",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughput the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline, HDBR and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods",
+                                   "Throughout the 26-day study period: at Baseline and Recovery periods"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "McGill University Health Centre/Research Institute of the McGill University Health Centre"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Jose Morais"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Professor and Director, Division of Geriatric Medicine, McGill University"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "6-12 months"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "At baseline and after five days of dry immersion",
+                                   "At baseline and after five days of dry immersion",
+                                   "At baseline and after five days of dry immersion",
+                                   "At baseline, the first day to quantify the short term effect and the fifth day of dry-immersion to quantify the long term effect of fluid shift",
+                                   "At baseline and during the five days of the dry-immersion period",
+                                   "At baseline and during the five days of the dry-immersion period",
+                                   "At baseline, after four days of dry-immersion and after one day of recovery",
+                                   "Baseline and during five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline and at the end of the 5 days of dry-immersion",
+                                   "At baseline and after 3 days of dry-immersion (to be comparable to a previous study on men)",
+                                   "At baseline and during the 5 days of dry immersion",
+                                   "At baseline, during and after the 5 days of dry immersion",
+                                   "Before and after the 5 days of dry immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline, during and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline and after five days of dry-immersion",
+                                   "At baseline, during and after 5 days of dry immersion"
+                            ],
+                            "ReferenceCitation": [
+                                   "Navasiolava NM, Custaud MA, Tomilovskaya ES, Larina IM, Mano T, Gauquelin-Koch G, Gharib C, Kozlovskaya IB. Long-term dry immersion: review and prospects. Eur J Appl Physiol. 2011 Jul;111(7):1235-60. doi: 10.1007/s00421-010-1750-x. Epub 2010 Dec 14.",
+                                   "De Abreu S, Amirova L, Murphy R, Wallace R, Twomey L, Gauquelin-Koch G, Raverot V, Larcher F, Custaud MA, Navasiolava N. Multi-System Deconditioning in 3-Day Dry Immersion without Daily Raise. Front Physiol. 2017 Oct 13;8:799. doi: 10.3389/fphys.2017.00799. eCollection 2017.",
+                                   "Kermorgant M, Leca F, Nasr N, Custaud MA, Geeraerts T, Czosnyka M, Arvanitis DN, Senard JM, Pavy-Le Traon A. Impacts of Simulated Weightlessness by Dry Immersion on Optic Nerve Sheath Diameter and Cerebral Autoregulation. Front Physiol. 2017 Oct 12;8:780. doi: 10.3389/fphys.2017.00780. eCollection 2017.",
+                                   "Linossier MT, Amirova LE, Thomas M, Normand M, Bareille MP, Gauquelin-Koch G, Beck A, Costes-Salon MC, Bonneau C, Gharib C, Custaud MA, Vico L. Effects of short-term dry immersion on bone remodeling markers, insulin and adipokines. PLoS One. 2017 Aug 14;12(8):e0182970. doi: 10.1371/journal.pone.0182970. eCollection 2017."
+                            ],
+                            "ReferencePMID": [
+                                   "21161267",
+                                   "29081752",
+                                   "29075198",
+                                   "28806419"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Baseline",
+                                   "Baseline",
+                                   "Baseline",
+                                   "Baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "inclusion, one week, two weeks"
+                            ],
+                            "ReferenceCitation": [
+                                   "Gabrielsen A, Johansen LB, Norsk P. Central cardiovascular pressures during graded water immersion in humans. J Appl Physiol (1985). 1993 Aug;75(2):581-5. doi: 10.1152/jappl.1993.75.2.581.",
+                                   "Shiraishi M, Schou M, Gybel M, Christensen NJ, Norsk P. Comparison of acute cardiovascular responses to water immersion and head-down tilt in humans. J Appl Physiol (1985). 2002 Jan;92(1):264-8. doi: 10.1152/jappl.2002.92.1.264.",
+                                   "Ueno LM, Miyachi M, Matsui T, Takahashi K, Yamazaki K, Hayashi K, Onodera S, Moritani T. Effect of aging on carotid artery stiffness and baroreflex sensitivity during head-out water immersion in man. Braz J Med Biol Res. 2005 Apr;38(4):629-37. doi: 10.1590/s0100-879x2005000400018. Epub 2005 Apr 13."
+                            ],
+                            "ReferencePMID": [
+                                   "8226455",
+                                   "11744669",
+                                   "15962190"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Baseline, after 21 days of bed rest"
+                            ],
+                            "ReferenceCitation": [
+                                   "Rudwill F, O'Gorman D, Lefai E, Chery I, Zahariev A, Normand S, Pagano AF, Chopard A, Damiot A, Laurens C, Hodson L, Canet-Soulas E, Heer M, Meuthen PF, Buehlmeier J, Baecker N, Meiller L, Gauquelin-Koch G, Blanc S, Simon C, Bergouignan A. Metabolic Inflexibility Is an Early Marker of Bed-Rest-Induced Glucose Intolerance Even When Fat Mass Is Stable. J Clin Endocrinol Metab. 2018 May 1;103(5):1910-1920. doi: 10.1210/jc.2017-02267."
+                            ],
+                            "ReferencePMID": [
+                                   "29546280"
+                            ],
+                            "ReferenceType": [
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "PrimaryOutcomeTimeFrame": [],
+                            "ReferenceCitation": [
+                                   "Rittweger J, Frost HM, Schiessl H, Ohshima H, Alkner B, Tesch P, Felsenberg D. Muscle atrophy and bone loss after 90 days' bed rest and the effects of flywheel resistive exercise and pamidronate: results from the LTBR study. Bone. 2005 Jun;36(6):1019-29. doi: 10.1016/j.bone.2004.11.014. Epub 2005 Apr 2.",
+                                   "Watanabe Y, Ohshima H, Mizuno K, Sekiguchi C, Fukunaga M, Kohri K, Rittweger J, Felsenberg D, Matsumoto T, Nakamura T. Intravenous pamidronate prevents femoral bone loss and renal stone formation during 90-day bed rest. J Bone Miner Res. 2004 Nov;19(11):1771-8. doi: 10.1359/JBMR.040811. Epub 2004 Aug 23.",
+                                   "Rittweger J, Felsenberg D. Patterns of bone loss in bed-ridden healthy young male subjects: results from the Long Term Bed Rest Study in Toulouse. J Musculoskelet Neuronal Interact. 2003 Dec;3(4):290-1; discussion 292-4. No abstract available.",
+                                   "Gallagher P, Trappe S, Harber M, Creer A, Mazzetti S, Trappe T, Alkner B, Tesch P. Effects of 84-days of bedrest and resistance training on single muscle fibre myosin heavy chain distribution in human vastus lateralis and soleus muscles. Acta Physiol Scand. 2005 Sep;185(1):61-9. doi: 10.1111/j.1365-201X.2005.01457.x.",
+                                   "Rudnick J, Puttmann B, Tesch PA, Alkner B, Schoser BG, Salanova M, Kirsch K, Gunga HC, Schiffl G, Luck G, Blottner D. Differential expression of nitric oxide synthases (NOS 1-3) in human skeletal muscle following exercise countermeasure during 12 weeks of bed rest. FASEB J. 2004 Aug;18(11):1228-30. doi: 10.1096/fj.03-0792fje. Epub 2004 Jun 4.",
+                                   "Trappe S, Trappe T, Gallagher P, Harber M, Alkner B, Tesch P. Human single muscle fibre function with 84 day bed-rest and resistance exercise. J Physiol. 2004 Jun 1;557(Pt 2):501-13. doi: 10.1113/jphysiol.2004.062166. Epub 2004 Apr 2.",
+                                   "Belin de Chantemele E, Pascaud L, Custaud MA, Capri A, Louisy F, Ferretti G, Gharib C, Arbeille P. Calf venous volume during stand-test after a 90-day bed-rest study with or without exercise countermeasure. J Physiol. 2004 Dec 1;561(Pt 2):611-22. doi: 10.1113/jphysiol.2004.069468. Epub 2004 Aug 26.",
+                                   "Belin de Chantemele E, Blanc S, Pellet N, Duvareille M, Ferretti G, Gauquelin-Koch G, Gharib C, Custaud MA. Does resistance exercise prevent body fluid changes after a 90-day bed rest? Eur J Appl Physiol. 2004 Aug;92(4-5):555-64. doi: 10.1007/s00421-004-1121-6. Epub 2004 May 29.",
+                                   "Reeves NJ, Maganaris CN, Ferretti G, Narici MV. Influence of simulated microgravity on human skeletal muscle architecture and function. J Gravit Physiol. 2002 Jul;9(1):P153-4.",
+                                   "Belavy DL, Ohshima H, Rittweger J, Felsenberg D. High-intensity flywheel exercise and recovery of atrophy after 90 days bed--rest. BMJ Open Sport Exerc Med. 2017 Jul 24;3(1):e000196. doi: 10.1136/bmjsem-2016-000196. eCollection 2017."
+                            ],
+                            "ReferencePMID": [
+                                   "15811637",
+                                   "15476576",
+                                   "15758301",
+                                   "16128698",
+                                   "15180967",
+                                   "15064323",
+                                   "15331681",
+                                   "15170571",
+                                   "15002526",
+                                   "28761699"
+                            ],
+                            "ReferenceType": [
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline",
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Baseline, after 3-days of bed rest",
+                                   "Baseline, after 3-days of bed rest"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "University of Texas Southwestern Medical Center"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Benjamin Levine"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Professor of Medicine"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "40 days"
+                            ],
+                            "ReferenceCitation": [
+                                   "Rittweger J, Debevec T, Frings-Meuthen P, Lau P, Mittag U, Ganse B, Ferstl PG, Simpson EJ, Macdonald IA, Eiken O, Mekjavic IB. On the combined effects of normobaric hypoxia and bed rest upon bone and mineral metabolism: Results from the PlanHab study. Bone. 2016 Oct;91:130-8. doi: 10.1016/j.bone.2016.07.013. Epub 2016 Jul 18."
+                            ],
+                            "ReferencePMID": [
+                                   "27443510"
+                            ],
+                            "ReferenceType": [
+                                   "result"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "University of Nottingham"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Elizabeth Simpson"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Dr"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "2hrs"
+                            ],
+                            "ReferenceCitation": [
+                                   "Simpson EJ, Debevec T, Eiken O, Mekjavic I, Macdonald IA. PlanHab: the combined and separate effects of 16 days of bed rest and normobaric hypoxic confinement on circulating lipids and indices of insulin sensitivity in healthy men. J Appl Physiol (1985). 2016 Apr 15;120(8):947-55. doi: 10.1152/japplphysiol.00897.2015. Epub 2016 Jan 14.",
+                                   "Debevec T, Bali TC, Simpson EJ, Macdonald IA, Eiken O, Mekjavic IB. Separate and combined effects of 21-day bed rest and hypoxic confinement on body composition. Eur J Appl Physiol. 2014 Nov;114(11):2411-25. doi: 10.1007/s00421-014-2963-1. Epub 2014 Aug 5.",
+                                   "Debevec T, Simpson EJ, Mekjavic IB, Eiken O, Macdonald IA. Effects of prolonged hypoxia and bed rest on appetite and appetite-related hormones. Appetite. 2016 Dec 1;107:28-37. doi: 10.1016/j.appet.2016.07.005. Epub 2016 Jul 6."
+                            ],
+                            "ReferencePMID": [
+                                   "26769956",
+                                   "25091855",
+                                   "27395413"
+                            ],
+                            "ReferenceType": [
+                                   "result",
+                                   "result",
+                                   "result"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "University of Nottingham"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Elizabeth Simpson"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Senior Research Fellow"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "7 days"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Phase 1 After every test (10 minutes) Phase 2 : 1 months"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Centre d'Investigation Clinique et Technologique 805"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Pouplin Samuel"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "ergotherapeute (Occupational Therapist)"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "12 weeks",
+                                   "Through study completion, an average of 1 year",
+                                   "Through study completion, an average of 1 year"
+                            ],
+                            "ReferenceCitation": [
+                                   "Hossein A, Mirica DC, Rabineau J, Rio JID, Morra S, Gorlier D, Nonclercq A, van de Borne P, Migeotte PF. Accurate Detection of Dobutamine-induced Haemodynamic Changes by Kino-Cardiography: A Randomised Double-Blind Placebo-Controlled Validation Study. Sci Rep. 2019 Jul 19;9(1):10479. doi: 10.1038/s41598-019-46823-3. Erratum In: Sci Rep. 2020 Mar 20;10(1):5459.",
+                                   "Rabineau J, Hossein A, Landreani F, Haut B, Mulder E, Luchitskaya E, Tank J, Caiani EG, van de Borne P, Migeotte PF. Cardiovascular adaptation to simulated microgravity and countermeasure efficacy assessed by ballistocardiography and seismocardiography. Sci Rep. 2020 Oct 19;10(1):17694. doi: 10.1038/s41598-020-74150-5.",
+                                   "Hossein A, Rabineau J, Gorlier D, Del Rio JIJ, van de Borne P, Migeotte PF, Nonclercq A. Kinocardiography Derived from Ballistocardiography and Seismocardiography Shows High Repeatability in Healthy Subjects. Sensors (Basel). 2021 Jan 26;21(3):815. doi: 10.3390/s21030815.",
+                                   "Morra S, Hossein A, Rabineau J, Gorlier D, Racape J, Migeotte PF, van de Borne P. Assessment of left ventricular twist by 3D ballistocardiography and seismocardiography compared with 2D STI echocardiography in a context of enhanced inotropism in healthy subjects. Sci Rep. 2021 Jan 12;11(1):683. doi: 10.1038/s41598-020-79933-4."
+                            ],
+                            "ReferencePMID": [
+                                   "31324831",
+                                   "33077727",
+                                   "33530417",
+                                   "33436841"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "60 days"
+                            ],
+                            "ReferenceCitation": [
+                                   "Trim WV, Walhin JP, Koumanov F, Bouloumie A, Lindsay MA, Travers RL, Turner JE, Thompson D. The Impact of Long-term Physical Inactivity on Adipose Tissue Immunometabolism. J Clin Endocrinol Metab. 2022 Jan 1;107(1):177-191. doi: 10.1210/clinem/dgab647.",
+                                   "Austermann K, Baecker N, Zwart SR, Fimmers R, Frippiat JP, Stehle P, Smith SM, Heer M. Antioxidant Supplementation Does Not Affect Bone Turnover Markers During 60 Days of 6 degrees Head-Down Tilt Bed Rest: Results from an Exploratory Randomized Controlled Trial. J Nutr. 2021 Jun 1;151(6):1527-1538. doi: 10.1093/jn/nxab036.",
+                                   "Liu T, Melkus G, Ramsay T, Sheikh A, Laneuville O, Trudel G. Bone Marrow Reconversion With Reambulation: A Prospective Clinical Trial. Invest Radiol. 2021 Apr 1;56(4):215-223. doi: 10.1097/RLI.0000000000000730."
+                            ],
+                            "ReferencePMID": [
+                                   "34480570",
+                                   "33831949",
+                                   "33038096"
+                            ],
+                            "ReferenceType": [
+                                   "derived",
+                                   "derived",
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Baseline and five days of dry-immersion"
+                            ],
+                            "ReferenceCitation": [
+                                   "Arbeille P, Herault S, Fomina G, Roumy J, Alferova I, Gharib C. Influences of thigh cuffs on the cardiovascular system during 7-day head-down bed rest. J Appl Physiol (1985). 1999 Dec;87(6):2168-76. doi: 10.1152/jappl.1999.87.6.2168.",
+                                   "Balasubramanian S, Tepelus T, Stenger MB, Lee SMC, Laurie SS, Liu JHK, Feiveson AH, Sadda SR, Huang AS, Macias BR. Thigh Cuffs as a Countermeasure for Ocular Changes in Simulated Weightlessness. Ophthalmology. 2018 Mar;125(3):459-460. doi: 10.1016/j.ophtha.2017.10.023. Epub 2017 Nov 16. No abstract available.",
+                                   "De Abreu S, Amirova L, Murphy R, Wallace R, Twomey L, Gauquelin-Koch G, Raverot V, Larcher F, Custaud MA, Navasiolava N. Multi-System Deconditioning in 3-Day Dry Immersion without Daily Raise. Front Physiol. 2017 Oct 13;8:799. doi: 10.3389/fphys.2017.00799. eCollection 2017.",
+                                   "Kermorgant M, Leca F, Nasr N, Custaud MA, Geeraerts T, Czosnyka M, Arvanitis DN, Senard JM, Pavy-Le Traon A. Impacts of Simulated Weightlessness by Dry Immersion on Optic Nerve Sheath Diameter and Cerebral Autoregulation. Front Physiol. 2017 Oct 12;8:780. doi: 10.3389/fphys.2017.00780. eCollection 2017.",
+                                   "Navasiolava NM, Custaud MA, Tomilovskaya ES, Larina IM, Mano T, Gauquelin-Koch G, Gharib C, Kozlovskaya IB. Long-term dry immersion: review and prospects. Eur J Appl Physiol. 2011 Jul;111(7):1235-60. doi: 10.1007/s00421-010-1750-x. Epub 2010 Dec 14."
+                            ],
+                            "ReferencePMID": [
+                                   "10601164",
+                                   "29153458",
+                                   "29081752",
+                                   "29075198",
+                                   "21161267"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

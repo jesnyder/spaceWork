@@ -1,0 +1,1308 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "Acronym",
+                     "AgreementOtherDetails",
+                     "AgreementPISponsorEmployee",
+                     "AgreementRestrictionType",
+                     "AgreementRestrictiveAgreement",
+                     "ArmGroupDescription",
+                     "ArmGroupInterventionName",
+                     "ArmGroupLabel",
+                     "ArmGroupType",
+                     "AvailIPDComment",
+                     "AvailIPDId",
+                     "AvailIPDType",
+                     "AvailIPDURL",
+                     "BaselineCategoryTitle",
+                     "BaselineClassDenomCountGroupId",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Self-reported healthy individuals avoiding blood draw on the days participants are feeling \"under the weather\"or sick. In that case, study team can delay the blood draw until the subject feels better, but this would not preclude anyone from participating."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Biological: Blood volume collected specifically for this study"
+                            ],
+                            "ArmGroupLabel": [
+                                   "self-reported healthy individuals"
+                            ],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "Acronym": [
+                                   "CapFlight"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "effect of microgravity on central aortic blood pressure."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: central aortic pressure (measured in mmHg)."
+                            ],
+                            "ArmGroupLabel": [
+                                   "Microgravity"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Simulated microgravity flight"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Effect of microgravity on human sperm"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "The investigators are interested in sampling a wide variety of individuals from varying ethnic groups, sex, and age range."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Biological: Blood collected specifically for this study"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Males and females"
+                            ],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "Acronym": [
+                                   "AirMicroMod"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "airway device is placed during the dive"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Device: Airway management with a submerged model"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Airway device placement"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "Acronym": [
+                                   "STAMAS"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Behavioral: Leg exercises"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Subjects"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "Acronym": [
+                                   "microG"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Obtain muscle biopsy specimens from young adults (ages 20-40) to develop a millifluidic chip for electrical stimulation of human primary muscle cell hydrogel cultures.",
+                                   "Obtain muscle biopsy specimens from older adults (ages 60-80) to develop a millifluidic chip for electrical stimulation of human primary muscle cell hydrogel cultures."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Procedure: Muscle Tissue Biopsy",
+                                   "Other: Maximal Oxygen Consumption (V02max)",
+                                   "Procedure: Muscle Tissue Biopsy",
+                                   "Other: Maximal Oxygen Consumption (V02max)"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Young adults",
+                                   "Older adults"
+                            ],
+                            "ArmGroupType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "Acronym": [
+                                   "ForceGeneratio"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Short duration electrical will be delivered and the resulting EMG will be recorded. Intensity of electrical stimulation will be progressively increased until we observed a maximal EMG response.\n\nFinally an ultrasound probe (similar to that used for prenatal diagnostic imaging) will be fixed behind your calf in order to visualize muscle."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: examination of muscle function and MVC in weightlessness"
+                            ],
+                            "ArmGroupLabel": [
+                                   "high-load resistance training for long term space flights"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Consuming probiotic capsule"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Dietary Supplement: Probiotic capsule"
+                            ],
+                            "ArmGroupLabel": [
+                                   "LcS group",
+                                   "Control group"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "No Intervention"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "Acronym": [
+                                   "FAP"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [],
+                            "ArmGroupLabel": [],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "Acronym": [
+                                   "B3D"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight",
+                                   "Other: Cardiovascular parameters measurements",
+                                   "Device: 3D-BCG sensor"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Cardiovascular parameters measurements"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "Acronym": [
+                                   "POSTURGRAV"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "to evaluate changes in balance control in response to microgravity during reactive balance tasks compared to normal gravity."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight",
+                                   "Other: balance control measurements",
+                                   "Device: electromagnetic maneuverable postural platform"
+                            ],
+                            "ArmGroupLabel": [
+                                   "in balance control in response to microgravity"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Procedure: External Chest Compressions on Manikin in Underwater Setting",
+                                   "Procedure: External Chest Compressions on Manikin in Underwater Setting"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Schmitz-Hinkelbein-Method",
+                                   "Hinkelbein-Schmitz-Method"
+                            ],
+                            "ArmGroupType": [
+                                   "Active Comparator",
+                                   "Active Comparator"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "Acronym": [
+                                   "ENACT"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "a group of parabolic flyers exposed to micro and partial gravity"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Cognition and emotional neuropsychologicl evaluations"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Microgravity condition"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "Acronym": [
+                                   "E-NOSE"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Gaz concentration of C02, CO and NH4, 3 exhaled in weightlessness and normal gravity."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: measurement of the concentration of C02, CO and NH4, 3 exhaled gas with E-Nose system",
+                                   "Other: Parabolic flight"
+                            ],
+                            "ArmGroupLabel": [
+                                   "gas concentration"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "Acronym": [
+                                   "GraCer"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Weightlessness measurements during flight"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Weightlessness"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Weightlessness"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "Acronym": [
+                                   "OR-DRPD-SRI"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "The investigators are interested in sampling a wide variety of individuals from varying ethnic groups, sex, and age range."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Biological: Blood volume collected specifically for this study"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Self-reported healthy males and females"
+                            ],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "Acronym": [
+                                   "COSI@PFC"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight",
+                                   "Other: neuro-endocrine measurements",
+                                   "Other: immunological measurements",
+                                   "Other: cellular energy metabolism measurements"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Stress response measurements"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "Acronym": [
+                                   "VIVALDI2"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "5 days of dry-immersion"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Dry immersion"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Dry immersion"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Participants will perform aerobic and strength exercises for 2 weeks.",
+                                   "Participants will not perform any exercises."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Exercise"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Exercise",
+                                   "No exercise"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "No Intervention"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [],
+                            "ArmGroupLabel": [],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "Acronym": [
+                                   "ARGuide"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "parabolic flights in normogravity (1g), hypergravity (1.8g) and microgravity (0g)."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: 3 levels of gravity (1G, 1.8G, 0G)."
+                            ],
+                            "ArmGroupLabel": [
+                                   "parabolic flights"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "Acronym": [
+                                   "VivalDI"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "5 days of dry-immersion."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Dry immersion"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Dry immersion"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "Acronym": [
+                                   "DROITDEVANT"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight",
+                                   "Other: Measurements of eye movements and perception"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Measurements of eye movements and perception"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "Acronym": [
+                                   "IMMERSION"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: Head-down tilt and immersion"
+                            ],
+                            "ArmGroupLabel": [
+                                   "1"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "Acronym": [
+                                   "MEP"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Dietary Supplement: Whey Protein + Potassium bicarbonate",
+                                   "Other: Control",
+                                   "Dietary Supplement: Whey Protein + Potassium bicarbonate",
+                                   "Other: Control"
+                            ],
+                            "ArmGroupLabel": [
+                                   "MEP-1",
+                                   "MEP-2"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "Acronym": [
+                                   "HopMot"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "motion perception and locomotor operation performance under different gravity states"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: motion perception and locomotor operation performance measurements",
+                                   "Other: parabolic flight"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Measurements under different gravity states"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "Acronym": [
+                                   "VEMP"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: weightlessness"
+                            ],
+                            "ArmGroupLabel": [
+                                   "weightlessness"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "Acronym": [
+                                   "GRAVIDOSE"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [],
+                            "ArmGroupLabel": [],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [],
+                            "ArmGroupLabel": [],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "Acronym": [
+                                   "AUTOCARD"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight",
+                                   "Other: Cardiovascular parameters measurements"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Cardiovascular parameters measurements"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "Acronym": [
+                                   "STOP-VIIP"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "4 days of strict bed rest",
+                                   "4 days of strict bed rest with nightly lower body negative pressure at -20mmHg"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Lower body negative pressure"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Control",
+                                   "Lower body negative pressure"
+                            ],
+                            "ArmGroupType": [
+                                   "No Intervention",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "Acronym": [
+                                   "PlanHab"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Participants ambulatory in normobaric hypoxia with standardised nutritional intake",
+                                   "Participants are on bed rest in normobaric hypoxia with standardised nutritional intake",
+                                   "Participants are on bed rest in normobaric normoxia with standardised nutritional intake"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Hypoxia",
+                                   "Other: Ambulatory",
+                                   "Other: Standardised nutritional intake",
+                                   "Other: Hypoxia",
+                                   "Other: Bed Rest",
+                                   "Other: Standardised nutritional intake",
+                                   "Other: Normoxia",
+                                   "Other: Bed Rest",
+                                   "Other: Standardised nutritional intake"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Hypoxic ambulatory",
+                                   "Hypoxic Bed rest",
+                                   "Normoxic bed rest"
+                            ],
+                            "ArmGroupType": [
+                                   "Active Comparator",
+                                   "Experimental",
+                                   "Active Comparator"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "Acronym": [
+                                   "PlanHab"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Ambulatory in normobaric hypoxia",
+                                   "Bedrest in normobaric hypoxia",
+                                   "Bedrest in normobaric normoxia"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Hypoxic ambulatory",
+                                   "Other: Hypoxic Bedrest",
+                                   "Other: Normoxic Bedrest"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Hypoxic ambulatory",
+                                   "Hypoxic Bedrest",
+                                   "Normoxic bedrest"
+                            ],
+                            "ArmGroupType": [
+                                   "Active Comparator",
+                                   "Experimental",
+                                   "Active Comparator"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "7 days control period followed by a washout period, then 7 days of HBF."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: HBF Bed Rest"
+                            ],
+                            "ArmGroupLabel": [
+                                   "HBF Bed Rest"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "Acronym": [
+                                   "HypoCampus"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "To evaluate Structural and functional changes, Cognitive performance, and specifically spatial cognition, Key neurotrophins..."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Assess the impact of parabolic flight"
+                            ],
+                            "ArmGroupLabel": [
+                                   "parabolic flight"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "Acronym": [
+                                   "Smartwrite"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "People with spinal cord injury who have a rehabilitation program on a word prediction software with an occupational therapist.",
+                                   "People with spinal cord injury who don't have a rehabilitation program with an occupational therapist but who have instructions for learning at home on a word prediction software",
+                                   "People with spinal cord injury who don't have instructions, rehabilitation programm on word prediction software. They have no treatment."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Rehabilitation program",
+                                   "Other: Self - Training at home"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Rehabilitation Group",
+                                   "Self Training at Home Group",
+                                   "No treatment Group"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Active Comparator",
+                                   "No Intervention"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Device: Kinocardiograph",
+                                   "Device: Kinocardiograph",
+                                   "Device: Kinocardiograph",
+                                   "Device: Kinocardiograph",
+                                   "Device: Kinocardiograph",
+                                   "Device: Kinocardiograph",
+                                   "Device: Kinocardiograph",
+                                   "Device: Kinocardiograph"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Healthy",
+                                   "Patients infected by COVID- 19 with no symptoms",
+                                   "Patients infected by COVID- 19 with symptoms",
+                                   "Patients diagnosed with atrial fibrillation",
+                                   "Hypertensive patients",
+                                   "Heart failure patients, EF < 40%",
+                                   "Heart failure patients, EF > 40% and < 60%",
+                                   "Heart failure patients, EF > 60%"
+                            ],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "Acronym": [
+                                   "Blindpulling"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "perceived egocentric distance (PED) measurements during parabolic flight"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: perceived egocentric distance (PED) measurements",
+                                   "Other: Parabolic flight"
+                            ],
+                            "ArmGroupLabel": [
+                                   "perceived egocentric distance measurements - parabolic flight"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "Acronym": [
+                                   "LTBRCocktail"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "60 days of strict head-down tilt bed rest",
+                                   "60 days of strict head-down tilt bed rest along with a Cocktail supplementation composed of natural antioxidants XXS-2A-BR2 comprising vitamin E, Selenium and coupled with omega-3"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Bed Rest Control Group",
+                                   "Dietary Supplement: Cocktail intervention"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Bed Rest Control Group",
+                                   "Cocktail intervention"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "Acronym": [
+                                   "DI-Cuff"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "5 days of dry-immersion",
+                                   "5 days of dry-immersion with thigh cuffs"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Dry immersion Control Group",
+                                   "Other: Thigh cuffs intervention"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Dry immersion Control Group",
+                                   "Thigh Cuffs intervention"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

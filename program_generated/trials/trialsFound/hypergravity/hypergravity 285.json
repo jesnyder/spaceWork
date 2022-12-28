@@ -1,0 +1,565 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "PrimaryOutcomeTimeFrame",
+                     "ReferenceCitation",
+                     "ReferencePMID",
+                     "ReferenceType",
+                     "RemovedCountry",
+                     "ResponsiblePartyInvestigatorAffiliation",
+                     "ResponsiblePartyInvestigatorFullName",
+                     "ResponsiblePartyInvestigatorTitle",
+                     "ResponsiblePartyOldNameTitle",
+                     "ResponsiblePartyOldOrganization",
+                     "ResponsiblePartyType",
+                     "ResultsFirstPostDate",
+                     "ResultsFirstPostDateType",
+                     "ResultsFirstPostedQCCommentsDate",
+                     "ResultsFirstPostedQCCommentsDateType",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline, 2hrs 30min"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "St\u00e9phanie Montmerle-Borgdorff"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "researcher"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "three months"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Carrick Institute for Graduate Studies"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Frederick Carrick, PhD, FACCN"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Principal investigator"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "1 session",
+                                   "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+                                   "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+                                   "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+                                   "1 session"
+                            ],
+                            "ReferenceCitation": [
+                                   "Diaz-Artiles A, Priesol AJ, Clark TK, Sherwood DP, Oman CM, Young LR, Karmali F. The Impact of Oral Promethazine on Human Whole-Body Motion Perceptual Thresholds. J Assoc Res Otolaryngol. 2017 Aug;18(4):581-590. doi: 10.1007/s10162-017-0622-z. Epub 2017 Apr 24."
+                            ],
+                            "ReferencePMID": [
+                                   "28439720"
+                            ],
+                            "ReferenceType": [
+                                   "result"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Massachusetts Eye and Ear Infirmary"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Faisal_Karmali@MEEI.HARVARD.EDU"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Primary Investigator"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor-Investigator"
+                            ],
+                            "ResultsFirstPostDate": [
+                                   "January 8, 2018"
+                            ],
+                            "ResultsFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Baseline",
+                                   "Baseline",
+                                   "Baseline",
+                                   "Baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "one hour before the flight",
+                                   "one hour after the flight",
+                                   "Continuous recording all along microgravity exposure up to 1hour after the end of the flight"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "University Hospital, Caen"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "St\u00e9phane BESNARD"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Associate professor"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "During flight"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "baseline",
+                                   "baseline"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "pre-protocol (baseline) and 1h30 min after centrifuge stop",
+                                   "pre-protocol (baseline), baseline + 1hr, baseline +1h10 min, baseline +1h15 min",
+                                   "pre protocol (baseline), at centrifuge stop (baseline + 1h15 min) and 1h30 min after centrifuge stop"
+                            ],
+                            "ReferenceCitation": [
+                                   "Dussault C, Gontier E, Verret C, Soret M, Boussuges A, Hedenstierna G, Montmerle-Borgdorff S. Hyperoxia and hypergravity are independent risk factors of atelectasis in healthy sitting humans: a pulmonary ultrasound and SPECT/CT study. J Appl Physiol (1985). 2016 Jul 1;121(1):66-77. doi: 10.1152/japplphysiol.00085.2016. Epub 2016 Apr 21.",
+                                   "Borges JB, Hedenstierna G, Bergman JS, Amato MB, Avenel J, Montmerle-Borgdorff S. First-time imaging of effects of inspired oxygen concentration on regional lung volumes and breathing pattern during hypergravity. Eur J Appl Physiol. 2015 Feb;115(2):353-63. doi: 10.1007/s00421-014-3020-9. Epub 2014 Oct 17."
+                            ],
+                            "ReferencePMID": [
+                                   "27103651",
+                                   "25323531"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "result"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Comparison of initial and final THI before and after treatment for a Time frame of 5 weeks."
+                            ],
+                            "ReferenceCitation": [
+                                   "Crocetti A, Forti S, Del Bo L. Neurofeedback for subjective tinnitus patients. Auris Nasus Larynx. 2011 Dec;38(6):735-8. doi: 10.1016/j.anl.2011.02.003. Epub 2011 May 17.",
+                                   "Dohrmann K, Weisz N, Schlee W, Hartmann T, Elbert T. Neurofeedback for treating tinnitus. Prog Brain Res. 2007;166:473-85. doi: 10.1016/S0079-6123(07)66046-4.",
+                                   "Hartmann T, Lorenz I, Muller N, Langguth B, Weisz N. The effects of neurofeedback on oscillatory processes related to tinnitus. Brain Topogr. 2014 Jan;27(1):149-57. doi: 10.1007/s10548-013-0295-9. Epub 2013 May 23.",
+                                   "Guillard R, Fraysse MJ, Simeon R, Cervoni T, Schmutz J, Piedfort B, Ferat V, Congedo M, Londero A. A portable neurofeedback device for treating chronic subjective tinnitus: Feasibility and results of a pilot study. Prog Brain Res. 2021;260:167-185. doi: 10.1016/bs.pbr.2020.08.001. Epub 2020 Oct 14."
+                            ],
+                            "ReferencePMID": [
+                                   "21592701",
+                                   "17956812",
+                                   "23700271",
+                                   "33637216"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

@@ -1,0 +1,1447 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "SeriousEventNotes",
+                     "SeriousEventOrganSystem",
+                     "SeriousEventSourceVocabulary",
+                     "SeriousEventStatsGroupId",
+                     "SeriousEventStatsNumAffected",
+                     "SeriousEventStatsNumAtRisk",
+                     "SeriousEventStatsNumEvents",
+                     "SeriousEventTerm",
+                     "StartDate",
+                     "StartDateType",
+                     "StatusVerifiedDate",
+                     "StdAge",
+                     "StudyFirstPostDate",
+                     "StudyFirstPostDateType",
+                     "StudyFirstSubmitDate",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "May 26, 2017"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "February 2020"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "May 8, 2017"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "May 2, 2017"
+                            ],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "September 2015"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "May 2016"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "June 2, 2016"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "April 21, 2016"
+                            ],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "November 20, 2018"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "March 2022"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "November 30, 2018"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "November 15, 2018"
+                            ],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "June 2021"
+                            ],
+                            "StartDateType": [
+                                   "Anticipated"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "July 2021"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "July 23, 2019"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 19, 2019"
+                            ],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "October 1, 2019"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "July 2020"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "February 20, 2019"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "February 14, 2019"
+                            ],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "January 2015"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "September 2019"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "December 9, 2014"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "December 5, 2014"
+                            ],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "January 25, 2019"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "November 2022"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "September 11, 2018"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "September 7, 2018"
+                            ],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "September 2014"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "July 2016"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 1, 2016"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "April 21, 2016"
+                            ],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "October 2015"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "August 2021"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "December 1, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "November 1, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "July 2011"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "November 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "May 1, 2009"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "April 30, 2009"
+                            ],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "December 2011"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "August 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 6, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 23, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "September 2012"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "August 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 6, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 23, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "January 2, 2020"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "April 2020"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "April 21, 2020"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "April 2, 2020"
+                            ],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "October 23, 2022"
+                            ],
+                            "StartDateType": [
+                                   "Anticipated"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "September 2022"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "September 7, 2022"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "August 30, 2022"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "September 2014"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "July 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "July 24, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 21, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "October 1, 2018"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "February 2020"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "June 14, 2019"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "May 23, 2019"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "May 26, 2017"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "January 2020"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "May 17, 2017"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "May 15, 2017"
+                            ],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "May 2012"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "August 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 6, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 23, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "August 2022"
+                            ],
+                            "StartDateType": [
+                                   "Anticipated"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "August 2022"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 9, 2022"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 29, 2022"
+                            ],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "July 12, 2021"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "September 2021"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "July 16, 2021"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "May 6, 2021"
+                            ],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "October 2003"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "January 2008"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "January 22, 2008"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "December 27, 2007"
+                            ],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "October 1, 2016"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "September 2017"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "October 2, 2017"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "September 27, 2017"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "August 24, 2021"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "September 2021"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "September 14, 2021"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 30, 2021"
+                            ],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "November 2011"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "August 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 6, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 23, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "April 2008"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "May 2020"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 14, 2007"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "August 13, 2007"
+                            ],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "August 2011"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "July 2012"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 2, 2012"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 23, 2012"
+                            ],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "September 2014"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "July 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "July 27, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 21, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "November 13, 2017"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "June 2018"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "June 19, 2018"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "June 8, 2018"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "June 2019"
+                            ],
+                            "StartDateType": [
+                                   "Anticipated"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "May 2019"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "May 28, 2019"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "May 23, 2019"
+                            ],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "August 2001"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "April 2006"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "April 6, 2006"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "April 4, 2006"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "June 2011"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "August 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 6, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 23, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "March 1, 2019"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "August 2021"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "August 23, 2021"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "August 9, 2021"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "March 2012"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "March 2019"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "December 22, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "December 1, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "March 2012"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "March 2019"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "November 18, 2014"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "November 13, 2014"
+                            ],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "March 29, 2017"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "October 2017"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "June 22, 2017"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "May 8, 2017"
+                            ],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "March 2016"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "November 2016"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "June 2, 2016"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "April 21, 2016"
+                            ],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "September 2013"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "September 2018"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "October 1, 2013"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "September 17, 2013"
+                            ],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "February 5, 2021"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "July 2022"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "February 26, 2021"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "February 18, 2021"
+                            ],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "February 2014"
+                            ],
+                            "StartDateType": [],
+                            "StatusVerifiedDate": [
+                                   "July 2015"
+                            ],
+                            "StdAge": [
+                                   "Adult",
+                                   "Older Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "July 27, 2015"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Estimate"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "July 21, 2015"
+                            ],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "September 1, 2016"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "January 2021"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "July 20, 2018"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "November 24, 2017"
+                            ],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "SeriousEventNotes": [],
+                            "SeriousEventOrganSystem": [],
+                            "SeriousEventSourceVocabulary": [],
+                            "SeriousEventStatsGroupId": [],
+                            "SeriousEventStatsNumAffected": [],
+                            "SeriousEventStatsNumAtRisk": [],
+                            "SeriousEventStatsNumEvents": [],
+                            "SeriousEventTerm": [],
+                            "StartDate": [
+                                   "November 18, 2018"
+                            ],
+                            "StartDateType": [
+                                   "Actual"
+                            ],
+                            "StatusVerifiedDate": [
+                                   "April 2019"
+                            ],
+                            "StdAge": [
+                                   "Adult"
+                            ],
+                            "StudyFirstPostDate": [
+                                   "April 16, 2019"
+                            ],
+                            "StudyFirstPostDateType": [
+                                   "Actual"
+                            ],
+                            "StudyFirstSubmitDate": [
+                                   "March 5, 2019"
+                            ],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

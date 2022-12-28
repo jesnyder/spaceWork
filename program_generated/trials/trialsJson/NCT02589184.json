@@ -1,0 +1,561 @@
+{
+       "Rank": 2,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Patient performing rehabilitation exercises under hypergravity as well as loaded isometric squats",
+              "Patient performing rehabilitation exercises under hypergravity",
+              "Patient performing rehabilitation exercises under normal gravity as well as loaded isometric squats",
+              "Patient performing rehabilitation exercises under normal gravity"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Hypergravity",
+              "Other: isometric load",
+              "Other: Hypergravity",
+              "Other: isometric load",
+              "Other: normal gravity",
+              "Other: normal gravity"
+       ],
+       "ArmGroupLabel": [
+              "hypergravity WITH isometric load",
+              "hypergravity WITHOUT isometric load",
+              "normal gravity WITH isometric load",
+              "normal gravity WITHOUT isometric load"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "Experimental",
+              "Experimental",
+              "Active Comparator"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT02589184"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Determine if adding \"extra-gravity\" (sustained increase in vertical loading) during standard rehabilitation exercises has a beneficial effect on pain reduction in subjects suffering from shoulder pain of different origin."
+       ],
+       "BriefTitle": [
+              "Effects on Shoulder Pain of Simulated Hyper-gravity During Rehabilitation Exercises"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "January 2017"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Shoulder Pain"
+       ],
+       "ConditionAncestorId": [
+              "D000018771",
+              "D000007592",
+              "D000009140",
+              "D000010146",
+              "D000009461"
+       ],
+       "ConditionAncestorTerm": [
+              "Arthralgia",
+              "Joint Diseases",
+              "Musculoskeletal Diseases",
+              "Pain",
+              "Neurologic Manifestations"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC05",
+              "BC23",
+              "All",
+              "BC10"
+       ],
+       "ConditionBrowseBranchName": [
+              "Musculoskeletal Diseases",
+              "Symptoms and General Pathology",
+              "All Conditions",
+              "Nervous System Diseases"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Shoulder Pain"
+       ],
+       "ConditionBrowseLeafId": [
+              "M21060",
+              "M12218",
+              "M19986",
+              "M9773",
+              "M11249",
+              "M11556"
+       ],
+       "ConditionBrowseLeafName": [
+              "Shoulder Pain",
+              "Pain",
+              "Arthralgia",
+              "Joint Diseases",
+              "Musculoskeletal Diseases",
+              "Neurologic Manifestations"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "high",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000020069"
+       ],
+       "ConditionMeshTerm": [
+              "Shoulder Pain"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Treatment"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "Standard rehabilitation protocols will be used with every subject, depending on the cause of their shoulder pain. The treating clinician will determine the appropriate therapy protocol for each subject.\n\nDuring the treatment sessions, subjects will wear a very comfortable waist belt attached with rubber band to anchor points on the ground (the rubber bands will be tighten to simulate the extra-gravity).\n\nUpon enrollment, the treating clinician will randomly assign the subject to one of four groups depending on the type of loading and exercise typology.\n\nThe hyper-gravity will be simulated as an additional 50% of subject's body weight.\n\nThe frequency and duration of each therapy session will be determined by the treating clinician (usually 45 minutes of therapy twice a week for 4 weeks).\n\nBefore, after and 24h post therapy session, the subject will grade the pain level using a numeric pain scale (0 no pain; 10 unbearable pain requiring pain medication).\n\nAs part of the rehabilitation therapy procedure, subjects will undergo shoulder range of motion evaluations (done by a trained clinician in approximately 3 minutes) and Computer Dynamic Posturography (CDP) testing on a 4\" tall foam cushion with eyes closed (PSEC test - less than 1 minute of testing) before and after each therapy session.\n\nSubjects will complete the DASH and TOSSA questionnaires (the total amount of time required to complete these assessment is ~20 minutes), and will be tested using the modified Clinical Testing of Sensory Integration in Balance (mCTSIB) protocol (the subjects will be required to stand on a hard or compliant surface (a 4\" tall foam cushion of known mechanical properties) in a comfortable posture, feet shoulder width, with eyes open or closed, head straight and arms to the side and free to move, gazing forward, and breathing normally, less than 2 minutes testing time) at the time of enrollment and at the end of the 4 week therapy program.\n\nSubjects will be asked to come back for two more evaluations (questionnaires, range of motion assessment, and CDP testing) one month and three months after the end of the 4 week therapy program to identify possible long term effects of the \"hyper-gravity/accentuated vertical loading\" therapy."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nDiagnosis of shoulder pain (potentially including rotator cuff pathology, impingement, bursitis, SLAP tear)\n\nExclusion Criteria:\n\nadhesive capsulitis, fracture, dislocation, inflammatory arthritis, cancer, ligament disruption"
+       ],
+       "EnrollmentCount": [
+              "0"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "No"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "hypergravity WITH isometric load",
+              "hypergravity WITHOUT isometric load",
+              "hypergravity WITH isometric load",
+              "normal gravity WITH isometric load",
+              "normal gravity WITH isometric load",
+              "normal gravity WITHOUT isometric load"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "the rubber bands attached to the waist belt are tighten to simulate extra gravity during every exercise the subject performs while standing",
+              "at the end of the therapy session the subject will perform 2 sets of one minute each of a 33% squat under load",
+              "the rubber bands attached to the waist belt are NOT tighten so the subject performs the exercises in normal gravity"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Hypergravity",
+              "isometric load",
+              "normal gravity"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other",
+              "Other",
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "balance, postural",
+              "postural equilibrium",
+              "pain scale",
+              "range of motion"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "February 20, 2017"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "February 16, 2017"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Carrick Institute for Graduate Studies"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Savannah",
+              "Savannah"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States",
+              "United States"
+       ],
+       "LocationFacility": [
+              "FIFE Therapy",
+              "Optim Orthopedics - DeRenne"
+       ],
+       "LocationState": [
+              "Georgia",
+              "Georgia"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "31404",
+              "31405"
+       ],
+       "MaximumAge": [],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Effects on Shoulder Pain of Simulated Hyper-gravity During Rehabilitation Exercises"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Carrick Institute for Graduate Studies"
+       ],
+       "OrgStudyId": [
+              "CI-IRB-20150818006A"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Carrick Institute for Graduate Studies"
+       ],
+       "OverallOfficialName": [
+              "Frederick R Carrick, PhD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Withdrawn"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "January 2017"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "The patient will grade the pain level using a numeric pain scale (0 no pain; 10 unbearable pain requiring pain medication).\n\nChanges will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Changes in pain level"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "three months"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "Carrick Institute for Graduate Studies"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Frederick Carrick, PhD, FACCN"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Principal investigator"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "The Stability Score is calculated as percentage ratio of the actual sway and the theoretical limit of stability.\n\nChanges will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies.",
+              "It is measured as shoulder abduction through \"Scaption Range\", external / internal rotation in abduction at 90 degrees, and single arm overhead press motion.\n\nChanges will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies.",
+              "A 30-item, self-report questionnaire designed to measure physical function and symptoms in patients with any or several musculoskeletal disorders of the upper limb.\n\nChanges will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies.",
+              "An 8-minute computerized auditory sustained attention test. Changes will be assessed between baseline (before therapy sessions) and three month post therapy. It will be used to investigate if there is any statistical difference between the different therapies."
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Changes in Stability Score",
+              "Changes in shoulder range of motion",
+              "Changes in Disabilities of the Arm, Shoulder and Hand (DASH) Outcome Measure",
+              "Test of Sustained Selective Attention (TOSSA)"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "three months",
+              "three months",
+              "three months",
+              "three months"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "October 2015"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "February 2017"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "October 28, 2015"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "October 23, 2015"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "October 27, 2015"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": [
+              "Logistics reason at the data collection site"
+       ]
+}

@@ -1,0 +1,606 @@
+{
+       "Rank": 40,
+       "Acronym": [
+              "LTBRCocktail"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "60 days of strict head-down tilt bed rest",
+              "60 days of strict head-down tilt bed rest along with a Cocktail supplementation composed of natural antioxidants XXS-2A-BR2 comprising vitamin E, Selenium and coupled with omega-3"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Bed Rest Control Group",
+              "Dietary Supplement: Cocktail intervention"
+       ],
+       "ArmGroupLabel": [
+              "Bed Rest Control Group",
+              "Cocktail intervention"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT03594799"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The objective of this study is to investigate whether the cocktail of natural antioxidants XXS-2A-BR2 comprising vitamin E and coupled with omega-3 helps to prevent and / or reduce the deleterious effects induced by long term physical inactivity through antiorthostatic bedrest. During a randomized 60 day bed rest study in 20 healthy male adults the two following aims will be undertaken:\n\nSixteen scientific protocols will assess the changes in the cardiovascular, metabolism, muscle, bone, neuro sensorial, hematological and immunology systems.\nIn the above mentioned systems, the potential beneficial effects of the countermeasure protocol will also be investigated."
+       ],
+       "BriefTitle": [
+              "A New Nutritional Countermeasure to Prevent the Deconditioning Induced by 60 Days of Antiorthostatic Bed Rest"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "European Space Agency"
+       ],
+       "CompletionDate": [
+              "December 2020"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Weightlessness",
+              "Weightlessness; Adverse Effect"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "Single"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [
+              "Investigator"
+       ],
+       "DetailedDescription": [
+              "Space flights have shown the possibilities and limitations of human adaptation to space. For the last 50 years, results showed that the space environment and microgravity in particular, cause changes that may affect the performance of astronauts. These physiological changes particularly challenge the cardiovascular, metabolic, muscle and bone functions. Space agencies regularly conduct simulations on the ground on healthy volunteers to mimic the effects of weightlessness (head down bed rest model) to better understand the mechanisms of adaptations of the organism to space, and develop ways to prevent and / or reduce the negative biological effects of microgravity on astronauts. These protocols are called countermeasures. Since the beginning of space missions, various countermeasures have been tested on the ground and in-flight, including different exercise protocols. To date, however, none has been entirely satisfactory and space agencies continue to conduct simulation studies to evaluate new countermeasures. Nowadays, the human spaceflight program has entered the next phase of space exploration towards the Moon and Mars and there are clearly inherent medical challenges with such a goal, among which, countermeasure developments are a clear priority.\n\nBased on recent evidences, the next countermeasure to be tested during a 60-day bed rest includes a nutritional countermeasure composed of an anti-oxidant and anti-inflammatory dietary mix."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nHealthy male volunteer (see below the description of medical tests and laboratory analysis performed at the selection visit),\nAge 20 to 45,\nNo overweight nor excessive thinness with BMI (weight Kg/ height m2) between 22 and 27,\nHeight between 158 and 190 cm,\nNo personal nor family past record of chronic or acute disease or psychological disturbances which could affect the physiological data and/or create a risk for the subject during the experiment,\n\nFitness level assessment:\n\nif age < 35 years: 35 ml/min./kg < VO2max < 60ml/min./kg,\nif age > 35 years: 30 ml/min./kg < VO2max < 60ml/min./kg\nActive and free from any orthopedic, musculoskeletal and cardiovascular disorders,\nNon smokers,\nNo alcohol, no drug dependence and no medical treatment,\nNo shift work or travel across more than one time zone in previous 2 months,\nCovered by a Social Security system,\nHave signed the information consent,\nFree of any engagement during the three hospitalization planned periods.\n\nExclusion Criteria:\n\n- Past record of orthostatic intolerance,\nCardiac rhythm disorders,\nChronic back pains,\nHistory of hiatus hernia or gastro-esophageal reflux,\nHistory of thyroid dysfunction, renal stones, diabetes, migraines,\nPast records of thrombophlebitis, family history of thrombosis or positive response in thrombosis screening procedure,\nAllergy including xylocaine allergy\nAbnormal result for lower limbs echo-doppler,\nHistory or active claustrophobia,\nHistory of genetic muscle and bone diseases of any kind,\nHistory of sleep disorders, no shift work or travel across more than one time zone in previous two months\nVestibular disorders,\nAudition problem,\nVision corrected no more than 20/30, color-blindness\nBone mineral density: T-score \u2264 -1.5,\nOsteosynthesis material, presence of metallic implants,\nHistory of knee problems or joint surgery/broken leg\nPoor tolerance to blood sampling,\nHaving given blood (more than 8ml/kg) in a period of 8 weeks or less before the start of the experiment,\nSpecial food diet, vegetarian or vegan, food allergy especially allergic to peanut or soya.\nPositive reaction to any of the following tests: HVA IgM (hepatitis A), HBs antigen (hepatitis B), anti-HVC antibodies (hepatitis C), anti-HIV1+2 antibodies,\nSubject already participating or in the exclusion period of a clinical research,\nRefusal to give permission to contact his general practitioner,\nIncarcerated persons,\nSubject who, in the judgment of the investigator, is likely to be non-compliant during the study, or unable to cooperate because of a language problem or poor mental development,\nSubject who has received more than 4500 Euros within 12 months for being a research subject.\nSubject under guardianship or trusteeship."
+       ],
+       "EnrollmentCount": [
+              "20"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Bed Rest Control Group",
+              "Cocktail intervention"
+       ],
+       "InterventionBrowseBranchAbbrev": [
+              "Micro",
+              "All",
+              "Infl",
+              "Ot",
+              "Vi"
+       ],
+       "InterventionBrowseBranchName": [
+              "Micronutrients",
+              "All Drugs and Chemicals",
+              "Anti-Inflammatory Agents",
+              "Other Dietary Supplements",
+              "Vitamins"
+       ],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [
+              "M16705",
+              "M16710",
+              "M3369",
+              "M22125",
+              "M22122",
+              "M3444",
+              "M14607",
+              "M22128",
+              "T415",
+              "T480",
+              "T466",
+              "T467"
+       ],
+       "InterventionBrowseLeafName": [
+              "Vitamin E",
+              "Vitamins",
+              "Anti-Inflammatory Agents",
+              "Tocopherols",
+              "alpha-Tocopherol",
+              "Antioxidants",
+              "Selenium",
+              "Tocotrienols",
+              "Omega 3 Fatty Acid",
+              "Vitamin E",
+              "Tocopherol",
+              "Tocotrienol"
+       ],
+       "InterventionBrowseLeafRelevance": [
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "InterventionDescription": [
+              "Subjects are in strict head down tilt bed rest at all time (including for taking showers etc.) for 60 days.",
+              "Subjects are in strict head down tilt bed rest at all time (including for taking showers etc.) for 60 days. In addition subjects are receiving a daily supplementation of a Cocktail. The daily dose of Cocktail consists of 6 pills per day: 2 at breakfast, 2 at lunch and 2 at diner. This will be equivalent to a daily dose of around 741 mg of bioactive polyphenols associated with Omega-3, Selenium and Vitamine E."
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Bed Rest Control Group",
+              "Cocktail intervention"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other",
+              "Dietary Supplement"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Simulated Microgravity",
+              "Weightlessness",
+              "Countermeasure",
+              "Bedrest"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "January 26, 2021"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "January 25, 2021"
+       ],
+       "LeadSponsorClass": [
+              "OTHER_GOV"
+       ],
+       "LeadSponsorName": [
+              "Centre National d'Etudes Spatiales"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Toulouse"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "France"
+       ],
+       "LocationFacility": [
+              "Medes-Imps"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [
+              "31400"
+       ],
+       "MaximumAge": [
+              "45 Years"
+       ],
+       "MinimumAge": [
+              "20 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Effects of a Nutritional Cocktail Consisting of Anti-oxidant and Anti-inflammatory Supplements to Prevent the Deconditioning Induced by 60 Days of Antiorthostatic Bed Rest"
+       ],
+       "OrgClass": [
+              "OTHER_GOV"
+       ],
+       "OrgFullName": [
+              "Centre National d'Etudes Spatiales"
+       ],
+       "OrgStudyId": [
+              "14-981"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "MEDES-IMPS"
+       ],
+       "OverallOfficialName": [
+              "Arnaud BECK, MD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "December 2020"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Plasma triglycerides concentration will be analyzed by enzymatic colorimetric method (reagent kit) after ultracentrifugation to isolate chylomicrons and Very Low Density Lipoproteins"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Change in fasting plasma triglycerides concentration"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "60 days"
+       ],
+       "ReferenceCitation": [
+              "Trim WV, Walhin JP, Koumanov F, Bouloumie A, Lindsay MA, Travers RL, Turner JE, Thompson D. The Impact of Long-term Physical Inactivity on Adipose Tissue Immunometabolism. J Clin Endocrinol Metab. 2022 Jan 1;107(1):177-191. doi: 10.1210/clinem/dgab647.",
+              "Austermann K, Baecker N, Zwart SR, Fimmers R, Frippiat JP, Stehle P, Smith SM, Heer M. Antioxidant Supplementation Does Not Affect Bone Turnover Markers During 60 Days of 6 degrees Head-Down Tilt Bed Rest: Results from an Exploratory Randomized Controlled Trial. J Nutr. 2021 Jun 1;151(6):1527-1538. doi: 10.1093/jn/nxab036.",
+              "Liu T, Melkus G, Ramsay T, Sheikh A, Laneuville O, Trudel G. Bone Marrow Reconversion With Reambulation: A Prospective Clinical Trial. Invest Radiol. 2021 Apr 1;56(4):215-223. doi: 10.1097/RLI.0000000000000730."
+       ],
+       "ReferencePMID": [
+              "34480570",
+              "33831949",
+              "33038096"
+       ],
+       "ReferenceType": [
+              "derived",
+              "derived",
+              "derived"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "This will be performed by using MR scanning sequences that specifically measure water and fat signals then calculate the respective content.",
+              "Next generation sequencing (NGS) of IgM heavy chain transcripts extracted from PBMC will 1) indicate if the expression frequencies of Ig gene segments are modified during bed rest thereby indicating a change in B lymphopoiesis (because each B cell created in the marrow is characterized by its own VH-D-JH-C\u00b5 mRNA) and 2) allow the assessment of the activities of enzymes required for the formation of the B cell antigen receptor repertoire.\n\nFlow cytometry will be used to determine if there is an egress of HSC/progenitors from the bone marrow into blood stream thereby indicating a decrease of the interactions between HSC and their niche. The same technique will be used to determine if there are changes in B cell subsets in peripheral blood.",
+              "Mass spectrometry will be performed on proteins obtained from muscle biopsies, microdialysis and serum. The generated peptides will be analysed using high resolution mass shot-gun mass spectrometry.",
+              "The end point is a reduction in muscle pump indices: a) decrease in causality between EMG and Blood pressure, b) decrease in gain between EMG and Blood pressure, and c) decrease in the interaction time between EMG and Blood pressure.",
+              "Skeletal muscle insulin resistance will be assessed during a euglycaemic hyperinsulinaemic clamp.\n\nWhole blood will be immediately analyzed for glucose concentration, serum insulin will be quantified by radioimmunoassay and catecholamines will be quantified by high-performance liquid chromatography. Peripheral insulin sensitivity will be calculated during the final hour of the clamp in steady state.",
+              "Both structural and functional brain changes associated with head-down bedrest will be examined by 3T MRI. Imaging sequence parameters will be selected to maximize sensitivity to effects of interest.",
+              "Subjects perform a video game-like task of shooting a projectile out of a hand-held tool so that it passes between the gaps of an oriented target grill. Since the projectile and the tool are long and narrow, the subject must place the tool at the same orientation as the grill to achieve success. On certain trials, the subject is required to move the head between the time that the target is acquired and the moment of the response. Trials vary in terms of what the subject can see and feel during the execution of the task, and on body posture.\n\nA 3D motion caption system is used to track in real-time the movements of the subject' head and hands. A virtual reality helmet is used to provide visual and audio information. A moving head support will be used to allow the subject to tilt the head laterally in both seated and laying conditions.",
+              "Change in pulse wave velocity in carotid and femoral arteries will be assessed by non-invasive ultrasound measurements.",
+              "Within-subjects changes in adipose gene expression between intervention groups will be evaluated using RNAseq",
+              "Measurement of changes to objective sleep will be determined using continuous 24-h EEG monitoring at regular intervals throughout the protocol (including baseline, head down tilt, and recovery).",
+              "Changes in subjective sleep quality will be measured using the Karolinska sleepiness scale (KSS) four times per day (mealtimes and bed time) doing every day of the protocol.",
+              "Changes to the circadian rhythms of melatonin and cortisol will be measured by radioimmunoassay on saliva samples taken hourly throughout the day at regular intervals throughout the protocol (including baseline, head down tilt, and recovery; same as for EEG).",
+              "Changes to the circadian rhythmicity of the whole-blood transcriptome will be measured by whole-genome microarray analyses of RNA extracted from six 4-hourly blood samples taken over a 24-h period at regular intervals throughout the protocol (including baseline, head down tilt, and recovery; same as for EEG).",
+              "Vastus Lateralis needle biopsies will be performed before, at the end of the Head Down Tilt period (after about 60 days of bedrest) and of the recovery phases. Change in levels of S-nitrosylated proteins will be measured in active vs. atrophic muscle following extended bed rest.",
+              "Vastus Lateralis needle biopsies will be performed before, at the end of the Head Down Tilt period (after about 60 days of bedrest) and of the recovery phases. Change in skeletal muscle gene expression will be analyzed by microarray technology.",
+              "Bone resorption marker CTX will be analyzed in the aliquots of total 24h-urine, collected at different timepoints of the study (pre, during and after the bedrest phase).",
+              "Energy substrates labeled with stable (non radioactive) isotopes will be used to measure intermediary metabolism and fluxes.",
+              "In a healthy standing subject, Galvanic Vestibular Stimulation (GVS) evokes a postural sway response directed towards the anode electrode. The direction of the response is fixed in head coordinates and so it will rotate as the head is turned. To determine if bedrest has affected the accuracy and precision of this sway response, we will measure the direction of the ground reaction force (GRF) response evoked by GVS in standing volunteers under different head orientations. The mean direction (accuracy) along with the trial-to-trial variability (precision) of the GRF vector will be separately determined. Any reduction in accuracy or precision will indicate degraded vestibular control of balance.",
+              "24h ECG Holters will be done at different timepoints of the study (pre, during and after the bedrest phase). A conventional Holter analysis will be performed using dedicated commercial software. Moreover, the recordings obtained will be analyzed using several advanced signal processing techniques, which will be focused on different aspects of ventricular repolarization."
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Change in vertebral bone marrow fat fraction.",
+              "Change in B lymphopoiesis",
+              "Changes in myokines.",
+              "Change in cardio-postural stability",
+              "Change in insulin sensitivity",
+              "Changes in brain structure",
+              "Change in head movements in response to a virtual projectile",
+              "Change in pulse wave velocity in carotid and femoral arteries",
+              "Adipose Tissue Transcriptomics",
+              "Measurement of changes to the sleep electroencephalogram (EEG)",
+              "Measurement of changes in subjective sleep quality",
+              "Measurement of changes in circadian rhythms of melatonin and cortisol",
+              "Measurement of changes in the whole-blood transcriptome in response to 60-day head down tilt bed rest",
+              "Change in levels of S-nitrosylated proteins",
+              "Change in skeletal muscle gene expression (transcriptome)",
+              "Change in bone resorption marker CTX",
+              "Change in de novo lipogenesis",
+              "Accuracy and precision of vestibular-evoked sway responses",
+              "Change in T wave morphology"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days (pre and post bed rest)",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days",
+              "60 days"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "September 1, 2016"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "January 2021"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "July 20, 2018"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "November 24, 2017"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "July 19, 2018"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

@@ -74,6 +74,11 @@ def disperse_geojson():
 
         for feature in retrieve_json(fil_src)['features']:
 
+            print('feature = ')
+            print(feature)
+
+            if 'geometry' not in feature.keys(): continue
+            if 'coordinates' not in feature['geometry'].keys(): continue
             lon, lat = feature['geometry']['coordinates']
             feature['geometry']['coordinates'] = disperse_geolocation(lon, lat)
 
@@ -150,7 +155,7 @@ def build_geometry(aff):
     return geomerty
     """
 
-    fil_src = retrieve_path('locate_affs')
+    fil_src = retrieve_path('located_affs')
 
     for loc in retrieve_json(fil_src)['affs']:
 
@@ -172,9 +177,17 @@ def build_property(pub):
     return property
     """
 
+    print(pub['doi_url'])
+
     prop = {}
     prop['title'] = pub['title'][0]
     prop['url'] = pub['doi_url']
+
+    try:
+        prop['journal'] = pub['container-title']
+    except:
+        prop['journal'] = pub['publisher']
+
     prop['cited'] = int(pub['is-referenced-by-count'])
     prop['radius'] = int(3*(pub['is-referenced-by-count'] + 5))
     prop['year'] = int(pub['year'])
@@ -182,6 +195,8 @@ def build_property(pub):
     prop['paneName'] = str('pane' + str(pub['is-referenced-by-count']).zfill(3))
     prop['color'] = random_color()
     prop['aff'] = ' '
+    prop['affs'] = pub['affs']
+    prop['authors'] = pub['authors']
 
     return(prop)
 
@@ -191,9 +206,9 @@ def random_color():
     return rgb
     """
 
-    r = int(255 - 255*random.random())
-    g = int(255 - 255*random.random())
-    b = int(150 - 50*random.random())
+    r = int(255 - 20*random.random())
+    g = int(60 + 160*random.random())
+    b = int(10 + 50*random.random())
 
     color_str = str('rgb( ' + str(r) + ' , ' +  str(g) + ' , ' + str(b) + ' )')
     print('color_str = ' + color_str)

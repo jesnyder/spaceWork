@@ -1,0 +1,595 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "MaximumAge",
+                     "MinimumAge",
+                     "NCTId",
+                     "NCTIdAlias",
+                     "OfficialTitle",
+                     "OrgClass",
+                     "OrgFullName",
+                     "OrgStudyId",
+                     "OrgStudyIdDomain",
+                     "OrgStudyIdLink",
+                     "OrgStudyIdType",
+                     "OtherEventAssessmentType",
+                     "OtherEventNotes",
+                     "OtherEventOrganSystem",
+                     "OtherEventSourceVocabulary"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "25 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Influence of Hyperoxia and Hypergravity on Pulmonary Ventilation and Perfusion"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es"
+                            ],
+                            "OrgStudyId": [
+                                   "10co706"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 2,
+                            "MaximumAge": [],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Effects on Shoulder Pain of Simulated Hyper-gravity During Rehabilitation Exercises"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Carrick Institute for Graduate Studies"
+                            ],
+                            "OrgStudyId": [
+                                   "CI-IRB-20150818006A"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 3,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Neurocognitive Performance During Space Flight. Validation of a Test Battery"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2015-A00044-45"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 4,
+                            "MaximumAge": [
+                                   "67 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "THE INFLUENCE OF GRAVITY ON TARGET CUEING DURING VISUAL SEARCH USING AUGMENTED REALITY"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "16-115"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 5,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "13-070"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 6,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Countermeasures to Reduce Sensorimotor Impairment and Space Motion Sickness Resulting From Altered Gravity Levels"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Massachusetts Eye and Ear Infirmary"
+                            ],
+                            "OrgStudyId": [
+                                   "497997"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 7,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "The Effect of Gravity on the Muscular Control of Landing From a Jump"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "11-118"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 8,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "11-094"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 9,
+                            "MaximumAge": [
+                                   "70 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Repetitive Gravitationnal Changes on the Body-environment Relationship"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2022-A01317-36"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 10,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ],
+                            "NCTIdAlias": [
+                                   "NCT02517203"
+                            ],
+                            "OfficialTitle": [
+                                   "Effects of Inverted Vision on Pointing and Grasping in Parabolic Flight"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2014-A00813-44"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 11,
+                            "MaximumAge": [
+                                   "67 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "VESTIBULAR EVOKED MYOGENIC POTENTIALS IN ALTERED GRAVITY"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "17-161"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 12,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "10-082"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 13,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "13-028"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 14,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "14-002"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 15,
+                            "MaximumAge": [
+                                   "67 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "VISUALIZATION OF THE MICROCIRCULATION IN WEIGHTLESSNESS"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "17-096"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 16,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Effet de l'Impesanteur Sur la Distribution du d\u00e9bit Sanguin c\u00e9r\u00e9bral."
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2018-A01090-55"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 17,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "25 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Influence of Hyperoxia and Hypobaria on Atelectasis Occurrence and Mitigation of Atelectasis Formation"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es"
+                            ],
+                            "OrgStudyId": [
+                                   "PDH1-SMO2-0714"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 18,
+                            "MaximumAge": [],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Neuro-feedback Therapy for Treating Tinnitus : Efficacy Pilot Study on a Targeted Population"
+                            ],
+                            "OrgClass": [
+                                   "INDUSTRY"
+                            ],
+                            "OrgFullName": [
+                                   "Zeta Technologies"
+                            ],
+                            "OrgStudyId": [
+                                   "2018-A00604-51"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     }
+              ]
+       }
+}

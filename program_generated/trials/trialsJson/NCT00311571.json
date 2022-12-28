@@ -1,0 +1,506 @@
+{
+       "Rank": 30,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [],
+       "ArmGroupInterventionName": [],
+       "ArmGroupLabel": [],
+       "ArmGroupType": [],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT00311571"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Microgravity during space flight induces physiological changes that affect astronauts' health and performance. Space flight simulations such as prolonged bed rest can mimic some of these changes and provide study conditions that are more accessible than during space flight. The European Space Agency, ESA together with the French national space agency, CNES and the Japanese national space agency, NASDA are performing extensive studies using long duration bed rest.\n\nPrevious studies including several long and short term bed rest campaigns have yielded significant medical data on the physiological changes induced by space flight. These data can be used to study the effect of countermeasures, methods helping to prevent these physiological changes.\n\nThe long duration bed rest, lasting 3 months undertakes a variety of investigations involving 28 subjects. This study focuses on countermeasures, studying the effect of a bone tissue stabilisation medication and resistive exercises to determine their suitability for use during long duration stays on ISS.\n\nThe physiological changes recorded during space flight and bed rest mimic those observed in some diseases and in the aging process. Significant clinical applications are expected as a direct result of this experiment and future equivalent studies."
+       ],
+       "BriefTitle": [
+              "Toulouse Male Long Term Bed Rest 2001-2002"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "European Space Agency",
+              "National Space Development Agency, Japan"
+       ],
+       "CompletionDate": [
+              "June 2003"
+       ],
+       "CompletionDateType": [],
+       "Condition": [
+              "Simulation of Weightlessness by Anti-Orthostatic Long Term Bed Rest"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Prevention"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "The spaceflights undertaken to date demonstrated that Man can adapt to the conditions existing in space, particularly to weightlessness. However, the space environment and the prevailing micro-gravity induce modifications which may affect the performances of the astronauts. These modifications concern in particular the cardiovascular and hormonal systems, the muscles, the bones, the blood and the immune system. Other problems may occur during long duration flights, such as the problems created by psychological stress due to the confinement, or those resulting from the cosmic rays (radiation).\n\nIn view of the fact that space flight opportunities are few, experiences simulating the effects of weightlessness experiences are undertaken on the earth, in order to better understand the adaptation mechanisms, prepare the spaceflights, perfect and evaluate corrective methods (called counter-measures) such as physical exercise or medication, to facilitate the astronauts' return to base. These experiments are also a necessity, in view of the difficulties encountered when carrying out certain experiences during the flights, due to the presence of too few astronauts on board, and to the lack of advanced biomedical devices onboard (scanner, etc.). The most common simulation is that of the anti-orthostatic bed rest (tilted position with the head slightly under the feet at a -6\u00b0 angle).\n\nSince the current objective is to simulate flights in the International Space Station (3 to 6 months) or possible flights to Mars (500 to 1000 days), it is mandatory to extend the duration of the simulation experiments. This is why three Space Agencies, CNES (France), European Space Agency (ESA, European Union), National Space Development Agency of Japan (NASDA, Japan) decided to join forces and undertake in common such simulation campaigns on ground, to best apprehend the adaptation processes to the constraints of the space environment.\n\nThe 2 main objectives of this experiment are:\n\nto study the physiological changes mechanisms during a ground-based experiment simulating long duration spaceflights,\nto develop and validate preventive methods (countermeasures) using standard tests.\n\nThis is why we will test in the present study the effects of an orthostatic bed rest (decubitus) of 90 days (3 months) on the following physiological systems :\n\nthe bones,\nthe muscles,\nthe cardiovascular system and its control mechanisms,\nthe sleep,\nthe spine.\n\nIn the absence of gravity, the weight of the astronaut and that of the objects disappear completely. This induces modifications of the bones and the muscles which can severely affect the astronaut's life during the flight, and even more when returning to earth. This is a fundamental point to study, since it may become a limiting factor and even an obstacle to long duration flights. This experiment should also permit the test of physical exercise program and of a drug, pamidronate (AREDIA\u00ae), as counter-measures against the effects of weightlessness on the locomotion system (skeleton and muscles).\n\nA total of 28 volunteers will participate to this experiment, split into three groups. Said experiment will spread on 2 years, 14 volunteers participating each time. The 3 groups are the following:\n\nGroup \"physical exercise\" (9 volunteers),\nGroup \"drug\" (pamidronate) (9 volunteers),\nGroup \"control\" (10 volunteers).\n\nMembers of the groups will be drawn by lot among the participants\n\nGroup \"Exercise\" : exposure of Man to microgravity results in a muscular atrophy which affects the muscles of the lumbar region and those of the lower limbs which are concerned by the standing position and the locomotion. During certain flights, physical exercise programs have been implemented, in order to fight against this muscular atrophy, maintain the physical condition required for the mission and prepare the astronauts for their return on earth. In the course of the present experiment, a physical exercise program will be tested on the 9 volunteers of this group (resistance training using both calf and knee extensor muscles with a special devicecalled Fly-Wheel).\nGroup \"Drug\" : a Man in microgravity is the sole experimental model available to test the rapid occurrence of osteoporosis on a healthy subject. Osteoporosis, or porous bone, appears whenever the rate at which the bone material is replaced falls below that of resorption, thus creating a bone fragility and an increased risk of fracture (hip, spine and wrist essentially). It appears generally after menopause, when associated with aging and a lack of physical activity. The pamidronate (Aredia\u00ae) is a drug present on the market since many years, used for the treatment of several bone pathologies. This drug will be tested on the 9 volunteers of this group, to demonstrate its efficiency in treating of bone modifications. This drug (60mg) will be infused intravenously 14 days before bed rest.\nGroup \"control\" : this group will serve as reference for the experimentation. Volunteers in this group will be without physical exercise and without drug. The existence of this group is necessary to be able to compare the results of the 2 types of counter-measures.\n\nThe experience will be carried out during a 120 days stay (a total of 4 months) at the Space Clinic and will comprise:\n\n1 control ambulatory period of 15 days (subjects to report on day before) (-15 at -1),\n1 anti-orthostatic (-6\u00b0) bed rest period of 90 days (1 at 90),\n1 recovery ambulatory period of 15 days (subjects to depart the following morning) (+1 at +15), representing a total of 122 nights spent at the clinic for all volunteers.\n\nThe assessments will be done by different European and Japanese scientific teams,each one specialising in a specific domain. None of the 3 groups of volunteers will be submitted to all experimentation programs."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nHealthy male volunteer , citizen of the European Community.\nAge 25 to 45,\nNon smokers,\nNo alcohol, no drug dependence and no medical treatment,\nHeight 165 cm to 185 cm,\nNo overweight nor excessive thinness. BMI (weight Kg/ height m2) between 20 and 27,\nNo personal nor family past record of chronic or acute disease which could affect the physiological data and/or create a risk for the subject during the experiment,\nSubject to be covered by a Social Security system,\nFree of any engagement during four consecutive months.\n\nExclusion Criteria:\n\nHaving given blood (more than 300ml) in a period of three months or less before the start of the experiment,\nSubject already participating in a clinical research experimentation,\nPoor tolerance to blood sampling,\nPast record of orthostatic intolerance,\nCardiac rhythm disorders,\nAllergies,\nIntensive sport training,\nFractures or tendon laceration since less than one year,\nChronic back pains,\nPast records of thrombophlebitis,\nPresence of metallic implants,\nSpecial food diet,\nSleep disorders :Lark and owl type,Subject sleeping more than 10 hours or less than 5 hours,\nPhotosensitive epilepsy."
+       ],
+       "EnrollmentCount": [
+              "28"
+       ],
+       "EnrollmentType": [],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "No"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [],
+       "InterventionBrowseBranchAbbrev": [
+              "BDCA",
+              "All"
+       ],
+       "InterventionBrowseBranchName": [
+              "Bone Density Conservation Agents",
+              "All Drugs and Chemicals"
+       ],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [
+              "M6498"
+       ],
+       "InterventionBrowseLeafName": [
+              "Diphosphonates"
+       ],
+       "InterventionBrowseLeafRelevance": [
+              "low"
+       ],
+       "InterventionDescription": [],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Ethidronate",
+              "Physical training"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Drug",
+              "Behavioral"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "bedrest",
+              "spaceflight",
+              "Weightlessness",
+              "Countermeasure"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "September 4, 2006"
+       ],
+       "LastUpdatePostDateType": [
+              "Estimate"
+       ],
+       "LastUpdateSubmitDate": [
+              "September 1, 2006"
+       ],
+       "LeadSponsorClass": [
+              "OTHER_GOV"
+       ],
+       "LeadSponsorName": [
+              "Centre National d'Etudes Spatiales"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Toulouse"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "France"
+       ],
+       "LocationFacility": [
+              "Medes-Imps"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [
+              "31405"
+       ],
+       "MaximumAge": [
+              "45 Years"
+       ],
+       "MinimumAge": [
+              "25 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Simulation of a Mission Aboard the International Space Station by a Long Duration Anti-Orthostatic Bed Confinement at - 6\u00b0 (90 Days) on Healthy Subjects:1/Perfecting of Preventive Methods (Muscular Exercise and Biphosphonates) and Evaluation of the Effects on the Locomotion and Cardiovascular Systems and on the Lipid and Energy Metabolisms. 2/Pharmacokinetic Assessment: Effects of Position on the Absorption Mechanisms: Pharmacokinetics of Paracetamol Used as Model to Study Oral Absorption in Simulated Weightlessness"
+       ],
+       "OrgClass": [
+              "OTHER_GOV"
+       ],
+       "OrgFullName": [
+              "Centre National d'Etudes Spatiales"
+       ],
+       "OrgStudyId": [
+              "MEDES/00-433"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "MEDES-IMPS"
+       ],
+       "OverallOfficialName": [
+              "Jacques Bernard, Dr"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [],
+       "PatientRegistry": [],
+       "Phase": [
+              "Phase 1"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [],
+       "PrimaryCompletionDateType": [],
+       "PrimaryOutcomeDescription": [],
+       "PrimaryOutcomeMeasure": [
+              "Muscle size and function",
+              "Muscle protein composition, muscle fiber type composition andmuscle enzyme content of soleus and vastus lateralis muscles",
+              "Bone mineral content and structure",
+              "Isokinetic muscle strength (using Cybex)",
+              "Fluid volume shift",
+              "Calcium metabolism and hormonal control",
+              "Sleep assessment by questionnaires and actigraphy",
+              "RR interval from an ECG lead signal by an high impedance probe, Systolic (SAP), Diastolic (DAP) and Mean arterial pressure (MAP) by Finapres (or Portapres) andRespiration by a piezoelectric pneumobelt,",
+              "Acetaminophen pharmacokinetic parameters,",
+              "24 h profile of spine geometry,flexibility index of spine, activity of lower back muscles,",
+              "and subjective rating of back pain",
+              "Maximal oxygen consumption.",
+              "Cardiovascular oxygen transport (oxygen delivery and oxygen return), requiring measurement of cardiac output, heart rate, arterialized blood gas composition, and arterial oxygen saturation.",
+              "Gas exchange kinetics at the onset and offset of exercise, requiring measurement of breath-by-breath ventilation and expired gas composition.",
+              "Blood volume",
+              "Plasma concentrations of arginin vasopressin, atrial natriuretic peptide, renin, endothelin, cyclic GMP and catecholamines. Urine concentrations of catecholamines, arginin vasopressin and cyclic GMP Blood concentration of nitric oxide.",
+              "Total energy expenditure, Lipid metabolism, body composition, water turnover and the formation of metabolic water.",
+              "Heart rate variability and post-ganglionic sympathetic nerve activity.",
+              "Arterial cardiac chronotropic baroreflex sensitivity and ventricular interdependence.",
+              "Ventricular mass and cardiac dimension.",
+              "Muscle architecture, including angle of pennation, fibre length, muscle thickness and muscle cross-sectional area",
+              "Energetics and biomechanics of walking and running",
+              "Parameters of vascular peripheral hemodynamics",
+              "Parameters of central hemodynamics"
+       ],
+       "PrimaryOutcomeTimeFrame": [],
+       "ReferenceCitation": [
+              "Rittweger J, Frost HM, Schiessl H, Ohshima H, Alkner B, Tesch P, Felsenberg D. Muscle atrophy and bone loss after 90 days' bed rest and the effects of flywheel resistive exercise and pamidronate: results from the LTBR study. Bone. 2005 Jun;36(6):1019-29. doi: 10.1016/j.bone.2004.11.014. Epub 2005 Apr 2.",
+              "Watanabe Y, Ohshima H, Mizuno K, Sekiguchi C, Fukunaga M, Kohri K, Rittweger J, Felsenberg D, Matsumoto T, Nakamura T. Intravenous pamidronate prevents femoral bone loss and renal stone formation during 90-day bed rest. J Bone Miner Res. 2004 Nov;19(11):1771-8. doi: 10.1359/JBMR.040811. Epub 2004 Aug 23.",
+              "Rittweger J, Felsenberg D. Patterns of bone loss in bed-ridden healthy young male subjects: results from the Long Term Bed Rest Study in Toulouse. J Musculoskelet Neuronal Interact. 2003 Dec;3(4):290-1; discussion 292-4. No abstract available.",
+              "Gallagher P, Trappe S, Harber M, Creer A, Mazzetti S, Trappe T, Alkner B, Tesch P. Effects of 84-days of bedrest and resistance training on single muscle fibre myosin heavy chain distribution in human vastus lateralis and soleus muscles. Acta Physiol Scand. 2005 Sep;185(1):61-9. doi: 10.1111/j.1365-201X.2005.01457.x.",
+              "Rudnick J, Puttmann B, Tesch PA, Alkner B, Schoser BG, Salanova M, Kirsch K, Gunga HC, Schiffl G, Luck G, Blottner D. Differential expression of nitric oxide synthases (NOS 1-3) in human skeletal muscle following exercise countermeasure during 12 weeks of bed rest. FASEB J. 2004 Aug;18(11):1228-30. doi: 10.1096/fj.03-0792fje. Epub 2004 Jun 4.",
+              "Trappe S, Trappe T, Gallagher P, Harber M, Alkner B, Tesch P. Human single muscle fibre function with 84 day bed-rest and resistance exercise. J Physiol. 2004 Jun 1;557(Pt 2):501-13. doi: 10.1113/jphysiol.2004.062166. Epub 2004 Apr 2.",
+              "Belin de Chantemele E, Pascaud L, Custaud MA, Capri A, Louisy F, Ferretti G, Gharib C, Arbeille P. Calf venous volume during stand-test after a 90-day bed-rest study with or without exercise countermeasure. J Physiol. 2004 Dec 1;561(Pt 2):611-22. doi: 10.1113/jphysiol.2004.069468. Epub 2004 Aug 26.",
+              "Belin de Chantemele E, Blanc S, Pellet N, Duvareille M, Ferretti G, Gauquelin-Koch G, Gharib C, Custaud MA. Does resistance exercise prevent body fluid changes after a 90-day bed rest? Eur J Appl Physiol. 2004 Aug;92(4-5):555-64. doi: 10.1007/s00421-004-1121-6. Epub 2004 May 29.",
+              "Reeves NJ, Maganaris CN, Ferretti G, Narici MV. Influence of simulated microgravity on human skeletal muscle architecture and function. J Gravit Physiol. 2002 Jul;9(1):P153-4.",
+              "Belavy DL, Ohshima H, Rittweger J, Felsenberg D. High-intensity flywheel exercise and recovery of atrophy after 90 days bed--rest. BMJ Open Sport Exerc Med. 2017 Jul 24;3(1):e000196. doi: 10.1136/bmjsem-2016-000196. eCollection 2017."
+       ],
+       "ReferencePMID": [
+              "15811637",
+              "15476576",
+              "15758301",
+              "16128698",
+              "15180967",
+              "15064323",
+              "15331681",
+              "15170571",
+              "15002526",
+              "28761699"
+       ],
+       "ReferenceType": [
+              "result",
+              "result",
+              "result",
+              "result",
+              "result",
+              "result",
+              "result",
+              "result",
+              "result",
+              "derived"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "August 2001"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "April 2006"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "April 6, 2006"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "April 4, 2006"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "April 4, 2006"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

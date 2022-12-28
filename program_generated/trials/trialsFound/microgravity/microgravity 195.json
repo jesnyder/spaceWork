@@ -1,0 +1,1319 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "MaximumAge",
+                     "MinimumAge",
+                     "NCTId",
+                     "NCTIdAlias",
+                     "OfficialTitle",
+                     "OrgClass",
+                     "OrgFullName",
+                     "OrgStudyId",
+                     "OrgStudyIdDomain",
+                     "OrgStudyIdLink",
+                     "OrgStudyIdType",
+                     "OtherEventAssessmentType",
+                     "OtherEventNotes",
+                     "OtherEventOrganSystem",
+                     "OtherEventSourceVocabulary"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "MaximumAge": [
+                                   "50 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Microgravity Effects on Co-cultured Vascular Cells Types"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Florida"
+                            ],
+                            "OrgStudyId": [
+                                   "IRB201700297"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 2,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Effects of Microgravity on Central Aortic Pressure During Parabolic Flights"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2015-A01259-40"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 3,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "The Effects of Microgravity on Human Sperm"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Institut Universitari Dexeus"
+                            ],
+                            "OrgStudyId": [
+                                   "FSD-ATM-2018-03"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 4,
+                            "MaximumAge": [
+                                   "50 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "OR-DRPD-SRI2019: A 3D Hydrogel Model to Assess Endothelial Cell-macrophage Interactions in Simulated Microgravity"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Florida"
+                            ],
+                            "OrgStudyId": [
+                                   "IRB201902002"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 5,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Airway Management With Simulated Microgravity Using a Submerged Model"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Universit\u00e4tsklinikum K\u00f6ln"
+                            ],
+                            "OrgStudyId": [
+                                   "AirMicroMod"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 6,
+                            "MaximumAge": [
+                                   "50 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Responses of the Cardiovascular Systems to Leg Exercises in Microgravity-like Conditions"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Swiss Federal Institute of Technology"
+                            ],
+                            "OrgStudyId": [
+                                   "STAMAS_v1.1_Nov2014"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 7,
+                            "MaximumAge": [
+                                   "80 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Electrical Stimulation of Human Myocytes in Microgravity: An In Vitro Model to Evaluate Therapeutics to Counteract Muscle Wasting (microG)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "AdventHealth Translational Research Institute"
+                            ],
+                            "OrgStudyId": [
+                                   "TRIMD 1311789"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 8,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Muscular Force Generation in Microgravity (ForceGeneration)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2014-A00814-43"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 9,
+                            "MaximumAge": [
+                                   "80 Years"
+                            ],
+                            "MinimumAge": [
+                                   "25 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Study for Evaluating the Impact of Continuous Consumption of Probiotics on Immune Function and Intestinal Microbiota in Astronauts Under Closed Microgravity Environment"
+                            ],
+                            "OrgClass": [
+                                   "INDUSTRY"
+                            ],
+                            "OrgFullName": [
+                                   "Yakult Honsha Co., LTD"
+                            ],
+                            "OrgStudyId": [
+                                   "Probiotics"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 10,
+                            "MaximumAge": [
+                                   "55 Years"
+                            ],
+                            "MinimumAge": [
+                                   "24 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Countermeasure and Functional Testing Study (CFT-70)"
+                            ],
+                            "OrgClass": [
+                                   "FED"
+                            ],
+                            "OrgFullName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "OrgStudyId": [
+                                   "SA-06-2770"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 11,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "11-126"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 12,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "12-084"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 13,
+                            "MaximumAge": [],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "The Schmitz-Hinkelbein Method. A New Method for the Performance of External Chest Compressions During Microgravity."
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Universit\u00e4tsklinikum K\u00f6ln"
+                            ],
+                            "OrgStudyId": [
+                                   "19-1069_1"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 14,
+                            "MaximumAge": [
+                                   "70 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Repetitive Gravitationnal Changes on the Body-environment Relationship"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2022-A01317-36"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 15,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "14-103"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 16,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Effet de l'Impesanteur Sur la Distribution du d\u00e9bit Sanguin c\u00e9r\u00e9bral."
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2018-A01090-55"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 17,
+                            "MaximumAge": [
+                                   "50 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "OR-DRPD-SRI/CASIS2016: The Role of the Space Environment on Vascular Endothelial and Smooth Muscle Cell Processes"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Florida"
+                            ],
+                            "OrgStudyId": [
+                                   "IRB201700080"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 18,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "12-024"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 19,
+                            "MaximumAge": [
+                                   "40 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Standardization of the Dry Immersion Model Used as a Ground-based Model to Mimic Weightlessness. Phase 2: a 5-day Dry Immersion Study on 20 Healthy Male Volunteers (VIVALDI2)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "OrgFullName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "OrgStudyId": [
+                                   "22-282"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 20,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "55 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Microgravity Research Analogue (MRA): Understanding the Health Impact of Inactivity for the Benefit of Older Adults and Astronauts Initiative"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "McGill University Health Centre/Research Institute of the McGill University Health Centre"
+                            ],
+                            "OrgStudyId": [
+                                   "MP-37-2021-7170"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 21,
+                            "MaximumAge": [],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Echocardiographic Assessment of Cardiovascular Adaptation and Counter Measures n Microgravity"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "The Cleveland Clinic"
+                            ],
+                            "OrgStudyId": [
+                                   "NSBRI NCC9-59-172 #3"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 22,
+                            "MaximumAge": [
+                                   "67 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "THE INFLUENCE OF GRAVITY ON TARGET CUEING DURING VISUAL SEARCH USING AUGMENTED REALITY"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "16-115"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 23,
+                            "MaximumAge": [
+                                   "40 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Integrative Study of Physiological Changes Induced by a 5-Day Dry Immersion, Used as a Ground-based Model to Mimic Weightlessness: a Pilot Study on 20 Healthy Female Volunteers (DI5-Women Study)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "OrgFullName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "OrgStudyId": [
+                                   "20-232"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 24,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "11-094"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 25,
+                            "MaximumAge": [
+                                   "40 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Cardiac Autonomic Functions During Head-out Immersion and During Head Down Tilt"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Centre Hospitalier Universitaire de Saint Etienne"
+                            ],
+                            "OrgStudyId": [
+                                   "0708061"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 26,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "DLR German Aerospace Center"
+                            ],
+                            "OrgStudyId": [
+                                   "ESA-AO-06-BR"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 27,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "22 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "14-102"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 28,
+                            "MaximumAge": [
+                                   "67 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "VESTIBULAR EVOKED MYOGENIC POTENTIALS IN ALTERED GRAVITY"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "17-161"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 29,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "MULTI-SYSTEM PHYSIOLOGIC RESPONSE TO VARYING LEVELS OF PARTIAL GRAVITY"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "18-072"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 30,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "25 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Simulation of a Mission Aboard the International Space Station by a Long Duration Anti-Orthostatic Bed Confinement at - 6\u00b0 (90 Days) on Healthy Subjects:1/Perfecting of Preventive Methods (Muscular Exercise and Biphosphonates) and Evaluation of the Effects on the Locomotion and Cardiovascular Systems and on the Lipid and Energy Metabolisms. 2/Pharmacokinetic Assessment: Effects of Position on the Absorption Mechanisms: Pharmacokinetics of Paracetamol Used as Model to Study Oral Absorption in Simulated Weightlessness"
+                            ],
+                            "OrgClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "OrgFullName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "OrgStudyId": [
+                                   "MEDES/00-433"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 31,
+                            "MaximumAge": [
+                                   "35 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "11-008"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 32,
+                            "MaximumAge": [
+                                   "55 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Safe and Effective Countermeasures to Reduce Intracranial Pressure and Ameliorate Visual Impairment in Astronauts (STOP VIIP)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Texas Southwestern Medical Center"
+                            ],
+                            "OrgStudyId": [
+                                   "STU 102015-057"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 33,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "25 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Planetary Habitat Simulation: The Combined Effects of Bed Rest and Normobaric Hypoxia Upon Bone and Mineral Metabolism (WP3)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Nottingham"
+                            ],
+                            "OrgStudyId": [
+                                   "284438/WP3"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 34,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "25 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Planetary Habitat Simulation: An Investigation Into the Effects of Hypoxia and / or Bedrest on Fuel Metabolism and Appetite (WP5)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Nottingham"
+                            ],
+                            "OrgStudyId": [
+                                   "284438/WP5"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 35,
+                            "MaximumAge": [
+                                   "40 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "The Effects of Whole Body Unloading on Physiological Function"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "King's College London"
+                            ],
+                            "OrgStudyId": [
+                                   "206237"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 36,
+                            "MaximumAge": [
+                                   "67 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Effects of Parabolic Flight on Spatial Cognition and Hippocampal Plasticity"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "2015-A02014-45"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 37,
+                            "MaximumAge": [
+                                   "70 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Phase 1 Evaluation of the Influence of Settings of Word Prediction Software (Phase 1)and the Efficiency of Rehabilitation Programm (Phase 2)to Text Input Speed for People With Spinal Cord Injury"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Centre d'Investigation Clinique et Technologique 805"
+                            ],
+                            "OrgStudyId": [
+                                   "12053"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 38,
+                            "MaximumAge": [],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Validation of Kinocardiography, a New Technology Measuring Cardiac Mechanical Activity Via Accelerometers and Gyroscopes"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Erasme University Hospital"
+                            ],
+                            "OrgStudyId": [
+                                   "P2020/502"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 39,
+                            "MaximumAge": [
+                                   "65 Years"
+                            ],
+                            "MinimumAge": [
+                                   "21 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "OrgStudyId": [
+                                   "14-002"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 40,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Effects of a Nutritional Cocktail Consisting of Anti-oxidant and Anti-inflammatory Supplements to Prevent the Deconditioning Induced by 60 Days of Antiorthostatic Bed Rest"
+                            ],
+                            "OrgClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "OrgFullName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "OrgStudyId": [
+                                   "14-981"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 41,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Effects of Thigh Cuffs to Prevent the Deconditioning Induced by 5 Days of Dry Immersion Used as a Ground-based Model to Study the Effects of Weightlessness"
+                            ],
+                            "OrgClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "OrgFullName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "OrgStudyId": [
+                                   "18-179"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     }
+              ]
+       }
+}

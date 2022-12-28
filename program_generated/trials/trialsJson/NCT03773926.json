@@ -1,0 +1,622 @@
+{
+       "Rank": 18,
+       "Acronym": [
+              "TNTA"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "EEG headset is placed on the patients head and the electrodes record the brain activity from F3, F4, FC1 and FC2 (on the 10-10 international localization system of EEG electrodes) and generate feedback.\n\nEach session is composed of 6 blocks of 3 minutes in which the patient is incited to practice a specific cognitive strategy. During the 4 first session, 8 strategies are explored. Then through the therapy, the best cognitive strategies are gradually selected through an automatized process taking in account objective performances and subjective feedback."
+       ],
+       "ArmGroupInterventionName": [
+              "Device: Neuro-feedback therapy"
+       ],
+       "ArmGroupLabel": [
+              "Neuro-feedback therapy"
+       ],
+       "ArmGroupType": [
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT03773926"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Neuro-feedback for treating tinnitus seem to be a promising approach to help people suffering from chronic tinnitus. The past studies on this approach suffered interindividual variability in their results. The investigators' current hypothesis is that the variability of the results is the consequences of two possible flaws: lack of appropriate patient selection and lack of support of the patient during the therapy. This study is aimed at testing these hypotheses."
+       ],
+       "BriefTitle": [
+              "Neuro-feedback Therapy for Treating Tinnitus"
+       ],
+       "CentralContactEMail": [
+              "Alain.londero@aphp.fr",
+              "r.simeon@ch-bry.org"
+       ],
+       "CentralContactName": [
+              "Alain LONDERO",
+              "Renaud SIMEON"
+       ],
+       "CentralContactPhone": [
+              "05 61 77 21 19",
+              "01 40 19 36 61"
+       ],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [
+              "Contact",
+              "Contact"
+       ],
+       "CollaboratorClass": [
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "University Hospital, Toulouse"
+       ],
+       "CompletionDate": [
+              "January 15, 2019"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Tinnitus",
+              "Hearing Loss"
+       ],
+       "ConditionAncestorId": [
+              "D000006311",
+              "D000004427",
+              "D000010038",
+              "D000012678",
+              "D000009461",
+              "D000009422"
+       ],
+       "ConditionAncestorTerm": [
+              "Hearing Disorders",
+              "Ear Diseases",
+              "Otorhinolaryngologic Diseases",
+              "Sensation Disorders",
+              "Neurologic Manifestations",
+              "Nervous System Diseases"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC09",
+              "BC10",
+              "BC23",
+              "All"
+       ],
+       "ConditionBrowseBranchName": [
+              "Ear, Nose, and Throat Diseases",
+              "Nervous System Diseases",
+              "Symptoms and General Pathology",
+              "All Conditions"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Hearing Loss",
+              "Tinnitus"
+       ],
+       "ConditionBrowseLeafId": [
+              "M23573",
+              "M5992",
+              "M15921",
+              "M8552",
+              "M6753",
+              "M12113",
+              "M14642",
+              "M11556"
+       ],
+       "ConditionBrowseLeafName": [
+              "Hearing Loss",
+              "Deafness",
+              "Tinnitus",
+              "Hearing Disorders",
+              "Ear Diseases",
+              "Otorhinolaryngologic Diseases",
+              "Sensation Disorders",
+              "Neurologic Manifestations"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "high",
+              "low",
+              "high",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000034381",
+              "D000014012"
+       ],
+       "ConditionMeshTerm": [
+              "Hearing Loss",
+              "Tinnitus"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "N/A"
+       ],
+       "DesignInterventionModel": [
+              "Single Group Assignment"
+       ],
+       "DesignInterventionModelDescription": [
+              "An efficiency multicentric pilot study on a targeted population for development and use of Neuro-feedback therapy for treating tinnitus."
+       ],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Treatment"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "Many individuals with tinnitus have abnormal oscillatory brain activity in their temporal areas (Weisz et al. (2005), Schlee et al. (2014)). Led by this finding, attempts to normalize such localized pathological activity by neuro-feedback techniques have been tested (Dohrmann et al. (2007), G\u00fctenspenger et al. (2017)). These attempts highlighted interindividual variability that can be explained by lack of selection of the patient population and lack of guidance through the therapy. The present study is aimed at addressing these issues by choosing more selectively a patient subpopulation (tinnitus associated with moderate hearing loss) and by implementing a guidance interface during the treatment.\n\nThe therapy will consist of 10 neuro-feedback training sessions of 29 minutes over 5 weeks. Each session will be composed of 6 blocks of 3 min in which the patient will be incited to practise a specific cognitive strategy (mental exercise such as \"think to a music you like\") and resting state measurements.\n\nEach patient who has been recruited to fit our inclusion and non-inclusion criteria will first go through a clinical assessment of his initial judgment criteria metrics. Then subjects will go through the 5-week training and then will be evaluated on the same criteria just after the end of the therapy and at 3 months after the end of it."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria :\n\nAge > 18\nSocial security affiliation\nPermanent, non-fluctuation, high pitch, bilateral or assimilated, tinnitus\nMean value of the VAS at least at 6 between the intensity and the disturbance criteria at the recruitment interview.\nTHI score superior or equal to 40 at the recruitment interview\nWritten consent to the protocol\nAssociated hearing-loss characterized by :\nmean value of the hearing threshold loss for the 250, 500 and 1000 Hz thresholds strictly under 25 dB (deciBel).\nat least one hearing threshold among the 2000, 4000, 6000 and 8000 Hz with at least 30 dB of hearing loss.\nmean value of the hearing threshold loss for the 2000, 4000, 6000 and 8000 Hz thresholds strictly under 70 dB.\n\nExclusion Criteria:\n\nSubjects under legal protection (guardianship, trusteeship or judicial protection)\nNotable cognitive disability impeding to understanding or performing the cognitive tasks\nMeniere's disease, chronic or serous otitis, acoustic neuroma\nPulsatile tinnitus, somatosensorial tinnitus\nEpilepsy\nNo antidepressant or anti-epileptic drug treatment\nDET (DETresse) questionnaire (measure of tinnitus associated distress) above or equal to 40\nUse of a sound generator during the therapy\nPregnancy or breastfeeding\nInability to wear the electrodes headset of the neuro-feedback device"
+       ],
+       "EnrollmentCount": [
+              "30"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "No"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Neuro-feedback therapy"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "The therapy consists of 10 Neuro-feedback training sessions, 2 times per week over 5 weeks."
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Neuro-feedback therapy"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Device"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Tinnitus",
+              "Neuro-feedback",
+              "Male",
+              "Female",
+              "Tinnitus Handicap Inventory"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [
+              "Recruiting"
+       ],
+       "LastUpdatePostDate": [
+              "December 12, 2018"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "December 11, 2018"
+       ],
+       "LeadSponsorClass": [
+              "INDUSTRY"
+       ],
+       "LeadSponsorName": [
+              "Zeta Technologies"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Paris",
+              "Toulouse"
+       ],
+       "LocationContactEMail": [
+              "r@zetatech.fr",
+              "t@zetatech.fr",
+              "j@zetatech.fr"
+       ],
+       "LocationContactName": [
+              "ROBIN GUILLARD",
+              "THOMAS CERVONI",
+              "ALAIN LONDERO",
+              "RENAUD SIMEON",
+              "Jonathan SCHMUTZ",
+              "Agn\u00e8s AGASSE",
+              "Marie-Jos\u00e9e FRAYSSE"
+       ],
+       "LocationContactPhone": [
+              "0033642480836",
+              "0033638895203",
+              "0033634390378",
+              "00335 61 77 77 70"
+       ],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [
+              "Contact",
+              "Contact",
+              "Principal Investigator",
+              "Sub-Investigator",
+              "Contact",
+              "Contact",
+              "Principal Investigator"
+       ],
+       "LocationCountry": [
+              "France",
+              "France"
+       ],
+       "LocationFacility": [
+              "Audika Research Center",
+              "Purpan University hospital"
+       ],
+       "LocationState": [
+              "Ile De France",
+              "Languedoc-Roussillon-Midi-Pyr\u00e9n\u00e9es"
+       ],
+       "LocationStatus": [
+              "Recruiting",
+              "Recruiting"
+       ],
+       "LocationZip": [
+              "75005",
+              "31300"
+       ],
+       "MaximumAge": [],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Neuro-feedback Therapy for Treating Tinnitus : Efficacy Pilot Study on a Targeted Population"
+       ],
+       "OrgClass": [
+              "INDUSTRY"
+       ],
+       "OrgFullName": [
+              "Zeta Technologies"
+       ],
+       "OrgStudyId": [
+              "2018-A00604-51"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "University Hospital, Toulouse"
+       ],
+       "OverallOfficialName": [
+              "Marie-Jos\u00e9e FRAYSSE"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Unknown status"
+       ],
+       "OversightHasDMC": [],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "January 15, 2019"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "This primary outcome measure denotes the evolution of the deterioration of the quality of life of patients due to tinnitus. THI is a questionnaire composed of 25 questions each with 3 response options converting in 0, 2, and 4 points scoring, making it a scale from 0 to 100 points."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Comparison of initial and final Tinnitus Handicap Inventory (THI) distributions"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Comparison of initial and final THI before and after treatment for a Time frame of 5 weeks."
+       ],
+       "ReferenceCitation": [
+              "Crocetti A, Forti S, Del Bo L. Neurofeedback for subjective tinnitus patients. Auris Nasus Larynx. 2011 Dec;38(6):735-8. doi: 10.1016/j.anl.2011.02.003. Epub 2011 May 17.",
+              "Dohrmann K, Weisz N, Schlee W, Hartmann T, Elbert T. Neurofeedback for treating tinnitus. Prog Brain Res. 2007;166:473-85. doi: 10.1016/S0079-6123(07)66046-4.",
+              "Hartmann T, Lorenz I, Muller N, Langguth B, Weisz N. The effects of neurofeedback on oscillatory processes related to tinnitus. Brain Topogr. 2014 Jan;27(1):149-57. doi: 10.1007/s10548-013-0295-9. Epub 2013 May 23.",
+              "Guillard R, Fraysse MJ, Simeon R, Cervoni T, Schmutz J, Piedfort B, Ferat V, Congedo M, Londero A. A portable neurofeedback device for treating chronic subjective tinnitus: Feasibility and results of a pilot study. Prog Brain Res. 2021;260:167-185. doi: 10.1016/bs.pbr.2020.08.001. Epub 2020 Oct 14."
+       ],
+       "ReferencePMID": [
+              "21592701",
+              "17956812",
+              "23700271",
+              "33637216"
+       ],
+       "ReferenceType": [
+              "background",
+              "background",
+              "background",
+              "derived"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "The secondary outcome measure denotes the evolution of the intensity of tinnitus and the disturbance associated measured by two scales. First the Visual Analog Scale (VAS) for intensity of Tinnitus enables the patient to rate his tinnitus intensity with integers values between 1 to 10 (included). Second, the Visual Analog Scale (VAS) for Tinnitus associated disturbance enables the patient to rate his tinnitus associated diturbance with integers values between 1 to 10 (included). For both scales, a high value (near 10) indicates a high gravity of the symptom, regarding either its intensity or its associated disturbance, while low values (near 1), indicate lighter impact of the symptom regarding its intensity or its associated disturbance. The scores are assessed subjectively by the patient when asked.",
+              "Evaluation of maintenance of effects perceived 3 months after the treatment. The THI and the VAS scales are used similarly to the precedent outcome measures. THI is a questionnaire composed of 25 questions each with 3 response options converting in 0, 2, and 4 points scoring, making it a scale from 0 to 100 points. the Visual Analog Scale (VAS) for intensity of Tinnitus enables the patient to rate his tinnitus intensity with integers values between 1 to 10 (included). The Visual Analog Scale (VAS) for Tinnitus associated disturbance enables the patient to rate his tinnitus associated diturbance with integers values between 1 to 10 (included). For both visual analog scales, a high value (near 10) indicates a high gravity of the symptom, regarding either its intensity or its associated disturbance, while low values (near 1), indicate lighter impact of the symptom regarding its intensity or its associated disturbance.",
+              "Evaluation of potential side effects during the study. At each session patients will be asked if they want to declare any side effects they believe to be related to the treatment.",
+              "Evaluation of the proportion of daily time that the patient reports experiencing and being disturbed by his tinnitus through 4 questions.",
+              "Correlation between the plastic effects induced by therapy on electrophysiological measurements and the assessment of the severity of tinnitus through the THI/VAS.",
+              "Evolution of the precedent quoted measures before and after treatment measured as percentages of the initial value (proportion of evolution of the THI, VAS and BAHIA measurements)."
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Comparison of initial and final Visual Analog Scale (VAS) distributions",
+              "Evolution of Tinnitus Handicap Inventory (THI) and Visual Analog Scales (VAS) on tinnitus intensity and associated disturbance 3 month after the treatment",
+              "Side effects",
+              "Evolution of pathological attention level (BAHIA) standing for (in french) Biphasique, Acouph\u00e8ne, Hyperacousie, Insensibilit\u00e9 de la face et Autres sensations.",
+              "Correlation of the electrophysiological measurements and the THI/VAS measurements",
+              "Evolution of the THI, BAHIA, and VAS scores, expressed as a percentage of the initial value"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "Comparison of initial and final VAS before and after treatment for a Time frame of 5 weeks.",
+              "3 months after the end of the 5 week treatment",
+              "The total duration of the study",
+              "Comparison of initial and final BAHIA before and after treatment for a Time frame of 5 weeks.",
+              "Over the 5 weeks of treatment",
+              "Comparison of initial and final measurements before and after treatment for a Time frame of 5 weeks."
+       ],
+       "SeeAlsoLinkLabel": [
+              "Reduced Variability of Auditory Alpha Activity in Chronic Tinnitus"
+       ],
+       "SeeAlsoLinkURL": [
+              "https://www.hindawi.com/journals/np/2014/436146/"
+       ],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "May 28, 2018"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "December 2018"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "December 12, 2018"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "October 3, 2018"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "December 11, 2018"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

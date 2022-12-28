@@ -1,0 +1,1270 @@
+{
+       "Rank": 6,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [
+              "No"
+       ],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [
+              "No"
+       ],
+       "ArmGroupDescription": [
+              "placebo",
+              "subject does test with no hypergravity training and placebo drug only",
+              "promethazine 25 mg, one time 120 minutes prior to experiment",
+              "promethazine 25 mg, one time 120 minutes prior to experiment. No hypergravity training",
+              "placebo",
+              "subject does test with no hyper gravity training and placebo drug only",
+              "promethazine 25 mg, one time 120 minutes prior to experiment",
+              "promethazine 25 mg, one time 120 minutes prior to experiment",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with promethazine then once with placebo, separated by >4 days.\n\nThis arm corresponds to results published in Diaz-Artiles et al 2017.",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with placebo then once with promethazine, separated by >4 days.\n\nThis arm corresponds to results published in Diaz-Artiles et al 2017."
+       ],
+       "ArmGroupInterventionName": [
+              "Behavioral: Hyper gravity training",
+              "Drug: Placebo",
+              "Drug: Placebo",
+              "Behavioral: No hypergravity training",
+              "Drug: Promethazine",
+              "Behavioral: Hyper gravity training",
+              "Drug: Promethazine",
+              "Behavioral: No hypergravity training",
+              "Behavioral: Hyper gravity training",
+              "Drug: Placebo",
+              "Drug: Placebo",
+              "Behavioral: No hypergravity training",
+              "Drug: Promethazine",
+              "Behavioral: Hyper gravity training",
+              "Drug: Promethazine",
+              "Behavioral: No hypergravity training",
+              "Drug: Promethazine",
+              "Drug: Placebo",
+              "Drug: Promethazine",
+              "Drug: Placebo"
+       ],
+       "ArmGroupLabel": [
+              "Tilt perception, Training, placebo",
+              "Tilt perception, No training, placebo",
+              "Tilt perception, Training, promethazine",
+              "Tilt perception,No training,promethazine",
+              "Manual Control, Training, placebo",
+              "Manual Control, No training, placebo",
+              "Manual Control, Training, promethazine",
+              "Manual Control,No training,promethazine",
+              "Perceptual thresholds,drug then placebo",
+              "Perceptual thresholds,placebo then drug"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "Placebo Comparator",
+              "Experimental",
+              "Experimental",
+              "Experimental",
+              "Placebo Comparator",
+              "Experimental",
+              "Experimental",
+              "Experimental",
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [
+              "Female",
+              "Male",
+              "Hispanic or Latino",
+              "Not Hispanic or Latino",
+              "Unknown or Not Reported",
+              "American Indian or Alaska Native",
+              "Asian",
+              "Native Hawaiian or Other Pacific Islander",
+              "Black or African American",
+              "White",
+              "More than one race",
+              "Unknown or Not Reported"
+       ],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT02136420"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004"
+       ],
+       "BaselineDenomCountValue": [
+              "10",
+              "10",
+              "5",
+              "5",
+              "30"
+       ],
+       "BaselineDenomUnits": [
+              "Participants"
+       ],
+       "BaselineGroupDescription": [
+              "placebo\n\nHyper gravity training: Subject receives hypergravity training before testing\n\nPlacebo: Placebo",
+              "placebo\n\nHyper gravity training: Subject receives hypergravity training before testing\n\nPlacebo: Placebo",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with promethazine then once with placebo, separated by >4 days.\n\nPromethazine: Subject receives promethazine\n\nPlacebo: Placebo",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with placebo then once with promethazine, separated by >4 days.\n\nPromethazine: Subject receives promethazine\n\nPlacebo: Placebo",
+              "Total of all reporting groups"
+       ],
+       "BaselineGroupId": [
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004"
+       ],
+       "BaselineGroupTitle": [
+              "Tilt Perception, Training, Placebo",
+              "Manual Control, Training, Placebo",
+              "Perceptual Thresholds,Drug Then Placebo",
+              "Perceptual Thresholds,Placebo Then Drug",
+              "Total"
+       ],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [
+              "Standard Deviation"
+       ],
+       "BaselineMeasureParamType": [
+              "Mean",
+              "Count of Participants",
+              "Count of Participants",
+              "Count of Participants"
+       ],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [
+              "Age, Continuous",
+              "Sex: Female, Male",
+              "Ethnicity (NIH/OMB)",
+              "Race (NIH/OMB)"
+       ],
+       "BaselineMeasureUnitOfMeasure": [
+              "years",
+              "Participants",
+              "Participants",
+              "Participants"
+       ],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004",
+              "BG000",
+              "BG001",
+              "BG002",
+              "BG003",
+              "BG004"
+       ],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [
+              "6.4",
+              "6.3",
+              "4.2",
+              "2.9",
+              "4.3"
+       ],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [
+              "28.3",
+              "28.0",
+              "27.4",
+              "24.8",
+              "27.6",
+              "4",
+              "6",
+              "1",
+              "2",
+              "13",
+              "6",
+              "4",
+              "4",
+              "3",
+              "17",
+              "1",
+              "1",
+              "1",
+              "1",
+              "4",
+              "9",
+              "9",
+              "4",
+              "4",
+              "26",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "3",
+              "3",
+              "0",
+              "0",
+              "6",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "1",
+              "0",
+              "1",
+              "0",
+              "2",
+              "6",
+              "7",
+              "4",
+              "3",
+              "20",
+              "0",
+              "0",
+              "0",
+              "2",
+              "2",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+       ],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The investigators will study adaptation of motion perception and manual control in altered gravity, including the effects of a drug (promethazine). The investigators will also study whether promethazine affects motion perceptual thresholds."
+       ],
+       "BriefTitle": [
+              "Countermeasures to Reduce Sensorimotor Impairment and Space Motion Sickness Resulting From Altered Gravity Levels"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "National Space Biomedical Research Institute",
+              "Massachusetts Institute of Technology"
+       ],
+       "CompletionDate": [
+              "December 2016"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Vestibular"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [
+              "BC23",
+              "All"
+       ],
+       "ConditionBrowseBranchName": [
+              "Symptoms and General Pathology",
+              "All Conditions"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Motion Sickness",
+              "Space Motion Sickness"
+       ],
+       "ConditionBrowseLeafId": [
+              "M11154",
+              "M19746"
+       ],
+       "ConditionBrowseLeafName": [
+              "Motion Sickness",
+              "Space Motion Sickness"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "high",
+              "high"
+       ],
+       "ConditionMeshId": [
+              "D000009041",
+              "D000018489"
+       ],
+       "ConditionMeshTerm": [
+              "Motion Sickness",
+              "Space Motion Sickness"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Crossover Assignment"
+       ],
+       "DesignInterventionModelDescription": [
+              "The design includes three separate studies:\n\nArm 9&10 follows a crossover design. These results were reported in Diaz-Artiles et al 2017.\nArms 1-4 are a separate study which follow a factorial design, with arm 2 serving as the placebo, arms 1 and 3 assessing the effects of two separate interventions and arm 4 assessing the effect of two combined interventions.\nArms 5-8 are a separate study which follow a factorial design, with arm 6 serving as the placebo, arms 5 and 7 assessing the effects of two separate interventions and arm 8 assessing the effect of two combined interventions."
+       ],
+       "DesignMasking": [
+              "Double"
+       ],
+       "DesignMaskingDescription": [
+              "Double masking applies to arms 9&10. Other arms use participant masking only."
+       ],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+       ],
+       "DetailedDescription": [
+              "Adaptation to altered gravity has been of concern from the earliest reports of space motion sickness, through the Apollo exploration era, and into current planning of exploration missions. The proposed research program takes a new approach which could lead to an effective, practical and acceptable protocol for preadapting astronauts to space flight. By using the gravito-inertial alterations possible with centrifugation in different body orientations the investigators will quantify an individual's sensory adaptation capability and use it to predict and to minimize the consequences of movement in any other gravity environment - eventually including weightlessness. The investigators will also study whether a drug (promethazine) affects motion perception and motion sickness."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nSubjects must be in general good health\n\nExclusion Criteria:\n\nAnyone who is not generally in good general health does not qualify\nCardiovascular disease\nSevere diabetes\nRespiratory condition (e.g. asthma or emphysema)\nNarrow angle glaucoma\nProstatic hypertrophy\nGastrointestinal disorders"
+       ],
+       "EnrollmentCount": [
+              "30"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+       ],
+       "EventGroupDeathsNumAtRisk": [
+              "10",
+              "0",
+              "0",
+              "0",
+              "10",
+              "10",
+              "10",
+              "0",
+              "0",
+              "0"
+       ],
+       "EventGroupDescription": [],
+       "EventGroupId": [
+              "EG000",
+              "EG001",
+              "EG002",
+              "EG003",
+              "EG004",
+              "EG005",
+              "EG006",
+              "EG007",
+              "EG008",
+              "EG009"
+       ],
+       "EventGroupOtherNumAffected": [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+       ],
+       "EventGroupOtherNumAtRisk": [
+              "10",
+              "0",
+              "0",
+              "0",
+              "10",
+              "10",
+              "10",
+              "0",
+              "0",
+              "0"
+       ],
+       "EventGroupSeriousNumAffected": [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+       ],
+       "EventGroupSeriousNumAtRisk": [
+              "10",
+              "0",
+              "00",
+              "0",
+              "10",
+              "10",
+              "10",
+              "0",
+              "0",
+              "0"
+       ],
+       "EventGroupTitle": [
+              "Tilt Perception, Training, Placebo",
+              "Tilt Perception, No Training, Placebo",
+              "Tilt Perception, Training, Promethazine",
+              "Tilt Perception, No Training, Promethazine",
+              "Perceptual Threshold Testing: Promethazine",
+              "Perceptual Motion Threshold Testing: Placebo",
+              "Manual Control, Training, Placebo",
+              "Manual Control, No Training, Placebo",
+              "Manual Control, Training, Promethazine",
+              "Manual Control, No Training, Promethazine"
+       ],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [
+              "0"
+       ],
+       "EventsTimeFrame": [
+              "1 week"
+       ],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [
+              "FG000",
+              "FG001",
+              "FG002",
+              "FG003",
+              "FG004",
+              "FG005",
+              "FG006",
+              "FG007",
+              "FG008",
+              "FG009",
+              "FG000",
+              "FG001",
+              "FG002",
+              "FG003",
+              "FG004",
+              "FG005",
+              "FG006",
+              "FG007",
+              "FG008",
+              "FG009",
+              "FG000",
+              "FG001",
+              "FG002",
+              "FG003",
+              "FG004",
+              "FG005",
+              "FG006",
+              "FG007",
+              "FG008",
+              "FG009"
+       ],
+       "FlowAchievementNumSubjects": [
+              "10",
+              "0",
+              "0",
+              "0",
+              "10",
+              "0",
+              "0",
+              "0",
+              "5",
+              "5",
+              "9",
+              "0",
+              "0",
+              "0",
+              "10",
+              "0",
+              "0",
+              "0",
+              "5",
+              "5",
+              "1",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+       ],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [
+              "placebo",
+              "subject does test with no hypergravity training and placebo drug only",
+              "promethazine 25 mg, one time 120 minutes prior to experiment",
+              "promethazine 25 mg, one time 120 minutes prior to experiment. No hypergravity training",
+              "placebo",
+              "subject does test with no hyper gravity training and placebo drug only",
+              "promethazine 25 mg, one time 120 minutes prior to experiment",
+              "promethazine 25 mg, one time 120 minutes prior to experiment",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with promethazine then once with placebo, separated by >4 days.\n\nThis arm corresponds to results published in Diaz-Artiles et al 2017.",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with placebo then once with promethazine, separated by >4 days.\n\nThis arm corresponds to results published in Diaz-Artiles et al 2017."
+       ],
+       "FlowGroupId": [
+              "FG000",
+              "FG001",
+              "FG002",
+              "FG003",
+              "FG004",
+              "FG005",
+              "FG006",
+              "FG007",
+              "FG008",
+              "FG009"
+       ],
+       "FlowGroupTitle": [
+              "Tilt Perception, Training, Placebo",
+              "Tilt Perception, No Training, Placebo",
+              "Tilt Perception, Training, Promethazine",
+              "Tilt Perception,No Training,Promethazine",
+              "Manual Control, Training, Placebo",
+              "Manual Control, No Training, Placebo",
+              "Manual Control, Training, Promethazine",
+              "Manual Control,No Training,Promethazine",
+              "Perceptual Thresholds,Drug Then Placebo",
+              "Perceptual Thresholds,Placebo Then Drug"
+       ],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [
+              "STARTED",
+              "COMPLETED",
+              "NOT COMPLETED"
+       ],
+       "FlowPeriodTitle": [
+              "Overall Study"
+       ],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "Undecided"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [
+              "D000000982",
+              "D000003879",
+              "D000006634",
+              "D000006633",
+              "D000018494",
+              "D000018377",
+              "D000045504",
+              "D000045505",
+              "D000018926",
+              "D000068776",
+              "D000006993",
+              "D000002492",
+              "D000000779",
+              "D000000777",
+              "D000018689",
+              "D000018373",
+              "D000000932",
+              "D000001337",
+              "D000005765"
+       ],
+       "InterventionAncestorTerm": [
+              "Antipruritics",
+              "Dermatologic Agents",
+              "Histamine H1 Antagonists",
+              "Histamine Antagonists",
+              "Histamine Agents",
+              "Neurotransmitter Agents",
+              "Molecular Mechanisms of Pharmacological Action",
+              "Physiological Effects of Drugs",
+              "Anti-Allergic Agents",
+              "Sleep Aids, Pharmaceutical",
+              "Hypnotics and Sedatives",
+              "Central Nervous System Depressants",
+              "Anesthetics, Local",
+              "Anesthetics",
+              "Sensory System Agents",
+              "Peripheral Nervous System Agents",
+              "Antiemetics",
+              "Autonomic Agents",
+              "Gastrointestinal Agents"
+       ],
+       "InterventionArmGroupLabel": [
+              "Manual Control, Training, promethazine",
+              "Manual Control,No training,promethazine",
+              "Perceptual thresholds,drug then placebo",
+              "Perceptual thresholds,placebo then drug",
+              "Tilt perception, Training, promethazine",
+              "Tilt perception,No training,promethazine",
+              "Manual Control, Training, placebo",
+              "Manual Control, Training, promethazine",
+              "Tilt perception, Training, placebo",
+              "Tilt perception, Training, promethazine",
+              "Manual Control, No training, placebo",
+              "Manual Control, Training, placebo",
+              "Perceptual thresholds,drug then placebo",
+              "Perceptual thresholds,placebo then drug",
+              "Tilt perception, No training, placebo",
+              "Tilt perception, Training, placebo",
+              "Manual Control, No training, placebo",
+              "Manual Control,No training,promethazine",
+              "Tilt perception, No training, placebo",
+              "Tilt perception,No training,promethazine"
+       ],
+       "InterventionBrowseBranchAbbrev": [
+              "AAll",
+              "AnEm",
+              "CNSDep",
+              "Gast",
+              "All",
+              "Derm"
+       ],
+       "InterventionBrowseBranchName": [
+              "Anti-Allergic Agents",
+              "Antiemetics",
+              "Central Nervous System Depressants",
+              "Gastrointestinal Agents",
+              "All Drugs and Chemicals",
+              "Dermatologic Agents"
+       ],
+       "InterventionBrowseLeafAsFound": [
+              "Idiopathic Scoliosis",
+              "Idiopathic Scoliosis"
+       ],
+       "InterventionBrowseLeafId": [
+              "M6490",
+              "M13420",
+              "M6226",
+              "M8862",
+              "M8860",
+              "M212140",
+              "M8861",
+              "M19657",
+              "M20115",
+              "M9195",
+              "M3259",
+              "M3261",
+              "M3403",
+              "M8033"
+       ],
+       "InterventionBrowseLeafName": [
+              "Diphenhydramine",
+              "Promethazine",
+              "Dermatologic Agents",
+              "Histamine H1 Antagonists",
+              "Histamine",
+              "Histamine phosphate",
+              "Histamine Antagonists",
+              "Neurotransmitter Agents",
+              "Anti-Allergic Agents",
+              "Hypnotics and Sedatives",
+              "Anesthetics",
+              "Anesthetics, Local",
+              "Antiemetics",
+              "Gastrointestinal Agents"
+       ],
+       "InterventionBrowseLeafRelevance": [
+              "high",
+              "high",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "InterventionDescription": [
+              "Subject receives promethazine",
+              "Subject receives hypergravity training before testing",
+              "Placebo",
+              "Subjects do not receive normal Earth gravity"
+       ],
+       "InterventionMeshId": [
+              "D000011398",
+              "D000004155"
+       ],
+       "InterventionMeshTerm": [
+              "Promethazine",
+              "Diphenhydramine"
+       ],
+       "InterventionName": [
+              "Promethazine",
+              "Hyper gravity training",
+              "Placebo",
+              "No hypergravity training"
+       ],
+       "InterventionOtherName": [
+              "Phenergan",
+              "corn starch"
+       ],
+       "InterventionType": [
+              "Drug",
+              "Behavioral",
+              "Drug",
+              "Behavioral"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "January 8, 2018"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "December 7, 2017"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Faisal_Karmali@MEEI.HARVARD.EDU"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Boston"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States"
+       ],
+       "LocationFacility": [
+              "Massachusetts Eye and Ear Infirmary"
+       ],
+       "LocationState": [
+              "Massachusetts"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "02114"
+       ],
+       "MaximumAge": [
+              "45 Years"
+       ],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Countermeasures to Reduce Sensorimotor Impairment and Space Motion Sickness Resulting From Altered Gravity Levels"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Massachusetts Eye and Ear Infirmary"
+       ],
+       "OrgStudyId": [
+              "497997"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [
+              "Placebo",
+              "Promethazine",
+              "Placebo",
+              "Promethazine",
+              "Placebo",
+              "Promethazine"
+       ],
+       "OutcomeDenomCountGroupId": [
+              "OG000",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000"
+       ],
+       "OutcomeDenomCountValue": [
+              "9",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "10"
+       ],
+       "OutcomeDenomUnits": [
+              "Participants",
+              "Participants",
+              "Participants",
+              "Participants",
+              "Participants"
+       ],
+       "OutcomeGroupDescription": [
+              "placebo\n\nHyper gravity training: Subject receives hypergravity training before testing\n\nPlacebo: Placebo",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with promethazine then once with placebo, separated by >4 days.\n\nPromethazine: Subject receives promethazine\n\nPlacebo: Placebo",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with placebo then once with promethazine, separated by >4 days.",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with promethazine then once with placebo, separated by >4 days.\n\nPromethazine: Subject receives promethazine\n\nPlacebo: Placebo",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with placebo then once with promethazine, separated by >4 days.",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with promethazine then once with placebo, separated by >4 days.\n\nPromethazine: Subject receives promethazine\n\nPlacebo: Placebo",
+              "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with placebo then once with promethazine, separated by >4 days.",
+              "placebo\n\nHyper gravity training: Subject receives hypergravity training before testing\n\nPlacebo: Placebo"
+       ],
+       "OutcomeGroupId": [
+              "OG000",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000"
+       ],
+       "OutcomeGroupTitle": [
+              "Training, Placebo",
+              "Perceptual Thresholds,Drug Then Placebo",
+              "Perceptual Thresholds,Placebo Then Drug",
+              "Perceptual Thresholds,Drug Then Placebo",
+              "Perceptual Thresholds,Placebo Then Drug",
+              "Perceptual Thresholds,Drug Then Placebo",
+              "Perceptual Thresholds,Placebo Then Drug",
+              "Training, Placebo"
+       ],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [
+              "Note that this applies to arms 1-4 only.\n\nSubjects sat on a chair on a moving platform on top of a centrifuge that created an artificial gravity environment. Subjects were repeatedly roll tilted to angles between 11 and 19 degrees, and then reported their perceived tilt angle using a subjective visual vertical task. They did this while experiencing centripetal acceleration equivalent to Earth gravity (1 Gz), and then hypogravity (0.5 Gz). We hypothesized that, after entering hypogravity, subjects would tend to underestimate their tilt angle. We calculated the percent change in their perception of tilt between 1 Gz and 0.5 Gz.",
+              "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Yaw rotation means rotations about an axis that is perpendicular to gravity.\n\nThis outcome measure applies only to arm 5 subjects.",
+              "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Roll tilt means rotations about an axis that is Earth-horizontal.\n\nThis outcome measure applies only to arm 5 subjects.",
+              "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Interaural translation refers to translations in the horizontal plane to the subject's left or right.\n\nThis outcome measure applies only to arm 5 subjects.",
+              "Note that this applies to arms 6-9 only.\n\nSubjects sat on a chair on a moving platform on top of a centrifuge that created an artificial gravity environment. Subjects completed a manual control task in which their charge was randomly perturbed in roll tilt, and they used a joystick to attempt to keep themselves aligned with upright, while in the dark. They did this while experiencing centripetal acceleration equivalent to Earth gravity (1 Gz), and then hypogravity (0.5 Gz). We calculated their performance by calculating the standard deviation of chair position across time, with a smaller number indicating better performance. Then we calculated the percent change in their performance between 1 Gz and 0.5 Gz."
+       ],
+       "OutcomeMeasureDispersionType": [
+              "Full Range",
+              "Standard Deviation",
+              "Standard Deviation",
+              "Standard Deviation",
+              "Standard Deviation"
+       ],
+       "OutcomeMeasureParamType": [
+              "Mean",
+              "Geometric Mean",
+              "Geometric Mean",
+              "Geometric Mean",
+              "Mean"
+       ],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [
+              "Posted",
+              "Posted",
+              "Posted",
+              "Posted",
+              "Posted"
+       ],
+       "OutcomeMeasureTimeFrame": [
+              "1 session",
+              "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+              "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+              "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+              "1 session"
+       ],
+       "OutcomeMeasureTitle": [
+              "Percent Change in Roll Tilt Perception After Exposure to Hypogravity",
+              "Yaw Perceptual Motion Threshold",
+              "Roll Perceptual Motion Threshold",
+              "Interaural Perceptual Motion Threshold",
+              "Percent Change in Manual Control Performance After Exposure to Hypogravity"
+       ],
+       "OutcomeMeasureType": [
+              "Primary",
+              "Primary",
+              "Primary",
+              "Primary",
+              "Primary"
+       ],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [
+              "percentage change",
+              "deg per sec",
+              "deg per sec",
+              "cm per sec",
+              "percentage change"
+       ],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [
+              "OG000",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000",
+              "OG001",
+              "OG000"
+       ],
+       "OutcomeMeasurementLowerLimit": [
+              "7.4"
+       ],
+       "OutcomeMeasurementSpread": [
+              ".25",
+              ".29",
+              ".19",
+              ".26",
+              ".15",
+              ".12",
+              ".20",
+              ".13",
+              ".17",
+              ".23",
+              ".39",
+              ".16",
+              "48.8"
+       ],
+       "OutcomeMeasurementUpperLimit": [
+              "57.1"
+       ],
+       "OutcomeMeasurementValue": [
+              "27.0",
+              ".83",
+              ".92",
+              ".86",
+              "1.06",
+              ".27",
+              ".32",
+              ".39",
+              ".39",
+              ".57",
+              ".78",
+              ".77",
+              ".80",
+              "75.4"
+       ],
+       "OverallOfficialAffiliation": [
+              "Massachusetts Eye and Ear Infirmary"
+       ],
+       "OverallOfficialName": [
+              "Faisal Karmali, Ph.D."
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Phase 4"
+       ],
+       "PointOfContactEMail": [
+              "faisal_karmali@meei.harvard.edu"
+       ],
+       "PointOfContactOrganization": [
+              "Massachusetts Eye and Ear Infirmary"
+       ],
+       "PointOfContactPhone": [
+              "617-573-5593"
+       ],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [
+              "Faisal Karmali"
+       ],
+       "PrimaryCompletionDate": [
+              "December 2016"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Note that this applies to arms 1-4 only.\n\nSubjects sat on a chair on a moving platform on top of a centrifuge that created an artificial gravity environment. Subjects were repeatedly roll tilted to angles between 11 and 19 degrees, and then reported their perceived tilt angle using a subjective visual vertical task. They did this while experiencing centripetal acceleration equivalent to Earth gravity (1 Gz), and then hypogravity (0.5 Gz). We hypothesized that, after entering hypogravity, subjects would tend to underestimate their tilt angle. We calculated the percent change in their perception of tilt between 1 Gz and 0.5 Gz.",
+              "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Yaw rotation means rotations about an axis that is perpendicular to gravity.\n\nThis outcome measure applies only to arm 5 subjects.",
+              "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Roll tilt means rotations about an axis that is Earth-horizontal.\n\nThis outcome measure applies only to arm 5 subjects.",
+              "This is a perceptual self-motion threshold that measures the precision of the vestibular system. It is analogous to an audiogram, but for motion. Subjects sat on a motorized platform which repeatedly provided them with small motions to the left or right. After each motion subjects report whether they perceived a motion to the left or right. Based on subject responses, a psychometric curve fit is performed that determines the threshold (the standard deviation of the underlying cumulative Gaussian). Interaural translation refers to translations in the horizontal plane to the subject's left or right.\n\nThis outcome measure applies only to arm 5 subjects.",
+              "Note that this applies to arms 6-9 only.\n\nSubjects sat on a chair on a moving platform on top of a centrifuge that created an artificial gravity environment. Subjects completed a manual control task in which their charge was randomly perturbed in roll tilt, and they used a joystick to attempt to keep themselves aligned with upright, while in the dark. They did this while experiencing centripetal acceleration equivalent to Earth gravity (1 Gz), and then hypogravity (0.5 Gz). We calculated their performance by calculating the standard deviation of chair position across time, with a smaller number indicating better performance. Then we calculated the percent change in their performance between 1 Gz and 0.5 Gz."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Percent Change in Roll Tilt Perception After Exposure to Hypogravity",
+              "Yaw Perceptual Motion Threshold",
+              "Roll Perceptual Motion Threshold",
+              "Interaural Perceptual Motion Threshold",
+              "Percent Change in Manual Control Performance After Exposure to Hypogravity"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "1 session",
+              "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+              "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+              "2 sessions separated by at least four days; measurements made 2 hrs after ingestion of medication",
+              "1 session"
+       ],
+       "ReferenceCitation": [
+              "Diaz-Artiles A, Priesol AJ, Clark TK, Sherwood DP, Oman CM, Young LR, Karmali F. The Impact of Oral Promethazine on Human Whole-Body Motion Perceptual Thresholds. J Assoc Res Otolaryngol. 2017 Aug;18(4):581-590. doi: 10.1007/s10162-017-0622-z. Epub 2017 Apr 24."
+       ],
+       "ReferencePMID": [
+              "28439720"
+       ],
+       "ReferenceType": [
+              "result"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "Massachusetts Eye and Ear Infirmary"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Faisal_Karmali@MEEI.HARVARD.EDU"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Primary Investigator"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor-Investigator"
+       ],
+       "ResultsFirstPostDate": [
+              "January 8, 2018"
+       ],
+       "ResultsFirstPostDateType": [
+              "Actual"
+       ],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [
+              "August 16, 2017"
+       ],
+       "ResultsFirstSubmitQCDate": [
+              "December 7, 2017"
+       ],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "June 2014"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "December 2017"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "May 13, 2014"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "April 30, 2014"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "May 8, 2014"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}

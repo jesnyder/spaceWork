@@ -1,0 +1,583 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "DesignTimePerspective",
+                     "DesignWhoMasked",
+                     "DetailedDescription",
+                     "DispFirstPostDate",
+                     "DispFirstPostDateType",
+                     "DispFirstSubmitDate",
+                     "DispFirstSubmitQCDate",
+                     "EligibilityCriteria",
+                     "EnrollmentCount",
+                     "EnrollmentType",
+                     "EventGroupDeathsNumAffected",
+                     "EventGroupDeathsNumAtRisk",
+                     "EventGroupDescription",
+                     "EventGroupId",
+                     "EventGroupOtherNumAffected",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Outcomes Assessor"
+                            ],
+                            "DetailedDescription": [
+                                   "Experiments were conducted in a human centrifuge. The protocol aimed at mimicking a routine peacetime flight in combat aircraft, and included 10-min exposure to +1.4 - +3.5 Gz. Subjects were exposed three times to this sequence, breathing air, 44.5% O2 or 100% O2.\n\nTen volunteers wearing anti-G trousers participated in the study. The Ethics Committee Ile-de-France III and the French National Agency for Drug Safety (ANSM) approved the protocol (number 2009-A01092-55).\n\nThree different imaging techniques, electrical impedance tomography (EIT), pulmonary ultrasound and chest SPECT/CT were used and compared. EIT enabled ventilation monitoring in the human centrifuge, whereas pulmonary ultrasound and SPECT/CT gave functional and topographical information before and after exposure to +Gz accelerations. EIT analysis focused on regional ventilation, SPECT on global lung ventilation and perfusion, CT on the presence of atelectasis, and pulmonary ultrasound analysis looked for comet tails in 64 chest areas. Arterial blood pressure was recorded continuously by finger photoplethysmography. Cardiac output and stroke volume were computed from these recordings, using three different algorithms. Echocardiography was used as reference non-invasive technique for stroke volume determination and performed before and after exposure to +Gz accelerations."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nnormal lung function checked by pulmonary function tests\n\nPart 1 exclusion Criteria:\n\npast medical history of heart or lung disease\ncurrent medical treatment for heart or lung disease\nsmoking\nbad tolerance to +Gz accelerations (G-induced loss of consciousness, motion sickness)\n\nPart 2 exclusion criteria:\n\npast medical history of heart or lung disease\ncurrent medical treatment for heart or lung disease\nsmoking\nThe use of medication for hypertension\nasymmetric values of left/right humeral arterial blood pressure\nsignificant echocardiographic abnormalities or bad echogenicity\nbad tolerance to +Gz accelerations (G-induced loss of consciousness, motion sickness)"
+                            ],
+                            "EnrollmentCount": [
+                                   "20"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Standard rehabilitation protocols will be used with every subject, depending on the cause of their shoulder pain. The treating clinician will determine the appropriate therapy protocol for each subject.\n\nDuring the treatment sessions, subjects will wear a very comfortable waist belt attached with rubber band to anchor points on the ground (the rubber bands will be tighten to simulate the extra-gravity).\n\nUpon enrollment, the treating clinician will randomly assign the subject to one of four groups depending on the type of loading and exercise typology.\n\nThe hyper-gravity will be simulated as an additional 50% of subject's body weight.\n\nThe frequency and duration of each therapy session will be determined by the treating clinician (usually 45 minutes of therapy twice a week for 4 weeks).\n\nBefore, after and 24h post therapy session, the subject will grade the pain level using a numeric pain scale (0 no pain; 10 unbearable pain requiring pain medication).\n\nAs part of the rehabilitation therapy procedure, subjects will undergo shoulder range of motion evaluations (done by a trained clinician in approximately 3 minutes) and Computer Dynamic Posturography (CDP) testing on a 4\" tall foam cushion with eyes closed (PSEC test - less than 1 minute of testing) before and after each therapy session.\n\nSubjects will complete the DASH and TOSSA questionnaires (the total amount of time required to complete these assessment is ~20 minutes), and will be tested using the modified Clinical Testing of Sensory Integration in Balance (mCTSIB) protocol (the subjects will be required to stand on a hard or compliant surface (a 4\" tall foam cushion of known mechanical properties) in a comfortable posture, feet shoulder width, with eyes open or closed, head straight and arms to the side and free to move, gazing forward, and breathing normally, less than 2 minutes testing time) at the time of enrollment and at the end of the 4 week therapy program.\n\nSubjects will be asked to come back for two more evaluations (questionnaires, range of motion assessment, and CDP testing) one month and three months after the end of the 4 week therapy program to identify possible long term effects of the \"hyper-gravity/accentuated vertical loading\" therapy."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nDiagnosis of shoulder pain (potentially including rotator cuff pathology, impingement, bursitis, SLAP tear)\n\nExclusion Criteria:\n\nadhesive capsulitis, fracture, dislocation, inflammatory arthritis, cancer, ligament disruption"
+                            ],
+                            "EnrollmentCount": [
+                                   "0"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nSubjects will be staff member of the team or of other teams participating in the parabolic flight campaign\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPersons with prior serious injuries to their head\nPersons who take any medication or drugs influencing their central nervous system or cognitive performance\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "24"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 67\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged between 18-65 years\nAffiliates to a social security system or, for non-residents in France, holder of a European Health Insurance Card European (EHIC European Health Insurance Card)\nWho are willing to take part in the study,\nWho gave written informed consent,\nDeclared fit after a similar visit to a medical aeronautical medical fitness for the non-professional cabin crew in civil aviation. There will be no other aptitude tests for the selection of subjects.\n\nExclusion Criteria:\n\nPeople who took part in a biomedical research protocol for which the exclusion period is complete,\nPeople with psychotic disorders and / or depression,\nPeople receiving psychotropic medication,\nPeople with alcohol dependence or illicit substances,\nPeople with visual acuity less than 8 / 10ths corrected by lenses or glasses,\nPeople with a significant decrease in hearing,\npregnant women."
+                            ],
+                            "EnrollmentCount": [
+                                   "24"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Participant",
+                                   "Investigator"
+                            ],
+                            "DetailedDescription": [
+                                   "Adaptation to altered gravity has been of concern from the earliest reports of space motion sickness, through the Apollo exploration era, and into current planning of exploration missions. The proposed research program takes a new approach which could lead to an effective, practical and acceptable protocol for preadapting astronauts to space flight. By using the gravito-inertial alterations possible with centrifugation in different body orientations the investigators will quantify an individual's sensory adaptation capability and use it to predict and to minimize the consequences of movement in any other gravity environment - eventually including weightlessness. The investigators will also study whether a drug (promethazine) affects motion perception and motion sickness."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nSubjects must be in general good health\n\nExclusion Criteria:\n\nAnyone who is not generally in good general health does not qualify\nCardiovascular disease\nSevere diabetes\nRespiratory condition (e.g. asthma or emphysema)\nNarrow angle glaucoma\nProstatic hypertrophy\nGastrointestinal disorders"
+                            ],
+                            "EnrollmentCount": [
+                                   "30"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0"
+                            ],
+                            "EventGroupDeathsNumAtRisk": [
+                                   "10",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "10",
+                                   "10",
+                                   "10",
+                                   "0",
+                                   "0",
+                                   "0"
+                            ],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [
+                                   "EG000",
+                                   "EG001",
+                                   "EG002",
+                                   "EG003",
+                                   "EG004",
+                                   "EG005",
+                                   "EG006",
+                                   "EG007",
+                                   "EG008",
+                                   "EG009"
+                            ],
+                            "EventGroupOtherNumAffected": [
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0",
+                                   "0"
+                            ],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Investigations description ----------------------------------\n\nDuring the experiments, subjects will jump in different gravity fields while submitted to an additional pull-down force equal to 0-100% of their body weight on Earth. During the takeoff and landing phases of the jumps, the ground reaction force will be recorded by a force-platform, the movements of the limb segments will be recorded by means of a high-speed camera and the electrical activity (EMG) of the main lower limb muscles will be recorded by means of surface electrodes.\n\nForce platform and Subject Loading System We have developed a device that combines a force platform on which the subject jumps and a Subject Loading System (SLS) that pulls the subject downwards.\n\nThe force platform is a 60 cm x 40 cm aluminum plate equipped with four force-transducers that measure the three components of the force exerted by the subject's feet on the ground.\n\nThe SLS consists in two pneumatic pistons, which are attached to a harness on one end and to the aluminum plate on the other. The SLS can be set to generate a force equal to 20-100% of the subject's body weight on Earth.\n\nA security handrail (not shown on the picture) is attached to the aluminum plate, around the force-platform in case of unbalance of the subject.\n\nEMG EMG will be recorded with a MyoSystem 1400L using surface electrodes. The skin will be shaved (if necessary) and the electrodes will be attached with double sided tape and plaster. The electrodes will be placed at the level of the lateral gastrocnemius, medial gastrocnemius, tibialis anterior and peroneus longus, and on the thigh at the level of the vastus lateralis, vastus medialis and lateral hamstrings and medial hamstrings. There will be 2 electrodes per muscle (fixed one against the other) and one reference electrode placed at the level of the C7 vertebra.\n\nManufacturer: Noraxon. Conformity certificate: CE 344\n\nVideo Movements of the subject will be recorded by means of a high-speed digital camera (Basler). In order to facilitate video analysis, 7 reflective markers (hemisphere with a 12 mm diameter) will delimit body segments: 3 will be glued on one shoe, 3 will be fixed on the skin (with the same method used for EMG electrodes) at the level of the ankle, knee, hip of one limb and the last one will be fixed on the neck.\n\nExperimental protocol\n\n----------------------------\n\nBefore flight subjects will be familiarized with the setup and the protocol. For each flight day, one subject will be studied. The procedure will be the following on all 3 days.\n\nThe experiment day starts at 7.30 a.m. with the test subject equipped with EMG electrodes and video markers. After take-off and after work is permitted, the subject goes to the experimental area where it is equipped with the SLS harness. Before each parabola, the subject stands beside the platform to adjust the zero level of the sensor (about 3 second). Then the subject steps on the platform to record his weight (about 3 second).\n\nDuring the hypergravity initial part in of the parabola, the subject is standing with is two feet on each side of the platform. The traction system is loose (5 kg traction). During the injection, the traction system starts to progressively pull downwards on the subject. The traction force is tuned between 20% and 100% of body weight on Earth. The traction force is constant during each parabola. During the 20 second of weightlessness or partial gravity, the subject jumps several times. At the end of the parabola, the subject puts his feet at the side of the platform and the traction system stops to pull downwards before the pull out phase.\n\nThis experiment will also be performed during periods of increased gravity obtained during turns of the airplane. Three turns per flight should be performed at 3 levels of gravity: 1.2, 1.4 g and 1.6 g.\n\nDuring each parabola or turn, one experimenter is taking care of the control of the traction system and of the collection of the data, a second one takes care of the image acquisition, and a third one takes care of the modification of the configuration of the harness between the parabolas and of the safety of the subject in case of unbalance during the parabolas or during the turn."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude. There will be no additional test performed for subject selection\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women\nPerson with medical history of musculoskeletal disorders of the lower limbs, pelvis or spine, neurological or vestibular disorders."
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged between 20-65 years\nAffiliates to a social security system\nWho are willing to take part in the study,\nWho gave written informed consent,\nDeclared fit after a similar visit to a medical aeronautical medical fitness for the non-professional cabin crew in civil aviation. There will be no other aptitude tests for the selection of subjects.\n\nExclusion Criteria:\n\nPeople who participated in a biomedical research protocol for which the exclusion period is complete,\npregnant women."
+                            ],
+                            "EnrollmentCount": [
+                                   "10"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "On the eve of the next long voyages into space and the event of space tourism, it becomes more and more urgent to understand how to preserve the health of spacemen (i.e., by profession or by leisure). Extreme and unusual environments, and isolated and confined environments (EUE/ICE) are characterized by unique sensory stimulation. They are known to have negative effects on human psychology, cognitive abilities and physiology, threatening the outcome of space missions or travel. In addition, with the construction of the future Gateway base, the upcoming colonies to Mars and space tourism, travel from one point to another will be much more frequent. These raise new questions that will have to be addressed, whether it is the prolonged duration of a stay in a microgravity environment (i.e., absence of gravitational force between man and his support), in partial gravity and thus the issue of recovery from one trip to the next. These modifications of the environment imply the implementation of several adaptation processes to preserve the homeostatic capacity of the organism. This allows the organism to maintain a relatively stable internal state that persists despite external changes. Nevertheless, many questions remain unanswered. One such question is the impact of repeated changes in gravity during flight to the point of attachment (e.g., colony). The objective of the study is therefore to better understand the relationship between the body and its environment due to repeated changes in gravity, including microgravity.\n\nBeyond that, these results will contribute to enrich the knowledge of this real human challenge that is the question of the adaptation of the human being to the constraints of space travel."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nExistence of an informed and written consent from the subject\nNot pregnant\nNo anxiety disorder and/or depression\nNot to have suffered a head injury\nHave obtained a medical certificate of aptitude for parabolic flights\nBe affiliated to the French Social Security, or have a European Health Insurance Card or equivalent\n\nExclusion Criteria:\n\nPregnant women, parturients and nursing mothers\nEndocrine pathology (e.g., hyperthyroidism, diabetes)\nHigh blood pressure\nHistory of head trauma, mood or cardiovascular disorders, cognitive impairment\nRecent illicit drug use\nAlcohol dependence\nNeurological disease and/or history of neurological disease Psychiatric disease and/or history of psychiatric disease\nAnti-inflammatory treatment\nPsychotropic treatment\nTreatments that interfere with heart rate (e.g., beta-blockers, calcium channel blockers, a1 receptor agonists)\nPersons deprived of liberty, persons hospitalized without consent, persons admitted to a health or social institution for purposes other than research (L-1121-5 to L-1121-8-1)\nProtected adults, adults unable to express their consent and not subject to a protective measure\nParticipation in other simultaneous trials if this or these protocols concern a pharmacological clinical trial"
+                            ],
+                            "EnrollmentCount": [
+                                   "30"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nSubjects will be staff member of the team or of other teams participating in the parabolic flight campaign\nHealthy volunteers (men or women)\nAged from 21 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPerson with medical history of oculomotor disorders\nPerson with medical history of vestibular disorders\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 67\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWith normal cVEMP\nWho have passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPersons who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women (urine pregnancy test for women of childbearing potential)"
+                            ],
+                            "EnrollmentCount": [
+                                   "9"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nhealthy volunteers (men or women),\naged from 18 to 65,\naffiliated to a Social Security system and, for non-French resident, holding an European Health Insurance Card (EHIC)\nwho accept to take part in the study,\nwho have given their written stated consent,\nwho already participated in parabolic flights (even in the same campaign)\nAll subjects will pass a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPersons who took part in a previous biomedical research protocol, of which exclusion period is not terminated,\nPersons with prior serious injuries to their head\nPersons who take any medication or drugs influencing their central nervous system or cognitive performance\nPregnant women."
+                            ],
+                            "EnrollmentCount": [
+                                   "24"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 21 to 65\nRight handed\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "36"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 21 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho has passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection\n\nExclusion Criteria:\n\nPerson who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPerson with medical history of oculomotor disorders\nPerson with medical history of vestibular disorders\nPregnant women"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 67\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho have passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection\n\nExclusion Criteria:\n\nPersons who took part in a previous biomedical research protocol, of which exclusion period is not terminated\nPregnant women (urine pregnancy test for women of childbearing potential)"
+                            ],
+                            "EnrollmentCount": [
+                                   "16"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Parabolic flights make it possible to produce a reduced gravity environment on Earth. With the specially adapted A310 Zero-G, each parable produces a period of zero gravity (\"0g\"). The duration of the periods of reduced gravity is about 21 seconds. Each parable begins and ends with a resource (hyper-gravity) at 1.8 g; each resource lasts about 20 seconds. A typical flight lasts from two to three hours and includes 30 parabolic maneuvers, usually all in weightlessness.\n\nParticipants will arrive at Novespace, at Bordeaux-M\u00e9rignac Airport, no later than 2 pm the day before the first flight of the campaign in order to participate in the security briefing. A delay of at least 2 hours will be granted before collection of their written consent.\n\nBefore the flight, the participants will necessarily participate in the safety briefing (2h, organized by the Flight Manager (Novespace) and will meet the research team to become familiar with the procedures and devices that will be used during the experiment.\n\nOn the day of the flight, the participants will have to arrive at the premises of Novespace before 7.30am.\n\nBefore the flight, they will be prepared for flight recordings. Seven self-adhesive electrodes will be placed on the chest to measure the electrical activity of the heart and the blood volume in the chest.\n\nA venous blood test to measure blood markers of oxidative stress will be performed by a doctor or a registered nurse.\n\nDoppler and ultrasound operators will make blood flow measurements in the vertebral, internal carotid, posterior cerebral and anterior cerebral arteries) using an echo-doppler device. These measures are strictly non-invasive and painless. Participants can take medication against motion sickness under the supervision of the flight doctor. The duration of the study is a little less than 6 hours (2 hours before the flight, 3 hours flight, 30 minutes after the flight).\n\nPreparation before parables, in the plane. In addition to the participant, two other subjects will be the participants of the flight, one will also be a subject, and the third will be a rescue participant who will be tested in case the subject or his partner falls ill during the flight. The flight includes 31 parables, but the first participant will be subject only for 16 parables and the second for 15.\n\nWhen it is not subject, the participant is rid of equipment and can join the so-called \"free floating\" area to enjoy the sensations of weightlessness.\n\nAfter takeoff, but before the first parable the subject (or the other participant) will sit on a chair built for the flight. His pelvis will be immobilized by restraints to prevent him from floating freely during the weightlessness.\n\nIt will be connected to different measuring equipment, all non-invasive:\n\nAn arterial pressure sensor on the finger. Electrotrocardiogram (connected to 3 self-adhesive electrodes) Thoracic impedance meter (connected to 4 self-adhesive electrodes) An oxygen scope (for measuring the expired CO2).\n\nDuring the flight During each phase of weightlessness, an operator will apply on the neck or skull of the subject an ultrasound measurement probe (as on the ground). We recommend that participants do not move their head, especially during periods of hypergravity, to prevent motion sickness.\n\nExcept in exceptional circumstances, the aircraft normally completes the mission, but it must be clear that the subject is free to withdraw his consent and participation in the experiment at any time, without prejudice to him or to any other reason, without justification, including during the flight.\n\nAfter the flight Following the flight, a second venous sample will be made to determine the effects of weightlessness on the markers of oxidative stress."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy volunteers (men or women)\nAged from 18 to 65\nAffiliated to a Social Security system and, for non-French resident, holding a European Health Insurance Card (EHIC)\nWho accepted to take part in the study\nWho have given their written stated consent\nWho have passed a medical examination similar to a standard aviation medical examination for private pilot aptitude (JAR FCL3 Class 2 medical examination). There will be no additional test performed for subject selection.\n\nExclusion Criteria:\n\nPersons who took part in a previous biomedical research protocol, of which exclusion period is not terminated.\nPersons with history of cerebral, cardiovascular or vestibular diseases.\nPregnant women (urine pregnancy test for women of childbearing potential)"
+                            ],
+                            "EnrollmentCount": [
+                                   "18"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "The effect of positive pressure breathing on lung function is being studied, when applied during exposure to hyperoxia and +Gz-accelerations. Focus is on lung tissue compression, ventilation and regional perfusion. In addition, the influence of hypobaria on these parameters is assessed.\n\nThis study is conducted in accordance with the amended Declaration of Helsinki. The Ethics Committee Ile-de-France III (ref. 3274) and the French National Agency for Drug Safety ANSM have approved the protocol (ref. ID RCB 2015-A00485-44 and ANSM 151046B-32).\n\nPrimary aim, item 1: Experiments are conducted in a human centrifuge. The protocol mimics a routine peacetime flight in combat aircraft, and includes 1hr05 min at +1Gz followed by 10-min exposure to +1.4 to +3.5Gz . Subjects are exposed three times to this sequence, breathing at positive pressure levels of 0, 5 or 10 hPa. Two groups of sixteen healthy male non-smoking volunteers, wearing anti-G trousers, are studied and compared: group 1 breathes air, group 2 100% O2.\n\nPrimary aim, item 2: Experiments are conducted in a hypobaric chamber. Sixteen healthy male non-smoking volunteers are exposed to four conditions: 0 or 15,000 ft altitude, breathing air or 100%O2. Protocol duration is 1h15min. Positive breathing pressure can be applied depending on the results of the experiments of item 1.\n\nSecondary aim: Experiments are conducted in a human centrifuge. Sixteen healthy male non-smoking volunteers are exposed to four conditions: uninflated or inflated anti-G trousers (175 hPa), +1 or +3.5 Gz for 3 min."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nnormal lung function checked by pulmonary function tests.\nnormal ECG\nnormal clinical examination\n\nAim 1 exclusion criteria:\n\nsmoking\nmyopia\npast medical history of heart or lung disease\ncurrent medical treatment for heart or lung disease\npast medical history of back pain or spine trauma or disease\notitis\nbad tolerance to +Gz accelerations (G-induced loss of consciousness, motion sickness)\nclaustrophobia in the centrifuge gondola\n\nAim 2 exclusion criteria:\n\nsmoking\npast medical history of heart or lung disease\ncurrent medical treatment for heart or lung disease\notitis\nbad tolerance to the altitude chamber (15,000 ft): ear pain, claustrophobia"
+                            ],
+                            "EnrollmentCount": [
+                                   "80"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Many individuals with tinnitus have abnormal oscillatory brain activity in their temporal areas (Weisz et al. (2005), Schlee et al. (2014)). Led by this finding, attempts to normalize such localized pathological activity by neuro-feedback techniques have been tested (Dohrmann et al. (2007), G\u00fctenspenger et al. (2017)). These attempts highlighted interindividual variability that can be explained by lack of selection of the patient population and lack of guidance through the therapy. The present study is aimed at addressing these issues by choosing more selectively a patient subpopulation (tinnitus associated with moderate hearing loss) and by implementing a guidance interface during the treatment.\n\nThe therapy will consist of 10 neuro-feedback training sessions of 29 minutes over 5 weeks. Each session will be composed of 6 blocks of 3 min in which the patient will be incited to practise a specific cognitive strategy (mental exercise such as \"think to a music you like\") and resting state measurements.\n\nEach patient who has been recruited to fit our inclusion and non-inclusion criteria will first go through a clinical assessment of his initial judgment criteria metrics. Then subjects will go through the 5-week training and then will be evaluated on the same criteria just after the end of the therapy and at 3 months after the end of it."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria :\n\nAge > 18\nSocial security affiliation\nPermanent, non-fluctuation, high pitch, bilateral or assimilated, tinnitus\nMean value of the VAS at least at 6 between the intensity and the disturbance criteria at the recruitment interview.\nTHI score superior or equal to 40 at the recruitment interview\nWritten consent to the protocol\nAssociated hearing-loss characterized by :\nmean value of the hearing threshold loss for the 250, 500 and 1000 Hz thresholds strictly under 25 dB (deciBel).\nat least one hearing threshold among the 2000, 4000, 6000 and 8000 Hz with at least 30 dB of hearing loss.\nmean value of the hearing threshold loss for the 2000, 4000, 6000 and 8000 Hz thresholds strictly under 70 dB.\n\nExclusion Criteria:\n\nSubjects under legal protection (guardianship, trusteeship or judicial protection)\nNotable cognitive disability impeding to understanding or performing the cognitive tasks\nMeniere's disease, chronic or serous otitis, acoustic neuroma\nPulsatile tinnitus, somatosensorial tinnitus\nEpilepsy\nNo antidepressant or anti-epileptic drug treatment\nDET (DETresse) questionnaire (measure of tinnitus associated distress) above or equal to 40\nUse of a sound generator during the therapy\nPregnancy or breastfeeding\nInability to wear the electrodes headset of the neuro-feedback device"
+                            ],
+                            "EnrollmentCount": [
+                                   "30"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

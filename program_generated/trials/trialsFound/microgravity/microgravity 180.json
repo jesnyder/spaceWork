@@ -1,0 +1,1551 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "microgravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 41,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 41,
+              "FieldList": [
+                     "LastUpdateSubmitDate",
+                     "LeadSponsorClass",
+                     "LeadSponsorName",
+                     "LimitationsAndCaveatsDescription",
+                     "LocationCity",
+                     "LocationContactEMail",
+                     "LocationContactName",
+                     "LocationContactPhone",
+                     "LocationContactPhoneExt",
+                     "LocationContactRole",
+                     "LocationCountry",
+                     "LocationFacility",
+                     "LocationState",
+                     "LocationStatus",
+                     "LocationZip",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "LastUpdateSubmitDate": [
+                                   "February 19, 2020"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Florida"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Gainesville"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "University of Florida"
+                            ],
+                            "LocationState": [
+                                   "Florida"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "32611"
+                            ],
+                            "NCTId": [
+                                   "NCT03144492"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "LastUpdateSubmitDate": [
+                                   "May 27, 2016"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Caen CHU"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "14000"
+                            ],
+                            "NCTId": [
+                                   "NCT02789072"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "LastUpdateSubmitDate": [
+                                   "March 30, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Institut Universitari Dexeus"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Barcelona"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "Spain"
+                            ],
+                            "LocationFacility": [
+                                   "Women's Health Dexeus Departament d'Obstetr\u00edcia, Ginecologia i Reproducci\u00f3"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "08028"
+                            ],
+                            "NCTId": [
+                                   "NCT03760783"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "LastUpdateSubmitDate": [
+                                   "July 26, 2021"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Florida"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [],
+                            "LocationFacility": [],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT04028752"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "LastUpdateSubmitDate": [
+                                   "July 23, 2020"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Universit\u00e4tsklinikum K\u00f6ln"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Cologne"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "Germany"
+                            ],
+                            "LocationFacility": [
+                                   "University Hospital of Cologne"
+                            ],
+                            "LocationState": [
+                                   "NRW"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "50937"
+                            ],
+                            "NCTId": [
+                                   "NCT03848559"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "LastUpdateSubmitDate": [
+                                   "September 17, 2019"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Swiss Federal Institute of Technology"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [],
+                            "LocationFacility": [],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT02313142"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "LastUpdateSubmitDate": [
+                                   "November 16, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "AdventHealth Translational Research Institute"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Orlando"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "Translational Research Institute for Metabolism and Diabetes"
+                            ],
+                            "LocationState": [
+                                   "Florida"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "32804"
+                            ],
+                            "NCTId": [
+                                   "NCT03665051"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "LastUpdateSubmitDate": [
+                                   "August 16, 2017"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Caen CHU"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "14000"
+                            ],
+                            "NCTId": [
+                                   "NCT02850328"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "LastUpdateSubmitDate": [
+                                   "August 25, 2021"
+                            ],
+                            "LeadSponsorClass": [
+                                   "INDUSTRY"
+                            ],
+                            "LeadSponsorName": [
+                                   "Yakult Honsha Co., LTD"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Ibaraki"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "Japan"
+                            ],
+                            "LocationFacility": [
+                                   "Japan Aerospace Exploration Agency"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT02618005"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "LastUpdateSubmitDate": [
+                                   "November 13, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "FED"
+                            ],
+                            "LeadSponsorName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Galveston"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "University of Texas Medical Branch"
+                            ],
+                            "LocationState": [
+                                   "Texas"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "77555"
+                            ],
+                            "NCTId": [
+                                   "NCT00891449"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "LastUpdateSubmitDate": [
+                                   "August 5, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen CEDEX"
+                            ],
+                            "LocationContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "LocationContactName": [
+                                   "Pierre Denise, MD PhD"
+                            ],
+                            "LocationContactPhone": [
+                                   "332068214"
+                            ],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Umr Ucbn/Inserm U1075 Comete"
+                            ],
+                            "LocationState": [
+                                   "Basse-Normandie"
+                            ],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "14032"
+                            ],
+                            "NCTId": [
+                                   "NCT02517112"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "LastUpdateSubmitDate": [
+                                   "August 5, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen CEDEX"
+                            ],
+                            "LocationContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "LocationContactName": [
+                                   "Pierre Denise, MD PhD"
+                            ],
+                            "LocationContactPhone": [
+                                   "332068214"
+                            ],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Umr Ucbn/Inserm U1075 Comete"
+                            ],
+                            "LocationState": [
+                                   "Basse-Normandie"
+                            ],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "14032"
+                            ],
+                            "NCTId": [
+                                   "NCT02517229"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "LastUpdateSubmitDate": [
+                                   "April 20, 2020"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Universit\u00e4tsklinikum K\u00f6ln"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Cologne"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "Germany"
+                            ],
+                            "LocationFacility": [
+                                   "University Hospital of Cologne"
+                            ],
+                            "LocationState": [
+                                   "Northrhine-Westphalia"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "50937"
+                            ],
+                            "NCTId": [
+                                   "NCT04354883"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "LastUpdateSubmitDate": [
+                                   "September 5, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Caen University Hospital"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "14033"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "LastUpdateSubmitDate": [
+                                   "July 23, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen CEDEX"
+                            ],
+                            "LocationContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "LocationContactName": [
+                                   "Pierre Denise, MD PhD"
+                            ],
+                            "LocationContactPhone": [
+                                   "332068214"
+                            ],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Umr Ucbn/Inserm U1075 Comete"
+                            ],
+                            "LocationState": [
+                                   "Basse-Normandie"
+                            ],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "14032"
+                            ],
+                            "NCTId": [
+                                   "NCT02507622"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "LastUpdateSubmitDate": [
+                                   "February 21, 2020"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "M\u00e9rignac"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Novespace A310-0G"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "33700"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "LastUpdateSubmitDate": [
+                                   "January 14, 2020"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Florida"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Gainesville"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "University of Florida"
+                            ],
+                            "LocationState": [
+                                   "Florida"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "32611"
+                            ],
+                            "NCTId": [
+                                   "NCT03156257"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "LastUpdateSubmitDate": [
+                                   "August 5, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen CEDEX"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Umr Ucbn/Inserm U1075 Comete"
+                            ],
+                            "LocationState": [
+                                   "Basse-Normandie"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "14032"
+                            ],
+                            "NCTId": [
+                                   "NCT02517190"
+                            ]
+                     },
+                     {
+                            "Rank": 19,
+                            "LastUpdateSubmitDate": [
+                                   "August 5, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "LeadSponsorName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Toulouse"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Medes-Imps"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "31400"
+                            ],
+                            "NCTId": [
+                                   "NCT05493176"
+                            ]
+                     },
+                     {
+                            "Rank": 20,
+                            "LastUpdateSubmitDate": [
+                                   "September 2, 2021"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "McGill University Health Centre/Research Institute of the McGill University Health Centre"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Montr\u00e9al"
+                            ],
+                            "LocationContactEMail": [
+                                   "guyelhajj@gmail.com"
+                            ],
+                            "LocationContactName": [
+                                   "Guy Hajj Boutros"
+                            ],
+                            "LocationContactPhone": [
+                                   "514-8934-1934"
+                            ],
+                            "LocationContactPhoneExt": [
+                                   "35016"
+                            ],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "Canada"
+                            ],
+                            "LocationFacility": [
+                                   "Royal Victoria Hospital - Glen site"
+                            ],
+                            "LocationState": [
+                                   "Quebec"
+                            ],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "H4A 3J1"
+                            ],
+                            "NCTId": [
+                                   "NCT04964999"
+                            ]
+                     },
+                     {
+                            "Rank": 21,
+                            "LastUpdateSubmitDate": [
+                                   "January 10, 2017"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "The Cleveland Clinic"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Cleveland"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "Cleveland Clinic"
+                            ],
+                            "LocationState": [
+                                   "Ohio"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "44195"
+                            ],
+                            "NCTId": [
+                                   "NCT00598598"
+                            ]
+                     },
+                     {
+                            "Rank": 22,
+                            "LastUpdateSubmitDate": [
+                                   "September 27, 2017"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen"
+                            ],
+                            "LocationContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "LocationContactName": [
+                                   "Pierre Denise"
+                            ],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "CHU de Caen"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 23,
+                            "LastUpdateSubmitDate": [
+                                   "July 18, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "LeadSponsorName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Toulouse"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Medes-Imps"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "31400"
+                            ],
+                            "NCTId": [
+                                   "NCT05043974"
+                            ]
+                     },
+                     {
+                            "Rank": 24,
+                            "LastUpdateSubmitDate": [
+                                   "August 5, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen CEDEX"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Umr Ucbn/Inserm U1075 Comete"
+                            ],
+                            "LocationState": [
+                                   "Basse-Normandie"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "14032"
+                            ],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 25,
+                            "LastUpdateSubmitDate": [
+                                   "May 7, 2020"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Centre Hospitalier Universitaire de Saint Etienne"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Saint-Etienne"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Centre Hospitalier de Saint-Etienne"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "42055"
+                            ],
+                            "NCTId": [
+                                   "NCT00515645"
+                            ]
+                     },
+                     {
+                            "Rank": 26,
+                            "LastUpdateSubmitDate": [
+                                   "July 31, 2012"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "DLR German Aerospace Center"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Cologne"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "Germany"
+                            ],
+                            "LocationFacility": [
+                                   "DLR German Aerospace Center"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "51147"
+                            ],
+                            "NCTId": [
+                                   "NCT01655979"
+                            ]
+                     },
+                     {
+                            "Rank": 27,
+                            "LastUpdateSubmitDate": [
+                                   "July 23, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen CEDEX"
+                            ],
+                            "LocationContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "LocationContactName": [
+                                   "Pierre Denise, MD PhD"
+                            ],
+                            "LocationContactPhone": [
+                                   "332068214"
+                            ],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Umr Ucbn/Inserm U1075 Comete"
+                            ],
+                            "LocationState": [
+                                   "Basse-Normandie"
+                            ],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "14032"
+                            ],
+                            "NCTId": [
+                                   "NCT02508558"
+                            ]
+                     },
+                     {
+                            "Rank": 28,
+                            "LastUpdateSubmitDate": [
+                                   "June 8, 2018"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen"
+                            ],
+                            "LocationContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "LocationContactName": [
+                                   "Pierre Denise, MD, PhD"
+                            ],
+                            "LocationContactPhone": [
+                                   "0231068132"
+                            ],
+                            "LocationContactPhoneExt": [
+                                   "+33"
+                            ],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Caen University Hospital"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 29,
+                            "LastUpdateSubmitDate": [
+                                   "May 23, 2019"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "CHU caen"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT03963856"
+                            ]
+                     },
+                     {
+                            "Rank": 30,
+                            "LastUpdateSubmitDate": [
+                                   "September 1, 2006"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "LeadSponsorName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Toulouse"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Medes-Imps"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "31405"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 31,
+                            "LastUpdateSubmitDate": [
+                                   "August 5, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen CEDEX"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Umr Ucbn/Inserm U1075 Comete"
+                            ],
+                            "LocationState": [
+                                   "Basse-Normandie"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "14032"
+                            ],
+                            "NCTId": [
+                                   "NCT02517177"
+                            ]
+                     },
+                     {
+                            "Rank": 32,
+                            "LastUpdateSubmitDate": [
+                                   "August 31, 2021"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Texas Southwestern Medical Center"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Dallas"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "UT Southwestern Medical Center"
+                            ],
+                            "LocationState": [
+                                   "Texas"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "75390"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 33,
+                            "LastUpdateSubmitDate": [
+                                   "March 13, 2019"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Nottingham"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [],
+                            "LocationFacility": [],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT02637921"
+                            ]
+                     },
+                     {
+                            "Rank": 34,
+                            "LastUpdateSubmitDate": [
+                                   "March 13, 2019"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Nottingham"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [],
+                            "LocationFacility": [],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT02293772"
+                            ]
+                     },
+                     {
+                            "Rank": 35,
+                            "LastUpdateSubmitDate": [
+                                   "October 30, 2017"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "King's College London"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "London"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United Kingdom"
+                            ],
+                            "LocationFacility": [
+                                   "Sleep Disorders Centre"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT03195348"
+                            ]
+                     },
+                     {
+                            "Rank": 36,
+                            "LastUpdateSubmitDate": [
+                                   "January 31, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Caen CHU"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "14000"
+                            ],
+                            "NCTId": [
+                                   "NCT02789007"
+                            ]
+                     },
+                     {
+                            "Rank": 37,
+                            "LastUpdateSubmitDate": [
+                                   "September 4, 2018"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Centre d'Investigation Clinique et Technologique 805"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Garches"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Hopital Raymond Poincare"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "92380"
+                            ],
+                            "NCTId": [
+                                   "NCT01953666"
+                            ]
+                     },
+                     {
+                            "Rank": 38,
+                            "LastUpdateSubmitDate": [
+                                   "July 12, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Erasme University Hospital"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Brussels"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [
+                                   "Amin Hossein, MD"
+                            ],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [
+                                   "Sub-Investigator"
+                            ],
+                            "LocationCountry": [
+                                   "Belgium"
+                            ],
+                            "LocationFacility": [
+                                   "Erasme Hospital"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "1070"
+                            ],
+                            "NCTId": [
+                                   "NCT04772807"
+                            ]
+                     },
+                     {
+                            "Rank": 39,
+                            "LastUpdateSubmitDate": [
+                                   "July 24, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University Hospital, Caen"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Caen CEDEX"
+                            ],
+                            "LocationContactEMail": [
+                                   "pierre.denise@unicaen.fr"
+                            ],
+                            "LocationContactName": [
+                                   "Pierre Denise, MD PhD"
+                            ],
+                            "LocationContactPhone": [
+                                   "332068214"
+                            ],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Umr Ucbn/Inserm U1075 Comete"
+                            ],
+                            "LocationState": [
+                                   "Basse-Normandie"
+                            ],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "14032"
+                            ],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 40,
+                            "LastUpdateSubmitDate": [
+                                   "January 25, 2021"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "LeadSponsorName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Toulouse"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Medes-Imps"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "31400"
+                            ],
+                            "NCTId": [
+                                   "NCT03594799"
+                            ]
+                     },
+                     {
+                            "Rank": 41,
+                            "LastUpdateSubmitDate": [
+                                   "August 20, 2019"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "LeadSponsorName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Toulouse"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Medes-Imps"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "31400"
+                            ],
+                            "NCTId": [
+                                   "NCT03915457"
+                            ]
+                     }
+              ]
+       }
+}

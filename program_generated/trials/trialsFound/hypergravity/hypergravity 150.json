@@ -1,0 +1,735 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "InterventionArmGroupLabel",
+                     "InterventionBrowseBranchAbbrev",
+                     "InterventionBrowseBranchName",
+                     "InterventionBrowseLeafAsFound",
+                     "InterventionBrowseLeafId",
+                     "InterventionBrowseLeafName",
+                     "InterventionBrowseLeafRelevance",
+                     "InterventionDescription",
+                     "InterventionMeshId",
+                     "InterventionMeshTerm",
+                     "InterventionName",
+                     "InterventionOtherName",
+                     "InterventionType",
+                     "IsFDARegulatedDevice",
+                     "IsFDARegulatedDrug",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "InterventionArmGroupLabel": [
+                                   "ventilation",
+                                   "ventilation"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "1hr sitting rest followed by 10 min of hypergravity (2 centrifuge runs)",
+                                   "breathing air, 44.5%O2 or 100%O2"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "hypergravity",
+                                   "gas mixture"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "InterventionArmGroupLabel": [
+                                   "hypergravity WITH isometric load",
+                                   "hypergravity WITHOUT isometric load",
+                                   "hypergravity WITH isometric load",
+                                   "normal gravity WITH isometric load",
+                                   "normal gravity WITH isometric load",
+                                   "normal gravity WITHOUT isometric load"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "the rubber bands attached to the waist belt are tighten to simulate extra gravity during every exercise the subject performs while standing",
+                                   "at the end of the therapy session the subject will perform 2 sets of one minute each of a 33% squat under load",
+                                   "the rubber bands attached to the waist belt are NOT tighten so the subject performs the exercises in normal gravity"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Hypergravity",
+                                   "isometric load",
+                                   "normal gravity"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "InterventionArmGroupLabel": [
+                                   "Neurocognitive performance"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Cortical activity will be determined under changing gravity level by electroencephalography (EEG/LORETA). Brain hemodynamics change will be evaluated by NIRS. Heart rate and respiratory evaluation will be indicators of cardio-vascular and central nervous arousal and stress. Cognitive performance will be evaluated by computerized tests.\n\nFor these methods only commercially available CE marked devices will be used."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "determination of cortical activity"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "InterventionArmGroupLabel": [
+                                   "parabolic flights"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "healthy volunteers will experience 3 levels of gravity (1G, 1.8G, 0G)."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "3 levels of gravity (1G, 1.8G, 0G)."
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "InterventionArmGroupLabel": [
+                                   "HEARING AND VESTIBULAR INTERACTIONS"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "in two body positions (standing / supine) and three gravity conditions (weightlessness hyper gravity and normal gravity)."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Hearing and Vestibular Interactions"
+                            ],
+                            "InterventionOtherName": [
+                                   "in two body positions and three gravity conditions"
+                            ],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "InterventionArmGroupLabel": [
+                                   "Manual Control, Training, promethazine",
+                                   "Manual Control,No training,promethazine",
+                                   "Perceptual thresholds,drug then placebo",
+                                   "Perceptual thresholds,placebo then drug",
+                                   "Tilt perception, Training, promethazine",
+                                   "Tilt perception,No training,promethazine",
+                                   "Manual Control, Training, placebo",
+                                   "Manual Control, Training, promethazine",
+                                   "Tilt perception, Training, placebo",
+                                   "Tilt perception, Training, promethazine",
+                                   "Manual Control, No training, placebo",
+                                   "Manual Control, Training, placebo",
+                                   "Perceptual thresholds,drug then placebo",
+                                   "Perceptual thresholds,placebo then drug",
+                                   "Tilt perception, No training, placebo",
+                                   "Tilt perception, Training, placebo",
+                                   "Manual Control, No training, placebo",
+                                   "Manual Control,No training,promethazine",
+                                   "Tilt perception, No training, placebo",
+                                   "Tilt perception,No training,promethazine"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "AAll",
+                                   "AnEm",
+                                   "CNSDep",
+                                   "Gast",
+                                   "All",
+                                   "Derm"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Anti-Allergic Agents",
+                                   "Antiemetics",
+                                   "Central Nervous System Depressants",
+                                   "Gastrointestinal Agents",
+                                   "All Drugs and Chemicals",
+                                   "Dermatologic Agents"
+                            ],
+                            "InterventionBrowseLeafAsFound": [
+                                   "Idiopathic Scoliosis",
+                                   "Idiopathic Scoliosis"
+                            ],
+                            "InterventionBrowseLeafId": [
+                                   "M6490",
+                                   "M13420",
+                                   "M6226",
+                                   "M8862",
+                                   "M8860",
+                                   "M212140",
+                                   "M8861",
+                                   "M19657",
+                                   "M20115",
+                                   "M9195",
+                                   "M3259",
+                                   "M3261",
+                                   "M3403",
+                                   "M8033"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Diphenhydramine",
+                                   "Promethazine",
+                                   "Dermatologic Agents",
+                                   "Histamine H1 Antagonists",
+                                   "Histamine",
+                                   "Histamine phosphate",
+                                   "Histamine Antagonists",
+                                   "Neurotransmitter Agents",
+                                   "Anti-Allergic Agents",
+                                   "Hypnotics and Sedatives",
+                                   "Anesthetics",
+                                   "Anesthetics, Local",
+                                   "Antiemetics",
+                                   "Gastrointestinal Agents"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "high",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "InterventionDescription": [
+                                   "Subject receives promethazine",
+                                   "Subject receives hypergravity training before testing",
+                                   "Placebo",
+                                   "Subjects do not receive normal Earth gravity"
+                            ],
+                            "InterventionMeshId": [
+                                   "D000011398",
+                                   "D000004155"
+                            ],
+                            "InterventionMeshTerm": [
+                                   "Promethazine",
+                                   "Diphenhydramine"
+                            ],
+                            "InterventionName": [
+                                   "Promethazine",
+                                   "Hyper gravity training",
+                                   "Placebo",
+                                   "No hypergravity training"
+                            ],
+                            "InterventionOtherName": [
+                                   "Phenergan",
+                                   "corn starch"
+                            ],
+                            "InterventionType": [
+                                   "Drug",
+                                   "Behavioral",
+                                   "Drug",
+                                   "Behavioral"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "InterventionArmGroupLabel": [
+                                   "electromyographic (EMG) measurements",
+                                   "electromyographic (EMG) measurements"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "a device that combines a force platform on which the subject jumps and a Subject Loading System (SLS) that pulls the subject downwards."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight",
+                                   "Subject Loading System"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Device"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "InterventionArmGroupLabel": [
+                                   "Measurements of eye movements and perception",
+                                   "Measurements of eye movements and perception"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight",
+                                   "Measurements of eye movements and perception"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "InterventionArmGroupLabel": [
+                                   "Microgravity condition"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Cognitive ans sensory performances during repetitive micro and partial gravity exposure"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Cognition and emotional neuropsychologicl evaluations"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "InterventionArmGroupLabel": [
+                                   "INVERTED VISION",
+                                   "NORMAL VISION"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "The tasks will be performed either with normal or inverted vision (upside down) using commercial off-the-shelf inverting prism goggles",
+                                   "subject's field of view will be restricted by goggles without lenses in order to be equivalent to the inverted vision one."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "INVERTED VISION",
+                                   "NORMAL VISON"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Procedure",
+                                   "Procedure"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "InterventionArmGroupLabel": [
+                                   "weightlessness"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "parabolic flight"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "weightlessness"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "InterventionArmGroupLabel": [
+                                   "EEG and NIRS measurements",
+                                   "EEG and NIRS measurements",
+                                   "EEG and NIRS measurements"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "Infl",
+                                   "ARhu",
+                                   "Analg",
+                                   "All"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Anti-Inflammatory Agents",
+                                   "Antirheumatic Agents",
+                                   "Analgesics",
+                                   "All Drugs and Chemicals"
+                            ],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [
+                                   "M207490"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Chrysarobin"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "low"
+                            ],
+                            "InterventionDescription": [
+                                   "Electro cortical power in alpha frequency ranges (EEG-LORETA)",
+                                   "Brain tissue oxygenation ( oxy- or deoxygenated hemoglobin values) - NIRS"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Parabolic flight",
+                                   "EEG measurement",
+                                   "NIRS measurements"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "InterventionArmGroupLabel": [
+                                   "Influence of Gravity on the Size-mass Illusion",
+                                   "Influence of Gravity on the Size-mass Illusion",
+                                   "Influence of Gravity on the Size-mass Illusion"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "estimate the mass/weight perception, expressed by verbally report the absolute and relative mass of the object using a scale from 1 to 10 (1 being light and 10 being heavy)"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "parabolic flight",
+                                   "mass/weight perception estimation",
+                                   "ESA short-arm human centrifuge (SAHC)"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other",
+                                   "Device"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "InterventionArmGroupLabel": [
+                                   "perceived egocentric distance measurements - parabolic flight",
+                                   "perceived egocentric distance measurements - parabolic flight"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "perceived egocentric distance (PED) measurements",
+                                   "Parabolic flight"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "InterventionArmGroupLabel": [
+                                   "Functional capillary density"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "weightlessness (parabolic flight)"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "weightlessness (parabolic flight)"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "InterventionArmGroupLabel": [
+                                   "Weightlessness"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Volunteers will be studied during parabolic flight. Cerebral blood flow will be measured in different part of the brain during weightlessness ans compared to 1g and hypergravity measurements."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Weightlessness"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "InterventionArmGroupLabel": [
+                                   "100%O2 breathing",
+                                   "Air breathing"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "+Gz accelerations and positive pressure breathing"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "InterventionArmGroupLabel": [
+                                   "Neuro-feedback therapy"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "The therapy consists of 10 Neuro-feedback training sessions, 2 times per week over 5 weeks."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Neuro-feedback therapy"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Device"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

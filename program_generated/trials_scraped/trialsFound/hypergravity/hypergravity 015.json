@@ -1,0 +1,669 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:26 23:25:22.019",
+              "Expression": "hypergravity",
+              "NStudiesAvail": 437319,
+              "NStudiesFound": 18,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 18,
+              "FieldList": [
+                     "Acronym",
+                     "AgreementOtherDetails",
+                     "AgreementPISponsorEmployee",
+                     "AgreementRestrictionType",
+                     "AgreementRestrictiveAgreement",
+                     "ArmGroupDescription",
+                     "ArmGroupInterventionName",
+                     "ArmGroupLabel",
+                     "ArmGroupType",
+                     "AvailIPDComment",
+                     "AvailIPDId",
+                     "AvailIPDType",
+                     "AvailIPDURL",
+                     "BaselineCategoryTitle",
+                     "BaselineClassDenomCountGroupId",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "hypergravity gas mixture"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: hypergravity",
+                                   "Other: gas mixture"
+                            ],
+                            "ArmGroupLabel": [
+                                   "ventilation"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT01993394"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Patient performing rehabilitation exercises under hypergravity as well as loaded isometric squats",
+                                   "Patient performing rehabilitation exercises under hypergravity",
+                                   "Patient performing rehabilitation exercises under normal gravity as well as loaded isometric squats",
+                                   "Patient performing rehabilitation exercises under normal gravity"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Hypergravity",
+                                   "Other: isometric load",
+                                   "Other: Hypergravity",
+                                   "Other: isometric load",
+                                   "Other: normal gravity",
+                                   "Other: normal gravity"
+                            ],
+                            "ArmGroupLabel": [
+                                   "hypergravity WITH isometric load",
+                                   "hypergravity WITHOUT isometric load",
+                                   "normal gravity WITH isometric load",
+                                   "normal gravity WITHOUT isometric load"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Experimental",
+                                   "Experimental",
+                                   "Active Comparator"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02589184"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "Acronym": [
+                                   "NeuroCog"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Cortical activity will be determined under changing gravity level by electroencephalography (EEG/LORETA). Brain hemodynamics change will be evaluated by NIRS. Heart rate and respiratory evaluation will be indicators of cardio-vascular and central nervous arousal and stress. Cognitive performance will be evaluated by computerized tests.\n\nFor these methods only commercially available CE marked devices will be used."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: determination of cortical activity"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Neurocognitive performance"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02805400"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "Acronym": [
+                                   "ARGuide"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "parabolic flights in normogravity (1g), hypergravity (1.8g) and microgravity (0g)."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: 3 levels of gravity (1G, 1.8G, 0G)."
+                            ],
+                            "ArmGroupLabel": [
+                                   "parabolic flights"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03298139"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "Acronym": [
+                                   "AUDIOSELF"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Hearing and Vestibular Interactions during two body positions (standing / supine) and three gravity conditions (weightlessness hyper gravity and normal gravity)."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Hearing and Vestibular Interactions"
+                            ],
+                            "ArmGroupLabel": [
+                                   "HEARING AND VESTIBULAR INTERACTIONS"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02518074"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [
+                                   "No"
+                            ],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [
+                                   "No"
+                            ],
+                            "ArmGroupDescription": [
+                                   "placebo",
+                                   "subject does test with no hypergravity training and placebo drug only",
+                                   "promethazine 25 mg, one time 120 minutes prior to experiment",
+                                   "promethazine 25 mg, one time 120 minutes prior to experiment. No hypergravity training",
+                                   "placebo",
+                                   "subject does test with no hyper gravity training and placebo drug only",
+                                   "promethazine 25 mg, one time 120 minutes prior to experiment",
+                                   "promethazine 25 mg, one time 120 minutes prior to experiment",
+                                   "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with promethazine then once with placebo, separated by >4 days.\n\nThis arm corresponds to results published in Diaz-Artiles et al 2017.",
+                                   "Subjects undergo perceptual motion threshold tests to determine the smallest motion they can reliably sense for yaw rotation, interaural translation and roll tilt. Each subject is tested twice, once with placebo then once with promethazine, separated by >4 days.\n\nThis arm corresponds to results published in Diaz-Artiles et al 2017."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Behavioral: Hyper gravity training",
+                                   "Drug: Placebo",
+                                   "Drug: Placebo",
+                                   "Behavioral: No hypergravity training",
+                                   "Drug: Promethazine",
+                                   "Behavioral: Hyper gravity training",
+                                   "Drug: Promethazine",
+                                   "Behavioral: No hypergravity training",
+                                   "Behavioral: Hyper gravity training",
+                                   "Drug: Placebo",
+                                   "Drug: Placebo",
+                                   "Behavioral: No hypergravity training",
+                                   "Drug: Promethazine",
+                                   "Behavioral: Hyper gravity training",
+                                   "Drug: Promethazine",
+                                   "Behavioral: No hypergravity training",
+                                   "Drug: Promethazine",
+                                   "Drug: Placebo",
+                                   "Drug: Promethazine",
+                                   "Drug: Placebo"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Tilt perception, Training, placebo",
+                                   "Tilt perception, No training, placebo",
+                                   "Tilt perception, Training, promethazine",
+                                   "Tilt perception,No training,promethazine",
+                                   "Manual Control, Training, placebo",
+                                   "Manual Control, No training, placebo",
+                                   "Manual Control, Training, promethazine",
+                                   "Manual Control,No training,promethazine",
+                                   "Perceptual thresholds,drug then placebo",
+                                   "Perceptual thresholds,placebo then drug"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Placebo Comparator",
+                                   "Experimental",
+                                   "Experimental",
+                                   "Experimental",
+                                   "Placebo Comparator",
+                                   "Experimental",
+                                   "Experimental",
+                                   "Experimental",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [
+                                   "Female",
+                                   "Male",
+                                   "Hispanic or Latino",
+                                   "Not Hispanic or Latino",
+                                   "Unknown or Not Reported",
+                                   "American Indian or Alaska Native",
+                                   "Asian",
+                                   "Native Hawaiian or Other Pacific Islander",
+                                   "Black or African American",
+                                   "White",
+                                   "More than one race",
+                                   "Unknown or Not Reported"
+                            ],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02136420"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "Acronym": [
+                                   "SLS-JUMP"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Interaction between gravity (weightlessness, hypergravity, and normal gravity) and pull-down force ont EMG amplitude and EMG timing."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight",
+                                   "Device: Subject Loading System"
+                            ],
+                            "ArmGroupLabel": [
+                                   "electromyographic (EMG) measurements"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02563223"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "Acronym": [
+                                   "DROITDEVANT"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight",
+                                   "Other: Measurements of eye movements and perception"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Measurements of eye movements and perception"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02517138"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "Acronym": [
+                                   "ENACT"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "a group of parabolic flyers exposed to micro and partial gravity"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Cognition and emotional neuropsychologicl evaluations"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Microgravity condition"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05531162"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "Acronym": [
+                                   "SpaceInVision"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "inverted vision (upside down) using commercial off-the-shelf inverting prism goggles",
+                                   "During normal vision trials, subject's field of view will be restricted by goggles without lenses (see below) in order to be equivalent to the inverted vision one."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Procedure: INVERTED VISION",
+                                   "Procedure: NORMAL VISON"
+                            ],
+                            "ArmGroupLabel": [
+                                   "INVERTED VISION",
+                                   "NORMAL VISION"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Active Comparator"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02885844"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "Acronym": [
+                                   "VEMP"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: weightlessness"
+                            ],
+                            "ArmGroupLabel": [
+                                   "weightlessness"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03562676"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "Acronym": [
+                                   "CORTICOG"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [
+                                   "Other: Parabolic flight",
+                                   "Other: EEG measurement",
+                                   "Other: NIRS measurements"
+                            ],
+                            "ArmGroupLabel": [
+                                   "EEG and NIRS measurements"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02516787"
+                            ]
+                     },
+                     {
+                            "Rank": 13,
+                            "Acronym": [
+                                   "Massper"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "to investigate the interaction between perceived size and perceived mass of objects in 0G and 1.8G compared to 1G using the size-mass illusion (SMI)"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: parabolic flight",
+                                   "Other: mass/weight perception estimation",
+                                   "Device: ESA short-arm human centrifuge (SAHC)"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Influence of Gravity on the Size-mass Illusion"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02507453"
+                            ]
+                     },
+                     {
+                            "Rank": 14,
+                            "Acronym": [
+                                   "Blindpulling"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "perceived egocentric distance (PED) measurements during parabolic flight"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: perceived egocentric distance (PED) measurements",
+                                   "Other: Parabolic flight"
+                            ],
+                            "ArmGroupLabel": [
+                                   "perceived egocentric distance measurements - parabolic flight"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02508545"
+                            ]
+                     },
+                     {
+                            "Rank": 15,
+                            "Acronym": [
+                                   "\u00b5G\u00b5Scan"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Functional capillary density during weightlessness"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: weightlessness (parabolic flight)"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Functional capillary density"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03561545"
+                            ]
+                     },
+                     {
+                            "Rank": 16,
+                            "Acronym": [
+                                   "GraCer"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Weightlessness measurements during flight"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Weightlessness"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Weightlessness"
+                            ],
+                            "ArmGroupType": [
+                                   "Other"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03986788"
+                            ]
+                     },
+                     {
+                            "Rank": 17,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Primary aim, item 1",
+                                   "Primary aim, item 1"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: +Gz accelerations and positive pressure breathing",
+                                   "Other: +Gz accelerations and positive pressure breathing"
+                            ],
+                            "ArmGroupLabel": [
+                                   "100%O2 breathing",
+                                   "Air breathing"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03311347"
+                            ]
+                     },
+                     {
+                            "Rank": 18,
+                            "Acronym": [
+                                   "TNTA"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "EEG headset is placed on the patients head and the electrodes record the brain activity from F3, F4, FC1 and FC2 (on the 10-10 international localization system of EEG electrodes) and generate feedback.\n\nEach session is composed of 6 blocks of 3 minutes in which the patient is incited to practice a specific cognitive strategy. During the 4 first session, 8 strategies are explored. Then through the therapy, the best cognitive strategies are gradually selected through an automatized process taking in account objective performances and subjective feedback."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Device: Neuro-feedback therapy"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Neuro-feedback therapy"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03773926"
+                            ]
+                     }
+              ]
+       }
+}

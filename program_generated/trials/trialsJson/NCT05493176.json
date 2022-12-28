@@ -1,0 +1,642 @@
+{
+       "Rank": 19,
+       "Acronym": [
+              "VIVALDI2"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "5 days of dry-immersion"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Dry immersion"
+       ],
+       "ArmGroupLabel": [
+              "Dry immersion"
+       ],
+       "ArmGroupType": [
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT05493176"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Dry immersion (DI) is a ground-based model of prolonged conditions of simulated microgravity. Dry immersion involves immersing the subject in water covered with an elastic waterproof fabric. As a result, the immersed subject, who is freely suspended in the water mass, remains dry. Within a relatively short duration, the model can faithfully reproduce most physiological effects of actual microgravity, including centralization of body fluids, support unloading, and hypokinesia.\n\nThe main objective of the present study is to investigate the physiological effects of 5 days of dry immersion in 20 healthy male subjects, and to obtain DI-in-Men Reference Dataset. A set of measurements will assess the changes in the cardiovascular, neuro-ophthalmological, hematological, metabolic, sensorimotor, immune, muscle and bone systems."
+       ],
+       "BriefTitle": [
+              "A 5-day Dry Immersion Study on 20 Healthy Male Volunteers"
+       ],
+       "CentralContactEMail": [
+              "marie-pierre.bareille@medes.fr",
+              "anais.llodra-perez@medes.fr"
+       ],
+       "CentralContactName": [
+              "Marie-Pierre BAREILLE, PharmD",
+              "Ana\u00efs LLODRA-PEREZ"
+       ],
+       "CentralContactPhone": [
+              "+33 562 174 955",
+              "+33 562 174 950"
+       ],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [
+              "Contact",
+              "Contact"
+       ],
+       "CollaboratorClass": [
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "European Space Agency"
+       ],
+       "CompletionDate": [
+              "December 2022"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Weightlessness"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "N/A"
+       ],
+       "DesignInterventionModel": [
+              "Single Group Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "Space flights have shown the possibilities and limitations of human adaptation to space. For the last 50 years, results have shown that the space environment and microgravity in particular, cause changes that may affect the performance of astronauts. These physiological changes are now better known: prolonged exposure to weightlessness can lead to significant loss of bone and muscle mass, strength, cardiovascular and sensory-motor deconditioning, immune, hormonal and metabolic changes .\n\nMoreover, recently a new suite of physiological adaptations and consequences of space flight has been acknowledged. Indeed, after long flights, some astronauts present persistent ophthalmologic changes, mostly a hyperopic shift, an increase in optic nerve sheath diameter and occasionally a papillary oedema now defined by National Aeronautics and Space Administration (NASA) as Spaceflight-Associated Neuro-ocular Syndrome (SANS). Some of these vision changes remain unresolved for years post-flight. This phenomenon has most likely existed since the beginning of human space flight but is just recently being recognized as a major consequence of adaptation to microgravity.\n\nOverall, spaceflight induces physiological multi-system deconditioning which may impact astronauts' efficiency and create difficulties upon their return to normal gravity. Understanding the underlying mechanisms of these processes and developing efficient countermeasures to prevent, limit or reverse this deconditioning remain important challenges and major priorities for manned space programs.\n\nThe space agencies are actively engaged in studying the physiological adaptation to space environment through studies on board the International Space Station (ISS) but also on the ground. Indeed, considering the limited number of flight opportunities, the difficulties related to the performance of in-flight experiments (operational constraints for astronauts, limited capabilities of in-flight biomedical devices), ground-based experiments simulating the effects of weightlessness are used to better understand the mechanisms of physiological adaptation, design and validate the countermeasures. Different methods are used to simulate microgravity on Earth. However, two approaches, -6\u00b0 head-down bed rest (HDBR) and dry immersion (DI) have provided possibilities for long-term exposures with findings closest to those seen with a weightless state. They produce changes in body composition (including body fluid redistribution), cardiovascular and skeletal muscle characteristics that resemble the effects of microgravity.\n\nThe common physiological denominator is the combination of a cephalad shift of body fluids and reduced physical activity. Being similar in their effects on the human body, these models, however, differ in their specifics and acting factors. The HDBR, as the name implies, implicates a long (from several weeks to a year) stay in the supine position, the head tilted down by -6\u00b0 from the horizontal plane. HDBR is the most frequently used ground-based simulation for gravitational unloading of the human body in western countries.\n\nUnlike bed rest, dry immersion provides a unique opportunity to study the physiological effects of the lack of a supporting structure for the body. Dry immersion means immersing the subject into thermoneutral water, while covered with a special elastic free floating waterproof fabric. The subject, surrounded by the tarp and \"freely suspended\" in the water mass, remains dry. During horizontal immersion, pressure forces are distributed nearly equally around the entire surface of the body (only the head and neck are not entirely supported by water). The absence of mechanical support of specific anatomic zones during immersion creates a state akin to weightlessness called \"supportlessness\". Physiological changes under DI develop more rapidly and are more profound than under HDBR . This advanced ground-based model is extremely suited to test countermeasures for microgravity-induced deconditioning and physical inactivity-related pathologies.\n\nIn 2015, DI facility has been installed at the Space Clinic in Toulouse (France), and a first in Europe three-day dry immersion study was carried out in 12 healthy male volunteers. That study demonstrated an important headward fluid transfer with a significant dilatation of the jugular veins, an increase in venous blood velocities and intracranial pressure, as well as ophthalmological changes consistent with a presumable increase in intracranial pressure at the head at over 20 mmHg (normal values 7 to 15 mmHg), which confirms that dry immersion is a good model to simulate the effects of fluid transfer. In 2019, a second dry-immersion experiment, this time lasting 5 days, was conducted in 18 healthy male volunteers. The goal was to quantify the effect of venoconstrictive thigh cuffs, used for 10 hours/day as a countermeasure, on the time course and extent of DI-induced alterations in body fluids, cephalic circulation, fundus, and brain. These two studies have sparked the interest in the dry immersion model.\n\nIndeed, the European Space Agency (ESA) has decided to include this model in the research programs it promotes on the effects of weightlessness. As a first step, ESA decided to carry out a standardization work like the one done on the bedrest model. ESA tasked a group of European experts to design a first study and the tests that would need to be carried out to better understand and validate the model.\n\nFew studies conducted to date have investigated gender differences in the astronaut population.\n\nThe small number of female astronauts may be part of the reason why scientific data are lacking to draw valid conclusions about possible gender differences. However, if women currently constitute only about 12% of astronauts (only 72 women out of 596 astronauts as of December 2021), they are and will be more and more represented in crews. They now constitute 30% of American crews and NASA (US space agency) has announced gender parity for crews on future lunar missions. It is therefore essential to study the physiological changes induced by weightlessness in both sexes, and to develop efficient sex-specific countermeasures. The expert group has therefore concluded that two different studies with the same design should be carried out, one in women and one in men, to obtain a comparable dataset. An immersion period of 5 days was determined to induce the physiological changes they wish to study. A battery of tests has thus been defined by this expert group based on standard tests carried out in bedrest studies (Bedrest Standard Measurements), supplemented by additional tests to further investigate the model and to acquire a better understanding of the time course of the physiological changes in both sexes.\n\nThis work has started in 2021 with a first study, conducted in women during a 5-day immersion period (awaiting publication). The next step is to realize a similar set of measurements in men, to standardize the dry immersion model taking into account sex differences.\n\nThis study falls within this context and will be the first ESA dry immersion study carried out in men. Its objective is to obtain a standardized dataset for DI in men, which will serve as a basis for the development and evaluation of countermeasures to support future space missions. The main physiological systems will be explored before, during and after the 5 days of immersion through a battery of specific tests and measurements. The results will be analyzed by scientists specializing in each field in order to better understand the dry immersion model, to compare its effects with those of the bedrest model and those of spaceflight. Comparison with results obtained in the female population will be a major part of the analysis. The clinical (adverse effects, comfort of subjects) and operational aspects are also part of the secondary objectives of the study."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nHealthy male volunteer (see below the description of medical tests and laboratory analysis performed at the selection visit),\nAge 20 to 40,\nNo overweight nor excessive thinness with BMI (weight Kg/ height m2) between 20 and 26,\nHeight between 158cm and 185 cm,\nCertified as healthy by a comprehensive clinical assessment (detailed medical history and complete physical examination): in particular, free from any chronic disease or any acute infectious disease or cardiovascular, neurological, ear, nose, and throat (ENT) (especially orthostatic hypotension and vestibular disorders), orthopaedic or musculoskeletal disorders,\nFitness level assessment: 35 ml/min./kg < VO2max < 55 ml/min./kg,\nNon active smokers,\nNo alcohol, or drug addiction, and no medical treatment,\nCovered by a Health Insurance System,\nHaving signed the informed consent,\nFree from any engagement during the study.\n\nExclusion criteria\n\nAny history or presence of clinically relevant cardiovascular, neurological or ENT (especially orthostatic hypotension and vestibular disorders), any chronic disease; any acute infectious disease, in particular\nSymptomatic orthostatic hypotension whatever the decrease in blood pressure, or asymptomatic postural hypotension defined by a decrease in systolic blood pressure (SBP) equal to or greater than 20 mmHg within 3 minutes when changing from the supine to the standing position,\nCardiac rhythm disorders,\nHypertension,\nChronic back pains,\nVertebral fracture, scoliosis or herniated disc,\nGlaucoma,\nSelf-reported hearing problems,\nHistory of migraines,\nHistory of hiatus hernia or gastro-esophageal reflux,\nHistory of thyroid dysfunction, renal stones, diabetes,\nHistory of head trauma,\nHistory of genetic muscle and bone diseases of any kind,\nPast records of thrombophlebitis, family history of thrombosis or positive response in thrombosis screening procedure (anti thrombin III, S-protein, C-protein, factor V Leiden mutation and the mutation 20210 of the prothrombin gene),\nSigns of venous insufficiency, varicose veins, or telangiectasia\nBone mineral density: T-score \u2264 -1.5,\nPoor tolerance to blood sampling,\nHaving given whole blood (more than 7ml/kg) in a period of 8 weeks or less before the start of the experiment, or having given whole blood more than 5 times in the past 12 months,\nSignificant history of allergy, especially no dermatological allergy,\nHistory of food allergy,\nSignificant anomaly detected in the biological analysis,\nPositive reaction to any of the following tests: IgM antibodies for the Hepatovirus A (HVA IgM), Hepatitis B surface antigen (HBsAg), anti-Hepatovirus C antibodies (hepatitis C), antibodies to human immunodeficiency virus type 1 and 2,\nVegetarian or vegan,\nRefusal to give permission to contact his general practitioner,\nSubject who, in the judgment of the investigator, is likely to be non-compliant during the study, or unable to cooperate because of a language problem or poor mental development,\nSubject already participating or in the exclusion period of a clinical research,\nSubject who has received more than 4500 Euros within 12 months for being a research subject,\nSubject who cannot be contacted in case of emergency,\nMRI contraindications History or active claustrophobia, Osteosynthesis material, presence of metallic implants or any other contra-indication for MRI, Allergy to Gadolinium.\nVulnerable persons according to law \"Code de la Sant\u00e9 Publique\" (L1121-5 to L1121-8) :\nPregnant women (urine pregnancy test performed at the selection visit and on the day of arrival in the facility),\nWomen during childbirth and breastfeeding mothers,\nPersons deprived of their liberty by an administrative or judicial decision,\nPersons under involuntary psychiatric care,\nPersons admitted in a health or social establishment for purposes other than research,\nMinors,\nAdults subject to legal protection (subject under guardianship or trusteeship) or unable to express their consent."
+       ],
+       "EnrollmentCount": [
+              "20"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Dry immersion"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "Subjects are immersed up to the neck for 5 days in a specially designed bath filled with tap water."
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Dry immersion"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Microgravity simulation",
+              "Models",
+              "Weightlessness"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "August 9, 2022"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "August 5, 2022"
+       ],
+       "LeadSponsorClass": [
+              "OTHER_GOV"
+       ],
+       "LeadSponsorName": [
+              "Centre National d'Etudes Spatiales"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Toulouse"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "France"
+       ],
+       "LocationFacility": [
+              "Medes-Imps"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [
+              "31400"
+       ],
+       "MaximumAge": [
+              "40 Years"
+       ],
+       "MinimumAge": [
+              "20 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Standardization of the Dry Immersion Model Used as a Ground-based Model to Mimic Weightlessness. Phase 2: a 5-day Dry Immersion Study on 20 Healthy Male Volunteers (VIVALDI2)"
+       ],
+       "OrgClass": [
+              "OTHER_GOV"
+       ],
+       "OrgFullName": [
+              "Centre National d'Etudes Spatiales"
+       ],
+       "OrgStudyId": [
+              "22-282"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "MEDES-IMPS"
+       ],
+       "OverallOfficialName": [
+              "Rebecca BILLETTE DE VILLEMEUR, MD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Not yet recruiting"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "December 2022"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Orthostatic tolerance will be assessed during a Lower Body Negative Pressure test (LBNP test)",
+              "Exercise capacity wil be assessed by graded cycling on sitting ergometer until exhaustion",
+              "Plasma volume (L) will be assessed by the carbon monoxide-rebreathing method",
+              "The consequences of the fluid shift on the cardiac and cephalic area will be assessed by quantifying the right and left Jugular veins volumes (mL), as well as the left ventricle diastolic/systolic volumes (mL) by ultrasound.",
+              "Vascular endothelium integrity will be assessed by blood parameters of vascular and endothelial integrity. Global change of endothelial state will be estimated using several biomarkers, including zonulin, cell adhesion molecules (E-selectin, L-selectin, CD146), growth factors (VEGF, VEGFR-1), glycocalyx breakdown products (syndecan-1, hyaluronic acid, heparan sulfate).",
+              "Continuous 24-h recording of systolic and diastolic blood pressure will be performed by a Non Invasive Blood Pressure system (SOMNOtouch\u2122NIBP) designed for ambulatory continuous measurements",
+              "Venous compliance of lower limbs will be assessed by plethysmography",
+              "Extracellular, intracellular and total body water will be estimated by bioimpedance",
+              "Muscle strength will be assessed from single leg isometric maximal voluntary contraction on the knee extensors & flexors, the plantarflexors and dorsiflexors. The Isometric Torque will be measured in Nm. The peak of the three maximal attempts will be recorded for strength measures",
+              "Muscle fatigability will be assessed during a submaximal isometric knee extension contraction held for 30 seconds at 50% of the baseline Maximal Voluntary Contraction (MVC) value",
+              "Muscle dehydration, eventual atrophy and fatty degeneration will be measured by quantitative Dixon MRI sequences at calf level",
+              "Contraction time will be assessed during a measurement using the tensiomyography method in the following muscles: vastus lateralis, Gastrocnemius medialis and Biceps femoris of dominant leg / arm.",
+              "Change in bone-specific Alkaline Phosphatase (bAP, \u00b5g/L) and procollagen type I N-terminal propeptide (P1NP, \u00b5g/L) will be assessed by chemiluminescence immunoassay",
+              "Change in C-terminal cross-linked telopeptide of type I collagen (CTx, pmol/L) and N-terminal cross-linked telopeptide of type I collagen (NTX, pmol/L) will be assessed by chemiluminescence immunoassay",
+              "Change in serum CP II and in human cartilage glycoprotein-39 (YKL-40) concentrations",
+              "Change in serum Cartilage Oligomeric Matrix Protein (COMP) and fragments or propeptide of type II collagen (C2C, C1,2C, Coll-2-1) concentrations",
+              "Change in C-telopeptide of type II collagen (CTX-II) and nitrated form of peptide of the \u03b1-helical region of type II collagen (Coll-2-1NO2) concentrations",
+              "RMR will be measured by indirect calorimetry technique",
+              "Nitrogen balance is a measure of nitrogen input minus nitrogen output. Nitrogen intake is calculated with a nutrition software. Protein oxidation measured in the 24-Hour urine collection estimates nitrogen output",
+              "Dual energy x-ray absorptiometry is a standard clinical technique to assess fat (g) and lean (g) body mass.",
+              "Glucose and insulin levels will be measured at baseline (fasting) and 30, 60, 90, and 120 minutes after drinking within 5 min a water solution containing 75 g of glucose",
+              "Measured by electronic ingestible temperature capsules (e-Celsius Performance)",
+              "Measured in supine and standing position",
+              "Transcranial Doppler measurements",
+              "Change in mood is assessed using the Profile of Mood States (POMS) questionnaire. POMS questionnaire gives 6 measures of mood:\n\nTension/anxiety,\nDepression,\nAnger/hostility\nDynamism,\nFatigue,\nConfusion A Total Mood Disturbance (TMD) score is calculated by summing the totals for the negative subscales (tension, depression, fatigue, confusion, anger) and then subtracting the totals for the positive subscale (vigor /esteem-related affect).",
+              "Positive and Negative Schedule (PANAS) questionnaire will be used to assess the intensity of positive and negative affective states. PANAS self-report questionnaire consists of two 10-item scales to measure both positive and negative affects\n\nEach item is rated on a five-point Likert Scale, ranging from 1 = Not at all to 5 = Extremely, to measure the extent to which the affect has been experienced in a specified time frame.\n\nPositive affects: scores can range from 10 - 50 with higher scores representing higher levels of positive affect.\n\nNegative affects: scores can range from 10 - 50 with higher scores representing higher levels of negative affect.",
+              "Pittsburgh Sleep Dairy (PghSD) will be used to assess sleep perceived quality. The PghSD is an instrument with separate components to be completed at bedtime and waketime. The following parameters are registered or assessed:\n\nBedtime, waketime, sleep latency, wake after sleep onset, total sleep time, mode of awakening and ratings of sleep quality, mood, and alertness on wakening, as well as daytime information on naps, exercise, meals and caffeine, tobacco and medications use.",
+              "General Health Questionnaire-28 (GHQ-28) will be used to assess psychological well-being and capture distress\n\nGHQ-28 gives an overall total score and 4 scores for 4 subscales:\n\nSomatic symptoms,\nAnxiety/insomnia,\nSocial dysfunction,\nSevere depression. Higher scores indicate higher levels of distress",
+              "Brief Cope Questionnaire is designed to measure effective and ineffective ways to cope with a stressful life event, and will be used to assess coping strategies. The Brief Cope is a shortened form (28 items) of the Carver and Scheier COPE inventory.\n\nThere are 14 coping strategies. These strategies can be then gathered in two main categories : approach coping and avoidance coping.",
+              "Transcranial Doppler measurements of mid cerebral artery blood flow velocity will allow to determine cerebral autoregulation",
+              "ICP changes will be monitored through OtoAcoustic Emissions (OAE)",
+              "The optic nerve sheath diameter (ONSD) variations will be measured by echography",
+              "Thickness of the optic nerve fibers will be measured by Optical Coherence Tomography (OCT)",
+              "IOP measured by applanation",
+              "Far and near visual acuity are tested uncorrected, or if applicable with own correction with digital acuity system",
+              "Visual field measured by standard automated perimetry",
+              "Optical biometry measured by partial coherence interferometry",
+              "Central corneal thickness on a single point on the cornea measured by Ultrasonic pachymetry",
+              "Non-mydriatic fundus retinography allows a fundus photography to be taken and thus a color image of the papilla, retinal vessels and macula",
+              "Cornea topography measured by corneal topography equipment (like Pentacam). The elevation topography according to Scheimpflug principle allows the mapping of the anterior and posterior surface of the cornea.",
+              "Visualization of cerebral structures and intracranial venous system will be performed by MRI coupled with injection of gadolinium",
+              "Walking balance will be assessed by Dynamic Gait Index, specific parameter is: total Score (range 0-24). Higher scores mean a better outcome",
+              "Standing balance will be assessed by posturography eyes open and eyes closed on a platform covered with 12-cm thick medium density foam",
+              "Assessed by the Motion Sickness Susceptibility Questionnaire Short form (MSSQ-Short). MSSQ-Short scores possible range from minimum 0 to maximum 54, the maximum being unlikely. Higher scores means a higher motion sickness susceptibility",
+              "Thrombotic and fibrinolytic processes will be assessed by the following four coagulation values:\n\ni) plasma levels of tissue factor (TF), the physiological trigger for the coagulation cascade, by using the assay Actichrome Tissue factor ELISA from American Diagnostica (Pfungstadt, Germany); ii) Endogenous thrombin potential, an appropriate method to assess the coagulability of a given plasma sample, by using calibrated automated thrombography (CAT, Thrombinoscope BV, Maastricht, the Netherlands); iii) tissue-Plasminogen activator (tPA), by using the assay IMUBIND tPA ELISA kit from American Diagnostica (Pfungstadt, Germany); iv) thromboelastometry (TEM, coagulation analyzer from Matel Medizintechnik, Graz, Austria), providing a kinetic analysis of the clot formation process and of clot dissolution by the fibrinolytic system.",
+              "Change in Forced vital capacity (FVC, L), Tidal Volume (TV, L), Inspiratory reserve Volume (IRV, L), Expiratory reserve volume (ERV, L) will be assessed using spirometry",
+              "Change in Forced expiratory volume in 1 second (FEV1, L/s) and in Peak expiratory flow (PEF, L/min), will be assessed using spirometry"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Change in orthostatic tolerance",
+              "Change in peak aerobic power (VO2max test)",
+              "Change in plasma volume",
+              "Change in fluid shift distribution towards the cardiac and cephalic region",
+              "Change in vascular endothelium integrity",
+              "Change in circadian rhythms of blood pressure",
+              "Change in lower limb veins functions",
+              "Change in body fluid compartments by bioelectrical impedance analysis",
+              "Change in muscle strength",
+              "Change in muscle fatigue",
+              "Change in muscle volume at calf level",
+              "Change in contraction time",
+              "Change in serum bone formation markers",
+              "Change in serum bone resorption markers",
+              "Change in serum cartilage synthesis biomarkers",
+              "Change in serum cartilage degradation biomarkers",
+              "Change in urine cartilage degradation biomarkers",
+              "Change in Resting Metabolic Rate (RMR)",
+              "Change in nitrogen balance",
+              "Change in fat and lean body mass measured by dual energy x-ray absorptiometry (DEXA)",
+              "Change in glucose tolerance (Oral Glucose Tolerance Test)",
+              "Change in Core temperature",
+              "Change in height",
+              "Change in mid cerebral artery (MCA) blood flow velocity",
+              "Change in mood",
+              "Change in affective states",
+              "Change in sleep quality",
+              "Change in psychological state: mental health",
+              "Change in coping strategies",
+              "Change in cerebral autoregulation",
+              "Change in Intra Cranial Pressure (ICP)",
+              "Change in optic nerve sheath diameter (ONSD) considered as an indirect marker for intracranial pressure (ICP) estimation",
+              "Change in the optic nerve fibers thickness",
+              "Change in intraocular pressure (IOP)",
+              "Change in visual acuity",
+              "Change in visual field",
+              "Change in the anatomical characteristics of the eye (optical biometry)",
+              "Change in the central corneal thickness",
+              "Change in the retina by non-mydriatic fundus retinography",
+              "Change in the cornea topography",
+              "Change in cerebral structures and in venous circulation of the brain by MRI",
+              "Change in walking balance",
+              "Change in standing balance",
+              "Change in motion sickness susceptibility",
+              "Change in thrombotic and fibrinolytic processes",
+              "Change in respiratory volumes",
+              "Change in respiratory flows"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "At baseline and five days of 5 days of dry immersion",
+              "At baseline and the first day of recovery",
+              "At baseline and five days of dry immersion",
+              "At baseline, the first day to quantify the short term effect and the fifth day of dry-immersion to quantify the long term effect of fluid shift",
+              "At baseline and during the five days of the dry-immersion period",
+              "At baseline and during the five days of the dry-immersion period",
+              "At baseline and four days of dry-immersion and one day of recovery",
+              "At baseline and during five days of dry-immersion",
+              "Before dry immersion and after one day of recovery",
+              "Before dry immersion and after one day of recovery",
+              "At baseline and five days of dry-immersion",
+              "At baseline and five days of dry immersion",
+              "At baseline and during the 5 days of dry-immersion",
+              "At baseline and during the 5 days of dry-immersion",
+              "At baseline and during the 5 days of dry-immersion",
+              "At baseline and during the 5 days of dry-immersion",
+              "At baseline and during the 5 days of dry-immersion",
+              "At baseline and 5 days of dry-immersion",
+              "At baseline and 5 days of dry-immersion",
+              "At baseline and 5 days of dry-immersion",
+              "At baseline and 5 days of dry-immersion",
+              "At baseline and during the 5 days of dry immersion",
+              "Before, during and after the 5 days of dry immersion",
+              "At baseline and 5 days of dry immersion",
+              "Before, during and after 5 days of dry-immersion",
+              "Before, during and after 5 days of dry-immersion",
+              "Before, during and after 5 days of dry-immersion",
+              "Before, during and after 5 days of dry-immersion",
+              "Before, during and after 5 days of dry-immersion",
+              "At baseline and 5 days of dry-immersion",
+              "At baseline, during and after 5 days of dry-immersion",
+              "At baseline, during and after 5 days of dry-immersion",
+              "At baseline and five days of dry-immersion",
+              "At baseline, during and after five days of dry-immersion",
+              "At baseline and five days of dry-immersion",
+              "At baseline and five days of dry-immersion",
+              "At baseline and five days of dry-immersion",
+              "At baseline and five days of dry-immersion",
+              "At baseline and five days of dry-immersion",
+              "At baseline and five days of dry-immersion",
+              "At baseline and five days of dry-immersion",
+              "At baseline and the first day of recovery",
+              "At baseline and the first day of recovery",
+              "At baseline, during and after 5 days of dry immersion",
+              "Before, during and after 5 days of dry immersion",
+              "At baseline, the 1st day of dry immersion and following 5 days of dry immersion",
+              "At baseline, the 1st day of dry immersion and following 5 days of dry immersion"
+       ],
+       "ReferenceCitation": [
+              "Navasiolava NM, Custaud MA, Tomilovskaya ES, Larina IM, Mano T, Gauquelin-Koch G, Gharib C, Kozlovskaya IB. Long-term dry immersion: review and prospects. Eur J Appl Physiol. 2011 Jul;111(7):1235-60. doi: 10.1007/s00421-010-1750-x. Epub 2010 Dec 14.",
+              "De Abreu S, Amirova L, Murphy R, Wallace R, Twomey L, Gauquelin-Koch G, Raverot V, Larcher F, Custaud MA, Navasiolava N. Multi-System Deconditioning in 3-Day Dry Immersion without Daily Raise. Front Physiol. 2017 Oct 13;8:799. doi: 10.3389/fphys.2017.00799. eCollection 2017.",
+              "Kermorgant M, Leca F, Nasr N, Custaud MA, Geeraerts T, Czosnyka M, Arvanitis DN, Senard JM, Pavy-Le Traon A. Impacts of Simulated Weightlessness by Dry Immersion on Optic Nerve Sheath Diameter and Cerebral Autoregulation. Front Physiol. 2017 Oct 12;8:780. doi: 10.3389/fphys.2017.00780. eCollection 2017.",
+              "Linossier MT, Amirova LE, Thomas M, Normand M, Bareille MP, Gauquelin-Koch G, Beck A, Costes-Salon MC, Bonneau C, Gharib C, Custaud MA, Vico L. Effects of short-term dry immersion on bone remodeling markers, insulin and adipokines. PLoS One. 2017 Aug 14;12(8):e0182970. doi: 10.1371/journal.pone.0182970. eCollection 2017."
+       ],
+       "ReferencePMID": [
+              "21161267",
+              "29081752",
+              "29075198",
+              "28806419"
+       ],
+       "ReferenceType": [
+              "background",
+              "background",
+              "background",
+              "background"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [
+              "2022-A00881-42"
+       ],
+       "SecondaryIdDomain": [
+              "ANSM"
+       ],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [
+              "Other Identifier"
+       ],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "August 2022"
+       ],
+       "StartDateType": [
+              "Anticipated"
+       ],
+       "StatusVerifiedDate": [
+              "August 2022"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "August 9, 2022"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "July 29, 2022"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "August 5, 2022"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 27, 2022"
+       ],
+       "WhyStopped": []
+}
