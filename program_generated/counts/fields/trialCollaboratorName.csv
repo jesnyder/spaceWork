@@ -1,42 +1,47 @@
 ,word,count,percent
-0,European Space Agency,5,9.25926
-1,Novespace,4,7.40741
-2,Uppsala University Hospital,2,3.7037
-3,Florida Space Institute,2,3.7037
-4,European Commission,2,3.7037
-5,KTH Royal Institute of Technology,2,3.7037
-6,Jozef Stefan Institute,2,3.7037
-7,National Space Biomedical Research Institute,2,3.7037
-8,Dexeus Clinic Woman,1,1.85185
-9,International Space University,1,1.85185
-10,National Aeronautics and Space Administration (NASA),1,1.85185
-11,"Ministry of Health, France",1,1.85185
-12,Guy's and St Thomas' NHS Foundation Trust,1,1.85185
-13,Percy Hospital,1,1.85185
-14,Universitat Politècnica de Catalunya,1,1.85185
-15,University of Milan,1,1.85185
-16,Université de Nice Sophia Antipolis,1,1.85185
-17,Centre National d'Etudes Spatiales,1,1.85185
-18,Université de Caen Normandie,1,1.85185
-19,The University of New South Wales,1,1.85185
-20,Canadian Space Agency,1,1.85185
-21,Canadian Institutes of Health Research (CIHR),1,1.85185
-22,Canadian Frailty Network,1,1.85185
-23,"University Hospital, Toulouse",1,1.85185
-24,DLR German Aerospace Center,1,1.85185
-25,Japan Aerospace Exploration Agency,1,1.85185
-26,"University Hospital, Clermont-Ferrand",1,1.85185
-27,"Institut Pluridisciplinaire Hubert Curien, Strasbourg, France",1,1.85185
-28,"National Space Development Agency, Japan",1,1.85185
-29,Massachusetts Institute of Technology,1,1.85185
-30,"Charite University, Berlin, Germany",1,1.85185
-31,Val de Grâce Hospital,1,1.85185
-32,Leiden University Medical Center,1,1.85185
-33,"University Hospital, Lille",1,1.85185
-34,Radboud University Medical Center,1,1.85185
-35,University of Cologne,1,1.85185
-36,Medical University of Graz,1,1.85185
-37,University of Toronto,1,1.85185
-38,Manchester Metropolitan University,1,1.85185
-39,University of Ottawa,1,1.85185
-40,Institut de Recherche Biomedicale des Armees,1,1.85185
+0,European Space Agency,5,7.69231
+1,Novespace,4,6.15385
+2,National Space Biomedical Research Institute,3,4.61538
+3,DLR German Aerospace Center,3,4.61538
+4,"Charite University, Berlin, Germany",2,3.07692
+5,National Aeronautics and Space Administration (NASA),2,3.07692
+6,Florida Space Institute,2,3.07692
+7,European Commission,2,3.07692
+8,KTH Royal Institute of Technology,2,3.07692
+9,University of Cologne,2,3.07692
+10,Jozef Stefan Institute,2,3.07692
+11,Uppsala University Hospital,2,3.07692
+12,"University Hospital, Clermont-Ferrand",1,1.53846
+13,Dexeus Clinic Woman,1,1.53846
+14,Guy's and St Thomas' NHS Foundation Trust,1,1.53846
+15,Percy Hospital,1,1.53846
+16,Universitat Politècnica de Catalunya,1,1.53846
+17,"University Hospital, Toulouse",1,1.53846
+18,"Ministry of Health, France",1,1.53846
+19,Centre National d'Etudes Spatiales,1,1.53846
+20,Université de Caen Normandie,1,1.53846
+21,The University of New South Wales,1,1.53846
+22,Canadian Space Agency,1,1.53846
+23,Canadian Institutes of Health Research (CIHR),1,1.53846
+24,Canadian Frailty Network,1,1.53846
+25,Mayo Clinic,1,1.53846
+26,Texas A&M University,1,1.53846
+27,International Space University,1,1.53846
+28,University of Pennsylvania,1,1.53846
+29,Japan Aerospace Exploration Agency,1,1.53846
+30,Radboud University Medical Center,1,1.53846
+31,University of Milan,1,1.53846
+32,Université de Nice Sophia Antipolis,1,1.53846
+33,University of Ottawa,1,1.53846
+34,Manchester Metropolitan University,1,1.53846
+35,University of Toronto,1,1.53846
+36,Medical University of Graz,1,1.53846
+37,"University Hospital, Lille",1,1.53846
+38,Harvard University,1,1.53846
+39,Leiden University Medical Center,1,1.53846
+40,Val de Grâce Hospital,1,1.53846
+41,Massachusetts Institute of Technology,1,1.53846
+42,"National Space Development Agency, Japan",1,1.53846
+43,"The University of Texas Health Science Center, Houston",1,1.53846
+44,"Institut Pluridisciplinaire Hubert Curien, Strasbourg, France",1,1.53846
+45,Institut de Recherche Biomedicale des Armees,1,1.53846

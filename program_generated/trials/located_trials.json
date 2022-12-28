@@ -1,5 +1,5 @@
 {
-        "count_sponsors": 22,
+        "count_sponsors": 29,
         "sponsors": [
                 {
                         "name": "Centre National d'Etudes Spatiales",
@@ -23,6 +23,30 @@
                         "importance": 0.82,
                         "found_address": "Centre National d Etudes Spatiales  Toulouse  France",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Centre%20National%20d%20Etudes%20Spatiales%20%20Toulouse%20%20France?format=json"
+                },
+                {
+                        "name": "University of Arkansas",
+                        "address": "University of Arkansas, Little Rock, United States",
+                        "name_edit": "University of Arkansas, Little Rock, United States",
+                        "place_id": 206815214,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 451757182,
+                        "boundingbox": [
+                                "34.7449356",
+                                "34.751456",
+                                "-92.3232312",
+                                "-92.3166056"
+                        ],
+                        "lat": "34.74824675",
+                        "lon": "-92.31988846109704",
+                        "display_name": "University of Arkansas Medical Sciences Medical Center, 4301, West Markham Street, Pulaski Heights, Little Rock, Pulaski County, Arkansas, 72205, United States",
+                        "class": "amenity",
+                        "type": "hospital",
+                        "importance": 0.905871082899258,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/health_hospital.p.20.png",
+                        "found_address": "University of Arkansas  Little Rock  United States",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/University%20of%20Arkansas%20%20Little%20Rock%20%20United%20States?format=json"
                 },
                 {
                         "name": "Centre Hospitalier Universitaire de Saint Etienne",
@@ -143,6 +167,30 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Garches%20%20France?format=json"
                 },
                 {
+                        "name": "Instituto de Investigacion Sanitaria La Fe",
+                        "address": "Instituto de Investigacion Sanitaria La Fe, Valencia, Spain",
+                        "name_edit": "Instituto de Investigacion Sanitaria La Fe, Valencia, Spain",
+                        "place_id": 298100769,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 344953,
+                        "boundingbox": [
+                                "39.2784496",
+                                "39.5666089",
+                                "-0.4325512",
+                                "-0.2725205"
+                        ],
+                        "lat": "39.4697065",
+                        "lon": "-0.3763353",
+                        "display_name": "Val\u00e8ncia, Comarca de Val\u00e8ncia, Val\u00e8ncia / Valencia, Comunitat Valenciana, Espa\u00f1a",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.7688714022950969,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " Valencia  Spain",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Valencia%20%20Spain?format=json"
+                },
+                {
                         "name": "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es",
                         "address": "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es, Br\u00e9tigny-sur-Orge, France",
                         "name_edit": "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es, Br\u00e9tigny-sur-Orge, France",
@@ -237,6 +285,53 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
                         "found_address": "Swiss Federal Institute of Technology      ",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Swiss%20Federal%20Institute%20of%20Technology%20%20%20%20%20%20?format=json"
+                },
+                {
+                        "name": "Kathy Miller",
+                        "address": "Kathy Miller, Indianapolis, United States",
+                        "name_edit": "Kathy Miller, Indianapolis, United States",
+                        "place_id": 298337112,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 1812962,
+                        "boundingbox": [
+                                "39.6321626",
+                                "39.9275253",
+                                "-86.3281207",
+                                "-85.9380401"
+                        ],
+                        "lat": "39.7683331",
+                        "lon": "-86.1583502",
+                        "display_name": "Indianapolis, Marion County, Indiana, United States",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.9500269307043622,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " Indianapolis  United States",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Indianapolis%20%20United%20States?format=json"
+                },
+                {
+                        "name": "Baylor College of Medicine",
+                        "address": "Baylor College of Medicine,  ,  ",
+                        "name_edit": "Baylor College of Medicine,  ,  ",
+                        "place_id": 160699696,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "way",
+                        "osm_id": 221618665,
+                        "boundingbox": [
+                                "29.7097244",
+                                "29.7112828",
+                                "-95.3969563",
+                                "-95.3941366"
+                        ],
+                        "lat": "29.7104775",
+                        "lon": "-95.39580027495086",
+                        "display_name": "Baylor College of Medicine, 1, Baylor Plaza, Texas Medical Center, Houston, Harris County, Texas, 77030, United States",
+                        "class": "building",
+                        "type": "college",
+                        "importance": 0.8015173743608475,
+                        "found_address": "Baylor College of Medicine      ",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Baylor%20College%20of%20Medicine%20%20%20%20%20%20?format=json"
                 },
                 {
                         "name": "University Hospital, Caen",
@@ -478,6 +573,30 @@
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Brussels%20%20Belgium?format=json"
                 },
                 {
+                        "name": "University of Pennsylvania",
+                        "address": "University of Pennsylvania, Philadelphia, United States",
+                        "name_edit": "University of Pennsylvania, Philadelphia, United States",
+                        "place_id": 298653284,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 2594845,
+                        "boundingbox": [
+                                "39.9398131",
+                                "39.955629",
+                                "-75.2044528",
+                                "-75.1827715"
+                        ],
+                        "lat": "39.9493382",
+                        "lon": "-75.18964402998125",
+                        "display_name": "University of Pennsylvania, Pine Street, Rittenhouse Square, Center City, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 1.2460364579033651,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": "University of Pennsylvania  Philadelphia  United States",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/University%20of%20Pennsylvania%20%20Philadelphia%20%20United%20States?format=json"
+                },
+                {
                         "name": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
                         "address": "McGill University Health Centre/Research Institute of the McGill University Health Centre, Montr\u00e9al, Canada",
                         "name_edit": "McGill University Health Centre/Research Institute of the McGill University Health Centre, Montr\u00e9al, Canada",
@@ -524,6 +643,54 @@
                         "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
                         "found_address": "University of Texas Southwestern Medical Center  Dallas  United States",
                         "openstreetmap_url": "https://nominatim.openstreetmap.org/search/University%20of%20Texas%20Southwestern%20Medical%20Center%20%20Dallas%20%20United%20States?format=json"
+                },
+                {
+                        "name": "Stony Brook University",
+                        "address": "Stony Brook University, Stony Brook, United States",
+                        "name_edit": "Stony Brook University, Stony Brook, United States",
+                        "place_id": 299846802,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 14321838,
+                        "boundingbox": [
+                                "40.8928173",
+                                "40.9252699",
+                                "-73.1372862",
+                                "-73.1004066"
+                        ],
+                        "lat": "40.9090809",
+                        "lon": "-73.12055180275716",
+                        "display_name": "Stony Brook University, 100, Nicolls Road, Stony Brook, Town of Brookhaven, Suffolk County, New York, 11794, United States",
+                        "class": "amenity",
+                        "type": "university",
+                        "importance": 1.2031983575641667,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/education_university.p.20.png",
+                        "found_address": "Stony Brook University  Stony Brook  United States",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Stony%20Brook%20University%20%20Stony%20Brook%20%20United%20States?format=json"
+                },
+                {
+                        "name": "Ottawa Hospital Research Institute",
+                        "address": "Ottawa Hospital Research Institute, Ottawa, Canada",
+                        "name_edit": "Ottawa Hospital Research Institute, Ottawa, Canada",
+                        "place_id": 298736019,
+                        "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                        "osm_type": "relation",
+                        "osm_id": 4136816,
+                        "boundingbox": [
+                                "44.9617738",
+                                "45.5376502",
+                                "-76.3555857",
+                                "-75.2465783"
+                        ],
+                        "lat": "45.4208777",
+                        "lon": "-75.6901106",
+                        "display_name": "Ottawa, Eastern Ontario, Ontario, Canada",
+                        "class": "boundary",
+                        "type": "administrative",
+                        "importance": 0.991919973272384,
+                        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+                        "found_address": " Ottawa  Canada",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/%20Ottawa%20%20Canada?format=json"
                 }
         ]
 }

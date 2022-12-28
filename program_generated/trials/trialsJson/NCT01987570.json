@@ -1,0 +1,586 @@
+{
+       "Rank": 9,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "One tablet of allopurinol is administrated orally at a dose of 300 mg/24 hours, during the time that the patient remains immobilized for 15 days.",
+              "One tablet/24 hours of placebo orally, during the time that the patient remains immobilized for 15 days."
+       ],
+       "ArmGroupInterventionName": [
+              "Drug: Allopurinol",
+              "Drug: Placebo"
+       ],
+       "ArmGroupLabel": [
+              "Allopurinol",
+              "Placebo"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "Placebo Comparator"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT01987570"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Generating critical levels of power is a prerequisite for performing simple daily activities, such as rising from a chair or climbing stairs. For a young healthy person these activities can be performed easily, however after a prolonged period of forced inactivity (such as during the recovery from a sports injury, prolonged bed rest or spaceflight) a loss of muscle mass occurs. It has been suggested that this loss may be triggered by oxidative stress. An enzyme involved in the production of free radicals in various experimental models, including immobilization, is xanthine oxidase (XO). Although allopurinol is an inhibitor of XO widely used in clinical practice, its effect on the maintenance of muscle mass after an immobilization protocol is unknown. Thus, the major aim of this clinical trial is to determine the effect of allopurinol administration on the prevention of muscle mass loss in immobilized subjects.\n\nThis is a prospective, randomized study in which fifty young male subjects (aged between 25 and 40 years) diagnosed with grade II ankle sprain will be recruited. After immobilization the patients will be assigned randomly to one of two experimental groups, one treated with allopurinol (n=25) and the other with placebo (n=25). The dosage of allopurinol will be the same as recommended for gout patients, i.e. 300 mg/day orally, during all the immobilization period, which will last fifteen days. This medication will be delivered to the patients when they agree to participate in the clinical trial. They will be immobilized by posterior knee splint, preventing use of that leg.\n\nWe will determine muscle mass loss by performing two magnetic resonances of both legs before and after the immobilization period. We will also take two blood samples (before and after immobilization) to measure oxidative stress parameters (malondialdehyde, protein carbonyls, and XO activity), inflammatory parameters (IL-6, C-reactive protein and 1-antichymotrypsin), as well as vitamin D levels."
+       ],
+       "BriefTitle": [
+              "Effect of Allopurinol Administration on the Prevention of Muscle Mass Loss in Subject Immobilized."
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "July 2016"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Patients With Grade II Ankle Sprain"
+       ],
+       "ConditionAncestorId": [
+              "D000007869",
+              "D000014947"
+       ],
+       "ConditionAncestorTerm": [
+              "Leg Injuries",
+              "Wounds and Injuries"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC23",
+              "All",
+              "BC26"
+       ],
+       "ConditionBrowseBranchName": [
+              "Symptoms and General Pathology",
+              "All Conditions",
+              "Wounds and Injuries"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Ankle Sprain"
+       ],
+       "ConditionBrowseLeafId": [
+              "M9445",
+              "M18061",
+              "M10033",
+              "M16837"
+       ],
+       "ConditionBrowseLeafName": [
+              "Inflammation",
+              "Ankle Injuries",
+              "Leg Injuries",
+              "Wounds and Injuries"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000016512"
+       ],
+       "ConditionMeshTerm": [
+              "Ankle Injuries"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "Quadruple"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Treatment"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+       ],
+       "DetailedDescription": [],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nPatients with grade II sprain.\nBoys\nAge 20-40 years.\nPatient without regular medication.\nAll patients must provide written informed consent specific to this study complete.\n\nExclusion Criteria:\n\nLiver and gastrointestinal disease.\nUntreated hypothyroidism.\nAlcohol and / or drug addiction.\nVitamin supplements.\nEating Disorders.\nDrugs that decrease the concentration of lipids.\nAntihypertensive drugs.\nAthletes who exercise intensely.\nMental disorders, depression or anxiety intensive. These conditions make the patient unable to understand the nature or the scope and possible consequences of the study.\nPatients presenting an infectious process and / or inflammatory before collecting the sample.\nPatients may not follow the protocol because of its lack of cooperation, to their inability to return to subsequent visits and there is little chance of completing the study procedures.\nHypersensitivity to allopurinol"
+       ],
+       "EnrollmentCount": [
+              "53"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "No"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [
+              "D000000963",
+              "D000045504",
+              "D000004791",
+              "D000006074",
+              "D000018501",
+              "D000016166",
+              "D000000975",
+              "D000020011",
+              "D000045505"
+       ],
+       "InterventionAncestorTerm": [
+              "Antimetabolites",
+              "Molecular Mechanisms of Pharmacological Action",
+              "Enzyme Inhibitors",
+              "Gout Suppressants",
+              "Antirheumatic Agents",
+              "Free Radical Scavengers",
+              "Antioxidants",
+              "Protective Agents",
+              "Physiological Effects of Drugs"
+       ],
+       "InterventionArmGroupLabel": [
+              "Allopurinol",
+              "Placebo"
+       ],
+       "InterventionBrowseBranchAbbrev": [
+              "ARhu",
+              "All"
+       ],
+       "InterventionBrowseBranchName": [
+              "Antirheumatic Agents",
+              "All Drugs and Chemicals"
+       ],
+       "InterventionBrowseLeafAsFound": [
+              "Oxygenation"
+       ],
+       "InterventionBrowseLeafId": [
+              "M2986",
+              "M3433",
+              "M19757",
+              "M3444",
+              "M21022"
+       ],
+       "InterventionBrowseLeafName": [
+              "Allopurinol",
+              "Antimetabolites",
+              "Antirheumatic Agents",
+              "Antioxidants",
+              "Protective Agents"
+       ],
+       "InterventionBrowseLeafRelevance": [
+              "high",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "InterventionDescription": [],
+       "InterventionMeshId": [
+              "D000000493"
+       ],
+       "InterventionMeshTerm": [
+              "Allopurinol"
+       ],
+       "InterventionName": [
+              "Allopurinol",
+              "Placebo"
+       ],
+       "InterventionOtherName": [
+              "1H-pirazolo (3,4-d)pirimidina-4-ol",
+              "Zyloric"
+       ],
+       "InterventionType": [
+              "Drug",
+              "Drug"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Xanthine oxidase",
+              "Magnetic resonance",
+              "Oxidative stress",
+              "Inflammation"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "September 8, 2016"
+       ],
+       "LastUpdatePostDateType": [
+              "Estimate"
+       ],
+       "LastUpdateSubmitDate": [
+              "September 7, 2016"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Instituto de Investigacion Sanitaria La Fe"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Valencia",
+              "Valencia"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "Spain",
+              "Spain"
+       ],
+       "LocationFacility": [
+              "University of Valencia",
+              "Hospital Universitari i Polit\u00e8cnic La Fe"
+       ],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [
+              "46010",
+              "46026"
+       ],
+       "MaximumAge": [
+              "40 Years"
+       ],
+       "MinimumAge": [
+              "20 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Effect of Allopurinol Administration on the Prevention of Muscle Mass Loss in Subject Immobilized."
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Instituto de Investigacion Sanitaria La Fe"
+       ],
+       "OrgStudyId": [
+              "ALMU_2011"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "University of Valencia"
+       ],
+       "OverallOfficialName": [
+              "JOS\u00c9 VI\u00d1A, MD PhD (HON)"
+       ],
+       "OverallOfficialRole": [
+              "Study Director"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "Yes"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Phase 3"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "July 2016"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Checks the loss of muscle mass percentage with Magnetic Resonance before and after treatment.",
+              "Measure xanthine oxidase activity in plasma"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Muscle mass loss",
+              "The role of xanthine oxidase in the loss of muscle mass"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Day 0 and day 15",
+              "Day 0 and day 15"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [],
+       "ResponsiblePartyInvestigatorFullName": [],
+       "ResponsiblePartyInvestigatorTitle": [],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [
+              "2011-003541-17"
+       ],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [
+              "EudraCT Number"
+       ],
+       "SecondaryOutcomeDescription": [
+              "Checks the loss of muscle mass size with Magnetic Resonance before and after treatment.",
+              "Glutathione (GSH), glutathione disulfide (GSSG), malondialdehyde (MDA) and oxidized proteins, after a period of immobilization of 15 days duration."
+       ],
+       "SecondaryOutcomeMeasure": [
+              "size of the leg muscles in a group of immobilized subjects.",
+              "oxidative stress parameters"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "Day 0 and day 15",
+              "Day 0 and day 15"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "April 2012"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "July 2015"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "November 19, 2013"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "November 12, 2013"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "November 12, 2013"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [
+              "February 26, 2018"
+       ],
+       "SubmissionResetDate": [
+              "October 9, 2018"
+       ],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [
+              "February 26, 2018",
+              "October 9, 2018"
+       ],
+       "UnpostedEventType": [
+              "Release",
+              "Reset"
+       ],
+       "UnpostedResponsibleParty": [
+              "Instituto de Investigacion Sanitaria La Fe"
+       ],
+       "VersionHolder": [
+              "December 28, 2022"
+       ],
+       "WhyStopped": []
+}

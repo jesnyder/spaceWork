@@ -1,0 +1,655 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "InterventionArmGroupLabel",
+                     "InterventionBrowseBranchAbbrev",
+                     "InterventionBrowseBranchName",
+                     "InterventionBrowseLeafAsFound",
+                     "InterventionBrowseLeafId",
+                     "InterventionBrowseLeafName",
+                     "InterventionBrowseLeafRelevance",
+                     "InterventionDescription",
+                     "InterventionMeshId",
+                     "InterventionMeshTerm",
+                     "InterventionName",
+                     "InterventionOtherName",
+                     "InterventionType",
+                     "IsFDARegulatedDevice",
+                     "IsFDARegulatedDrug",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "InterventionArmGroupLabel": [
+                                   "10 mg Zolpidem and 10 mg Zaleplon",
+                                   "5 mg Zolpidem and 10 mg Zaleplon"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "CNSDep",
+                                   "All",
+                                   "AntiConv",
+                                   "AAll",
+                                   "AnEm",
+                                   "Gast",
+                                   "Derm"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Central Nervous System Depressants",
+                                   "All Drugs and Chemicals",
+                                   "Anticonvulsants",
+                                   "Anti-Allergic Agents",
+                                   "Antiemetics",
+                                   "Gastrointestinal Agents",
+                                   "Dermatologic Agents"
+                            ],
+                            "InterventionBrowseLeafAsFound": [
+                                   "Inclusion criteria",
+                                   "Thiazolidinedione"
+                            ],
+                            "InterventionBrowseLeafId": [
+                                   "M1771",
+                                   "M250662",
+                                   "M6490",
+                                   "M13420",
+                                   "M9195",
+                                   "M19978",
+                                   "M19657",
+                                   "M3398",
+                                   "M19980"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Zolpidem",
+                                   "Zaleplon",
+                                   "Diphenhydramine",
+                                   "Promethazine",
+                                   "Hypnotics and Sedatives",
+                                   "GABA Agonists",
+                                   "Neurotransmitter Agents",
+                                   "Anticonvulsants",
+                                   "GABA Modulators"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "high",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [
+                                   "C000085665",
+                                   "D000077334"
+                            ],
+                            "InterventionMeshTerm": [
+                                   "Zaleplon",
+                                   "Zolpidem"
+                            ],
+                            "InterventionName": [
+                                   "Zolpidem"
+                            ],
+                            "InterventionOtherName": [
+                                   "Zaleplon"
+                            ],
+                            "InterventionType": [
+                                   "Drug"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "InterventionArmGroupLabel": [
+                                   "Atmosphere 2 - 0.5% CO2",
+                                   "Atmosphere 1 - Ambient air"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "The subjects will be randomized to breath 0.5% carbon dioxide during one of the -12 degree head down tilt body position periods in crossover design",
+                                   "The subjects will be randomized to breath ambient air during one of the -12 degree head down tilt body position periods in crossover design"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "0.5% CO2",
+                                   "ambient air"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "InterventionArmGroupLabel": [
+                                   "LOFT Therapy"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "LOFT Therapy\u2122 will be performed 2 times a week for 4 weeks a total of 8 sessions. The patient will be wrapped with fabric cuffs, on up to four limbs. The cuffs are applied to the widest part of the biceps and upper thighs at pressures between 80-100 mmHg with minimal venous encroachment. The patients will ride a recumbent bike for 18 total minutes of sub-maximal exertion (up to 70% repetition maximum ), with the option of up to 2 periods of 15-second higher intensity exertions as tolerated, followed by individualized respiratory recovery periods determined by the relative decrease in breathing effort.\n\nThe 18-minute session will be preceded by a two-minute compression check, where the wraps will be adjusted based on any signs or symptoms of nerve or vessel impingement."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "LOFT Therapy"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "InterventionArmGroupLabel": [
+                                   "12-Month Arm",
+                                   "2-Month Arm",
+                                   "6-Month Arm",
+                                   "No Intervention"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Exposure to the spaceflight environment on the International Space Station for 2, 6, or 12 months.",
+                                   "No intervention"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Spaceflight",
+                                   "Controls"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "InterventionArmGroupLabel": [
+                                   "High Apro/K Diet",
+                                   "Low Apro/K Diet",
+                                   "High Apro/K Diet",
+                                   "Low Apro/K Diet"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "4-d controlled diet sessions will occur twice before flight.",
+                                   "4-d controlled diet sessions will take place on flight days 15, 60, 120, and 180. Flight day 30 will only be monitored intakes (subject consume nominal intake)"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Preflight",
+                                   "In-flight"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other",
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "InterventionArmGroupLabel": [],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "BDCA",
+                                   "All"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Bone Density Conservation Agents",
+                                   "All Drugs and Chemicals"
+                            ],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [
+                                   "M6498"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Diphosphonates"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "low"
+                            ],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Ethidronate",
+                                   "Physical training"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Drug",
+                                   "Behavioral"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "InterventionArmGroupLabel": [
+                                   "Lower body negative pressure"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "lower body negative pressure at -20mmHg delivered via a custom designed sleeping sack"
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Lower body negative pressure"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Other"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "InterventionArmGroupLabel": [],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [],
+                            "InterventionOtherName": [],
+                            "InterventionType": [],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "InterventionArmGroupLabel": [
+                                   "Allopurinol",
+                                   "Placebo"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "ARhu",
+                                   "All"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Antirheumatic Agents",
+                                   "All Drugs and Chemicals"
+                            ],
+                            "InterventionBrowseLeafAsFound": [
+                                   "Oxygenation"
+                            ],
+                            "InterventionBrowseLeafId": [
+                                   "M2986",
+                                   "M3433",
+                                   "M19757",
+                                   "M3444",
+                                   "M21022"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Allopurinol",
+                                   "Antimetabolites",
+                                   "Antirheumatic Agents",
+                                   "Antioxidants",
+                                   "Protective Agents"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "InterventionDescription": [],
+                            "InterventionMeshId": [
+                                   "D000000493"
+                            ],
+                            "InterventionMeshTerm": [
+                                   "Allopurinol"
+                            ],
+                            "InterventionName": [
+                                   "Allopurinol",
+                                   "Placebo"
+                            ],
+                            "InterventionOtherName": [
+                                   "1H-pirazolo (3,4-d)pirimidina-4-ol",
+                                   "Zyloric"
+                            ],
+                            "InterventionType": [
+                                   "Drug",
+                                   "Drug"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "InterventionArmGroupLabel": [
+                                   "Supplemented with B-Complex"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "Micro",
+                                   "All",
+                                   "Hemat",
+                                   "Derm",
+                                   "ANeo",
+                                   "Vi"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Micronutrients",
+                                   "All Drugs and Chemicals",
+                                   "Hematinics",
+                                   "Dermatologic Agents",
+                                   "Antineoplastic Agents",
+                                   "Vitamins"
+                            ],
+                            "InterventionBrowseLeafAsFound": [
+                                   "Loose",
+                                   "Loose",
+                                   "Loose",
+                                   "Loose",
+                                   "Loose"
+                            ],
+                            "InterventionBrowseLeafId": [
+                                   "M16710",
+                                   "M7770",
+                                   "M22179",
+                                   "M13735",
+                                   "M13741",
+                                   "M16698",
+                                   "M16700",
+                                   "M16696",
+                                   "M14237",
+                                   "M302471",
+                                   "M13737",
+                                   "M7765",
+                                   "M16037",
+                                   "M20162",
+                                   "M8637",
+                                   "T446",
+                                   "T474",
+                                   "T459",
+                                   "T461",
+                                   "T448",
+                                   "T475",
+                                   "T476",
+                                   "T441",
+                                   "T444",
+                                   "T451",
+                                   "T462",
+                                   "T468",
+                                   "T463",
+                                   "T470",
+                                   "T447"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Vitamins",
+                                   "Folic Acid",
+                                   "Vitamin B 6",
+                                   "Pyridoxal",
+                                   "Pyridoxine",
+                                   "Vitamin B Complex",
+                                   "Vitamin B 12",
+                                   "Vitamin A",
+                                   "Riboflavin",
+                                   "Retinol palmitate",
+                                   "Pyridoxal Phosphate",
+                                   "Flavin Mononucleotide",
+                                   "Trace Elements",
+                                   "Micronutrients",
+                                   "Hematinics",
+                                   "Folic Acid",
+                                   "Vitamin B6",
+                                   "Pyridoxal",
+                                   "Pyridoxine",
+                                   "Folate",
+                                   "Vitamin B9",
+                                   "Vitamin B12",
+                                   "Cobalamin",
+                                   "Cyanocobalamin",
+                                   "Methylcobalamin",
+                                   "Retinol",
+                                   "Vitamin A",
+                                   "Riboflavin",
+                                   "Vitamin B2",
+                                   "Folinic Acid"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "low",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "high",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "InterventionDescription": [
+                                   "Vitamin B-Complex Supplement containing: 5-methyltetrahydrofolate, riboflavin 5 phosphate, pyridoxal phosphate, and methylcobalamin"
+                            ],
+                            "InterventionMeshId": [
+                                   "D000005492",
+                                   "D000014803"
+                            ],
+                            "InterventionMeshTerm": [
+                                   "Folic Acid",
+                                   "Vitamin B Complex"
+                            ],
+                            "InterventionName": [
+                                   "Vitamin B-Complex Supplement"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Drug"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "Yes"
+                            ],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "InterventionArmGroupLabel": [
+                                   "3",
+                                   "1",
+                                   "2"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [
+                                   "HB",
+                                   "All"
+                            ],
+                            "InterventionBrowseBranchName": [
+                                   "Herbal and Botanical",
+                                   "All Drugs and Chemicals"
+                            ],
+                            "InterventionBrowseLeafAsFound": [
+                                   "Allergen"
+                            ],
+                            "InterventionBrowseLeafId": [
+                                   "T244"
+                            ],
+                            "InterventionBrowseLeafName": [
+                                   "Orange"
+                            ],
+                            "InterventionBrowseLeafRelevance": [
+                                   "high"
+                            ],
+                            "InterventionDescription": [
+                                   "Subjects will lift weights with their legs.",
+                                   "Subjects drink diet orange soda 3x day for 2 days.",
+                                   "Subjects drink 15 grams of EAA mixed into diet orange soda 3x day for 2 days."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "Resistance Exercise",
+                                   "diet orange soda",
+                                   "essential amino acids"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Behavioral",
+                                   "Dietary Supplement",
+                                   "Dietary Supplement"
+                            ],
+                            "IsFDARegulatedDevice": [],
+                            "IsFDARegulatedDrug": [],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "InterventionArmGroupLabel": [
+                                   "myCompass + Delayed Text Therapy Support",
+                                   "myCompass + Delayed Video Therapy Support",
+                                   "myCompass Only"
+                            ],
+                            "InterventionBrowseBranchAbbrev": [],
+                            "InterventionBrowseBranchName": [],
+                            "InterventionBrowseLeafAsFound": [],
+                            "InterventionBrowseLeafId": [],
+                            "InterventionBrowseLeafName": [],
+                            "InterventionBrowseLeafRelevance": [],
+                            "InterventionDescription": [
+                                   "Self-guided e-health treatment with two of the arms providing delayed (44min) text or video support from a therapist."
+                            ],
+                            "InterventionMeshId": [],
+                            "InterventionMeshTerm": [],
+                            "InterventionName": [
+                                   "e-Health Treatment"
+                            ],
+                            "InterventionOtherName": [],
+                            "InterventionType": [
+                                   "Behavioral"
+                            ],
+                            "IsFDARegulatedDevice": [
+                                   "No"
+                            ],
+                            "IsFDARegulatedDrug": [
+                                   "No"
+                            ],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

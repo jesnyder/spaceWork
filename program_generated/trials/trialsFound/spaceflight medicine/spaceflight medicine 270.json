@@ -1,0 +1,536 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "OverallOfficialName",
+                     "OverallOfficialRole",
+                     "OverallStatus",
+                     "OversightHasDMC",
+                     "PatientRegistry",
+                     "Phase",
+                     "PointOfContactEMail",
+                     "PointOfContactOrganization",
+                     "PointOfContactPhone",
+                     "PointOfContactPhoneExt",
+                     "PointOfContactTitle",
+                     "PrimaryCompletionDate",
+                     "PrimaryCompletionDateType",
+                     "PrimaryOutcomeDescription",
+                     "PrimaryOutcomeMeasure",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "OverallOfficialName": [
+                                   "Smith Johnston, MD",
+                                   "David Dinges, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator",
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Phase 4"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "July 15, 2015"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The number of lapses of attention on 3 minute Psychomotor Vigilance Test"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Number of lapses of attention"
+                            ],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Phase 1"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "July 2015"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Transcranial Doppler derived measurements of mean cerebral blood flow velocity",
+                                   "Cerebrotech monitor derived intracranial fluid volume changes (percentage change)",
+                                   "Vittamed ICP meter derived intracranial pressure (mmHg)",
+                                   "Cognition battery score (max 1000): tests multiple cognitive domains including spatial memory, psychomotor processing speed, facial emotional recognition",
+                                   "cFLOW derived changes in cerebral blood flow index"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Changes in cerebral blood flow: Transcranial doppler",
+                                   "Changes in intracranial volume",
+                                   "Changes in intracranial pressure",
+                                   "Changes in cognitive function",
+                                   "Changes in cerebral blood flow: cFLOW"
+                            ],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "OverallOfficialName": [
+                                   "Kathy Miller, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "Yes"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 29, 2018"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Analysis of the modified intent-to-treat population defined as patients with at least 1 post-baseline measurement as well as eligible patients who decline participation, reason for refusal, and number of enrolled patients who do not complete all LOFT training sessions"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Feasibility of LOFT therapy in breast cancer survivors (< 3 years from diagnosis) treated with either chemotherapy and/or anti-estrogen therapy"
+                            ],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "OverallOfficialName": [],
+                            "OverallOfficialRole": [],
+                            "OverallStatus": [
+                                   "Enrolling by invitation"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 31, 2033"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Cognitive efficiency across domains as determined with the Cognition test battery",
+                                   "fMRI local task activation while performing the MRI version of Cognition in the scanner",
+                                   "Accuracy and reaction times for each cognitive task as determined with the Spatial Cognition test batteries",
+                                   "Structural brain changes assessed with MRI",
+                                   "fMRI local task activation while performing visuospatial tasks in the scanner",
+                                   "Changes in Brain-Derived Neurotropic Factor (BDNF)"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Cognitive performance",
+                                   "Local task activation Cognition",
+                                   "Spatial cognition performance",
+                                   "Structural brain changes",
+                                   "Local task activation Spatial Cognition",
+                                   "Brain-Derived Neurotropic Factor (BDNF)"
+                            ],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "OverallOfficialName": [
+                                   "Scott M Smith, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 2015"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "24-h NTX will be used as an indicator of bone resorption"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in urinary n-telopeptide after 15 days of space flight compared to preflight",
+                                   "Change in urinary n-telopeptide after 30 days of space flight compared to preflight",
+                                   "Change in urinary n-telopeptide after 60 days of space flight compared to preflight",
+                                   "Change in urinary n-telopeptide after 120 days of space flight compared to preflight",
+                                   "Change in urinary n-telopeptide after 180 days of space flight compared to preflight",
+                                   "Change in urinary calcium after 15 days of space flight compared to preflight",
+                                   "Change in urinary calcium after 60 days of space flight compared to preflight",
+                                   "Change in urinary calcium after 120 days of space flight compared to preflight",
+                                   "Change in urinary calcium after 180 days of space flight compared to preflight"
+                            ],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "OverallOfficialName": [
+                                   "Jacques Bernard, Dr"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Phase 1"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [],
+                            "PrimaryCompletionDateType": [],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Muscle size and function",
+                                   "Muscle protein composition, muscle fiber type composition andmuscle enzyme content of soleus and vastus lateralis muscles",
+                                   "Bone mineral content and structure",
+                                   "Isokinetic muscle strength (using Cybex)",
+                                   "Fluid volume shift",
+                                   "Calcium metabolism and hormonal control",
+                                   "Sleep assessment by questionnaires and actigraphy",
+                                   "RR interval from an ECG lead signal by an high impedance probe, Systolic (SAP), Diastolic (DAP) and Mean arterial pressure (MAP) by Finapres (or Portapres) andRespiration by a piezoelectric pneumobelt,",
+                                   "Acetaminophen pharmacokinetic parameters,",
+                                   "24 h profile of spine geometry,flexibility index of spine, activity of lower back muscles,",
+                                   "and subjective rating of back pain",
+                                   "Maximal oxygen consumption.",
+                                   "Cardiovascular oxygen transport (oxygen delivery and oxygen return), requiring measurement of cardiac output, heart rate, arterialized blood gas composition, and arterial oxygen saturation.",
+                                   "Gas exchange kinetics at the onset and offset of exercise, requiring measurement of breath-by-breath ventilation and expired gas composition.",
+                                   "Blood volume",
+                                   "Plasma concentrations of arginin vasopressin, atrial natriuretic peptide, renin, endothelin, cyclic GMP and catecholamines. Urine concentrations of catecholamines, arginin vasopressin and cyclic GMP Blood concentration of nitric oxide.",
+                                   "Total energy expenditure, Lipid metabolism, body composition, water turnover and the formation of metabolic water.",
+                                   "Heart rate variability and post-ganglionic sympathetic nerve activity.",
+                                   "Arterial cardiac chronotropic baroreflex sensitivity and ventricular interdependence.",
+                                   "Ventricular mass and cardiac dimension.",
+                                   "Muscle architecture, including angle of pennation, fibre length, muscle thickness and muscle cross-sectional area",
+                                   "Energetics and biomechanics of walking and running",
+                                   "Parameters of vascular peripheral hemodynamics",
+                                   "Parameters of central hemodynamics"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "OverallOfficialName": [
+                                   "Benjamin Levine, MD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "March 1, 2020"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "The change in choroid area measured by optical coherence tomography.",
+                                   "The change in choroid volume measured by optical coherence tomography."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Change in choroid area",
+                                   "Change in choroid volume"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "OverallOfficialName": [
+                                   "Guy Trudel"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Recruiting"
+                            ],
+                            "OversightHasDMC": [],
+                            "PatientRegistry": [
+                                   "No"
+                            ],
+                            "Phase": [],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "November 30, 2022"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Hemolysis in astronauts is assessed using exhaled breath samples.",
+                                   "Change from baseline hemolysis in astronauts is assessed during spaceflight using exhaled breath samples.",
+                                   "Change from baseline hemolysis in astronauts is assessed after spaceflight, up to 1 month, using exhaled breath samples.",
+                                   "Hemolysis in astronauts is assessed using blood markers CBC, reticulocytes, haptoglobin, bilirubin (total+direct), LDH, ferritin, iron, and TIBC.",
+                                   "Change from baseline hemolysis in astronauts is assessed during spaceflight using blood markers CBC, reticulocytes, haptoglobin, bilirubin (total+direct), LDH, ferritin, iron, and TIBC.",
+                                   "Change from baseline hemolysis in astronauts is assessed after spaceflight, up to 1 month, using blood markers CBC, reticulocytes, haptoglobin, bilirubin (total+direct), LDH, ferritin, iron, and TIBC."
+                            ],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "OverallOfficialName": [
+                                   "JOS\u00c9 VI\u00d1A, MD PhD (HON)"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Study Director"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [
+                                   "Yes"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Phase 3"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "July 2016"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Checks the loss of muscle mass percentage with Magnetic Resonance before and after treatment.",
+                                   "Measure xanthine oxidase activity in plasma"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Muscle mass loss",
+                                   "The role of xanthine oxidase in the loss of muscle mass"
+                            ],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "OverallOfficialName": [
+                                   "Sara R Zwart, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Recruiting"
+                            ],
+                            "OversightHasDMC": [
+                                   "No"
+                            ],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Phase 1"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "July 1, 2027"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Measure change in total retinal thickness during and after flight compared to preflight using OCT"
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Optic Disc Edema"
+                            ],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "OverallOfficialName": [
+                                   "Arny Ferrando, PhD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "June 2009"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [],
+                            "PrimaryOutcomeMeasure": [
+                                   "Fractional synthetic rate of muscle growth."
+                            ],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "OverallOfficialName": [
+                                   "Adam Gonzalez, PHD"
+                            ],
+                            "OverallOfficialRole": [
+                                   "Principal Investigator"
+                            ],
+                            "OverallStatus": [
+                                   "Completed"
+                            ],
+                            "OversightHasDMC": [],
+                            "PatientRegistry": [],
+                            "Phase": [
+                                   "Not Applicable"
+                            ],
+                            "PointOfContactEMail": [],
+                            "PointOfContactOrganization": [],
+                            "PointOfContactPhone": [],
+                            "PointOfContactPhoneExt": [],
+                            "PointOfContactTitle": [],
+                            "PrimaryCompletionDate": [
+                                   "December 17, 2018"
+                            ],
+                            "PrimaryCompletionDateType": [
+                                   "Actual"
+                            ],
+                            "PrimaryOutcomeDescription": [
+                                   "Sheehan Disability Scale is a 3 item measure to assess functional impairment in work/school, social life, and family life.",
+                                   "Depression Anxiety and Stress Scale is a 21-item measure to assess the severity of Depression, Stress, and Anxiety."
+                            ],
+                            "PrimaryOutcomeMeasure": [
+                                   "Functional impairment in work/school, social life, and family life change",
+                                   "Symptoms of Depression, Stress, and Anxiety Change"
+                            ],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

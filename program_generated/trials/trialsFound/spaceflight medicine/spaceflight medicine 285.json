@@ -1,0 +1,544 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "PrimaryOutcomeTimeFrame",
+                     "ReferenceCitation",
+                     "ReferencePMID",
+                     "ReferenceType",
+                     "RemovedCountry",
+                     "ResponsiblePartyInvestigatorAffiliation",
+                     "ResponsiblePartyInvestigatorFullName",
+                     "ResponsiblePartyInvestigatorTitle",
+                     "ResponsiblePartyOldNameTitle",
+                     "ResponsiblePartyOldOrganization",
+                     "ResponsiblePartyType",
+                     "ResultsFirstPostDate",
+                     "ResultsFirstPostDateType",
+                     "ResultsFirstPostedQCCommentsDate",
+                     "ResultsFirstPostedQCCommentsDateType",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "3 weeks"
+                            ],
+                            "ReferenceCitation": [
+                                   "Dinges DF, Basner M, Ecker AJ, Baskin P, Johnston SL. Effects of zolpidem and zaleplon on cognitive performance after emergent morning awakenings at Tmax: a randomized placebo-controlled trial. Sleep. 2019 Mar 1;42(3):zsy258. doi: 10.1093/sleep/zsy258."
+                            ],
+                            "ReferencePMID": [
+                                   "30576525"
+                            ],
+                            "ReferenceType": [
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "24 and 48 hours from baseline measurements",
+                                   "24 and 48 hours from baseline measurements",
+                                   "24 and 48 hours from baseline measurements",
+                                   "24 and 48 hours from baseline measurements",
+                                   "24 and 48 hours from baseline measurements"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Baylor College of Medicine"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Eric Michael Bershad"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Assistant Professor of Neurology and Space Medicine"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Indiana University School of Medicine"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Kathy Miller"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Professor of Medicine and Sheila D. Ward Scholar"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor-Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Change from pre-flight performance (average of tests performed 180, 120 and 60 days prior to launch) to in-flight performance (average of all tests: 1 month mission = 1 test, 2 months = 2 tests, 6 months = 6 tests, 12 months = 12 tests)",
+                                   "Change from pre-flight local task activation (investigated 60 days prior to launch) to post-flight local task activation (investigated 5 days and 30 days after return to Earth)",
+                                   "Change from pre-flight performance (average of tests performed 180, 120 and 60 days prior to launch) to in-flight performance (average of all tests: 1 month mission = 1 test, 2 months = 2 tests, 6 months = 4 tests, 12 months = 7 tests)",
+                                   "Change from pre-flight local task activation (investigated 60 days prior to launch) to post-flight (investigated 5 days and 30 days after return to Earth)",
+                                   "Change from pre-flight local task activation (investigated 60 days prior to launch) to post-flight local task activation (investigated 5 days and 30 days after return to Earth)",
+                                   "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)"
+                            ],
+                            "ReferenceCitation": [
+                                   "Basner M, Moore TM, Hermosillo E, Nasrini J, Dinges DF, Gur RC, Johannes B. Cognition Test Battery Performance Is Associated with Simulated 6df Spacecraft Docking Performance. Aerosp Med Hum Perform. 2020 Nov 1;91(11):861-867. doi: 10.3357/AMHP.5602.2020.",
+                                   "Afshinnekoo E, Scott RT, MacKay MJ, Pariset E, Cekanaviciute E, Barker R, Gilroy S, Hassane D, Smith SM, Zwart SR, Nelman-Gonzalez M, Crucian BE, Ponomarev SA, Orlov OI, Shiba D, Muratani M, Yamamoto M, Richards SE, Vaishampayan PA, Meydan C, Foox J, Myrrhe J, Istasse E, Singh N, Venkateswaran K, Keune JA, Ray HE, Basner M, Miller J, Vitaterna MH, Taylor DM, Wallace D, Rubins K, Bailey SM, Grabham P, Costes SV, Mason CE, Beheshti A. Fundamental Biological Features of Spaceflight: Advancing the Field to Enable Deep-Space Exploration. Cell. 2020 Nov 25;183(5):1162-1184. doi: 10.1016/j.cell.2020.10.050. Erratum In: Cell. 2021 Nov 24;184(24):6002.",
+                                   "Basner M, Hermosillo E, Nasrini J, Saxena S, Dinges DF, Moore TM, Gur RC. Cognition test battery: Adjusting for practice and stimulus set effects for varying administration intervals in high performing individuals. J Clin Exp Neuropsychol. 2020 Jul;42(5):516-529. doi: 10.1080/13803395.2020.1773765. Epub 2020 Jun 15. Erratum In: J Clin Exp Neuropsychol. 2020 Jun 24;:1.",
+                                   "Nasrini J, Hermosillo E, Dinges DF, Moore TM, Gur RC, Basner M. Cognitive Performance During Confinement and Sleep Restriction in NASA's Human Exploration Research Analog (HERA). Front Physiol. 2020 Apr 28;11:394. doi: 10.3389/fphys.2020.00394. eCollection 2020.",
+                                   "Lee G, Moore TM, Basner M, Nasrini J, Roalf DR, Ruparel K, Port AM, Dinges DF, Gur RC. Age, Sex, and Repeated Measures Effects on NASA's \"Cognition\" Test Battery in STEM Educated Adults. Aerosp Med Hum Perform. 2020 Jan 1;91(1):18-25. doi: 10.3357/AMHP.5485.2020.",
+                                   "Scully RR, Basner M, Nasrini J, Lam CW, Hermosillo E, Gur RC, Moore T, Alexander DJ, Satish U, Ryder VE. Effects of acute exposures to carbon dioxide on decision making and cognition in astronaut-like subjects. NPJ Microgravity. 2019 Jun 19;5:17. doi: 10.1038/s41526-019-0071-6. eCollection 2019.",
+                                   "Garrett-Bakelman FE, Darshi M, Green SJ, Gur RC, Lin L, Macias BR, McKenna MJ, Meydan C, Mishra T, Nasrini J, Piening BD, Rizzardi LF, Sharma K, Siamwala JH, Taylor L, Vitaterna MH, Afkarian M, Afshinnekoo E, Ahadi S, Ambati A, Arya M, Bezdan D, Callahan CM, Chen S, Choi AMK, Chlipala GE, Contrepois K, Covington M, Crucian BE, De Vivo I, Dinges DF, Ebert DJ, Feinberg JI, Gandara JA, George KA, Goutsias J, Grills GS, Hargens AR, Heer M, Hillary RP, Hoofnagle AN, Hook VYH, Jenkinson G, Jiang P, Keshavarzian A, Laurie SS, Lee-McMullen B, Lumpkins SB, MacKay M, Maienschein-Cline MG, Melnick AM, Moore TM, Nakahira K, Patel HH, Pietrzyk R, Rao V, Saito R, Salins DN, Schilling JM, Sears DD, Sheridan CK, Stenger MB, Tryggvadottir R, Urban AE, Vaisar T, Van Espen B, Zhang J, Ziegler MG, Zwart SR, Charles JB, Kundrot CE, Scott GBI, Bailey SM, Basner M, Feinberg AP, Lee SMC, Mason CE, Mignot E, Rana BK, Smith SM, Snyder MP, Turek FW. The NASA Twins Study: A multidimensional analysis of a year-long human spaceflight. Science. 2019 Apr 12;364(6436):eaau8650. doi: 10.1126/science.aau8650.",
+                                   "Basner M, Nasrini J, Hermosillo E, McGuire S, Dinges DF, Moore TM, Gur RC, Rittweger J, Mulder E, Wittkowski M, Donoviel D, Stevens B, Bershad EM; SPACECOT Investigator Group. Effects of -12 degrees head-down tilt with and without elevated levels of CO2 on cognitive performance: the SPACECOT study. J Appl Physiol (1985). 2018 Mar 1;124(3):750-760. doi: 10.1152/japplphysiol.00855.2017. Epub 2017 Dec 14.",
+                                   "Moore TM, Basner M, Nasrini J, Hermosillo E, Kabadi S, Roalf DR, McGuire S, Ecker AJ, Ruparel K, Port AM, Jackson CT, Dinges DF, Gur RC. Validation of the Cognition Test Battery for Spaceflight in a Sample of Highly Educated Adults. Aerosp Med Hum Perform. 2017 Oct 1;88(10):937-946. doi: 10.3357/AMHP.4801.2017.",
+                                   "Basner M, Savitt A, Moore TM, Port AM, McGuire S, Ecker AJ, Nasrini J, Mollicone DJ, Mott CM, McCann T, Dinges DF, Gur RC. Development and Validation of the Cognition Test Battery for Spaceflight. Aerosp Med Hum Perform. 2015 Nov;86(11):942-52. doi: 10.3357/AMHP.4343.2015.",
+                                   "Basner M, Dinges DF, Mollicone DJ, Savelev I, Ecker AJ, Di Antonio A, Jones CW, Hyder EC, Kan K, Morukov BV, Sutton JP. Psychological and behavioral changes during confinement in a 520-day simulated interplanetary mission to mars. PLoS One. 2014 Mar 27;9(3):e93298. doi: 10.1371/journal.pone.0093298. eCollection 2014.",
+                                   "Basner M, Dinges DF, Mollicone D, Ecker A, Jones CW, Hyder EC, Di Antonio A, Savelev I, Kan K, Goel N, Morukov BV, Sutton JP. Mars 520-d mission simulation reveals protracted crew hypokinesis and alterations of sleep duration and timing. Proc Natl Acad Sci U S A. 2013 Feb 12;110(7):2635-40. doi: 10.1073/pnas.1212646110. Epub 2013 Jan 7. Erratum In: Proc Natl Acad Sci U S A. 2013 Feb 12;110(7):2676.",
+                                   "Mendt S, Gunga HC, Felsenberg D, Belavy DL, Steinach M, Stahn AC. Regular exercise counteracts circadian shifts in core body temperature during long-duration bed rest. NPJ Microgravity. 2021 Jan 5;7(1):1. doi: 10.1038/s41526-020-00129-1.",
+                                   "Chouker A, Stahn AC. COVID-19-The largest isolation study in history: the value of shared learnings from spaceflight analogs. NPJ Microgravity. 2020 Oct 22;6:32. doi: 10.1038/s41526-020-00122-8. eCollection 2020.",
+                                   "Friedl-Werner A, Brauns K, Gunga HC, Kuhn S, Stahn AC. Exercise-induced changes in brain activity during memory encoding and retrieval after long-term bed rest. Neuroimage. 2020 Dec;223:117359. doi: 10.1016/j.neuroimage.2020.117359. Epub 2020 Sep 10.",
+                                   "Roberts DR, Stahn AC, Seidler RD, Wuyts FL. Towards understanding the effects of spaceflight on the brain. Lancet Neurol. 2020 Oct;19(10):808. doi: 10.1016/S1474-4422(20)30304-5. Epub 2020 Sep 16. No abstract available.",
+                                   "Maggioni MA, Merati G, Castiglioni P, Mendt S, Gunga HC, Stahn AC. Reduced vagal modulations of heart rate during overwintering in Antarctica. Sci Rep. 2020 Dec 11;10(1):21810. doi: 10.1038/s41598-020-78722-3.",
+                                   "Stahn AC, Riemer M, Wolbers T, Werner A, Brauns K, Besnard S, Denise P, Kuhn S, Gunga HC. Spatial Updating Depends on Gravity. Front Neural Circuits. 2020 Jun 5;14:20. doi: 10.3389/fncir.2020.00020. eCollection 2020.",
+                                   "Stahn AC, Gunga HC, Kohlberg E, Gallinat J, Dinges DF, Kuhn S. Brain Changes in Response to Long Antarctic Expeditions. N Engl J Med. 2019 Dec 5;381(23):2273-2275. doi: 10.1056/NEJMc1904905. No abstract available.",
+                                   "Stahn AC, Werner A, Opatz O, Maggioni MA, Steinach M, von Ahlefeld VW, Moore A, Crucian BE, Smith SM, Zwart SR, Schlabs T, Mendt S, Trippel T, Koralewski E, Koch J, Chouker A, Reitz G, Shang P, Rocker L, Kirsch KA, Gunga HC. Increased core body temperature in astronauts during long-duration space missions. Sci Rep. 2017 Nov 23;7(1):16180. doi: 10.1038/s41598-017-15560-w.",
+                                   "Strewe C, Moser D, Buchheim JI, Gunga HC, Stahn A, Crucian BE, Fiedel B, Bauer H, Gossmann-Lang P, Thieme D, Kohlberg E, Chouker A, Feuerecker M. Sex differences in stress and immune responses during confinement in Antarctica. Biol Sex Differ. 2019 Apr 16;10(1):20. doi: 10.1186/s13293-019-0231-0."
+                            ],
+                            "ReferencePMID": [
+                                   "33334406",
+                                   "33242416",
+                                   "32539487",
+                                   "32411017",
+                                   "31852569",
+                                   "31240239",
+                                   "30975860",
+                                   "29357516",
+                                   "28923143",
+                                   "26564759",
+                                   "24675720",
+                                   "23297197",
+                                   "33402671",
+                                   "33110938",
+                                   "32919056",
+                                   "32949538",
+                                   "33311648",
+                                   "32581724",
+                                   "31800997",
+                                   "29170507",
+                                   "30992051"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "University of Pennsylvania"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Mathias Basner, MD, PhD"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Professor"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "15 days",
+                                   "30 days",
+                                   "60 days",
+                                   "120 days",
+                                   "180 days",
+                                   "15 days",
+                                   "60 days",
+                                   "120 days",
+                                   "180 days"
+                            ],
+                            "ReferenceCitation": [
+                                   "Zwart SR, Hargens AR, Smith SM. The ratio of animal protein intake to potassium intake is a predictor of bone resorption in space flight analogues and in ambulatory subjects. Am J Clin Nutr. 2004 Oct;80(4):1058-65. doi: 10.1093/ajcn/80.4.1058.",
+                                   "Zwart SR, Davis-Street JE, Paddon-Jones D, Ferrando AA, Wolfe RR, Smith SM. Amino acid supplementation alters bone metabolism during simulated weightlessness. J Appl Physiol (1985). 2005 Jul;99(1):134-40. doi: 10.1152/japplphysiol.01406.2004. Epub 2005 Feb 3. Erratum In: J Appl Physiol (1985). 2013 Sep;115(6):950.",
+                                   "Zwart SR, Rice BL, Dlouhy H, Shackelford LC, Heer M, Koslovsky MD, Smith SM. Dietary acid load and bone turnover during long-duration spaceflight and bed rest. Am J Clin Nutr. 2018 May 1;107(5):834-844. doi: 10.1093/ajcn/nqy029."
+                            ],
+                            "ReferencePMID": [
+                                   "15447920",
+                                   "15691900",
+                                   "29722847"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Scott M. Smith"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Manager for Nutritional Biochemistry"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "PrimaryOutcomeTimeFrame": [],
+                            "ReferenceCitation": [
+                                   "Rittweger J, Frost HM, Schiessl H, Ohshima H, Alkner B, Tesch P, Felsenberg D. Muscle atrophy and bone loss after 90 days' bed rest and the effects of flywheel resistive exercise and pamidronate: results from the LTBR study. Bone. 2005 Jun;36(6):1019-29. doi: 10.1016/j.bone.2004.11.014. Epub 2005 Apr 2.",
+                                   "Watanabe Y, Ohshima H, Mizuno K, Sekiguchi C, Fukunaga M, Kohri K, Rittweger J, Felsenberg D, Matsumoto T, Nakamura T. Intravenous pamidronate prevents femoral bone loss and renal stone formation during 90-day bed rest. J Bone Miner Res. 2004 Nov;19(11):1771-8. doi: 10.1359/JBMR.040811. Epub 2004 Aug 23.",
+                                   "Rittweger J, Felsenberg D. Patterns of bone loss in bed-ridden healthy young male subjects: results from the Long Term Bed Rest Study in Toulouse. J Musculoskelet Neuronal Interact. 2003 Dec;3(4):290-1; discussion 292-4. No abstract available.",
+                                   "Gallagher P, Trappe S, Harber M, Creer A, Mazzetti S, Trappe T, Alkner B, Tesch P. Effects of 84-days of bedrest and resistance training on single muscle fibre myosin heavy chain distribution in human vastus lateralis and soleus muscles. Acta Physiol Scand. 2005 Sep;185(1):61-9. doi: 10.1111/j.1365-201X.2005.01457.x.",
+                                   "Rudnick J, Puttmann B, Tesch PA, Alkner B, Schoser BG, Salanova M, Kirsch K, Gunga HC, Schiffl G, Luck G, Blottner D. Differential expression of nitric oxide synthases (NOS 1-3) in human skeletal muscle following exercise countermeasure during 12 weeks of bed rest. FASEB J. 2004 Aug;18(11):1228-30. doi: 10.1096/fj.03-0792fje. Epub 2004 Jun 4.",
+                                   "Trappe S, Trappe T, Gallagher P, Harber M, Alkner B, Tesch P. Human single muscle fibre function with 84 day bed-rest and resistance exercise. J Physiol. 2004 Jun 1;557(Pt 2):501-13. doi: 10.1113/jphysiol.2004.062166. Epub 2004 Apr 2.",
+                                   "Belin de Chantemele E, Pascaud L, Custaud MA, Capri A, Louisy F, Ferretti G, Gharib C, Arbeille P. Calf venous volume during stand-test after a 90-day bed-rest study with or without exercise countermeasure. J Physiol. 2004 Dec 1;561(Pt 2):611-22. doi: 10.1113/jphysiol.2004.069468. Epub 2004 Aug 26.",
+                                   "Belin de Chantemele E, Blanc S, Pellet N, Duvareille M, Ferretti G, Gauquelin-Koch G, Gharib C, Custaud MA. Does resistance exercise prevent body fluid changes after a 90-day bed rest? Eur J Appl Physiol. 2004 Aug;92(4-5):555-64. doi: 10.1007/s00421-004-1121-6. Epub 2004 May 29.",
+                                   "Reeves NJ, Maganaris CN, Ferretti G, Narici MV. Influence of simulated microgravity on human skeletal muscle architecture and function. J Gravit Physiol. 2002 Jul;9(1):P153-4.",
+                                   "Belavy DL, Ohshima H, Rittweger J, Felsenberg D. High-intensity flywheel exercise and recovery of atrophy after 90 days bed--rest. BMJ Open Sport Exerc Med. 2017 Jul 24;3(1):e000196. doi: 10.1136/bmjsem-2016-000196. eCollection 2017."
+                            ],
+                            "ReferencePMID": [
+                                   "15811637",
+                                   "15476576",
+                                   "15758301",
+                                   "16128698",
+                                   "15180967",
+                                   "15064323",
+                                   "15331681",
+                                   "15170571",
+                                   "15002526",
+                                   "28761699"
+                            ],
+                            "ReferenceType": [
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "result",
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Baseline, after 3-days of bed rest",
+                                   "Baseline, after 3-days of bed rest"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "University of Texas Southwestern Medical Center"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Benjamin Levine"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Professor of Medicine"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Before spaceflight.",
+                                   "Baseline and during spaceflight.",
+                                   "After spaceflight, up to 1 month.",
+                                   "Before spaceflight.",
+                                   "Baseline and during spaceflight.",
+                                   "After spaceflight, up to 1 month."
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Ottawa Hospital Research Institute"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Dr. Guy Trudel"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Professor of Medicine, Surgery and Biochemistry"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Day 0 and day 15",
+                                   "Day 0 and day 15"
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Sponsor"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "6 months"
+                            ],
+                            "ReferenceCitation": [
+                                   "Zwart SR, Laurie SS, Chen JJ, Macias BR, Lee SMC, Stenger M, Grantham B, Carey K, Young M, Smith SM. Association of Genetics and B Vitamin Status With the Magnitude of Optic Disc Edema During 30-Day Strict Head-Down Tilt Bed Rest. JAMA Ophthalmol. 2019 Oct 1;137(10):1195-1200. doi: 10.1001/jamaophthalmol.2019.3124.",
+                                   "Zwart SR, Gibson CR, Gregory JF, Mader TH, Stover PJ, Zeisel SH, Smith SM. Astronaut ophthalmic syndrome. FASEB J. 2017 Sep;31(9):3746-3756. doi: 10.1096/fj.201700294. Epub 2017 May 25.",
+                                   "Smith SM, Zwart SR. Spaceflight-related ocular changes: the potential role of genetics, and the potential of B vitamins as a countermeasure. Curr Opin Clin Nutr Metab Care. 2018 Nov;21(6):481-488. doi: 10.1097/MCO.0000000000000510.",
+                                   "McGregor HR, Lee JK, Mulder ER, De Dios YE, Beltran NE, Kofman IS, Bloomberg JJ, Mulavara AP, Smith SM, Zwart SR, Seidler RD. Ophthalmic changes in a spaceflight analog are associated with brain functional reorganization. Hum Brain Mapp. 2021 Sep;42(13):4281-4297. doi: 10.1002/hbm.25546. Epub 2021 Jun 9.",
+                                   "Laurie SS, Vizzeri G, Taibbi G, Ferguson CR, Hu X, Lee SMC, Ploutz-Snyder R, Smith SM, Zwart SR, Stenger MB. Effects of short-term mild hypercapnia during head-down tilt on intracranial pressure and ocular structures in healthy human subjects. Physiol Rep. 2017 Jun;5(11):e13302. doi: 10.14814/phy2.13302."
+                            ],
+                            "ReferencePMID": [
+                                   "31415055",
+                                   "28546443",
+                                   "30169456",
+                                   "34105833",
+                                   "28611153"
+                            ],
+                            "ReferenceType": [
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background",
+                                   "background"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "The University of Texas Medical Branch, Galveston"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Sara R. Zwart, PhD"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Deputy Manager for Nutritional Biochemistry"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "two days."
+                            ],
+                            "ReferenceCitation": [],
+                            "ReferencePMID": [],
+                            "ReferenceType": [],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [],
+                            "ResponsiblePartyInvestigatorFullName": [],
+                            "ResponsiblePartyInvestigatorTitle": [],
+                            "ResponsiblePartyOldNameTitle": [
+                                   "Arny A. Ferrando, PhD"
+                            ],
+                            "ResponsiblePartyOldOrganization": [
+                                   "UAMS"
+                            ],
+                            "ResponsiblePartyType": [],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "PrimaryOutcomeTimeFrame": [
+                                   "Change from baseline at 6-weeks assessments, 1-weeks post treatment, and 1-month post treatment",
+                                   "Change from baseline at 6-weeks assessments, 1-week post treatment, and 1-month post treatment"
+                            ],
+                            "ReferenceCitation": [
+                                   "Luo X, Bugatti M, Molina L, Tilley JL, Mahaffey B, Gonzalez A. Conceptual Invariance, Trajectories, and Outcome Associations of Working Alliance in Unguided and Guided Internet-Based Psychological Interventions: Secondary Analysis of a Randomized Controlled Trial. JMIR Ment Health. 2022 Jun 21;9(6):e35496. doi: 10.2196/35496."
+                            ],
+                            "ReferencePMID": [
+                                   "35727626"
+                            ],
+                            "ReferenceType": [
+                                   "derived"
+                            ],
+                            "RemovedCountry": [],
+                            "ResponsiblePartyInvestigatorAffiliation": [
+                                   "Stony Brook University"
+                            ],
+                            "ResponsiblePartyInvestigatorFullName": [
+                                   "Adam Gonzalez"
+                            ],
+                            "ResponsiblePartyInvestigatorTitle": [
+                                   "Associate Professor"
+                            ],
+                            "ResponsiblePartyOldNameTitle": [],
+                            "ResponsiblePartyOldOrganization": [],
+                            "ResponsiblePartyType": [
+                                   "Principal Investigator"
+                            ],
+                            "ResultsFirstPostDate": [],
+                            "ResultsFirstPostDateType": [],
+                            "ResultsFirstPostedQCCommentsDate": [],
+                            "ResultsFirstPostedQCCommentsDateType": [],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

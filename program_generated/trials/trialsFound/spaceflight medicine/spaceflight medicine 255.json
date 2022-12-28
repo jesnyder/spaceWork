@@ -1,0 +1,305 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "OutcomeMeasureParamType",
+                     "OutcomeMeasurePopulationDescription",
+                     "OutcomeMeasureReportingStatus",
+                     "OutcomeMeasureTimeFrame",
+                     "OutcomeMeasureTitle",
+                     "OutcomeMeasureType",
+                     "OutcomeMeasureTypeUnitsAnalyzed",
+                     "OutcomeMeasureUnitOfMeasure",
+                     "OutcomeMeasurementComment",
+                     "OutcomeMeasurementGroupId",
+                     "OutcomeMeasurementLowerLimit",
+                     "OutcomeMeasurementSpread",
+                     "OutcomeMeasurementUpperLimit",
+                     "OutcomeMeasurementValue",
+                     "OverallOfficialAffiliation",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "JSC NASA",
+                                   "University of Pennsylvania"
+                            ],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "Indiana University School of Medicine"
+                            ],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "MEDES-IMPS"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "UT Southwestern Medical Center"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "Ottawa Hospital Research Institute"
+                            ],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "University of Valencia"
+                            ],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "UTMB"
+                            ],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "University of Arkansas"
+                            ],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "OutcomeMeasureParamType": [],
+                            "OutcomeMeasurePopulationDescription": [],
+                            "OutcomeMeasureReportingStatus": [],
+                            "OutcomeMeasureTimeFrame": [],
+                            "OutcomeMeasureTitle": [],
+                            "OutcomeMeasureType": [],
+                            "OutcomeMeasureTypeUnitsAnalyzed": [],
+                            "OutcomeMeasureUnitOfMeasure": [],
+                            "OutcomeMeasurementComment": [],
+                            "OutcomeMeasurementGroupId": [],
+                            "OutcomeMeasurementLowerLimit": [],
+                            "OutcomeMeasurementSpread": [],
+                            "OutcomeMeasurementUpperLimit": [],
+                            "OutcomeMeasurementValue": [],
+                            "OverallOfficialAffiliation": [
+                                   "Stony Brook University"
+                            ],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

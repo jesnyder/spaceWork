@@ -1,0 +1,425 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "Acronym",
+                     "AgreementOtherDetails",
+                     "AgreementPISponsorEmployee",
+                     "AgreementRestrictionType",
+                     "AgreementRestrictiveAgreement",
+                     "ArmGroupDescription",
+                     "ArmGroupInterventionName",
+                     "ArmGroupLabel",
+                     "ArmGroupType",
+                     "AvailIPDComment",
+                     "AvailIPDId",
+                     "AvailIPDType",
+                     "AvailIPDURL",
+                     "BaselineCategoryTitle",
+                     "BaselineClassDenomCountGroupId",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Experiment 1 will involve N= 14 subjects randomized to placebo , 10 mg zolpidem for males and 10 mg zaleplon in counterbalanced order. Subjects are nested into group.",
+                                   "Experiment 2, which will involve N=20 subjects randomized to placebo, 5 mg zolpidem and 10 mg zaleplon. All females will be placed in experiment 2. Subjects are nested into group."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Drug: Zolpidem",
+                                   "Drug: Zolpidem"
+                            ],
+                            "ArmGroupLabel": [
+                                   "10 mg Zolpidem and 10 mg Zaleplon",
+                                   "5 mg Zolpidem and 10 mg Zaleplon"
+                            ],
+                            "ArmGroupType": [
+                                   "Placebo Comparator",
+                                   "Placebo Comparator"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "Acronym": [
+                                   "SPACE-COT"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "First, the subjects will have 1 baseline day in the upright body position. This will be followed by 28 hours of head down tilt body position and ambient air at sea level, followed by 2 hour exposure of 3% carbon dioxide inhalation.",
+                                   "First, the subjects will have 1 baseline day in the upright body position. This will be followed by 28 hours of head down tilt body position and air with 0.5% carbon dioxide, followed by 2 hour exposure of 3% carbon dioxide inhalation."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: ambient air",
+                                   "Other: 0.5% CO2"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Atmosphere 1 - Ambient air",
+                                   "Atmosphere 2 - 0.5% CO2"
+                            ],
+                            "ArmGroupType": [
+                                   "Active Comparator",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "LOFT therapy twice weekly for 4 weeks"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: LOFT Therapy"
+                            ],
+                            "ArmGroupLabel": [
+                                   "LOFT Therapy"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Astronauts on 2-month International Space Station missions will be exposed to spaceflight for a duration of 2 months. Biometric and cognitive data will routinely be collected.",
+                                   "Astronauts on 6-month International Space Station missions will be exposed to spaceflight for a duration of 6 months. Biometric and cognitive data will routinely be collected.",
+                                   "Astronauts on 12-month International Space Station missions will be exposed to spaceflight for a duration of 12 months. Biometric and cognitive data will routinely be collected.",
+                                   "Subjects matched to 12-month astronauts that stay on Earth and are investigated at similar time points."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Spaceflight",
+                                   "Other: Spaceflight",
+                                   "Other: Spaceflight",
+                                   "Other: Controls"
+                            ],
+                            "ArmGroupLabel": [
+                                   "2-Month Arm",
+                                   "6-Month Arm",
+                                   "12-Month Arm",
+                                   "No Intervention"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Experimental",
+                                   "Experimental",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "Acronym": [
+                                   "ProK"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Subjects consume a prescribed diet for 4 days with a low ratio of animal protein to potassium (0.3-0.6 g/mEq).",
+                                   "Subjects consume a prescribed diet that has a high ratio of animal protein to potassium (1.0-1.3 g/mEq) for 4 days."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Preflight",
+                                   "Other: In-flight",
+                                   "Other: Preflight",
+                                   "Other: In-flight"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Low Apro/K Diet",
+                                   "High Apro/K Diet"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [],
+                            "ArmGroupInterventionName": [],
+                            "ArmGroupLabel": [],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "Acronym": [
+                                   "STOP-VIIP"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "4 days of strict bed rest",
+                                   "4 days of strict bed rest with nightly lower body negative pressure at -20mmHg"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Other: Lower body negative pressure"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Control",
+                                   "Lower body negative pressure"
+                            ],
+                            "ArmGroupType": [
+                                   "No Intervention",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "Acronym": [
+                                   "ANEMIA"
+                            ],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "The group is a cohort of 4 persons."
+                            ],
+                            "ArmGroupInterventionName": [],
+                            "ArmGroupLabel": [
+                                   "Group"
+                            ],
+                            "ArmGroupType": [],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "One tablet of allopurinol is administrated orally at a dose of 300 mg/24 hours, during the time that the patient remains immobilized for 15 days.",
+                                   "One tablet/24 hours of placebo orally, during the time that the patient remains immobilized for 15 days."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Drug: Allopurinol",
+                                   "Drug: Placebo"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Allopurinol",
+                                   "Placebo"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Placebo Comparator"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Subjects will take a vitamin B-complex supplement before, during, and after a 6-12 month spaceflight on the International Space Station"
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Drug: Vitamin B-Complex Supplement"
+                            ],
+                            "ArmGroupLabel": [
+                                   "Supplemented with B-Complex"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Subjects drink essential amino acid supplement 3x day for 2 days.",
+                                   "Subjects receive inert substance versus protein supplement.",
+                                   "Resistance exercise."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Dietary Supplement: essential amino acids",
+                                   "Dietary Supplement: diet orange soda",
+                                   "Behavioral: Resistance Exercise"
+                            ],
+                            "ArmGroupLabel": [
+                                   "2",
+                                   "1",
+                                   "3"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Placebo Comparator",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "Acronym": [],
+                            "AgreementOtherDetails": [],
+                            "AgreementPISponsorEmployee": [],
+                            "AgreementRestrictionType": [],
+                            "AgreementRestrictiveAgreement": [],
+                            "ArmGroupDescription": [
+                                   "Self-guided e-health treatment",
+                                   "Self-guided e-health treatment with delayed (44min) text support from a therapist.",
+                                   "Self-guided e-health treatment with delayed (44min) video support from a therapist."
+                            ],
+                            "ArmGroupInterventionName": [
+                                   "Behavioral: e-Health Treatment",
+                                   "Behavioral: e-Health Treatment",
+                                   "Behavioral: e-Health Treatment"
+                            ],
+                            "ArmGroupLabel": [
+                                   "myCompass Only",
+                                   "myCompass + Delayed Text Therapy Support",
+                                   "myCompass + Delayed Video Therapy Support"
+                            ],
+                            "ArmGroupType": [
+                                   "Experimental",
+                                   "Experimental",
+                                   "Experimental"
+                            ],
+                            "AvailIPDComment": [],
+                            "AvailIPDId": [],
+                            "AvailIPDType": [],
+                            "AvailIPDURL": [],
+                            "BaselineCategoryTitle": [],
+                            "BaselineClassDenomCountGroupId": [],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

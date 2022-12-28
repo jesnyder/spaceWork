@@ -1,41 +1,57 @@
 ,word,count,percent
-0,Healthy Volunteers,11,16.17647
-1,Healthy,9,13.23529
-2,Weightlessness,7,10.29412
-3,Weightlessness; Adverse Effect,3,4.41176
-4,Cardiovascular Diseases,2,2.94118
-5,Hypoxia,2,2.94118
-6,Pulmonary Atelectasis,1,1.47059
-7,Sarcopenia,1,1.47059
-8,Semen Quality,1,1.47059
-9,Tinnitus,1,1.47059
-10,Hearing Loss,1,1.47059
-11,Airway Management,1,1.47059
-12,Emergency Medicine,1,1.47059
-13,Sleep Disturbance,1,1.47059
-14,Cerebral Blood Flow,1,1.47059
-15,Cardiac Arrest,1,1.47059
-16,Atrial Fibrillation,1,1.47059
-17,Hypertension,1,1.47059
-18,Heart Failure,1,1.47059
-19,Aging,1,1.47059
-20,Space Flight Associated Neuro-ocular Syndrome,1,1.47059
-21,Astronaut-Bone Demineralisation Syndrome,1,1.47059
-22,Simulation of Weightlessness by Anti-Orthostatic Long Term Bed Rest,1,1.47059
-23,Muscle Atrophy,1,1.47059
-24,Vestibular,1,1.47059
-25,Aortic Valve Insufficiency,1,1.47059
-26,Aortic Valve Stenosis,1,1.47059
-27,Countermeasure Evaluation,1,1.47059
-28,Settings Word Prediction Software,1,1.47059
-29,Rehabilitation Program,1,1.47059
-30,Atelectasis,1,1.47059
-31,Cardiovascular Deconditioning,1,1.47059
-32,Microgravity Exposed Endothelial Cells,1,1.47059
-33,Shoulder Pain,1,1.47059
-34,Immune Function and Intestinal Microbiota,1,1.47059
-35,Bone Resorption,1,1.47059
-36,Maximum Voluntary Contraction,1,1.47059
-37,Pointing Task,1,1.47059
-38,Gasping Task,1,1.47059
-39,Body Schema,1,1.47059
+0,Healthy Volunteers,11,12.64368
+1,Healthy,10,11.49425
+2,Weightlessness,8,9.1954
+3,Weightlessness; Adverse Effect,3,3.44828
+4,Bone Resorption,2,2.29885
+5,Cardiovascular Diseases,2,2.29885
+6,Hypoxia,2,2.29885
+7,Semen Quality,1,1.14943
+8,Tinnitus,1,1.14943
+9,Sarcopenia,1,1.14943
+10,Hearing Loss,1,1.14943
+11,Heart Failure,1,1.14943
+12,Emergency Medicine,1,1.14943
+13,Cerebral Blood Flow,1,1.14943
+14,Cardiac Arrest,1,1.14943
+15,Atrial Fibrillation,1,1.14943
+16,Hypertension,1,1.14943
+17,Airway Management,1,1.14943
+18,Simulation of Weightlessness by Anti-Orthostatic Long Term Bed Rest,1,1.14943
+19,Brain Structure,1,1.14943
+20,Pharmacologic Actions,1,1.14943
+21,Aging,1,1.14943
+22,Space Flight Associated Neuro-ocular Syndrome,1,1.14943
+23,Depressive Symptoms,1,1.14943
+24,Anxiety,1,1.14943
+25,Stress,1,1.14943
+26,Impairment,1,1.14943
+27,Optic Disc Edema,1,1.14943
+28,Endothelial Dysfunction,1,1.14943
+29,Anemia,1,1.14943
+30,Cognitive Performance,1,1.14943
+31,Pulmonary Atelectasis,1,1.14943
+32,Cognition,1,1.14943
+33,Sleep,1,1.14943
+34,Muscle Weakness,1,1.14943
+35,Aortic Valve Insufficiency,1,1.14943
+36,Aortic Valve Stenosis,1,1.14943
+37,Countermeasure Evaluation,1,1.14943
+38,Settings Word Prediction Software,1,1.14943
+39,Rehabilitation Program,1,1.14943
+40,Patients With Grade II Ankle Sprain,1,1.14943
+41,Atelectasis,1,1.14943
+42,Vestibular,1,1.14943
+43,Cardiovascular Deconditioning,1,1.14943
+44,Breast Neoplasms,1,1.14943
+45,Shoulder Pain,1,1.14943
+46,Immune Function and Intestinal Microbiota,1,1.14943
+47,Maximum Voluntary Contraction,1,1.14943
+48,Pointing Task,1,1.14943
+49,Gasping Task,1,1.14943
+50,Microgravity Exposed Endothelial Cells,1,1.14943
+51,Muscle Atrophy,1,1.14943
+52,Sleep Disturbance,1,1.14943
+53,Astronaut-Bone Demineralisation Syndrome,1,1.14943
+54,Muscular Atrophy,1,1.14943
+55,Body Schema,1,1.14943

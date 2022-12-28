@@ -1,0 +1,542 @@
+{
+       "Rank": 3,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "LOFT therapy twice weekly for 4 weeks"
+       ],
+       "ArmGroupInterventionName": [
+              "Other: LOFT Therapy"
+       ],
+       "ArmGroupLabel": [
+              "LOFT Therapy"
+       ],
+       "ArmGroupType": [
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT02491957"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The purpose of this study is to evaluate the safety and feasibility of LOFT Therapy in breast cancer survivors. In a previous study, the investigators found that many patients are more debilitated at diagnosis than previously recognized. Both chemotherapy and anti-estrogen therapy have a large effect. Within 6 months patients replace muscle with fat leading to a significant reduction in muscle power and endurance. Our data suggests that common exercise recommendations for at least 150 minutes of exercise a week would be far beyond many of our patients' physical ability after therapy, leading to the soreness, injury, frustration, and early discontinuation (or failure to initiate an exercise program in the first place). The degree of muscle loss seen in our patients is similar to that documented in US astronauts after long-term space flight. Our collaborator Dr. Yvonne Cagle, retired USAF flight surgeon, noted that the cosmonauts were in better shape (had less muscle atrophy) than the astronauts. This difference was more than could be explained by the rigorous Russian exercise program. The only key distinction was the compressive, \"penguin suits\" used by the Russians. This observation lead Dr. Cagle to develop a technique called low intensity, off loaded-compressive therapy (LOFT) to replicate the impact of the Russian penguin suits for patients who were debilitated, whether by space flight or by chronic conditions such as arthritis, Parkinson's disease, and multiple sclerosis. The LOFT method does not require excessive exertion or strain on the joints. In field observations, LOFT therapy improved muscle strength, muscle mass, endurance, sleep quality, and fatigue. This pilot study is the first to evaluate the safety, feasibility, and biologic impact of LOFT on breast cancer survivors."
+       ],
+       "BriefTitle": [
+              "Impact of LOFT Therapy\u2122 on Breast Cancer Survivors"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "March 29, 2018"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Breast Neoplasms"
+       ],
+       "ConditionAncestorId": [
+              "D000009371",
+              "D000009369",
+              "D000001941",
+              "D000012871"
+       ],
+       "ConditionAncestorTerm": [
+              "Neoplasms by Site",
+              "Neoplasms",
+              "Breast Diseases",
+              "Skin Diseases"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC04",
+              "BC17",
+              "All"
+       ],
+       "ConditionBrowseBranchName": [
+              "Neoplasms",
+              "Skin and Connective Tissue Diseases",
+              "All Conditions"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Breast Neoplasms"
+       ],
+       "ConditionBrowseLeafId": [
+              "M4372",
+              "M4370",
+              "M14826"
+       ],
+       "ConditionBrowseLeafName": [
+              "Breast Neoplasms",
+              "Breast Diseases",
+              "Skin Diseases"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "high",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000001943"
+       ],
+       "ConditionMeshTerm": [
+              "Breast Neoplasms"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "N/A"
+       ],
+       "DesignInterventionModel": [
+              "Single Group Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Supportive Care"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "Objectives This pilot trial will provide feedback on the feasibility and impact of LOFT in breast cancer survivors. The investigators will also explore the relationship of the LOFT intervention to changes in insulin resistance, growth hormone levels, body mass index, patient reported physical activity, fatigue, and overall quality of life.\n\nPrimary Objective Evaluate the safety and feasibility of LOFT training in breast cancer survivors (< 3 years from diagnosis) treated with either chemotherapy and/or anti-estrogen therapy.\n\nSecondary Objectives\n\nEstimate the effect size of LOFT training on muscle power, endurance, daily activity, fatigue, and quality of life.\nEstimate the effect of short-term LOFT training on biochemical parameters of inflammation, metabolism, anabolic hormone secretion, and bone turnover.\n\nLOFT Therapy\u2122 Summary LOFT Therapy\u2122 is a form of exercise that requires less energy for movement. LOFT Therapy\u2122 will be performed 2 times a week for 4 weeks a total of 8 sessions. The patient will be wrapped with fabric cuffs, on up to four limbs. The cuffs are applied to the widest part of the biceps and upper thighs at pressures between 80-100 mmHg with minimal venous encroachment. The patients will ride a recumbent bike for 18 total minutes of sub-maximal exertion (up to 70% repetition maximum ), with the option of up to 2 periods of 15-second higher intensity exertions as tolerated, followed by individualized respiratory recovery periods determined by the relative decrease in breathing effort.\n\nThe 18-minute session will be preceded by a two-minute compression check, where the wraps will be adjusted based on any signs or symptoms of nerve or vessel impingement. Patients will undergo an intake and outtake assessment with each session to collect subjective data and patient feedback. Two compression sessions will be conducted for 4 weeks, for a total of 8 sessions.\n\nThis study will enroll 15 patients. A 20% dropout rate for this group was taken into consideration so the investigators assume analysis will be done on at least 12 patients."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nDiagnosed with stage 0-III breast cancer within the past 3 years\nMust have completed local therapy for their breast cancer\nMust have received systemic therapy for their breast cancer (anti-estrogen and/or chemotherapy)\nChemotherapy must be complete prior to entry\nAnti-estrogen therapy may be ongoing\nAmbulatory without assistive devices\nNo orthopedic restrictions or neurologic deficits that would limit ability to complete the Power Protocol (based on the opinion of the investigator)\nNo requirement for supplemental O2\nNo unstable angina, regular use of nitroglycerin for exertional angina, or MI within the last 12 months\nNo local or distant recurrence of their breast cancer\nNo active lymphedema\nNo history of hemorrhagic stroke\nNo Heparin or Coumadin Use\nNo symptomatic peripheral vascular obstructions\nNo active gallbladder disease\nNo active kidney stones\nNo active gout\nNo active diverticulitis\nNo pituitary diseases or growth\nAble to provide written informed consent and authorization for release of health information\nAble to commit to LOFT training 2 times/week for 4 weeks\n\nExclusion Criteria:\n\nInability to meet one of the inclusion criteria above."
+       ],
+       "EnrollmentCount": [
+              "15"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "No"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "LOFT Therapy"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "LOFT Therapy\u2122 will be performed 2 times a week for 4 weeks a total of 8 sessions. The patient will be wrapped with fabric cuffs, on up to four limbs. The cuffs are applied to the widest part of the biceps and upper thighs at pressures between 80-100 mmHg with minimal venous encroachment. The patients will ride a recumbent bike for 18 total minutes of sub-maximal exertion (up to 70% repetition maximum ), with the option of up to 2 periods of 15-second higher intensity exertions as tolerated, followed by individualized respiratory recovery periods determined by the relative decrease in breathing effort.\n\nThe 18-minute session will be preceded by a two-minute compression check, where the wraps will be adjusted based on any signs or symptoms of nerve or vessel impingement."
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "LOFT Therapy"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Energy Expenditure",
+              "Physical Endurance",
+              "Muscle Stength",
+              "Metabolism"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "August 13, 2018"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "August 9, 2018"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Kathy Miller"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Indianapolis",
+              "Indianapolis"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States",
+              "United States"
+       ],
+       "LocationFacility": [
+              "Indiana University Health Hospital",
+              "Indiana University Melvin and Bren Simon Cancer Center"
+       ],
+       "LocationState": [
+              "Indiana",
+              "Indiana"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "46202",
+              "46202"
+       ],
+       "MaximumAge": [],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Impact of LOFT Therapy\u2122 on Breast Cancer Survivors: A Pilot Study"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Indiana University"
+       ],
+       "OrgStudyId": [
+              "IUSCC-0539"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Indiana University School of Medicine"
+       ],
+       "OverallOfficialName": [
+              "Kathy Miller, MD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "Yes"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "March 29, 2018"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Analysis of the modified intent-to-treat population defined as patients with at least 1 post-baseline measurement as well as eligible patients who decline participation, reason for refusal, and number of enrolled patients who do not complete all LOFT training sessions"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Feasibility of LOFT therapy in breast cancer survivors (< 3 years from diagnosis) treated with either chemotherapy and/or anti-estrogen therapy"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "Indiana University School of Medicine"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Kathy Miller"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Professor of Medicine and Sheila D. Ward Scholar"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Sponsor-Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "Assessed by patient reported adverse events",
+              "Assessed by patient self-report",
+              "Measured by Physical Activity Report questionnaire",
+              "Measured by BFI questionnaire",
+              "Measured by FACT-B questionnaire",
+              "Blood samples",
+              "Blood samples",
+              "Blood samples",
+              "Blood samples"
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Safety of LOFT intervention in this population patient reported adverse events",
+              "Heart rate",
+              "Power per body weight (muscle power)",
+              "Endurance",
+              "Daily activity",
+              "Fatigue",
+              "Quality of life",
+              "Biochemical parameters of chronic inflammation",
+              "Biochemical parameters of metabolism and insulin homeostasis",
+              "Anabolic hormone secretion",
+              "Biochemical parameters of bone turnover"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "Assessed at each session and throughout the intervention",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+              "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "July 28, 2015"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "August 2018"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "July 8, 2015"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "June 2, 2015"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "July 7, 2015"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 28, 2022"
+       ],
+       "WhyStopped": []
+}

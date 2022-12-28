@@ -1,0 +1,526 @@
+{
+       "Rank": 8,
+       "Acronym": [
+              "ANEMIA"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "The group is a cohort of 4 persons."
+       ],
+       "ArmGroupInterventionName": [],
+       "ArmGroupLabel": [
+              "Group"
+       ],
+       "ArmGroupType": [],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT05496309"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "Anemia is a lack of red blood cells (RBCs) in the circulation. Because RBCs carry the oxygen your body needs to function, anemia can affect one's ability to stay awake, alert, and perform physical activities. Anemia may happen for several reasons, including increased RBC destruction. Anemia often occurs in people who have been in bed for long periods (e.g., if they are very sick) or have decreased mobility (anemia of immobility). Interestingly, astronauts who have left Earth and traveled in space also return anemic. In fact, 5 decades of NASA data showed that astronauts' anemia was more severe the longer they were in space. In another study, astronauts aboard the International Space Station were shown to destroy 54% more of their RBCs in space. RBC destruction may be the culprit of space anemia as well as anemia of immobility on Earth. The ANEMIA Study proposes to measure key aspects of RBC destruction in astronauts in space. These measures will test critical hypotheses on the effects of spaceflight on red blood cells."
+       ],
+       "BriefTitle": [
+              "Causes and Mechanisms of Space Hemolysis at High Altitudes"
+       ],
+       "CentralContactEMail": [
+              "gtrudel@toh.ca",
+              "tamliu@toh.ca"
+       ],
+       "CentralContactName": [
+              "Guy Trudel",
+              "Tammy Liu"
+       ],
+       "CentralContactPhone": [
+              "(613) 737-8899"
+       ],
+       "CentralContactPhoneExt": [
+              "75591"
+       ],
+       "CentralContactRole": [
+              "Contact",
+              "Contact"
+       ],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "November 30, 2023"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Anemia",
+              "Weightlessness"
+       ],
+       "ConditionAncestorId": [
+              "D000006402",
+              "D000010335"
+       ],
+       "ConditionAncestorTerm": [
+              "Hematologic Diseases",
+              "Pathologic Processes"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC15",
+              "All",
+              "BC23"
+       ],
+       "ConditionBrowseBranchName": [
+              "Blood and Lymph Conditions",
+              "All Conditions",
+              "Symptoms and General Pathology"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Anemia",
+              "Hemolysis"
+       ],
+       "ConditionBrowseLeafId": [
+              "M3222",
+              "M8699",
+              "M8642"
+       ],
+       "ConditionBrowseLeafName": [
+              "Anemia",
+              "Hemolysis",
+              "Hematologic Diseases"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "high",
+              "high",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000000740",
+              "D000006461"
+       ],
+       "ConditionMeshTerm": [
+              "Anemia",
+              "Hemolysis"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [],
+       "DesignInterventionModel": [],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [
+              "Cohort"
+       ],
+       "DesignPrimaryPurpose": [],
+       "DesignTimePerspective": [
+              "Prospective"
+       ],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nAstronauts selected to fly on a space mission.\n\nExclusion Criteria:\n\nAstronauts not selected to fly on a space mission."
+       ],
+       "EnrollmentCount": [
+              "4"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [],
+       "IPDSharing": [
+              "Yes"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [
+              "There may be multiauthor publication involving multiple PI on the same astronauts for this mission. Each PI contributing to the manuscript their individual data."
+       ],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [],
+       "InterventionOtherName": [],
+       "InterventionType": [],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [
+              "No"
+       ],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "August 12, 2022"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "August 10, 2022"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Ottawa Hospital Research Institute"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Ottawa"
+       ],
+       "LocationContactEMail": [
+              "gtrudel@toh.ca"
+       ],
+       "LocationContactName": [
+              "Guy Trudel"
+       ],
+       "LocationContactPhone": [
+              "(613) 737-8899"
+       ],
+       "LocationContactPhoneExt": [
+              "75591"
+       ],
+       "LocationContactRole": [
+              "Contact"
+       ],
+       "LocationCountry": [
+              "Canada"
+       ],
+       "LocationFacility": [
+              "Ottawa Hospital Research Institute"
+       ],
+       "LocationState": [
+              "Ontario"
+       ],
+       "LocationStatus": [
+              "Recruiting"
+       ],
+       "LocationZip": [
+              "K1Y 4E9"
+       ],
+       "MaximumAge": [
+              "55 Years"
+       ],
+       "MinimumAge": [
+              "24 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Causes and Mechanisms of Space Hemolysis at High Altitudes (ANEMIA)"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Ottawa Hospital Research Institute"
+       ],
+       "OrgStudyId": [
+              "0220470-01H"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Ottawa Hospital Research Institute"
+       ],
+       "OverallOfficialName": [
+              "Guy Trudel"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Recruiting"
+       ],
+       "OversightHasDMC": [],
+       "PatientRegistry": [
+              "No"
+       ],
+       "Phase": [],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "November 30, 2022"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [],
+       "PrimaryOutcomeMeasure": [
+              "Hemolysis in astronauts is assessed using exhaled breath samples.",
+              "Change from baseline hemolysis in astronauts is assessed during spaceflight using exhaled breath samples.",
+              "Change from baseline hemolysis in astronauts is assessed after spaceflight, up to 1 month, using exhaled breath samples.",
+              "Hemolysis in astronauts is assessed using blood markers CBC, reticulocytes, haptoglobin, bilirubin (total+direct), LDH, ferritin, iron, and TIBC.",
+              "Change from baseline hemolysis in astronauts is assessed during spaceflight using blood markers CBC, reticulocytes, haptoglobin, bilirubin (total+direct), LDH, ferritin, iron, and TIBC.",
+              "Change from baseline hemolysis in astronauts is assessed after spaceflight, up to 1 month, using blood markers CBC, reticulocytes, haptoglobin, bilirubin (total+direct), LDH, ferritin, iron, and TIBC."
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Before spaceflight.",
+              "Baseline and during spaceflight.",
+              "After spaceflight, up to 1 month.",
+              "Before spaceflight.",
+              "Baseline and during spaceflight.",
+              "After spaceflight, up to 1 month."
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "Ottawa Hospital Research Institute"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Dr. Guy Trudel"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Professor of Medicine, Surgery and Biochemistry"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [
+              "Non-Probability Sample"
+       ],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [],
+       "SecondaryOutcomeMeasure": [],
+       "SecondaryOutcomeTimeFrame": [],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "August 2, 2022"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "August 2022"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "August 11, 2022"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "July 28, 2022"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "August 8, 2022"
+       ],
+       "StudyPopulation": [
+              "Astronauts selected to fly on a space mission."
+       ],
+       "StudyType": [
+              "Observational"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 28, 2022"
+       ],
+       "WhyStopped": []
+}

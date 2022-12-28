@@ -1,0 +1,511 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "ResultsFirstSubmitDate",
+                     "ResultsFirstSubmitQCDate",
+                     "RetractionPMID",
+                     "RetractionSource",
+                     "SamplingMethod",
+                     "SecondaryId",
+                     "SecondaryIdDomain",
+                     "SecondaryIdLink",
+                     "SecondaryIdType",
+                     "SecondaryOutcomeDescription",
+                     "SecondaryOutcomeMeasure",
+                     "SecondaryOutcomeTimeFrame",
+                     "SeeAlsoLinkLabel",
+                     "SeeAlsoLinkURL",
+                     "SeriousEventAssessmentType",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "The number of correct responses",
+                                   "The number of correct responses",
+                                   "The number of correctly recalled words",
+                                   "The time subjects require to shut off the awakening simulated International Space Station (ISS) alarm"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Digit Symbol Substitution Test",
+                                   "Descending Subtraction Test",
+                                   "Free Recall",
+                                   "Response time to shut off alarm time"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "3 weeks",
+                                   "3 weeks",
+                                   "3 weeks",
+                                   "3 weeks"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "Assess safety outcomes: tolerance of condition through duration of study and number of adverse events",
+                                   "iCare derived intraocular pressure measurements from both eyes (mmHg)",
+                                   "minute ventilation, respiratory rate and vital capacity",
+                                   "Ultrasound derived measure of right internal jugular vein cross sectional areas",
+                                   "Ultrasound Doppler Measurement of arterial diameter and flow (cm/sec) after transient cuff occlusion of brachial artery",
+                                   "Assessment of cardiac output, stroke volume, heart rate, blood pressure",
+                                   "Sniffin' sticks threshold testing for phenyethyl alcohol",
+                                   "changes in arterial pH and partial pressure CO2"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Tolerability of combined -12 head down tilt and 0.5% carbon dioxide",
+                                   "Changes in intraocular pressure",
+                                   "Changes in pulmonary mechanics",
+                                   "Changes in internal jugular vein volumes",
+                                   "Changes in peripheral arterial vasoreactivity",
+                                   "Changes in cardiac hemodynamics",
+                                   "Changes in olfactory threshold",
+                                   "Changes in pulmonary gas exchange"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Within 48 hours from baseline",
+                                   "24 and 48 hours from baseline measurements",
+                                   "24 and 48 hours from baseline measurements",
+                                   "48 hours from baseline measurements",
+                                   "48 hours from baseline measurements",
+                                   "48 hours from baseline measurements",
+                                   "24 and 48 hours from baseline measurement",
+                                   "24 and 48 hours from baseline measurements"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "Assessed by patient reported adverse events",
+                                   "Assessed by patient self-report",
+                                   "Measured by Physical Activity Report questionnaire",
+                                   "Measured by BFI questionnaire",
+                                   "Measured by FACT-B questionnaire",
+                                   "Blood samples",
+                                   "Blood samples",
+                                   "Blood samples",
+                                   "Blood samples"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Safety of LOFT intervention in this population patient reported adverse events",
+                                   "Heart rate",
+                                   "Power per body weight (muscle power)",
+                                   "Endurance",
+                                   "Daily activity",
+                                   "Fatigue",
+                                   "Quality of life",
+                                   "Biochemical parameters of chronic inflammation",
+                                   "Biochemical parameters of metabolism and insulin homeostasis",
+                                   "Anabolic hormone secretion",
+                                   "Biochemical parameters of bone turnover"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Assessed at each session and throughout the intervention",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)",
+                                   "Change from pre-LOFT therapy (baseline) to post-LOFT therapy (5 weeks after baseline)"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [
+                                   "80NSSC19K1046",
+                                   "50WB2115"
+                            ],
+                            "SecondaryIdDomain": [
+                                   "National Aeronautics and Space Administration (NASA)",
+                                   "German Aerospace Center (DLR)"
+                            ],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "Other Grant/Funding Number",
+                                   "Other Grant/Funding Number"
+                            ],
+                            "SecondaryOutcomeDescription": [
+                                   "Changes in Insulin-like Growth Factor 1 (IGF-1)",
+                                   "Changes in Vascular Endothelial Growth Factor (VEGF)",
+                                   "Changes in Oxytocin",
+                                   "Changes in Interleukin (IL)-1",
+                                   "Changes in Interleukin (IL)-1ra",
+                                   "Changes in Interleukin (IL)-10",
+                                   "Changes in Tumor Necrosis Factor a (TNFa)"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Insulin-like Growth Factor 1 (IGF-1)",
+                                   "Vascular Endothelial Growth Factor (VEGF)",
+                                   "Oxytocin",
+                                   "Interleukin (IL)-1",
+                                   "Interleukin (IL)-1ra",
+                                   "Interleukin (IL)-10",
+                                   "Tumor Necrosis Factor a (TNFa)"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+                                   "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+                                   "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+                                   "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+                                   "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+                                   "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+                                   "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)"
+                            ],
+                            "SeeAlsoLinkLabel": [
+                                   "Reference article that does not have a pubmed ID yet \"Head-Down Tilt Position, but Not the Duration of Bed Rest Affects Resting State Electrocortical Activity\""
+                            ],
+                            "SeeAlsoLinkURL": [
+                                   "https://www.frontiersin.org/articles/10.3389/fphys.2021.638669/full"
+                            ],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "24-h urinary calcium"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Change in urinary calcium after 30 days of space flight compared to preflight"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "30 days"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [
+                                   "Non-Probability Sample"
+                            ],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [
+                                   "2011-003541-17"
+                            ],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [
+                                   "EudraCT Number"
+                            ],
+                            "SecondaryOutcomeDescription": [
+                                   "Checks the loss of muscle mass size with Magnetic Resonance before and after treatment.",
+                                   "Glutathione (GSH), glutathione disulfide (GSSG), malondialdehyde (MDA) and oxidized proteins, after a period of immobilization of 15 days duration."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "size of the leg muscles in a group of immobilized subjects.",
+                                   "oxidative stress parameters"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Day 0 and day 15",
+                                   "Day 0 and day 15"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "Assess reactive hyperemia through changes in fingertip temperature",
+                                   "Skin autofluorescence (SAF) will be analyzed non-invasively using an AGE reader",
+                                   "Vitamin status assessed from a fasting blood sample",
+                                   "Vitamin status assessed from a fasting blood sample",
+                                   "Vitamin status assessed from a fasting blood sample",
+                                   "Vitamin status assessed from a fasting blood sample",
+                                   "Serum glucose from a fasting blood sample",
+                                   "Serum nitric oxide from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample",
+                                   "Serum biochemistry from a fasting blood sample"
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Endothelial function",
+                                   "Advanced Glycation End Products (AGE)",
+                                   "Serum folate status",
+                                   "Red Blood Cell folate status",
+                                   "Vitamin B6 status",
+                                   "Vitamin B12 status",
+                                   "Glucose",
+                                   "Nitric oxide",
+                                   "tetrahydrobiopterin",
+                                   "Dihydrobiopterin",
+                                   "Oxidized glutathione",
+                                   "Total antioxidant capacity",
+                                   "Advanced glycation end products",
+                                   "Albumin",
+                                   "Glycated albumin",
+                                   "3-nitrotyrosine",
+                                   "Formate",
+                                   "MMP-2",
+                                   "MMP-9",
+                                   "TIMP-1",
+                                   "TIMP-2",
+                                   "Heparan sulfate",
+                                   "Syndecan-1",
+                                   "Glypican",
+                                   "Hyaluronan",
+                                   "Total lipid peroxides"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months",
+                                   "6 months"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [],
+                            "SecondaryOutcomeMeasure": [],
+                            "SecondaryOutcomeTimeFrame": [],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "ResultsFirstSubmitDate": [],
+                            "ResultsFirstSubmitQCDate": [],
+                            "RetractionPMID": [],
+                            "RetractionSource": [],
+                            "SamplingMethod": [],
+                            "SecondaryId": [],
+                            "SecondaryIdDomain": [],
+                            "SecondaryIdLink": [],
+                            "SecondaryIdType": [],
+                            "SecondaryOutcomeDescription": [
+                                   "The Pittsburgh Sleep Quality Index (PSQI) is a 19-item questionnaire that assesses seven components of sleep quality (subjective sleep quality, sleep latency, duration, efficiency, disturbances, use of sleep medication, and daytime dysfunction). Each component is rated on a 0-3 severity scale referring to the frequency of each disturbance, and yields a global score with a range of 0-21.",
+                                   "The Fatigue Severity Scale (FSS) measures fatigue and its effects on functioning. The FSS is comprised of nine items rated on a Likert-type rating scale (1-7), where one indicates no impairment and seven indicates severe impairment.",
+                                   "The ARMS-12 measures confidence, comfortability, and perceptions towards the program. The ARMS-12 is comprised of 12 items rated on a Likert-type rating scale (1-7), where one indicates the how strongly the agree or disagree with the statement."
+                            ],
+                            "SecondaryOutcomeMeasure": [
+                                   "Sleep Quality Change",
+                                   "Fatigue Severity Change",
+                                   "Treatment Satisfaction"
+                            ],
+                            "SecondaryOutcomeTimeFrame": [
+                                   "Change from baseline at 1-week post treatment and 1-month post treatment",
+                                   "Change from baseline at 1-week post treatment and 1-month post treatment",
+                                   "1-week post treatment"
+                            ],
+                            "SeeAlsoLinkLabel": [],
+                            "SeeAlsoLinkURL": [],
+                            "SeriousEventAssessmentType": [],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

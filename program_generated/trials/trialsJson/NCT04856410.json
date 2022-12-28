@@ -1,0 +1,648 @@
+{
+       "Rank": 4,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Astronauts on 2-month International Space Station missions will be exposed to spaceflight for a duration of 2 months. Biometric and cognitive data will routinely be collected.",
+              "Astronauts on 6-month International Space Station missions will be exposed to spaceflight for a duration of 6 months. Biometric and cognitive data will routinely be collected.",
+              "Astronauts on 12-month International Space Station missions will be exposed to spaceflight for a duration of 12 months. Biometric and cognitive data will routinely be collected.",
+              "Subjects matched to 12-month astronauts that stay on Earth and are investigated at similar time points."
+       ],
+       "ArmGroupInterventionName": [
+              "Other: Spaceflight",
+              "Other: Spaceflight",
+              "Other: Spaceflight",
+              "Other: Controls"
+       ],
+       "ArmGroupLabel": [
+              "2-Month Arm",
+              "6-Month Arm",
+              "12-Month Arm",
+              "No Intervention"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "Experimental",
+              "Experimental",
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT04856410"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "This study investigates the effects of extended-duration spaceflight (12-month International Space Station missions) on general cognitive performance (measured with the Cognition test battery), spatial cognition, structural and functional brain changes in general, and hippocampal plasticity more specifically relative to the shorter 6-month and 2-month missions."
+       ],
+       "BriefTitle": [
+              "Effects of Long-Duration Spaceflight on General and Spatial Cognition and Its Neural Basis"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "FED",
+              "OTHER",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "National Aeronautics and Space Administration (NASA)",
+              "DLR German Aerospace Center",
+              "Charite University, Berlin, Germany"
+       ],
+       "CompletionDate": [
+              "December 31, 2033"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Brain Structure",
+              "Cognitive Performance"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Non-Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [
+              "This study will investigate 10 astronauts on 12-month ISS missions, 10 astronauts on 12-month ISS missions, 10 astronauts on 12-month ISS missions and 10 control subjects that are matched to 12-month mission astronauts and investigated at similar time points."
+       ],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Basic Science"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "This is an international proposal consisting of two projects with synergistic aims that will be carried out in a joint effort by the National Aeronautics and Space Administration (NASA) and the German Aerospace Center (DLR) as well as the European Space Agency (ESA). The project targets NASA's particular interest in studying the 'Cognitive-perceptual-visuospatial brain domain changes due to isolation and confinement' as part of the Complement of Integrated Protocols for Human Exploration Research (CIPHER) project on the International Space Station (ISS). The collected data will demonstrate whether prolonging mission duration to one year will have detrimental effects on general cognitive performance (measured with the Cognition test battery), spatial cognition, structural and functional brain changes in general, and hippocampal plasticity more specifically relative to the shorter 6-month and 2-month ISS missions. Using state-of-the-art neuroimaging techniques, investigators will determine the biological basis for any changes in cognitive performance, with a focus on hippocampal plasticity and spatial cognition. Similar data already gathered on the ISS and in several short- and long-duration space analog environments will be used to generate a normative data base for long-duration missions. Finally, investigators will derive dose-response relationships between cognitive-visuospatial brain domain changes and mission duration that will allow predicting vulnerability to adverse cognitive or behavioral impairment and psychiatric disorders on interplanetary expeditions such as a mission to Mars. The two projects will deliver a highly unique and comprehensive set of integrated neuroimaging and neurocognitive tools for the evaluation and ultimately prevention of adverse effects on brain structure and function that lead to behavioral effects associated with exploration-type missions."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nAstronauts (according to NASA requirements)\nNormal, healthy volunteers (astronaut surrogates) - Astronaut surrogates will be matched for age and education relative to astronauts\n\nExclusion Criteria:\n\nFor astronauts and normal, healthy volunteers (astronaut surrogates):\n\nSubjects that do not comply with the MRI testing requirements. The following and other conditions may exclude the subject from MRI scanning or require additional examination to assess specific contraindications:\n\nTinnitus;\nSensori-neural hearing loss > 30 decibels (dB);\nPace-maker or internal defibrillator;\nmetallic implants (e.g. orthopedic plates after bone fractures, joint replacements, surgical staples or clips, artificial heart valves, stents, cava filters);\nMetallic splinters (e.g. after an accident or due to war injury);\nNon-removable dental brace;\nIntrauterine contraceptive devices (IUD) that are not MRI-compatible;\nCochlear implant (implanted hearing device);\nMedication pump;\nAcupuncture needle;\nOther foreign bodies/objects which are non-removable;\nPregnancy (or its possibility);\nPrevious brain and/or heart surgery.\nTattoos and/or permanent make-up in the body (some inks contain metallic particles).\nFemale subjects in this study are either astronauts or will model those in the astronaut population for whom participation in space missions is not allowed during pregnancy."
+       ],
+       "EnrollmentCount": [
+              "40"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [
+              "There will only be data sharing within our research group (CIPHER)."
+       ],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "12-Month Arm",
+              "2-Month Arm",
+              "6-Month Arm",
+              "No Intervention"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "Exposure to the spaceflight environment on the International Space Station for 2, 6, or 12 months.",
+              "No intervention"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "Spaceflight",
+              "Controls"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other",
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Astronauts",
+              "Spaceflight",
+              "Cognition",
+              "Long Duration Spaceflight"
+       ],
+       "LargeDocDate": [
+              "July 31, 2020",
+              "January 12, 2021"
+       ],
+       "LargeDocFilename": [
+              "Prot_SAP_000.pdf",
+              "ICF_001.pdf"
+       ],
+       "LargeDocHasICF": [
+              "No",
+              "Yes"
+       ],
+       "LargeDocHasProtocol": [
+              "Yes",
+              "No"
+       ],
+       "LargeDocHasSAP": [
+              "Yes",
+              "No"
+       ],
+       "LargeDocLabel": [
+              "Study Protocol and Statistical Analysis Plan",
+              "Informed Consent Form"
+       ],
+       "LargeDocTypeAbbrev": [
+              "Prot_SAP",
+              "ICF"
+       ],
+       "LargeDocUploadDate": [
+              "03/25/2021 19:36",
+              "04/13/2021 09:26"
+       ],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "October 3, 2022"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "September 30, 2022"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "University of Pennsylvania"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Philadelphia",
+              "Houston",
+              "Berlin"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States",
+              "United States",
+              "Germany"
+       ],
+       "LocationFacility": [
+              "University of Pennsylvania Perelman School of Medicine",
+              "Johnson Space Center (JSC)",
+              "Charit\u00e9 - Universit\u00e4tsmedizin Berlin"
+       ],
+       "LocationState": [
+              "Pennsylvania",
+              "Texas"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "19104",
+              "77058",
+              "10117"
+       ],
+       "MaximumAge": [],
+       "MinimumAge": [],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Temporal Nature of Cognitive and Visuospatial Brain Domain Changes During Long-Duration Low-Earth Orbit Missions (Spatial Cognition)"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "University of Pennsylvania"
+       ],
+       "OrgStudyId": [
+              "843851"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [],
+       "OverallOfficialName": [],
+       "OverallOfficialRole": [],
+       "OverallStatus": [
+              "Enrolling by invitation"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "December 31, 2033"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Cognitive efficiency across domains as determined with the Cognition test battery",
+              "fMRI local task activation while performing the MRI version of Cognition in the scanner",
+              "Accuracy and reaction times for each cognitive task as determined with the Spatial Cognition test batteries",
+              "Structural brain changes assessed with MRI",
+              "fMRI local task activation while performing visuospatial tasks in the scanner",
+              "Changes in Brain-Derived Neurotropic Factor (BDNF)"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Cognitive performance",
+              "Local task activation Cognition",
+              "Spatial cognition performance",
+              "Structural brain changes",
+              "Local task activation Spatial Cognition",
+              "Brain-Derived Neurotropic Factor (BDNF)"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Change from pre-flight performance (average of tests performed 180, 120 and 60 days prior to launch) to in-flight performance (average of all tests: 1 month mission = 1 test, 2 months = 2 tests, 6 months = 6 tests, 12 months = 12 tests)",
+              "Change from pre-flight local task activation (investigated 60 days prior to launch) to post-flight local task activation (investigated 5 days and 30 days after return to Earth)",
+              "Change from pre-flight performance (average of tests performed 180, 120 and 60 days prior to launch) to in-flight performance (average of all tests: 1 month mission = 1 test, 2 months = 2 tests, 6 months = 4 tests, 12 months = 7 tests)",
+              "Change from pre-flight local task activation (investigated 60 days prior to launch) to post-flight (investigated 5 days and 30 days after return to Earth)",
+              "Change from pre-flight local task activation (investigated 60 days prior to launch) to post-flight local task activation (investigated 5 days and 30 days after return to Earth)",
+              "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)"
+       ],
+       "ReferenceCitation": [
+              "Basner M, Moore TM, Hermosillo E, Nasrini J, Dinges DF, Gur RC, Johannes B. Cognition Test Battery Performance Is Associated with Simulated 6df Spacecraft Docking Performance. Aerosp Med Hum Perform. 2020 Nov 1;91(11):861-867. doi: 10.3357/AMHP.5602.2020.",
+              "Afshinnekoo E, Scott RT, MacKay MJ, Pariset E, Cekanaviciute E, Barker R, Gilroy S, Hassane D, Smith SM, Zwart SR, Nelman-Gonzalez M, Crucian BE, Ponomarev SA, Orlov OI, Shiba D, Muratani M, Yamamoto M, Richards SE, Vaishampayan PA, Meydan C, Foox J, Myrrhe J, Istasse E, Singh N, Venkateswaran K, Keune JA, Ray HE, Basner M, Miller J, Vitaterna MH, Taylor DM, Wallace D, Rubins K, Bailey SM, Grabham P, Costes SV, Mason CE, Beheshti A. Fundamental Biological Features of Spaceflight: Advancing the Field to Enable Deep-Space Exploration. Cell. 2020 Nov 25;183(5):1162-1184. doi: 10.1016/j.cell.2020.10.050. Erratum In: Cell. 2021 Nov 24;184(24):6002.",
+              "Basner M, Hermosillo E, Nasrini J, Saxena S, Dinges DF, Moore TM, Gur RC. Cognition test battery: Adjusting for practice and stimulus set effects for varying administration intervals in high performing individuals. J Clin Exp Neuropsychol. 2020 Jul;42(5):516-529. doi: 10.1080/13803395.2020.1773765. Epub 2020 Jun 15. Erratum In: J Clin Exp Neuropsychol. 2020 Jun 24;:1.",
+              "Nasrini J, Hermosillo E, Dinges DF, Moore TM, Gur RC, Basner M. Cognitive Performance During Confinement and Sleep Restriction in NASA's Human Exploration Research Analog (HERA). Front Physiol. 2020 Apr 28;11:394. doi: 10.3389/fphys.2020.00394. eCollection 2020.",
+              "Lee G, Moore TM, Basner M, Nasrini J, Roalf DR, Ruparel K, Port AM, Dinges DF, Gur RC. Age, Sex, and Repeated Measures Effects on NASA's \"Cognition\" Test Battery in STEM Educated Adults. Aerosp Med Hum Perform. 2020 Jan 1;91(1):18-25. doi: 10.3357/AMHP.5485.2020.",
+              "Scully RR, Basner M, Nasrini J, Lam CW, Hermosillo E, Gur RC, Moore T, Alexander DJ, Satish U, Ryder VE. Effects of acute exposures to carbon dioxide on decision making and cognition in astronaut-like subjects. NPJ Microgravity. 2019 Jun 19;5:17. doi: 10.1038/s41526-019-0071-6. eCollection 2019.",
+              "Garrett-Bakelman FE, Darshi M, Green SJ, Gur RC, Lin L, Macias BR, McKenna MJ, Meydan C, Mishra T, Nasrini J, Piening BD, Rizzardi LF, Sharma K, Siamwala JH, Taylor L, Vitaterna MH, Afkarian M, Afshinnekoo E, Ahadi S, Ambati A, Arya M, Bezdan D, Callahan CM, Chen S, Choi AMK, Chlipala GE, Contrepois K, Covington M, Crucian BE, De Vivo I, Dinges DF, Ebert DJ, Feinberg JI, Gandara JA, George KA, Goutsias J, Grills GS, Hargens AR, Heer M, Hillary RP, Hoofnagle AN, Hook VYH, Jenkinson G, Jiang P, Keshavarzian A, Laurie SS, Lee-McMullen B, Lumpkins SB, MacKay M, Maienschein-Cline MG, Melnick AM, Moore TM, Nakahira K, Patel HH, Pietrzyk R, Rao V, Saito R, Salins DN, Schilling JM, Sears DD, Sheridan CK, Stenger MB, Tryggvadottir R, Urban AE, Vaisar T, Van Espen B, Zhang J, Ziegler MG, Zwart SR, Charles JB, Kundrot CE, Scott GBI, Bailey SM, Basner M, Feinberg AP, Lee SMC, Mason CE, Mignot E, Rana BK, Smith SM, Snyder MP, Turek FW. The NASA Twins Study: A multidimensional analysis of a year-long human spaceflight. Science. 2019 Apr 12;364(6436):eaau8650. doi: 10.1126/science.aau8650.",
+              "Basner M, Nasrini J, Hermosillo E, McGuire S, Dinges DF, Moore TM, Gur RC, Rittweger J, Mulder E, Wittkowski M, Donoviel D, Stevens B, Bershad EM; SPACECOT Investigator Group. Effects of -12 degrees head-down tilt with and without elevated levels of CO2 on cognitive performance: the SPACECOT study. J Appl Physiol (1985). 2018 Mar 1;124(3):750-760. doi: 10.1152/japplphysiol.00855.2017. Epub 2017 Dec 14.",
+              "Moore TM, Basner M, Nasrini J, Hermosillo E, Kabadi S, Roalf DR, McGuire S, Ecker AJ, Ruparel K, Port AM, Jackson CT, Dinges DF, Gur RC. Validation of the Cognition Test Battery for Spaceflight in a Sample of Highly Educated Adults. Aerosp Med Hum Perform. 2017 Oct 1;88(10):937-946. doi: 10.3357/AMHP.4801.2017.",
+              "Basner M, Savitt A, Moore TM, Port AM, McGuire S, Ecker AJ, Nasrini J, Mollicone DJ, Mott CM, McCann T, Dinges DF, Gur RC. Development and Validation of the Cognition Test Battery for Spaceflight. Aerosp Med Hum Perform. 2015 Nov;86(11):942-52. doi: 10.3357/AMHP.4343.2015.",
+              "Basner M, Dinges DF, Mollicone DJ, Savelev I, Ecker AJ, Di Antonio A, Jones CW, Hyder EC, Kan K, Morukov BV, Sutton JP. Psychological and behavioral changes during confinement in a 520-day simulated interplanetary mission to mars. PLoS One. 2014 Mar 27;9(3):e93298. doi: 10.1371/journal.pone.0093298. eCollection 2014.",
+              "Basner M, Dinges DF, Mollicone D, Ecker A, Jones CW, Hyder EC, Di Antonio A, Savelev I, Kan K, Goel N, Morukov BV, Sutton JP. Mars 520-d mission simulation reveals protracted crew hypokinesis and alterations of sleep duration and timing. Proc Natl Acad Sci U S A. 2013 Feb 12;110(7):2635-40. doi: 10.1073/pnas.1212646110. Epub 2013 Jan 7. Erratum In: Proc Natl Acad Sci U S A. 2013 Feb 12;110(7):2676.",
+              "Mendt S, Gunga HC, Felsenberg D, Belavy DL, Steinach M, Stahn AC. Regular exercise counteracts circadian shifts in core body temperature during long-duration bed rest. NPJ Microgravity. 2021 Jan 5;7(1):1. doi: 10.1038/s41526-020-00129-1.",
+              "Chouker A, Stahn AC. COVID-19-The largest isolation study in history: the value of shared learnings from spaceflight analogs. NPJ Microgravity. 2020 Oct 22;6:32. doi: 10.1038/s41526-020-00122-8. eCollection 2020.",
+              "Friedl-Werner A, Brauns K, Gunga HC, Kuhn S, Stahn AC. Exercise-induced changes in brain activity during memory encoding and retrieval after long-term bed rest. Neuroimage. 2020 Dec;223:117359. doi: 10.1016/j.neuroimage.2020.117359. Epub 2020 Sep 10.",
+              "Roberts DR, Stahn AC, Seidler RD, Wuyts FL. Towards understanding the effects of spaceflight on the brain. Lancet Neurol. 2020 Oct;19(10):808. doi: 10.1016/S1474-4422(20)30304-5. Epub 2020 Sep 16. No abstract available.",
+              "Maggioni MA, Merati G, Castiglioni P, Mendt S, Gunga HC, Stahn AC. Reduced vagal modulations of heart rate during overwintering in Antarctica. Sci Rep. 2020 Dec 11;10(1):21810. doi: 10.1038/s41598-020-78722-3.",
+              "Stahn AC, Riemer M, Wolbers T, Werner A, Brauns K, Besnard S, Denise P, Kuhn S, Gunga HC. Spatial Updating Depends on Gravity. Front Neural Circuits. 2020 Jun 5;14:20. doi: 10.3389/fncir.2020.00020. eCollection 2020.",
+              "Stahn AC, Gunga HC, Kohlberg E, Gallinat J, Dinges DF, Kuhn S. Brain Changes in Response to Long Antarctic Expeditions. N Engl J Med. 2019 Dec 5;381(23):2273-2275. doi: 10.1056/NEJMc1904905. No abstract available.",
+              "Stahn AC, Werner A, Opatz O, Maggioni MA, Steinach M, von Ahlefeld VW, Moore A, Crucian BE, Smith SM, Zwart SR, Schlabs T, Mendt S, Trippel T, Koralewski E, Koch J, Chouker A, Reitz G, Shang P, Rocker L, Kirsch KA, Gunga HC. Increased core body temperature in astronauts during long-duration space missions. Sci Rep. 2017 Nov 23;7(1):16180. doi: 10.1038/s41598-017-15560-w.",
+              "Strewe C, Moser D, Buchheim JI, Gunga HC, Stahn A, Crucian BE, Fiedel B, Bauer H, Gossmann-Lang P, Thieme D, Kohlberg E, Chouker A, Feuerecker M. Sex differences in stress and immune responses during confinement in Antarctica. Biol Sex Differ. 2019 Apr 16;10(1):20. doi: 10.1186/s13293-019-0231-0."
+       ],
+       "ReferencePMID": [
+              "33334406",
+              "33242416",
+              "32539487",
+              "32411017",
+              "31852569",
+              "31240239",
+              "30975860",
+              "29357516",
+              "28923143",
+              "26564759",
+              "24675720",
+              "23297197",
+              "33402671",
+              "33110938",
+              "32919056",
+              "32949538",
+              "33311648",
+              "32581724",
+              "31800997",
+              "29170507",
+              "30992051"
+       ],
+       "ReferenceType": [
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background",
+              "background"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "University of Pennsylvania"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Mathias Basner, MD, PhD"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Professor"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [
+              "80NSSC19K1046",
+              "50WB2115"
+       ],
+       "SecondaryIdDomain": [
+              "National Aeronautics and Space Administration (NASA)",
+              "German Aerospace Center (DLR)"
+       ],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [
+              "Other Grant/Funding Number",
+              "Other Grant/Funding Number"
+       ],
+       "SecondaryOutcomeDescription": [
+              "Changes in Insulin-like Growth Factor 1 (IGF-1)",
+              "Changes in Vascular Endothelial Growth Factor (VEGF)",
+              "Changes in Oxytocin",
+              "Changes in Interleukin (IL)-1",
+              "Changes in Interleukin (IL)-1ra",
+              "Changes in Interleukin (IL)-10",
+              "Changes in Tumor Necrosis Factor a (TNFa)"
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Insulin-like Growth Factor 1 (IGF-1)",
+              "Vascular Endothelial Growth Factor (VEGF)",
+              "Oxytocin",
+              "Interleukin (IL)-1",
+              "Interleukin (IL)-1ra",
+              "Interleukin (IL)-10",
+              "Tumor Necrosis Factor a (TNFa)"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+              "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+              "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+              "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+              "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+              "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)",
+              "Change from pre-flight values (average of blood drawn180 and 60 days prior to launch) to in-flight values (average of all in-flight blood draws: 1 month mission = 1 draw, 2 months = 2 draws, 6 months = 4 draws,12 months = 7 draws)"
+       ],
+       "SeeAlsoLinkLabel": [
+              "Reference article that does not have a pubmed ID yet \"Head-Down Tilt Position, but Not the Duration of Bed Rest Affects Resting State Electrocortical Activity\""
+       ],
+       "SeeAlsoLinkURL": [
+              "https://www.frontiersin.org/articles/10.3389/fphys.2021.638669/full"
+       ],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "August 1, 2021"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "September 2022"
+       ],
+       "StdAge": [
+              "Child",
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "April 23, 2021"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "February 25, 2021"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "April 19, 2021"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 28, 2022"
+       ],
+       "WhyStopped": []
+}

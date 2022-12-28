@@ -1,0 +1,393 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "DesignTimePerspective",
+                     "DesignWhoMasked",
+                     "DetailedDescription",
+                     "DispFirstPostDate",
+                     "DispFirstPostDateType",
+                     "DispFirstSubmitDate",
+                     "DispFirstSubmitQCDate",
+                     "EligibilityCriteria",
+                     "EnrollmentCount",
+                     "EnrollmentType",
+                     "EventGroupDeathsNumAffected",
+                     "EventGroupDeathsNumAtRisk",
+                     "EventGroupDescription",
+                     "EventGroupId",
+                     "EventGroupOtherNumAffected",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Participant",
+                                   "Investigator",
+                                   "Outcomes Assessor"
+                            ],
+                            "DetailedDescription": [
+                                   "The NASA /JSC Behavioral Health and Performance (BHP) Element of Space Medicine Division , Human Research Program (HRP) is supporting a ground-based directed research study to evaluate the effects of sleep medications (relative to placebo) on astronaut and other populations analogous to the astronaut population (e.g., Flight Controllers, Flight Directors, Flight Surgeons, medical residents and medical students on NASA rotation , and NASA/contractor employed University of Texas Medical Branch physician's) cognitive performance after an abrupt awakening. The second objective of the study is to develop a protocol to select a sleep medication and dose that minimally affects an individual 's cognitive performance upon awakening. Following completion of the study , it is the intent of the BHP Element to work with Space Medicine in the transition of the data and protocol as \"best practices \" for medical operations provided by the Clinical Services Branch in the Space Medicine Division at the NASA Johnson Space Center.\n\nThe study aims to characterize the effects of the most commonly used sleep medications and dosages on performance after an unplanned awakening , while providing the foundation for future development of individualized protocols for sleep medication use during training and on-orbit for astronauts and analogous populations (e.g., Flight Controllers , Flight Directors , Flight Surgeons , medical residents and medical students on NASA rotation , and NASA/contractor employed University of Texas Medical Branch physician's). Findings from the study will also further inform BHP 's development of an education training program related to countermeasures for sleep loss, circadian desynchronization , fatigue, and work overload for astronauts as well as ground crews who work night shifts in support of missions. Results of the study will also inform the human system health and medical standards and requirements for future exploration missions.\n\nThe study protocol was successfully pilot tested in the study titled Develop and Implement Operational Ground Testing Protocols to Individualize Astronaut Sleep Medication Efficacy and Individual Effects (Phase I) with N=7 subjects (6 NASA flight surgeons and 1 BHP Operations professional) as subjects from March through June , 2009. The pilot study results supported the scientific feasibility of conducting a randomized , blinded , placebo controlled study of sleep medication effects on alarm-based awakenings. Preliminary analysis from the pilot study indicated differences in performance upon abrupt awakening between the sleep medication and placebo conditions. Thus, the pilot data also supported the likelihood of new scientific and clinical insights from the Phase II studies with astronauts and the additional analogous populations (e.g., Flight Controllers, Flight Directors, Flight Surgeons, medical residents and medical students on NASA rotation, and NASA/contractor employed University of Texas Medical Branch physician's) .\n\nIn the study titled Operational Ground Testing Protocol to Optimize Astronaut Sleep Medication Efficacy and Individual Effects (Phase 11), two randomized , blinded , placebo-controlled , cross-over trials will be conducted. The hypnotic medication and the placebo will be indistinguishable by subjects. Experiment 1 will involve N=14 subjects randomized to placebo , 10 mg Zolpidem (Ambien) and 10 mg Zaleplon (Sonata) in counterbalanced order and will be awakened 90 min. post-placebo administration (half at 60 min and half at 90 min). The latter will be done to maintain some degree of blinding relative to the participants knowledge of conditions and the staff working on the protocol. Zolpidem is the most commonly , and Zaleplon is the second most commonly , used sleep aid medication used in spaceflight. Females and those subjects who have had a previous adverse experience with 10 mg zolpidem will be placed into Experiment 2, which will involve N=20 subjects randomized to placebo , 5 mg zolpidem and 10 mg zaleplon. Data acquisition for both experiments will occur in the Astronaut Quarantine Facility (\"AQF\") at JSC. Experimental methods and cognitive outcomes will be the same as those used in the pilot investigation titled Develop and Implement Operational Ground Testing Protocols to Individualize Astronaut Sleep Medication Efficacy and Individual Effects (Phase I). Combined , Experiment 1 and 2 will provide data on zaleplon 10 mg compared to placebo on a total of 34 subjects consisting of astronauts and other subjects considered analogous to the astronaut population (e.g., Flight Controllers, Flight Directors , Flight Surgeons, medical residents and medical students on NASA rotation, and NASA/contractor employed University of Texas Medical Branch physician's) , which will provide the larger sample needed to identify those subjects who have cognitive performance deficits on abrupt awakening to the less sedating 10 mg zaleplon.\n\nThis is an applied study and it is not feasible to include two or three doses of each drug in order to determine a dose-response curve based on each of the drugs pharmacodynamics. Literature has shown that zaleplon 10 mg will be less disruptive on performance at awakening than zolpidem 10 mg and that zaleplon 20 mg is likely to be comparable in effects to zolpidem 10 mg. However , zaleplon 20 mg is not a commonly used dose in space, whereas zolpidem 10 mg and 5mg, and zaleplon 10 mg are used-hence the study will focus on these drugs and doses. More importantly , the goal of this study is not to determine whether these dose-by-drug comparisons are likely to yield the same average results in astronauts as has been found in the general population (e.g., Roehrs et a., 1994; Wesensten et al., 1996; Greenblatt et al., 1998; Hindmarch et al., 2001). Instead , we began by are focusing on individual astronaut vulnerability to hypnotic sedation on awakening , and having a limited number of astronauts who can realistically participate in the operational research was not realistic or conducive in completing the study. We needed to expand our astronaut population to include international astronauts and other populations deemed analogous to the astronaut population (e.g., Flight Controllers, Flight Directors , Flight Surgeons, medical residents and medical students on NASA rotation,and NASA/contractor employed University of Texas Medical Branch physician's) . We want to evaluate as many astronauts on these drugs and doses as possible , and in a manner that permits comparisons between both drug type and dose; however , it became necessary to broaden our subject pool in order to reach the desired N. Thus Experiment 1 will evaluate 10 mg zolpidem for males and zaleplon 10 mg relative to placebo in N=14 astronauts and analogous subjects (e.g., Flight Controllers, Flight Directors, Flight Surgeons, medical residents and medical students on NASA rotation,and NASA/contractor employed University of Texas Medical Branch physician's). Experiment 2 will evaluate zolpidem 5 mg and zaleplon 10 mg relative to placebo in N = 20 additional astronauts and other analogous subjects (e.g., Flight Controllers , Flight Directors , Flight Surgeons, medical residents and medical students on NASA rotation,and NASA/contractor employed University of Texas Medical Branch physician's)."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nThe participant must be an active astronaut or analogous to the astronaut population (e.g., Flight Controllers, Flight Directors, Flight Surgeons, medical residents and medical students on NASA rotation, and NASA /contractor employed University of Texas Medical Branch physician's) to participate in the study. Not Applicable (NA)\n\nExclusion Criteria:\n\nPregnancy"
+                            ],
+                            "EnrollmentCount": [
+                                   "34"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Participant",
+                                   "Care Provider",
+                                   "Investigator",
+                                   "Outcomes Assessor"
+                            ],
+                            "DetailedDescription": [
+                                   "Many of the long duration astronauts develop visual changes, associated with neuroophthalmological abnormalities suggesting elevated intracranial pressure. There is currently no suitable ground based analog to simulate these changes on Earth, or a standard methodological approach to monitoring the combined effects of head down tilt and atmospheric carbon dioxide. Given that carbon dioxide and cephalad fluid shifting are known factors in spaceflight, we sought to evaluate an approach to monitoring these effects in healthy subject in a ground based analog on Earth."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nMale\nAges between 30 to 55 years old\nBody Mass Index (BMI) of 20-26 kg/m2\nWeight between 65-85 kg\nHeight between 158-190 cm\nNon-smoker, for at least six months before the start of the study\nVO2 max of at least 30ml/kg/min\n\nExclusion Criteria:\n\nHistory of intracranial pressure elevation\nHistory of abnormal intraocular pressure\nOphthalmological conditions: glaucoma, retinopathy, severe cataracts, eye trauma or implants.\nHistory of diseases of the optic nerve\nPre-existing corneal injury\nHistory of these eye surgeries: implanted lens, corneal transplant, recent (less than 6 months) LASIK surgery\nCongenital abnormalities of the anterior chamber\nActive eye infections, recent corneal abrasions, inflammation\nIntraocular pressure greater than 20 mm Hg\nViral or bacterial eye infection Severe dry eye syndrome\nRetinal or choroidal detachment\nMore than -6,0 dpr (high myopia)\nMore than +5,0 dpr\nArm or shoulder injury in the past year\nPsychiatric conditions including major depression, bipolar disorder or severe anxiety\nHistory of cerebrovascular disease including brain aneurysms, stroke, transient ischemic attack, brain hemorrhage, arteriovenous malformations History of brain tumor, congenital cysts, hydrocephalus, brain injury (requiring hospitalization)\nMeningitis/encephalitis\nEpilepsy\nHistory of severe hypertension (> 160/90 mmHg),\nDiabetes mellitus\nCoronary artery disease\nCongestive heart failure\nVentricular or atrial arrhythmias\nAutonomic disorders (syncope, autoimmune neuropathy)\nHepatic disease\nRenal disease\nChronic infections including HIV, Hepatitis B or C, Lyme disease\nHistory of hematological disease including hemophilia, leukemia, thrombocytosis, thrombocytopenia, myelodysplastic syndrome, autoimmune disease (lupus, rheumatoid arthritis, Sjogren's syndrome)\nHistory of malignancy except for basal cell carcinoma\nChronic back pain (inability to lay in bed for long periods of time)\nConditions that would preclude MRI including severe claustrophobia, pace maker or other metallic implants or devices\nSleep disturbances including: obstructive sleep apnea, narcolepsy, insomnia - Medications that exert cardiovascular, cerebrovascular or psychiatric function (i.e. beta blockers, calcium channel blockers, diuretics, diamox, sedatives) Drug, medication or alcohol abuse (regular consumption of more than 20-30 g alcohol/day)*\nSmoking\nVO2 max less than 30 ml/kg/min or greater than 60 ml/kg/min\nVegetarian, vegan\nMigraine\nPrevious psychiatric illness\nHiatus hernia\nGastro-esophageal reflux\nDiabetes mellitus\nRheumatic illness\nMuscle or joint disorder\nPronounced orthostatic intolerance (< 10 min standing)\nHyperlipidaemia\nThyroid gland disorder: deviations from normal values for TSH in plasma\nHyper-homocysteinaemia\nHyperuricaemia or hypouricaemia: deviations from normal values for uric acid in plasma.\nHypercalcaemia or hypocalcaemia: deviations from normal values for calcium in plasma.\nIron deficiency\nVitamin D deficiency\nBaseline blood gas values deviating from the normal reference values\nElevated risk of venous thromboembolism including deep venous thrombosis, pulmonary embolism\nChronic back complaints\nParticipation in another clinical study within the last 3 months before start of this study\nCriminal record\nStomach sleepers\nAny other medical condition that the investigators consider a contraindication to the study procedures that would make it unsafe or confound the measurements."
+                            ],
+                            "EnrollmentCount": [
+                                   "6"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Objectives This pilot trial will provide feedback on the feasibility and impact of LOFT in breast cancer survivors. The investigators will also explore the relationship of the LOFT intervention to changes in insulin resistance, growth hormone levels, body mass index, patient reported physical activity, fatigue, and overall quality of life.\n\nPrimary Objective Evaluate the safety and feasibility of LOFT training in breast cancer survivors (< 3 years from diagnosis) treated with either chemotherapy and/or anti-estrogen therapy.\n\nSecondary Objectives\n\nEstimate the effect size of LOFT training on muscle power, endurance, daily activity, fatigue, and quality of life.\nEstimate the effect of short-term LOFT training on biochemical parameters of inflammation, metabolism, anabolic hormone secretion, and bone turnover.\n\nLOFT Therapy\u2122 Summary LOFT Therapy\u2122 is a form of exercise that requires less energy for movement. LOFT Therapy\u2122 will be performed 2 times a week for 4 weeks a total of 8 sessions. The patient will be wrapped with fabric cuffs, on up to four limbs. The cuffs are applied to the widest part of the biceps and upper thighs at pressures between 80-100 mmHg with minimal venous encroachment. The patients will ride a recumbent bike for 18 total minutes of sub-maximal exertion (up to 70% repetition maximum ), with the option of up to 2 periods of 15-second higher intensity exertions as tolerated, followed by individualized respiratory recovery periods determined by the relative decrease in breathing effort.\n\nThe 18-minute session will be preceded by a two-minute compression check, where the wraps will be adjusted based on any signs or symptoms of nerve or vessel impingement. Patients will undergo an intake and outtake assessment with each session to collect subjective data and patient feedback. Two compression sessions will be conducted for 4 weeks, for a total of 8 sessions.\n\nThis study will enroll 15 patients. A 20% dropout rate for this group was taken into consideration so the investigators assume analysis will be done on at least 12 patients."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nDiagnosed with stage 0-III breast cancer within the past 3 years\nMust have completed local therapy for their breast cancer\nMust have received systemic therapy for their breast cancer (anti-estrogen and/or chemotherapy)\nChemotherapy must be complete prior to entry\nAnti-estrogen therapy may be ongoing\nAmbulatory without assistive devices\nNo orthopedic restrictions or neurologic deficits that would limit ability to complete the Power Protocol (based on the opinion of the investigator)\nNo requirement for supplemental O2\nNo unstable angina, regular use of nitroglycerin for exertional angina, or MI within the last 12 months\nNo local or distant recurrence of their breast cancer\nNo active lymphedema\nNo history of hemorrhagic stroke\nNo Heparin or Coumadin Use\nNo symptomatic peripheral vascular obstructions\nNo active gallbladder disease\nNo active kidney stones\nNo active gout\nNo active diverticulitis\nNo pituitary diseases or growth\nAble to provide written informed consent and authorization for release of health information\nAble to commit to LOFT training 2 times/week for 4 weeks\n\nExclusion Criteria:\n\nInability to meet one of the inclusion criteria above."
+                            ],
+                            "EnrollmentCount": [
+                                   "15"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "This is an international proposal consisting of two projects with synergistic aims that will be carried out in a joint effort by the National Aeronautics and Space Administration (NASA) and the German Aerospace Center (DLR) as well as the European Space Agency (ESA). The project targets NASA's particular interest in studying the 'Cognitive-perceptual-visuospatial brain domain changes due to isolation and confinement' as part of the Complement of Integrated Protocols for Human Exploration Research (CIPHER) project on the International Space Station (ISS). The collected data will demonstrate whether prolonging mission duration to one year will have detrimental effects on general cognitive performance (measured with the Cognition test battery), spatial cognition, structural and functional brain changes in general, and hippocampal plasticity more specifically relative to the shorter 6-month and 2-month ISS missions. Using state-of-the-art neuroimaging techniques, investigators will determine the biological basis for any changes in cognitive performance, with a focus on hippocampal plasticity and spatial cognition. Similar data already gathered on the ISS and in several short- and long-duration space analog environments will be used to generate a normative data base for long-duration missions. Finally, investigators will derive dose-response relationships between cognitive-visuospatial brain domain changes and mission duration that will allow predicting vulnerability to adverse cognitive or behavioral impairment and psychiatric disorders on interplanetary expeditions such as a mission to Mars. The two projects will deliver a highly unique and comprehensive set of integrated neuroimaging and neurocognitive tools for the evaluation and ultimately prevention of adverse effects on brain structure and function that lead to behavioral effects associated with exploration-type missions."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nAstronauts (according to NASA requirements)\nNormal, healthy volunteers (astronaut surrogates) - Astronaut surrogates will be matched for age and education relative to astronauts\n\nExclusion Criteria:\n\nFor astronauts and normal, healthy volunteers (astronaut surrogates):\n\nSubjects that do not comply with the MRI testing requirements. The following and other conditions may exclude the subject from MRI scanning or require additional examination to assess specific contraindications:\n\nTinnitus;\nSensori-neural hearing loss > 30 decibels (dB);\nPace-maker or internal defibrillator;\nmetallic implants (e.g. orthopedic plates after bone fractures, joint replacements, surgical staples or clips, artificial heart valves, stents, cava filters);\nMetallic splinters (e.g. after an accident or due to war injury);\nNon-removable dental brace;\nIntrauterine contraceptive devices (IUD) that are not MRI-compatible;\nCochlear implant (implanted hearing device);\nMedication pump;\nAcupuncture needle;\nOther foreign bodies/objects which are non-removable;\nPregnancy (or its possibility);\nPrevious brain and/or heart surgery.\nTattoos and/or permanent make-up in the body (some inks contain metallic particles).\nFemale subjects in this study are either astronauts or will model those in the astronaut population for whom participation in space missions is not allowed during pregnancy."
+                            ],
+                            "EnrollmentCount": [
+                                   "40"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nAstronauts flying on long-duration (3-6 months) spaceflights\n\nExclusion Criteria:\n\nNon-astronauts"
+                            ],
+                            "EnrollmentCount": [
+                                   "17"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "The spaceflights undertaken to date demonstrated that Man can adapt to the conditions existing in space, particularly to weightlessness. However, the space environment and the prevailing micro-gravity induce modifications which may affect the performances of the astronauts. These modifications concern in particular the cardiovascular and hormonal systems, the muscles, the bones, the blood and the immune system. Other problems may occur during long duration flights, such as the problems created by psychological stress due to the confinement, or those resulting from the cosmic rays (radiation).\n\nIn view of the fact that space flight opportunities are few, experiences simulating the effects of weightlessness experiences are undertaken on the earth, in order to better understand the adaptation mechanisms, prepare the spaceflights, perfect and evaluate corrective methods (called counter-measures) such as physical exercise or medication, to facilitate the astronauts' return to base. These experiments are also a necessity, in view of the difficulties encountered when carrying out certain experiences during the flights, due to the presence of too few astronauts on board, and to the lack of advanced biomedical devices onboard (scanner, etc.). The most common simulation is that of the anti-orthostatic bed rest (tilted position with the head slightly under the feet at a -6\u00b0 angle).\n\nSince the current objective is to simulate flights in the International Space Station (3 to 6 months) or possible flights to Mars (500 to 1000 days), it is mandatory to extend the duration of the simulation experiments. This is why three Space Agencies, CNES (France), European Space Agency (ESA, European Union), National Space Development Agency of Japan (NASDA, Japan) decided to join forces and undertake in common such simulation campaigns on ground, to best apprehend the adaptation processes to the constraints of the space environment.\n\nThe 2 main objectives of this experiment are:\n\nto study the physiological changes mechanisms during a ground-based experiment simulating long duration spaceflights,\nto develop and validate preventive methods (countermeasures) using standard tests.\n\nThis is why we will test in the present study the effects of an orthostatic bed rest (decubitus) of 90 days (3 months) on the following physiological systems :\n\nthe bones,\nthe muscles,\nthe cardiovascular system and its control mechanisms,\nthe sleep,\nthe spine.\n\nIn the absence of gravity, the weight of the astronaut and that of the objects disappear completely. This induces modifications of the bones and the muscles which can severely affect the astronaut's life during the flight, and even more when returning to earth. This is a fundamental point to study, since it may become a limiting factor and even an obstacle to long duration flights. This experiment should also permit the test of physical exercise program and of a drug, pamidronate (AREDIA\u00ae), as counter-measures against the effects of weightlessness on the locomotion system (skeleton and muscles).\n\nA total of 28 volunteers will participate to this experiment, split into three groups. Said experiment will spread on 2 years, 14 volunteers participating each time. The 3 groups are the following:\n\nGroup \"physical exercise\" (9 volunteers),\nGroup \"drug\" (pamidronate) (9 volunteers),\nGroup \"control\" (10 volunteers).\n\nMembers of the groups will be drawn by lot among the participants\n\nGroup \"Exercise\" : exposure of Man to microgravity results in a muscular atrophy which affects the muscles of the lumbar region and those of the lower limbs which are concerned by the standing position and the locomotion. During certain flights, physical exercise programs have been implemented, in order to fight against this muscular atrophy, maintain the physical condition required for the mission and prepare the astronauts for their return on earth. In the course of the present experiment, a physical exercise program will be tested on the 9 volunteers of this group (resistance training using both calf and knee extensor muscles with a special devicecalled Fly-Wheel).\nGroup \"Drug\" : a Man in microgravity is the sole experimental model available to test the rapid occurrence of osteoporosis on a healthy subject. Osteoporosis, or porous bone, appears whenever the rate at which the bone material is replaced falls below that of resorption, thus creating a bone fragility and an increased risk of fracture (hip, spine and wrist essentially). It appears generally after menopause, when associated with aging and a lack of physical activity. The pamidronate (Aredia\u00ae) is a drug present on the market since many years, used for the treatment of several bone pathologies. This drug will be tested on the 9 volunteers of this group, to demonstrate its efficiency in treating of bone modifications. This drug (60mg) will be infused intravenously 14 days before bed rest.\nGroup \"control\" : this group will serve as reference for the experimentation. Volunteers in this group will be without physical exercise and without drug. The existence of this group is necessary to be able to compare the results of the 2 types of counter-measures.\n\nThe experience will be carried out during a 120 days stay (a total of 4 months) at the Space Clinic and will comprise:\n\n1 control ambulatory period of 15 days (subjects to report on day before) (-15 at -1),\n1 anti-orthostatic (-6\u00b0) bed rest period of 90 days (1 at 90),\n1 recovery ambulatory period of 15 days (subjects to depart the following morning) (+1 at +15), representing a total of 122 nights spent at the clinic for all volunteers.\n\nThe assessments will be done by different European and Japanese scientific teams,each one specialising in a specific domain. None of the 3 groups of volunteers will be submitted to all experimentation programs."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nHealthy male volunteer , citizen of the European Community.\nAge 25 to 45,\nNon smokers,\nNo alcohol, no drug dependence and no medical treatment,\nHeight 165 cm to 185 cm,\nNo overweight nor excessive thinness. BMI (weight Kg/ height m2) between 20 and 27,\nNo personal nor family past record of chronic or acute disease which could affect the physiological data and/or create a risk for the subject during the experiment,\nSubject to be covered by a Social Security system,\nFree of any engagement during four consecutive months.\n\nExclusion Criteria:\n\nHaving given blood (more than 300ml) in a period of three months or less before the start of the experiment,\nSubject already participating in a clinical research experimentation,\nPoor tolerance to blood sampling,\nPast record of orthostatic intolerance,\nCardiac rhythm disorders,\nAllergies,\nIntensive sport training,\nFractures or tendon laceration since less than one year,\nChronic back pains,\nPast records of thrombophlebitis,\nPresence of metallic implants,\nSpecial food diet,\nSleep disorders :Lark and owl type,Subject sleeping more than 10 hours or less than 5 hours,\nPhotosensitive epilepsy."
+                            ],
+                            "EnrollmentCount": [
+                                   "28"
+                            ],
+                            "EnrollmentType": [],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Outcomes Assessor"
+                            ],
+                            "DetailedDescription": [
+                                   "The visual impairment observed in many astronauts after long duration spaceflight aboard the International Space Station is considered the most important mission-threatening medical problem identified in the last decade of the space program. Between 2012 and 2014, NASA and NSBRI have spent $3-4 million/year investigating the clinical course and underlying mechanisms of this condition, termed the Visual Impairment Intracranial Pressure Syndrome (VIIP) because of its theoretical association with elevated intracranial pressure and central venous pressure. During the previous funding cycle, the investigators for this application performed the first invasive measures of intracranial pressure during acute (head down tilt bedrest and parabolic flight) and chronic (24 hours HDT bedrest) changes in gravitational gradients simulating spaceflight in healthy humans. Novel observations made from those studies determined that 1) there is a large range of central venous pressure experienced normally during changes in posture in daily life; 2) these changes occur within seconds of postural transients from upright to supine and then are stable over time in that position; 3) with acute assumption of simulated microgravity (HDT bedrest), intracranial pressure and central venous pressure goes up slightly from the supine position, but over the next 24 hours, returns toward, and sometimes below the supine value because of spatial compensation within the brain; 4) during true microgravity (parabolic flight), the acute reduction in central venous pressure reduces cerebral outflow resistance and ICP decreases compared to the supine position, though remains above the upright position in 1G.\n\nThe current hypothesis is that the VIIP syndrome is Not due to a pathologically elevated central venous or intracranial pressure. However, because there is not the usual reduction in pressure typically seen in the upright position on earth, the incessant, low level elevation in ICP (i.e., greater than upright, but less than supine) leads to adaptive changes in the eye which ultimately result in globe flattening, choroidal folds, and visual impairment. Preliminary data suggest that the use of lower body negative pressure (LBNP) can lower ICP while in the head down position, towards the values observed upright. The investigators propose that applying LBNP during sleep in space would be a practical strategy to restore a relevant (though reversed) circadian variability in central venous pressure that would then prevent adaptive changes in the eye. The investigators propose the following hypothesis:\n\nHypothesis 1: Repeated administration of LBNP at night will cause a safe, sustained reduction in central venous pressure while asleep. This restoration of effective circadian variability in central venous pressure will prevent structural changes in the eye induced by microgravity. To test this hypothesis, the long-term efficacy of nightly LBNP (6-8 hrs) to simulate the upright position and prevent structural changes in the eye during four days of bedrest. Comprehensive, non-invasive state-of-the-art imaging will be used to examine the structure of the visual apparatus, using optical coherence tomography combined with invasive direct measurement of CVP."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nage 18-55\n\nExclusion Criteria:\n\ncardiovascular disease\nophthalmological disease"
+                            ],
+                            "EnrollmentCount": [
+                                   "10"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "DesignTimePerspective": [
+                                   "Prospective"
+                            ],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nAstronauts selected to fly on a space mission.\n\nExclusion Criteria:\n\nAstronauts not selected to fly on a space mission."
+                            ],
+                            "EnrollmentCount": [
+                                   "4"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Participant",
+                                   "Care Provider",
+                                   "Investigator",
+                                   "Outcomes Assessor"
+                            ],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\nPatients with grade II sprain.\nBoys\nAge 20-40 years.\nPatient without regular medication.\nAll patients must provide written informed consent specific to this study complete.\n\nExclusion Criteria:\n\nLiver and gastrointestinal disease.\nUntreated hypothyroidism.\nAlcohol and / or drug addiction.\nVitamin supplements.\nEating Disorders.\nDrugs that decrease the concentration of lipids.\nAntihypertensive drugs.\nAthletes who exercise intensely.\nMental disorders, depression or anxiety intensive. These conditions make the patient unable to understand the nature or the scope and possible consequences of the study.\nPatients presenting an infectious process and / or inflammatory before collecting the sample.\nPatients may not follow the protocol because of its lack of cooperation, to their inability to return to subsequent visits and there is little chance of completing the study procedures.\nHypersensitivity to allopurinol"
+                            ],
+                            "EnrollmentCount": [
+                                   "53"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [],
+                            "DetailedDescription": [
+                                   "Fasting (8-h) blood samples (7.5 mL SST and 5 mL EDTA tubes, 12.5 mL total per session) will be collected approximately 180 days and 45 days before flight, on approximate flight day 90, and 30 days before landing, Return to Earth +0-2 days and 30 days after landing.\n\nBlood samples will be analyzed for vitamin status and one-carbon biochemistry, as previously described. One blood sample (collected before flight) will be analyzed for approximately 511 SNPs matching the profile of testing from our ongoing research related to optic disc edema. Serum samples will be analyzed for biochemistry measures evaluating endothelial function, vitamin status, and oxidative damage.\n\nNutritional status assessment data, including inflight dietary intake and body mass data, completed for routine medical requirements will be requested for data sharing. Inflight medical exercise log data as well as available standard measures data will also be requested for data sharing. Medication use/Med Logs will also be requested for data sharing.\n\nVascular function VENDYS-II (Endothelix, Inc) will be used to assess reactive hyperaemia through changes in fingertip temperature. The test consists of an automated blood pressure measurement followed by cuff occlusion of the right arm for 2 to 5 min. During this time, the fingertip temperature in the right hand decreases because of the lack of circulation in the fingertip. After the cuff is released, blood flow resumes, causing a temperature rebound in the fingertip in a manner that is proportional to vascular reactivity.\n\nAdvanced Glycation End (AGE) Products Skin autofluorescence (SAF) will be analyzed non-invasively using an AGE reader (Diagnoptics Technologies, Groningen, the Netherlands). The AGE reader illuminates a skin surface of approximately 4 cm2, guarded against surrounding light, with an excitation light source with wavelength between 300 and 429 nm. This method is based on the fluorescent properties of certain AGEs accumulated in dermal tissue.\n\nOCT and OCT-A Optical coherence tomography (OCT) and OCT-angiography (OCT-A) scans will be acquired using the Spectralis OCT2 (Heidelberg Engineering) before, during, and after flight. The scan pattern includes 24 B-scans centered in a radial pattern over the optic nerve head, as well as a 3.5 mm circle scan surrounding the optic nerve head for assessment of retinal nerve fiber layer thickness and choroid thickness. For OCT-A, five consecutive volume scans will be obtained in these regions, each containing 216 A-scans. These images will be registered, and the consecutive B-scans will be used to calculate the decorrelation among the images to provide split-spectrum amplitude decorrelation angiography (SSADA) images. This decorrelation between consecutive B-scan images will be used to highlight locations where there is blood flow. The density of the perfused peripapillary vessels within the various layers of the retina will be calculated to create a flow density map."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\n\u2022 Must be astronauts selected for 6-12 month missions on the International Space Station\n\nExclusion Criteria:\n\n\u2022 Subjects taking B-vitamin supplements"
+                            ],
+                            "EnrollmentCount": [
+                                   "16"
+                            ],
+                            "EnrollmentType": [
+                                   "Anticipated"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Participant"
+                            ],
+                            "DetailedDescription": [],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\n18-50 years of age\nAvailability of transport and ability to report to Research Center at appointed times\n\nExclusion Criteria:\n\nSubjects with limiting or unstable angina or a cardiology confirmed ECG which demonstrates cardiac abnormalities such as > 0.2 mV horizontal or downsloping ST segment depression, frequent arrhythmia's (>10 PVC/min), or valvular disease.\nSubjects with vascular disease as determined by a combination of risk factors of peripheral atherosclerosis, namely hypertension, obesity, diabetes, hypercholesterolemia and/or evidence of venous or arterial insufficiency upon palpitation of femoral, popliteal, and pedal arteries.\nAny history of hypo- or hyper-coagulation disorders including subjects taking Coumadin or with a history of DVT or PE at any point in their lifetime.\nAny subject that has a chronically elevated systolic pressure >170 or a diastolic blood pressure > 100 will be excluded. Subjects may be included if they are taking blood pressure medication and have a blood pressure below these criteria.\nAny subject with an uncontrolled metabolic disease including liver or renal disease.\nFasting blood glucose of >126 mg/dl on two separate occasions\nPresence of acute illness or metabolically unstable chronic illness.\nAny subject currently on weight-loss diet.\nInability to abstain from smoking for duration of study.\nRecent ingestion of anabolic steroids (within 6 months).\nSubjects with atrial fibrillation, history of syncope, angina or congestive heart failure.\nSubjects with a recently (6 months) treated cancer other than Basal Cell Carcinoma.\nPregnancy/lactation.\nAny other condition or event considered exclusionary by the PI and covering faculty"
+                            ],
+                            "EnrollmentCount": [
+                                   "31"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "DesignTimePerspective": [],
+                            "DesignWhoMasked": [
+                                   "Participant",
+                                   "Investigator"
+                            ],
+                            "DetailedDescription": [
+                                   "The aim of this study is to test the feasibility, acceptability and efficacy of methods for delivering mental health support when real-time communication is not possible (e.g. on long duration space flights where communication lags of up to 45 minutes are anticipated). Participants will be healthy, high functioning adults (e.g., medical residents, postdoctoral fellows in the sciences, math, and engineering) who report elevated psychological distress, mood or anxiety symptoms. Participants will complete a self-guided online therapy program (MyCompass) and will be randomized to receive one of the following: (1) online therapy without therapist support, 2) online therapy plus therapist support via electronic text-based messaging (i.e., secure email), or 3) online therapy plus therapist support via video messaging. Outcomes will be evaluated weekly via online self-report measures of psychological distress, mood, anxiety, number of hours and quality of sleep, fatigue, and resiliency indicators (i.e., coping and mindfulness). The investigators will examine changes over time in outcomes across all three groups. The investigators hypothesize that the two enhanced treatment conditions (i.e., those with therapist support) will outperform the online self-management program without support. The investigators also predict that outcomes for the two enhanced conditions will be comparable to those reported in the literature for in-person psychotherapy programs."
+                            ],
+                            "DispFirstPostDate": [],
+                            "DispFirstPostDateType": [],
+                            "DispFirstSubmitDate": [],
+                            "DispFirstSubmitQCDate": [],
+                            "EligibilityCriteria": [
+                                   "Inclusion Criteria:\n\n18+years old;\nMasters of Art degree or higher in social/biomedical(medicine)/physical science, engineering or mathematics\ncurrent elevated distress as measured by the Depression Anxiety and Stress Scale, 21 item version(\u2265 5 on DASS Depression Subscale OR \u2265 4 on DASS Anxiety Subscale OR \u2265 8 on DASS Stress Subscale) (DASS, Lovibond & Lovibond, 1995); and, (5) \u2265 5 on any subscale of the Sheehan Disability Scale (SDS, Sheehan 1983).\n\nExclusion Criteria:\n\nAny current or recent (i.e. past month) suicide ideation\nany history of suicide attempt (within past 5 years)\nserious mental illness (i.e., psychosis, mania)\nalcohol or substance dependency during the past 6 months\nserious medical problems (e.g., seizures, cancer)\ncurrent participation in psychotherapy\nnew use of psychoactive medications (i.e., benzodiazepines for less than 1 month or selective serotonin reuptake inhibitors [SSRIs], tricyclics, or serotonin-norepinephrine reuptake inhibitors [SNRIs] for less than 3 months)."
+                            ],
+                            "EnrollmentCount": [
+                                   "145"
+                            ],
+                            "EnrollmentType": [
+                                   "Actual"
+                            ],
+                            "EventGroupDeathsNumAffected": [],
+                            "EventGroupDeathsNumAtRisk": [],
+                            "EventGroupDescription": [],
+                            "EventGroupId": [],
+                            "EventGroupOtherNumAffected": [],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

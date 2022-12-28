@@ -1,14 +1,18 @@
 ,word,count,percent
-0,All Drugs and Chemicals,8,33.33333
-1,Anti-Inflammatory Agents,3,12.5
-2,Other Dietary Supplements,2,8.33333
-3,Dermatologic Agents,2,8.33333
-4,Bone Density Conservation Agents,1,4.16667
-5,Anti-Allergic Agents,1,4.16667
-6,Antiemetics,1,4.16667
-7,Central Nervous System Depressants,1,4.16667
-8,Gastrointestinal Agents,1,4.16667
-9,Antirheumatic Agents,1,4.16667
-10,Analgesics,1,4.16667
-11,Micronutrients,1,4.16667
-12,Vitamins,1,4.16667
+0,All Drugs and Chemicals,12,29.26829
+1,Dermatologic Agents,4,9.7561
+2,Anti-Inflammatory Agents,3,7.31707
+3,Gastrointestinal Agents,2,4.87805
+4,Micronutrients,2,4.87805
+5,Other Dietary Supplements,2,4.87805
+6,Antirheumatic Agents,2,4.87805
+7,Anti-Allergic Agents,2,4.87805
+8,Antiemetics,2,4.87805
+9,Central Nervous System Depressants,2,4.87805
+10,Vitamins,2,4.87805
+11,Hematinics,1,2.43902
+12,Bone Density Conservation Agents,1,2.43902
+13,Anticonvulsants,1,2.43902
+14,Analgesics,1,2.43902
+15,Herbal and Botanical,1,2.43902
+16,Antineoplastic Agents,1,2.43902

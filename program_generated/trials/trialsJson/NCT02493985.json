@@ -1,0 +1,520 @@
+{
+       "Rank": 2,
+       "Acronym": [
+              "SPACE-COT"
+       ],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "First, the subjects will have 1 baseline day in the upright body position. This will be followed by 28 hours of head down tilt body position and ambient air at sea level, followed by 2 hour exposure of 3% carbon dioxide inhalation.",
+              "First, the subjects will have 1 baseline day in the upright body position. This will be followed by 28 hours of head down tilt body position and air with 0.5% carbon dioxide, followed by 2 hour exposure of 3% carbon dioxide inhalation."
+       ],
+       "ArmGroupInterventionName": [
+              "Other: ambient air",
+              "Other: 0.5% CO2"
+       ],
+       "ArmGroupLabel": [
+              "Atmosphere 1 - Ambient air",
+              "Atmosphere 2 - 0.5% CO2"
+       ],
+       "ArmGroupType": [
+              "Active Comparator",
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT02493985"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The purpose of this study is to study the effects of carbon dioxide combined with head down tilt on cerebral physiology and anatomy. This paradigm will help establish a ground-based analog for spaceflight, and also evaluate the ability of non-invasive devices to monitor brain physiology."
+       ],
+       "BriefTitle": [
+              "Studying Physiological and Anatomical Cerebral Effects of Carbon Dioxide and Tilt"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "National Space Biomedical Research Institute",
+              "DLR German Aerospace Center",
+              "The University of Texas Health Science Center, Houston",
+              "University of Pennsylvania",
+              "Harvard University",
+              "University of Cologne"
+       ],
+       "CompletionDate": [
+              "July 2015"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Healthy"
+       ],
+       "ConditionAncestorId": [],
+       "ConditionAncestorTerm": [],
+       "ConditionBrowseBranchAbbrev": [],
+       "ConditionBrowseBranchName": [],
+       "ConditionBrowseLeafAsFound": [],
+       "ConditionBrowseLeafId": [],
+       "ConditionBrowseLeafName": [],
+       "ConditionBrowseLeafRelevance": [],
+       "ConditionMeshId": [],
+       "ConditionMeshTerm": [],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Crossover Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "Quadruple"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Diagnostic"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [
+              "Participant",
+              "Care Provider",
+              "Investigator",
+              "Outcomes Assessor"
+       ],
+       "DetailedDescription": [
+              "Many of the long duration astronauts develop visual changes, associated with neuroophthalmological abnormalities suggesting elevated intracranial pressure. There is currently no suitable ground based analog to simulate these changes on Earth, or a standard methodological approach to monitoring the combined effects of head down tilt and atmospheric carbon dioxide. Given that carbon dioxide and cephalad fluid shifting are known factors in spaceflight, we sought to evaluate an approach to monitoring these effects in healthy subject in a ground based analog on Earth."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\nMale\nAges between 30 to 55 years old\nBody Mass Index (BMI) of 20-26 kg/m2\nWeight between 65-85 kg\nHeight between 158-190 cm\nNon-smoker, for at least six months before the start of the study\nVO2 max of at least 30ml/kg/min\n\nExclusion Criteria:\n\nHistory of intracranial pressure elevation\nHistory of abnormal intraocular pressure\nOphthalmological conditions: glaucoma, retinopathy, severe cataracts, eye trauma or implants.\nHistory of diseases of the optic nerve\nPre-existing corneal injury\nHistory of these eye surgeries: implanted lens, corneal transplant, recent (less than 6 months) LASIK surgery\nCongenital abnormalities of the anterior chamber\nActive eye infections, recent corneal abrasions, inflammation\nIntraocular pressure greater than 20 mm Hg\nViral or bacterial eye infection Severe dry eye syndrome\nRetinal or choroidal detachment\nMore than -6,0 dpr (high myopia)\nMore than +5,0 dpr\nArm or shoulder injury in the past year\nPsychiatric conditions including major depression, bipolar disorder or severe anxiety\nHistory of cerebrovascular disease including brain aneurysms, stroke, transient ischemic attack, brain hemorrhage, arteriovenous malformations History of brain tumor, congenital cysts, hydrocephalus, brain injury (requiring hospitalization)\nMeningitis/encephalitis\nEpilepsy\nHistory of severe hypertension (> 160/90 mmHg),\nDiabetes mellitus\nCoronary artery disease\nCongestive heart failure\nVentricular or atrial arrhythmias\nAutonomic disorders (syncope, autoimmune neuropathy)\nHepatic disease\nRenal disease\nChronic infections including HIV, Hepatitis B or C, Lyme disease\nHistory of hematological disease including hemophilia, leukemia, thrombocytosis, thrombocytopenia, myelodysplastic syndrome, autoimmune disease (lupus, rheumatoid arthritis, Sjogren's syndrome)\nHistory of malignancy except for basal cell carcinoma\nChronic back pain (inability to lay in bed for long periods of time)\nConditions that would preclude MRI including severe claustrophobia, pace maker or other metallic implants or devices\nSleep disturbances including: obstructive sleep apnea, narcolepsy, insomnia - Medications that exert cardiovascular, cerebrovascular or psychiatric function (i.e. beta blockers, calcium channel blockers, diuretics, diamox, sedatives) Drug, medication or alcohol abuse (regular consumption of more than 20-30 g alcohol/day)*\nSmoking\nVO2 max less than 30 ml/kg/min or greater than 60 ml/kg/min\nVegetarian, vegan\nMigraine\nPrevious psychiatric illness\nHiatus hernia\nGastro-esophageal reflux\nDiabetes mellitus\nRheumatic illness\nMuscle or joint disorder\nPronounced orthostatic intolerance (< 10 min standing)\nHyperlipidaemia\nThyroid gland disorder: deviations from normal values for TSH in plasma\nHyper-homocysteinaemia\nHyperuricaemia or hypouricaemia: deviations from normal values for uric acid in plasma.\nHypercalcaemia or hypocalcaemia: deviations from normal values for calcium in plasma.\nIron deficiency\nVitamin D deficiency\nBaseline blood gas values deviating from the normal reference values\nElevated risk of venous thromboembolism including deep venous thrombosis, pulmonary embolism\nChronic back complaints\nParticipation in another clinical study within the last 3 months before start of this study\nCriminal record\nStomach sleepers\nAny other medical condition that the investigators consider a contraindication to the study procedures that would make it unsafe or confound the measurements."
+       ],
+       "EnrollmentCount": [
+              "6"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "Male"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "Atmosphere 2 - 0.5% CO2",
+              "Atmosphere 1 - Ambient air"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "The subjects will be randomized to breath 0.5% carbon dioxide during one of the -12 degree head down tilt body position periods in crossover design",
+              "The subjects will be randomized to breath ambient air during one of the -12 degree head down tilt body position periods in crossover design"
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "0.5% CO2",
+              "ambient air"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Other",
+              "Other"
+       ],
+       "IsFDARegulatedDevice": [],
+       "IsFDARegulatedDrug": [],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [
+              "Brain physiology",
+              "Intracranial pressure",
+              "Cognition",
+              "Cerebrovascular",
+              "Head down tilt",
+              "Space flight"
+       ],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "January 13, 2016"
+       ],
+       "LastUpdatePostDateType": [
+              "Estimate"
+       ],
+       "LastUpdateSubmitDate": [
+              "January 12, 2016"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Baylor College of Medicine"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [],
+       "LocationFacility": [],
+       "LocationState": [],
+       "LocationStatus": [],
+       "LocationZip": [],
+       "MaximumAge": [
+              "55 Years"
+       ],
+       "MinimumAge": [
+              "30 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Studying Physiological and Anatomical Cerebral Effects of Carbon Dioxide and Tilt"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Baylor College of Medicine"
+       ],
+       "OrgStudyId": [
+              "H-36485"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [],
+       "OverallOfficialName": [],
+       "OverallOfficialRole": [],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Phase 1"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "July 2015"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Transcranial Doppler derived measurements of mean cerebral blood flow velocity",
+              "Cerebrotech monitor derived intracranial fluid volume changes (percentage change)",
+              "Vittamed ICP meter derived intracranial pressure (mmHg)",
+              "Cognition battery score (max 1000): tests multiple cognitive domains including spatial memory, psychomotor processing speed, facial emotional recognition",
+              "cFLOW derived changes in cerebral blood flow index"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Changes in cerebral blood flow: Transcranial doppler",
+              "Changes in intracranial volume",
+              "Changes in intracranial pressure",
+              "Changes in cognitive function",
+              "Changes in cerebral blood flow: cFLOW"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "24 and 48 hours from baseline measurements",
+              "24 and 48 hours from baseline measurements",
+              "24 and 48 hours from baseline measurements",
+              "24 and 48 hours from baseline measurements",
+              "24 and 48 hours from baseline measurements"
+       ],
+       "ReferenceCitation": [],
+       "ReferencePMID": [],
+       "ReferenceType": [],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "Baylor College of Medicine"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Eric Michael Bershad"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Assistant Professor of Neurology and Space Medicine"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "Assess safety outcomes: tolerance of condition through duration of study and number of adverse events",
+              "iCare derived intraocular pressure measurements from both eyes (mmHg)",
+              "minute ventilation, respiratory rate and vital capacity",
+              "Ultrasound derived measure of right internal jugular vein cross sectional areas",
+              "Ultrasound Doppler Measurement of arterial diameter and flow (cm/sec) after transient cuff occlusion of brachial artery",
+              "Assessment of cardiac output, stroke volume, heart rate, blood pressure",
+              "Sniffin' sticks threshold testing for phenyethyl alcohol",
+              "changes in arterial pH and partial pressure CO2"
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Tolerability of combined -12 head down tilt and 0.5% carbon dioxide",
+              "Changes in intraocular pressure",
+              "Changes in pulmonary mechanics",
+              "Changes in internal jugular vein volumes",
+              "Changes in peripheral arterial vasoreactivity",
+              "Changes in cardiac hemodynamics",
+              "Changes in olfactory threshold",
+              "Changes in pulmonary gas exchange"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "Within 48 hours from baseline",
+              "24 and 48 hours from baseline measurements",
+              "24 and 48 hours from baseline measurements",
+              "48 hours from baseline measurements",
+              "48 hours from baseline measurements",
+              "48 hours from baseline measurements",
+              "24 and 48 hours from baseline measurement",
+              "24 and 48 hours from baseline measurements"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "June 2015"
+       ],
+       "StartDateType": [],
+       "StatusVerifiedDate": [
+              "January 2016"
+       ],
+       "StdAge": [
+              "Adult"
+       ],
+       "StudyFirstPostDate": [
+              "July 10, 2015"
+       ],
+       "StudyFirstPostDateType": [
+              "Estimate"
+       ],
+       "StudyFirstSubmitDate": [
+              "June 27, 2015"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "July 7, 2015"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 28, 2022"
+       ],
+       "WhyStopped": []
+}

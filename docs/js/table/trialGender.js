@@ -1,6 +1,6 @@
 var trialGender = 
 [
-{'word': 'All', 'count': 39, 'percent': 73.58491} , 
-{'word': 'Male', 'count': 13, 'percent': 24.5283} , 
-{'word': 'Female', 'count': 1, 'percent': 1.88679} , 
+{'word': 'All', 'count': 47.0, 'percent': 74.60317} , 
+{'word': 'Male', 'count': 15.0, 'percent': 23.80952} , 
+{'word': 'Female', 'count': 1.0, 'percent': 1.5873} , 
 ]

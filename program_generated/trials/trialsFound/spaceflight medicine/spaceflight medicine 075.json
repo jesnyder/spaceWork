@@ -1,0 +1,610 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "ConditionBrowseBranchName",
+                     "ConditionBrowseLeafAsFound",
+                     "ConditionBrowseLeafId",
+                     "ConditionBrowseLeafName",
+                     "ConditionBrowseLeafRelevance",
+                     "ConditionMeshId",
+                     "ConditionMeshTerm",
+                     "DelayedPosting",
+                     "DesignAllocation",
+                     "DesignInterventionModel",
+                     "DesignInterventionModelDescription",
+                     "DesignMasking",
+                     "DesignMaskingDescription",
+                     "DesignObservationalModel",
+                     "DesignPrimaryPurpose",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Crossover Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [
+                                   "Experiment 1 will involve N=14 subjects randomized to placebo , 10 mg Zolpidem (Ambien) and 10 mg Zaleplon (Sonata) in counterbalanced order and will be awakened 90 min. post-placebo administration (half at 60 min and half at 90 min). The latter will be done to maintain some degree of blinding relative to the participants knowledge of conditions and the staff working on the protocol. Females and those subjects who have had a previous adverse experience with 10 mg zolpidem will be placed into Experiment 2, which will involve N=20 subjects randomized to placebo , 5 mg zolpidem and 10 mg zaleplon. Experiment 1 and 2 will provide data on zaleplon 10 mg compared to placebo on a total of 34 subjects consisting of astronauts and other subjects considered analogous to the astronaut population, which will provide the larger sample needed to identify those subjects who have cognitive performance deficits on abrupt awakening to the less sedating 10 mg zaleplon."
+                            ],
+                            "DesignMasking": [
+                                   "Triple"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Supportive Care"
+                            ],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Crossover Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "Quadruple"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Diagnostic"
+                            ],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "ConditionBrowseBranchName": [
+                                   "Neoplasms",
+                                   "Skin and Connective Tissue Diseases",
+                                   "All Conditions"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Breast Neoplasms"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M4372",
+                                   "M4370",
+                                   "M14826"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Breast Neoplasms",
+                                   "Breast Diseases",
+                                   "Skin Diseases"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "high",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000001943"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Breast Neoplasms"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Supportive Care"
+                            ],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Non-Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Parallel Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [
+                                   "This study will investigate 10 astronauts on 12-month ISS missions, 10 astronauts on 12-month ISS missions, 10 astronauts on 12-month ISS missions and 10 control subjects that are matched to 12-month mission astronauts and investigated at similar time points."
+                            ],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "ConditionBrowseBranchName": [
+                                   "Musculoskeletal Diseases",
+                                   "All Conditions"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Bone Resorption"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M4293",
+                                   "M4278",
+                                   "M11249"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Bone Resorption",
+                                   "Bone Diseases",
+                                   "Musculoskeletal Diseases"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "high",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000001862"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Bone Resorption"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Crossover Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Prevention"
+                            ],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "ConditionBrowseBranchName": [],
+                            "ConditionBrowseLeafAsFound": [],
+                            "ConditionBrowseLeafId": [],
+                            "ConditionBrowseLeafName": [],
+                            "ConditionBrowseLeafRelevance": [],
+                            "ConditionMeshId": [],
+                            "ConditionMeshTerm": [],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Parallel Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Prevention"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "ConditionBrowseBranchName": [
+                                   "Symptoms and General Pathology",
+                                   "All Conditions",
+                                   "Nervous System Diseases",
+                                   "Eye Diseases"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Visual Impairment",
+                                   "Visual Impairment"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M15507",
+                                   "M17194",
+                                   "M16682",
+                                   "M14642",
+                                   "M11556",
+                                   "M7423"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Syndrome",
+                                   "Vision, Low",
+                                   "Vision Disorders",
+                                   "Sensation Disorders",
+                                   "Neurologic Manifestations",
+                                   "Eye Diseases"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "low",
+                                   "high",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000014786",
+                                   "D000015354"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Vision Disorders",
+                                   "Vision, Low"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Crossover Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "Single"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Basic Science"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "ConditionBrowseBranchName": [
+                                   "Blood and Lymph Conditions",
+                                   "All Conditions",
+                                   "Symptoms and General Pathology"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Anemia",
+                                   "Hemolysis"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M3222",
+                                   "M8699",
+                                   "M8642"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Anemia",
+                                   "Hemolysis",
+                                   "Hematologic Diseases"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "high",
+                                   "high",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000000740",
+                                   "D000006461"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Anemia",
+                                   "Hemolysis"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [],
+                            "DesignInterventionModel": [],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [
+                                   "Cohort"
+                            ],
+                            "DesignPrimaryPurpose": [],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "ConditionBrowseBranchName": [
+                                   "Symptoms and General Pathology",
+                                   "All Conditions",
+                                   "Wounds and Injuries"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Ankle Sprain"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M9445",
+                                   "M18061",
+                                   "M10033",
+                                   "M16837"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Inflammation",
+                                   "Ankle Injuries",
+                                   "Leg Injuries",
+                                   "Wounds and Injuries"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "low",
+                                   "high",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000016512"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Ankle Injuries"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Parallel Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "Quadruple"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Treatment"
+                            ],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "ConditionBrowseBranchName": [
+                                   "Symptoms and General Pathology",
+                                   "All Conditions",
+                                   "Nervous System Diseases",
+                                   "Eye Diseases",
+                                   "Rare Diseases"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Optic Disc Edema"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M6809",
+                                   "M12282",
+                                   "M11984",
+                                   "M5757",
+                                   "M7423",
+                                   "T4402"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Edema",
+                                   "Papilledema",
+                                   "Optic Nerve Diseases",
+                                   "Cranial Nerve Diseases",
+                                   "Eye Diseases",
+                                   "Papilledema"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "low",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000010211"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Papilledema"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "N/A"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Single Group Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "None (Open Label)"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Prevention"
+                            ],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "ConditionBrowseBranchName": [
+                                   "Nervous System Diseases",
+                                   "Symptoms and General Pathology",
+                                   "All Conditions",
+                                   "Musculoskeletal Diseases"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Muscular Atrophy",
+                                   "Muscle Weakness"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M11242",
+                                   "M3741",
+                                   "M12356",
+                                   "M20097",
+                                   "M3706",
+                                   "M21672",
+                                   "M21772",
+                                   "M11556",
+                                   "M11244",
+                                   "M11249"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Muscular Atrophy",
+                                   "Atrophy",
+                                   "Paresis",
+                                   "Muscle Weakness",
+                                   "Asthenia",
+                                   "Pathological Conditions, Anatomical",
+                                   "Neuromuscular Manifestations",
+                                   "Neurologic Manifestations",
+                                   "Muscular Diseases",
+                                   "Musculoskeletal Diseases"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "high",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000018908",
+                                   "D000009133"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Muscle Weakness",
+                                   "Muscular Atrophy"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Parallel Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "Single"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Diagnostic"
+                            ],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "ConditionBrowseBranchName": [
+                                   "Behaviors and Mental Disorders",
+                                   "All Conditions"
+                            ],
+                            "ConditionBrowseLeafAsFound": [
+                                   "Depressive Symptoms"
+                            ],
+                            "ConditionBrowseLeafId": [
+                                   "M3476",
+                                   "M6213",
+                                   "M6210",
+                                   "M3970"
+                            ],
+                            "ConditionBrowseLeafName": [
+                                   "Anxiety Disorders",
+                                   "Depressive Disorder",
+                                   "Depression",
+                                   "Behavioral Symptoms"
+                            ],
+                            "ConditionBrowseLeafRelevance": [
+                                   "low",
+                                   "low",
+                                   "high",
+                                   "low"
+                            ],
+                            "ConditionMeshId": [
+                                   "D000003863"
+                            ],
+                            "ConditionMeshTerm": [
+                                   "Depression"
+                            ],
+                            "DelayedPosting": [],
+                            "DesignAllocation": [
+                                   "Randomized"
+                            ],
+                            "DesignInterventionModel": [
+                                   "Parallel Assignment"
+                            ],
+                            "DesignInterventionModelDescription": [],
+                            "DesignMasking": [
+                                   "Double"
+                            ],
+                            "DesignMaskingDescription": [],
+                            "DesignObservationalModel": [],
+                            "DesignPrimaryPurpose": [
+                                   "Treatment"
+                            ],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

@@ -1,0 +1,284 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "EventGroupOtherNumAtRisk",
+                     "EventGroupSeriousNumAffected",
+                     "EventGroupSeriousNumAtRisk",
+                     "EventGroupTitle",
+                     "EventsDescription",
+                     "EventsFrequencyThreshold",
+                     "EventsTimeFrame",
+                     "ExpAccTypeIndividual",
+                     "ExpAccTypeIntermediate",
+                     "ExpAccTypeTreatment",
+                     "ExpandedAccessNCTId",
+                     "ExpandedAccessStatusForNCTId",
+                     "FDAAA801Violation",
+                     "FlowAchievementComment",
+                     "FlowAchievementGroupId",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "EventGroupOtherNumAtRisk": [],
+                            "EventGroupSeriousNumAffected": [],
+                            "EventGroupSeriousNumAtRisk": [],
+                            "EventGroupTitle": [],
+                            "EventsDescription": [],
+                            "EventsFrequencyThreshold": [],
+                            "EventsTimeFrame": [],
+                            "ExpAccTypeIndividual": [],
+                            "ExpAccTypeIntermediate": [],
+                            "ExpAccTypeTreatment": [],
+                            "ExpandedAccessNCTId": [],
+                            "ExpandedAccessStatusForNCTId": [],
+                            "FDAAA801Violation": [],
+                            "FlowAchievementComment": [],
+                            "FlowAchievementGroupId": [],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

@@ -1,0 +1,574 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "BriefSummary",
+                     "BriefTitle",
+                     "CentralContactEMail",
+                     "CentralContactName",
+                     "CentralContactPhone",
+                     "CentralContactPhoneExt",
+                     "CentralContactRole",
+                     "CollaboratorClass",
+                     "CollaboratorName",
+                     "CompletionDate",
+                     "CompletionDateType",
+                     "Condition",
+                     "ConditionAncestorId",
+                     "ConditionAncestorTerm",
+                     "ConditionBrowseBranchAbbrev",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "BriefSummary": [
+                                   "In the study titled Operational Ground Testing Protocol to Optimize Astronaut Sleep Medication Efficacy and Individual Effects (Phase 11), two randomized , blinded , placebo-controlled , cross-over trials will be conducted. The hypnotic medication and the placebo will be indistinguishable by subjects. Experiment 1 will involve N=14 subjects randomized to placebo , 10 mg Zolpidem (Ambien) and 10 mg Zaleplon (Sonata) in counterbalanced order and will be awakened 90 min. post-placebo administration (half at 60 min and half at 90 min). The latter will be done to maintain some degree of blinding relative to the participants knowledge of conditions and the staff working on the protocol. Zolpidem is the most commonly , and Zaleplon is the second most commonly , used sleep aid medication used in spaceflight. Females and those subjects who have had a previous adverse experience with 10 mg zolpidem will be placed into Experiment 2, which will involve N=20 subjects randomized to placebo , 5 mg zolpidem and 10 mg zaleplon. Data acquisition for both experiments will occur in the Astronaut Quarantine Facility (\"AQF\") at Johnson Space Center (JSC). Experimental methods and cognitive outcomes will be the same as those used in the pilot investigation titled Develop and Implement Operational Ground Testing Protocols to Individualize Astronaut Sleep Medication Efficacy and Individual Effects (Phase I). Combined , Experiment 1 and 2 will provide data on zaleplon 10 mg compared to placebo on a total of 34 subjects consisting of astronauts and other subjects considered analogous to the astronaut population (e.g., Flight Controllers, Flight Directors , Flight Surgeons, medical residents and medical students on National Aeronautics and Space Administration (NASA) rotation, and NASA/contractor employed University of Texas Medical Branch physician's) , which will provide the larger sample needed to identify those subjects who have cognitive performance deficits on abrupt awakening to the less sedating 10 mg zaleplon."
+                            ],
+                            "BriefTitle": [
+                                   "Optimize Astronaut Sleep Medication Efficacy and Individual Effects"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "July 15, 2015"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Sleep",
+                                   "Cognition",
+                                   "Pharmacologic Actions"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "BriefSummary": [
+                                   "The purpose of this study is to study the effects of carbon dioxide combined with head down tilt on cerebral physiology and anatomy. This paradigm will help establish a ground-based analog for spaceflight, and also evaluate the ability of non-invasive devices to monitor brain physiology."
+                            ],
+                            "BriefTitle": [
+                                   "Studying Physiological and Anatomical Cerebral Effects of Carbon Dioxide and Tilt"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "National Space Biomedical Research Institute",
+                                   "DLR German Aerospace Center",
+                                   "The University of Texas Health Science Center, Houston",
+                                   "University of Pennsylvania",
+                                   "Harvard University",
+                                   "University of Cologne"
+                            ],
+                            "CompletionDate": [
+                                   "July 2015"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Healthy"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "BriefSummary": [
+                                   "The purpose of this study is to evaluate the safety and feasibility of LOFT Therapy in breast cancer survivors. In a previous study, the investigators found that many patients are more debilitated at diagnosis than previously recognized. Both chemotherapy and anti-estrogen therapy have a large effect. Within 6 months patients replace muscle with fat leading to a significant reduction in muscle power and endurance. Our data suggests that common exercise recommendations for at least 150 minutes of exercise a week would be far beyond many of our patients' physical ability after therapy, leading to the soreness, injury, frustration, and early discontinuation (or failure to initiate an exercise program in the first place). The degree of muscle loss seen in our patients is similar to that documented in US astronauts after long-term space flight. Our collaborator Dr. Yvonne Cagle, retired USAF flight surgeon, noted that the cosmonauts were in better shape (had less muscle atrophy) than the astronauts. This difference was more than could be explained by the rigorous Russian exercise program. The only key distinction was the compressive, \"penguin suits\" used by the Russians. This observation lead Dr. Cagle to develop a technique called low intensity, off loaded-compressive therapy (LOFT) to replicate the impact of the Russian penguin suits for patients who were debilitated, whether by space flight or by chronic conditions such as arthritis, Parkinson's disease, and multiple sclerosis. The LOFT method does not require excessive exertion or strain on the joints. In field observations, LOFT therapy improved muscle strength, muscle mass, endurance, sleep quality, and fatigue. This pilot study is the first to evaluate the safety, feasibility, and biologic impact of LOFT on breast cancer survivors."
+                            ],
+                            "BriefTitle": [
+                                   "Impact of LOFT Therapy\u2122 on Breast Cancer Survivors"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "March 29, 2018"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Breast Neoplasms"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000009371",
+                                   "D000009369",
+                                   "D000001941",
+                                   "D000012871"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Neoplasms by Site",
+                                   "Neoplasms",
+                                   "Breast Diseases",
+                                   "Skin Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC04",
+                                   "BC17",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "BriefSummary": [
+                                   "This study investigates the effects of extended-duration spaceflight (12-month International Space Station missions) on general cognitive performance (measured with the Cognition test battery), spatial cognition, structural and functional brain changes in general, and hippocampal plasticity more specifically relative to the shorter 6-month and 2-month missions."
+                            ],
+                            "BriefTitle": [
+                                   "Effects of Long-Duration Spaceflight on General and Spatial Cognition and Its Neural Basis"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "FED",
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "National Aeronautics and Space Administration (NASA)",
+                                   "DLR German Aerospace Center",
+                                   "Charite University, Berlin, Germany"
+                            ],
+                            "CompletionDate": [
+                                   "December 31, 2033"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Brain Structure",
+                                   "Cognitive Performance"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "BriefSummary": [
+                                   "Bone loss is not only a well-documented effect of spaceflight on astronauts, but also a condition that affects millions of men and women on Earth each year. Many countermeasures to bone loss have been proposed, and many have been evaluated to some degree. To date, those showing potential have focused on either exercise or pharmacological interventions, but none have targeted dietary intake alone as a factor to predict or minimize bone loss during spaceflight. The investigators proposed to document how the ratio of acid precursors to base precursors in the diet is related to directional changes in markers of bone resorption and formation during flight and recovery from flight. There is a high likelihood for success in predicting the extent of bone loss from dietary intake patterns of astronauts during spaceflight, given that this concept is strongly anchored in data obtained from ground-based experiments in our laboratory and others. The notion of manipulating diet to minimize bone loss could also have significant social and economic impacts for NASA and for the general public - especially given the increasing trends for diets that are high in animal protein and low in fruits and vegetables. The results of the proposed experiments will lead to development of a dietary countermeasure for bone loss consisting of a balanced diet with no associated risks for side effects that might be present with pharmaceuticals or supplements, no requirement for payload mass, and no additional crew time necessary during flight."
+                            ],
+                            "BriefTitle": [
+                                   "Dietary Intake Modifications to Protect Against Changes in Bone Metabolism"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "November 2015"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Bone Resorption"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000001847",
+                                   "D000009140"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Bone Diseases",
+                                   "Musculoskeletal Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC05",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "BriefSummary": [
+                                   "Microgravity during space flight induces physiological changes that affect astronauts' health and performance. Space flight simulations such as prolonged bed rest can mimic some of these changes and provide study conditions that are more accessible than during space flight. The European Space Agency, ESA together with the French national space agency, CNES and the Japanese national space agency, NASDA are performing extensive studies using long duration bed rest.\n\nPrevious studies including several long and short term bed rest campaigns have yielded significant medical data on the physiological changes induced by space flight. These data can be used to study the effect of countermeasures, methods helping to prevent these physiological changes.\n\nThe long duration bed rest, lasting 3 months undertakes a variety of investigations involving 28 subjects. This study focuses on countermeasures, studying the effect of a bone tissue stabilisation medication and resistive exercises to determine their suitability for use during long duration stays on ISS.\n\nThe physiological changes recorded during space flight and bed rest mimic those observed in some diseases and in the aging process. Significant clinical applications are expected as a direct result of this experiment and future equivalent studies."
+                            ],
+                            "BriefTitle": [
+                                   "Toulouse Male Long Term Bed Rest 2001-2002"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "European Space Agency",
+                                   "National Space Development Agency, Japan"
+                            ],
+                            "CompletionDate": [
+                                   "June 2003"
+                            ],
+                            "CompletionDateType": [],
+                            "Condition": [
+                                   "Simulation of Weightlessness by Anti-Orthostatic Long Term Bed Rest"
+                            ],
+                            "ConditionAncestorId": [],
+                            "ConditionAncestorTerm": [],
+                            "ConditionBrowseBranchAbbrev": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "BriefSummary": [
+                                   "This study is being done to prevent changes in the vision of astronauts during prolonged residence on the International Space Station or a mission to Mars. This project will provide data about the efficacy of lower body negative pressure to mimic daily upright posture by intermittently lowering central venous pressure while in simulated microgravity (3 days of bed rest). The investigators expect that 3 days of bed rest will increase choroid thickness, and choroid area. The investigators hypothesize that nightly LBNP (-20mmHg) will prevent these changes."
+                            ],
+                            "BriefTitle": [
+                                   "Countermeasures for Visual Impairment in Astronauts"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "March 1, 2020"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Space Flight Associated Neuro-ocular Syndrome"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000012678",
+                                   "D000009461",
+                                   "D000009422",
+                                   "D000005128"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Sensation Disorders",
+                                   "Neurologic Manifestations",
+                                   "Nervous System Diseases",
+                                   "Eye Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All",
+                                   "BC10",
+                                   "BC11"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "BriefSummary": [
+                                   "Anemia is a lack of red blood cells (RBCs) in the circulation. Because RBCs carry the oxygen your body needs to function, anemia can affect one's ability to stay awake, alert, and perform physical activities. Anemia may happen for several reasons, including increased RBC destruction. Anemia often occurs in people who have been in bed for long periods (e.g., if they are very sick) or have decreased mobility (anemia of immobility). Interestingly, astronauts who have left Earth and traveled in space also return anemic. In fact, 5 decades of NASA data showed that astronauts' anemia was more severe the longer they were in space. In another study, astronauts aboard the International Space Station were shown to destroy 54% more of their RBCs in space. RBC destruction may be the culprit of space anemia as well as anemia of immobility on Earth. The ANEMIA Study proposes to measure key aspects of RBC destruction in astronauts in space. These measures will test critical hypotheses on the effects of spaceflight on red blood cells."
+                            ],
+                            "BriefTitle": [
+                                   "Causes and Mechanisms of Space Hemolysis at High Altitudes"
+                            ],
+                            "CentralContactEMail": [
+                                   "gtrudel@toh.ca",
+                                   "tamliu@toh.ca"
+                            ],
+                            "CentralContactName": [
+                                   "Guy Trudel",
+                                   "Tammy Liu"
+                            ],
+                            "CentralContactPhone": [
+                                   "(613) 737-8899"
+                            ],
+                            "CentralContactPhoneExt": [
+                                   "75591"
+                            ],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "November 30, 2023"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Anemia",
+                                   "Weightlessness"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000006402",
+                                   "D000010335"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Hematologic Diseases",
+                                   "Pathologic Processes"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC15",
+                                   "All",
+                                   "BC23"
+                            ],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "BriefSummary": [
+                                   "Generating critical levels of power is a prerequisite for performing simple daily activities, such as rising from a chair or climbing stairs. For a young healthy person these activities can be performed easily, however after a prolonged period of forced inactivity (such as during the recovery from a sports injury, prolonged bed rest or spaceflight) a loss of muscle mass occurs. It has been suggested that this loss may be triggered by oxidative stress. An enzyme involved in the production of free radicals in various experimental models, including immobilization, is xanthine oxidase (XO). Although allopurinol is an inhibitor of XO widely used in clinical practice, its effect on the maintenance of muscle mass after an immobilization protocol is unknown. Thus, the major aim of this clinical trial is to determine the effect of allopurinol administration on the prevention of muscle mass loss in immobilized subjects.\n\nThis is a prospective, randomized study in which fifty young male subjects (aged between 25 and 40 years) diagnosed with grade II ankle sprain will be recruited. After immobilization the patients will be assigned randomly to one of two experimental groups, one treated with allopurinol (n=25) and the other with placebo (n=25). The dosage of allopurinol will be the same as recommended for gout patients, i.e. 300 mg/day orally, during all the immobilization period, which will last fifteen days. This medication will be delivered to the patients when they agree to participate in the clinical trial. They will be immobilized by posterior knee splint, preventing use of that leg.\n\nWe will determine muscle mass loss by performing two magnetic resonances of both legs before and after the immobilization period. We will also take two blood samples (before and after immobilization) to measure oxidative stress parameters (malondialdehyde, protein carbonyls, and XO activity), inflammatory parameters (IL-6, C-reactive protein and 1-antichymotrypsin), as well as vitamin D levels."
+                            ],
+                            "BriefTitle": [
+                                   "Effect of Allopurinol Administration on the Prevention of Muscle Mass Loss in Subject Immobilized."
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "July 2016"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Patients With Grade II Ankle Sprain"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000007869",
+                                   "D000014947"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Leg Injuries",
+                                   "Wounds and Injuries"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All",
+                                   "BC26"
+                            ],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "BriefSummary": [
+                                   "In this project, the investigators propose to test effectiveness of a daily nutraceutical supplement containing bioactive B vitamins to mitigate optic disc edema in astronauts. The proposed countermeasure is intended to maximize functioning of the one-carbon metabolic pathway to provide enough substrate and cofactors to overcome any genetic differences that may impact the efficiency of enzyme function. By optimizing the pathway, this will 1) optimize endothelial function by increasing eNOS coupling and nitric oxide synthesis and 2) optimize collagen firmness and elasticity in the sclera and lamina cribrosa, and 3) minimize changes in total retinal thickness during and after flight.\n\nThe protocol includes assessments of ocular health and function, along with determinants of vascular endothelial function, advanced glycation end products, and nutritional status and one carbon biochemistry. These additional measures will be critical for the further definition of the causes of optic disc edema in some astronauts after long-duration space flight, and in understanding the effect of the countermeasure. Finally, the supplemented subjects in this study will be compared against total retinal thickness data from previously flown astronauts known to have not taken supplements during their missions."
+                            ],
+                            "BriefTitle": [
+                                   "B-Complex: A Nutraceutical SANS Countermeasure"
+                            ],
+                            "CentralContactEMail": [
+                                   "sara.zwart-1@nasa.gov",
+                                   "eden.e.fields@nasa.gov"
+                            ],
+                            "CentralContactName": [
+                                   "Sara Zwart, PhD",
+                                   "Eden Fields"
+                            ],
+                            "CentralContactPhone": [
+                                   "2814833753",
+                                   "2814837864"
+                            ],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [
+                                   "Contact",
+                                   "Contact"
+                            ],
+                            "CollaboratorClass": [
+                                   "OTHER",
+                                   "OTHER"
+                            ],
+                            "CollaboratorName": [
+                                   "Mayo Clinic",
+                                   "Texas A&M University"
+                            ],
+                            "CompletionDate": [
+                                   "September 30, 2028"
+                            ],
+                            "CompletionDateType": [
+                                   "Anticipated"
+                            ],
+                            "Condition": [
+                                   "Optic Disc Edema",
+                                   "Endothelial Dysfunction"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000009901",
+                                   "D000003389",
+                                   "D000009422",
+                                   "D000005128"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Optic Nerve Diseases",
+                                   "Cranial Nerve Diseases",
+                                   "Nervous System Diseases",
+                                   "Eye Diseases"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC23",
+                                   "All",
+                                   "BC10",
+                                   "BC11",
+                                   "Rare"
+                            ],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "BriefSummary": [
+                                   "The purpose of this study is to see if a combination of resistance exercises and amino acid capsules can reduce muscle loss and maintain muscle function during bedrest. This experiment will imitate many of the physical conditions experienced by astronauts during space flight by examining the effects of resistance exercise or nutrition on muscle during 2 days of bedrest. The diet of astronauts will also be imitated by providing diets in the General Clinic Research Center."
+                            ],
+                            "BriefTitle": [
+                                   "Combined Effects of Nutritional and Exercise Countermeasures"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "June 2009"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Muscular Atrophy",
+                                   "Muscle Weakness"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000001284",
+                                   "D000020763",
+                                   "D000020879",
+                                   "D000009461",
+                                   "D000009422",
+                                   "D000009135",
+                                   "D000009140",
+                                   "D000010335"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Atrophy",
+                                   "Pathological Conditions, Anatomical",
+                                   "Neuromuscular Manifestations",
+                                   "Neurologic Manifestations",
+                                   "Nervous System Diseases",
+                                   "Muscular Diseases",
+                                   "Musculoskeletal Diseases",
+                                   "Pathologic Processes"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BC10",
+                                   "BC23",
+                                   "All",
+                                   "BC05"
+                            ],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "BriefSummary": [
+                                   "The aim of this study is to test the feasibility, acceptability and efficacy of methods for delivering mental health support when real-time communication is not possible (e.g. on long duration space flights where communication lags of up to 45 minutes are anticipated). The investigators hypothesize that the two enhanced treatment conditions (i.e., those with therapist support) will outperform the online self-management program without support. The investigators also predict that outcomes for the two enhanced conditions will be comparable to those reported in the literature for in-person psychotherapy programs."
+                            ],
+                            "BriefTitle": [
+                                   "Asynchronous Techniques for the Delivery of Empirically Supported Psychotherapies"
+                            ],
+                            "CentralContactEMail": [],
+                            "CentralContactName": [],
+                            "CentralContactPhone": [],
+                            "CentralContactPhoneExt": [],
+                            "CentralContactRole": [],
+                            "CollaboratorClass": [],
+                            "CollaboratorName": [],
+                            "CompletionDate": [
+                                   "December 17, 2018"
+                            ],
+                            "CompletionDateType": [
+                                   "Actual"
+                            ],
+                            "Condition": [
+                                   "Depressive Symptoms",
+                                   "Anxiety",
+                                   "Stress",
+                                   "Impairment"
+                            ],
+                            "ConditionAncestorId": [
+                                   "D000001526"
+                            ],
+                            "ConditionAncestorTerm": [
+                                   "Behavioral Symptoms"
+                            ],
+                            "ConditionBrowseBranchAbbrev": [
+                                   "BXM",
+                                   "All"
+                            ],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

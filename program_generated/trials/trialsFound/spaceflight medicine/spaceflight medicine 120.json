@@ -1,0 +1,284 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "FlowAchievementNumSubjects",
+                     "FlowAchievementNumUnits",
+                     "FlowDropWithdrawComment",
+                     "FlowDropWithdrawType",
+                     "FlowGroupDescription",
+                     "FlowGroupId",
+                     "FlowGroupTitle",
+                     "FlowMilestoneComment",
+                     "FlowMilestoneType",
+                     "FlowPeriodTitle",
+                     "FlowPreAssignmentDetails",
+                     "FlowReasonComment",
+                     "FlowReasonGroupId",
+                     "FlowReasonNumSubjects",
+                     "FlowReasonNumUnits",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "FlowAchievementNumSubjects": [],
+                            "FlowAchievementNumUnits": [],
+                            "FlowDropWithdrawComment": [],
+                            "FlowDropWithdrawType": [],
+                            "FlowGroupDescription": [],
+                            "FlowGroupId": [],
+                            "FlowGroupTitle": [],
+                            "FlowMilestoneComment": [],
+                            "FlowMilestoneType": [],
+                            "FlowPeriodTitle": [],
+                            "FlowPreAssignmentDetails": [],
+                            "FlowReasonComment": [],
+                            "FlowReasonGroupId": [],
+                            "FlowReasonNumSubjects": [],
+                            "FlowReasonNumUnits": [],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

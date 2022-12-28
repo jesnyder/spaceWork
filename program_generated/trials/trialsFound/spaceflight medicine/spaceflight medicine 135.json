@@ -1,0 +1,422 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "FlowRecruitmentDetails",
+                     "FlowTypeUnitsAnalyzed",
+                     "Gender",
+                     "GenderBased",
+                     "GenderDescription",
+                     "HasExpandedAccess",
+                     "HealthyVolunteers",
+                     "IPDSharing",
+                     "IPDSharingAccessCriteria",
+                     "IPDSharingDescription",
+                     "IPDSharingInfoType",
+                     "IPDSharingTimeFrame",
+                     "IPDSharingURL",
+                     "InterventionAncestorId",
+                     "InterventionAncestorTerm",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [
+                                   "D000068776",
+                                   "D000006993",
+                                   "D000002492",
+                                   "D000045505",
+                                   "D000058785",
+                                   "D000018755",
+                                   "D000018682",
+                                   "D000018377",
+                                   "D000045504",
+                                   "D000000927",
+                                   "D000018757"
+                            ],
+                            "InterventionAncestorTerm": [
+                                   "Sleep Aids, Pharmaceutical",
+                                   "Hypnotics and Sedatives",
+                                   "Central Nervous System Depressants",
+                                   "Physiological Effects of Drugs",
+                                   "GABA-A Receptor Agonists",
+                                   "GABA Agonists",
+                                   "GABA Agents",
+                                   "Neurotransmitter Agents",
+                                   "Molecular Mechanisms of Pharmacological Action",
+                                   "Anticonvulsants",
+                                   "GABA Modulators"
+                            ],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "No"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [
+                                   "There will only be data sharing within our research group (CIPHER)."
+                            ],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "No"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [],
+                            "IPDSharing": [
+                                   "Yes"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [
+                                   "There may be multiauthor publication involving multiple PI on the same astronauts for this mission. Each PI contributing to the manuscript their individual data."
+                            ],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "Male"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "No"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [
+                                   "D000000963",
+                                   "D000045504",
+                                   "D000004791",
+                                   "D000006074",
+                                   "D000018501",
+                                   "D000016166",
+                                   "D000000975",
+                                   "D000020011",
+                                   "D000045505"
+                            ],
+                            "InterventionAncestorTerm": [
+                                   "Antimetabolites",
+                                   "Molecular Mechanisms of Pharmacological Action",
+                                   "Enzyme Inhibitors",
+                                   "Gout Suppressants",
+                                   "Antirheumatic Agents",
+                                   "Free Radical Scavengers",
+                                   "Antioxidants",
+                                   "Protective Agents",
+                                   "Physiological Effects of Drugs"
+                            ],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [
+                                   "No"
+                            ],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [
+                                   "D000014815",
+                                   "D000018977",
+                                   "D000045505",
+                                   "D000006397"
+                            ],
+                            "InterventionAncestorTerm": [
+                                   "Vitamins",
+                                   "Micronutrients",
+                                   "Physiological Effects of Drugs",
+                                   "Hematinics"
+                            ],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "FlowRecruitmentDetails": [],
+                            "FlowTypeUnitsAnalyzed": [],
+                            "Gender": [
+                                   "All"
+                            ],
+                            "GenderBased": [],
+                            "GenderDescription": [],
+                            "HasExpandedAccess": [
+                                   "No"
+                            ],
+                            "HealthyVolunteers": [
+                                   "Accepts Healthy Volunteers"
+                            ],
+                            "IPDSharing": [],
+                            "IPDSharingAccessCriteria": [],
+                            "IPDSharingDescription": [],
+                            "IPDSharingInfoType": [],
+                            "IPDSharingTimeFrame": [],
+                            "IPDSharingURL": [],
+                            "InterventionAncestorId": [],
+                            "InterventionAncestorTerm": [],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

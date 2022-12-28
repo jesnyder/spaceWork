@@ -1,0 +1,532 @@
+{
+       "Rank": 12,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Self-guided e-health treatment",
+              "Self-guided e-health treatment with delayed (44min) text support from a therapist.",
+              "Self-guided e-health treatment with delayed (44min) video support from a therapist."
+       ],
+       "ArmGroupInterventionName": [
+              "Behavioral: e-Health Treatment",
+              "Behavioral: e-Health Treatment",
+              "Behavioral: e-Health Treatment"
+       ],
+       "ArmGroupLabel": [
+              "myCompass Only",
+              "myCompass + Delayed Text Therapy Support",
+              "myCompass + Delayed Video Therapy Support"
+       ],
+       "ArmGroupType": [
+              "Experimental",
+              "Experimental",
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT05122429"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "The aim of this study is to test the feasibility, acceptability and efficacy of methods for delivering mental health support when real-time communication is not possible (e.g. on long duration space flights where communication lags of up to 45 minutes are anticipated). The investigators hypothesize that the two enhanced treatment conditions (i.e., those with therapist support) will outperform the online self-management program without support. The investigators also predict that outcomes for the two enhanced conditions will be comparable to those reported in the literature for in-person psychotherapy programs."
+       ],
+       "BriefTitle": [
+              "Asynchronous Techniques for the Delivery of Empirically Supported Psychotherapies"
+       ],
+       "CentralContactEMail": [],
+       "CentralContactName": [],
+       "CentralContactPhone": [],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [],
+       "CollaboratorClass": [],
+       "CollaboratorName": [],
+       "CompletionDate": [
+              "December 17, 2018"
+       ],
+       "CompletionDateType": [
+              "Actual"
+       ],
+       "Condition": [
+              "Depressive Symptoms",
+              "Anxiety",
+              "Stress",
+              "Impairment"
+       ],
+       "ConditionAncestorId": [
+              "D000001526"
+       ],
+       "ConditionAncestorTerm": [
+              "Behavioral Symptoms"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BXM",
+              "All"
+       ],
+       "ConditionBrowseBranchName": [
+              "Behaviors and Mental Disorders",
+              "All Conditions"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Depressive Symptoms"
+       ],
+       "ConditionBrowseLeafId": [
+              "M3476",
+              "M6213",
+              "M6210",
+              "M3970"
+       ],
+       "ConditionBrowseLeafName": [
+              "Anxiety Disorders",
+              "Depressive Disorder",
+              "Depression",
+              "Behavioral Symptoms"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "low",
+              "high",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000003863"
+       ],
+       "ConditionMeshTerm": [
+              "Depression"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "Randomized"
+       ],
+       "DesignInterventionModel": [
+              "Parallel Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "Double"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Treatment"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [
+              "Participant",
+              "Investigator"
+       ],
+       "DetailedDescription": [
+              "The aim of this study is to test the feasibility, acceptability and efficacy of methods for delivering mental health support when real-time communication is not possible (e.g. on long duration space flights where communication lags of up to 45 minutes are anticipated). Participants will be healthy, high functioning adults (e.g., medical residents, postdoctoral fellows in the sciences, math, and engineering) who report elevated psychological distress, mood or anxiety symptoms. Participants will complete a self-guided online therapy program (MyCompass) and will be randomized to receive one of the following: (1) online therapy without therapist support, 2) online therapy plus therapist support via electronic text-based messaging (i.e., secure email), or 3) online therapy plus therapist support via video messaging. Outcomes will be evaluated weekly via online self-report measures of psychological distress, mood, anxiety, number of hours and quality of sleep, fatigue, and resiliency indicators (i.e., coping and mindfulness). The investigators will examine changes over time in outcomes across all three groups. The investigators hypothesize that the two enhanced treatment conditions (i.e., those with therapist support) will outperform the online self-management program without support. The investigators also predict that outcomes for the two enhanced conditions will be comparable to those reported in the literature for in-person psychotherapy programs."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\n18+years old;\nMasters of Art degree or higher in social/biomedical(medicine)/physical science, engineering or mathematics\ncurrent elevated distress as measured by the Depression Anxiety and Stress Scale, 21 item version(\u2265 5 on DASS Depression Subscale OR \u2265 4 on DASS Anxiety Subscale OR \u2265 8 on DASS Stress Subscale) (DASS, Lovibond & Lovibond, 1995); and, (5) \u2265 5 on any subscale of the Sheehan Disability Scale (SDS, Sheehan 1983).\n\nExclusion Criteria:\n\nAny current or recent (i.e. past month) suicide ideation\nany history of suicide attempt (within past 5 years)\nserious mental illness (i.e., psychosis, mania)\nalcohol or substance dependency during the past 6 months\nserious medical problems (e.g., seizures, cancer)\ncurrent participation in psychotherapy\nnew use of psychoactive medications (i.e., benzodiazepines for less than 1 month or selective serotonin reuptake inhibitors [SSRIs], tricyclics, or serotonin-norepinephrine reuptake inhibitors [SNRIs] for less than 3 months)."
+       ],
+       "EnrollmentCount": [
+              "145"
+       ],
+       "EnrollmentType": [
+              "Actual"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [],
+       "InterventionAncestorTerm": [],
+       "InterventionArmGroupLabel": [
+              "myCompass + Delayed Text Therapy Support",
+              "myCompass + Delayed Video Therapy Support",
+              "myCompass Only"
+       ],
+       "InterventionBrowseBranchAbbrev": [],
+       "InterventionBrowseBranchName": [],
+       "InterventionBrowseLeafAsFound": [],
+       "InterventionBrowseLeafId": [],
+       "InterventionBrowseLeafName": [],
+       "InterventionBrowseLeafRelevance": [],
+       "InterventionDescription": [
+              "Self-guided e-health treatment with two of the arms providing delayed (44min) text or video support from a therapist."
+       ],
+       "InterventionMeshId": [],
+       "InterventionMeshTerm": [],
+       "InterventionName": [
+              "e-Health Treatment"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Behavioral"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "No"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "November 16, 2021"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "November 4, 2021"
+       ],
+       "LeadSponsorClass": [
+              "OTHER"
+       ],
+       "LeadSponsorName": [
+              "Stony Brook University"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Stony Brook"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [],
+       "LocationCountry": [
+              "United States"
+       ],
+       "LocationFacility": [
+              "Mind-Body Clinical Research Center"
+       ],
+       "LocationState": [
+              "New York"
+       ],
+       "LocationStatus": [],
+       "LocationZip": [
+              "11790"
+       ],
+       "MaximumAge": [],
+       "MinimumAge": [
+              "18 Years"
+       ],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "Asynchronous Techniques for the Delivery of Empirically Supported Psychotherapies"
+       ],
+       "OrgClass": [
+              "OTHER"
+       ],
+       "OrgFullName": [
+              "Stony Brook University"
+       ],
+       "OrgStudyId": [
+              "NNX15AN64G"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "Stony Brook University"
+       ],
+       "OverallOfficialName": [
+              "Adam Gonzalez, PHD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Completed"
+       ],
+       "OversightHasDMC": [],
+       "PatientRegistry": [],
+       "Phase": [
+              "Not Applicable"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "December 17, 2018"
+       ],
+       "PrimaryCompletionDateType": [
+              "Actual"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Sheehan Disability Scale is a 3 item measure to assess functional impairment in work/school, social life, and family life.",
+              "Depression Anxiety and Stress Scale is a 21-item measure to assess the severity of Depression, Stress, and Anxiety."
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Functional impairment in work/school, social life, and family life change",
+              "Symptoms of Depression, Stress, and Anxiety Change"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "Change from baseline at 6-weeks assessments, 1-weeks post treatment, and 1-month post treatment",
+              "Change from baseline at 6-weeks assessments, 1-week post treatment, and 1-month post treatment"
+       ],
+       "ReferenceCitation": [
+              "Luo X, Bugatti M, Molina L, Tilley JL, Mahaffey B, Gonzalez A. Conceptual Invariance, Trajectories, and Outcome Associations of Working Alliance in Unguided and Guided Internet-Based Psychological Interventions: Secondary Analysis of a Randomized Controlled Trial. JMIR Ment Health. 2022 Jun 21;9(6):e35496. doi: 10.2196/35496."
+       ],
+       "ReferencePMID": [
+              "35727626"
+       ],
+       "ReferenceType": [
+              "derived"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "Stony Brook University"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Adam Gonzalez"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Associate Professor"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "The Pittsburgh Sleep Quality Index (PSQI) is a 19-item questionnaire that assesses seven components of sleep quality (subjective sleep quality, sleep latency, duration, efficiency, disturbances, use of sleep medication, and daytime dysfunction). Each component is rated on a 0-3 severity scale referring to the frequency of each disturbance, and yields a global score with a range of 0-21.",
+              "The Fatigue Severity Scale (FSS) measures fatigue and its effects on functioning. The FSS is comprised of nine items rated on a Likert-type rating scale (1-7), where one indicates no impairment and seven indicates severe impairment.",
+              "The ARMS-12 measures confidence, comfortability, and perceptions towards the program. The ARMS-12 is comprised of 12 items rated on a Likert-type rating scale (1-7), where one indicates the how strongly the agree or disagree with the statement."
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Sleep Quality Change",
+              "Fatigue Severity Change",
+              "Treatment Satisfaction"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "Change from baseline at 1-week post treatment and 1-month post treatment",
+              "Change from baseline at 1-week post treatment and 1-month post treatment",
+              "1-week post treatment"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "November 6, 2017"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "November 2021"
+       ],
+       "StdAge": [
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "November 16, 2021"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "October 18, 2021"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "November 4, 2021"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 28, 2022"
+       ],
+       "WhyStopped": []
+}

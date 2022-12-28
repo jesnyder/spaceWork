@@ -1,0 +1,395 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "MaximumAge",
+                     "MinimumAge",
+                     "NCTId",
+                     "NCTIdAlias",
+                     "OfficialTitle",
+                     "OrgClass",
+                     "OrgFullName",
+                     "OrgStudyId",
+                     "OrgStudyIdDomain",
+                     "OrgStudyIdLink",
+                     "OrgStudyIdType",
+                     "OtherEventAssessmentType",
+                     "OtherEventNotes",
+                     "OtherEventOrganSystem",
+                     "OtherEventSourceVocabulary"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "MaximumAge": [],
+                            "MinimumAge": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Operational Ground Testing Protocol to Optimize Astronaut Sleep Medication Efficacy and Individual Effects"
+                            ],
+                            "OrgClass": [
+                                   "FED"
+                            ],
+                            "OrgFullName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "OrgStudyId": [
+                                   "0925-0586"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 2,
+                            "MaximumAge": [
+                                   "55 Years"
+                            ],
+                            "MinimumAge": [
+                                   "30 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Studying Physiological and Anatomical Cerebral Effects of Carbon Dioxide and Tilt"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Baylor College of Medicine"
+                            ],
+                            "OrgStudyId": [
+                                   "H-36485"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 3,
+                            "MaximumAge": [],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Impact of LOFT Therapy\u2122 on Breast Cancer Survivors: A Pilot Study"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Indiana University"
+                            ],
+                            "OrgStudyId": [
+                                   "IUSCC-0539"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 4,
+                            "MaximumAge": [],
+                            "MinimumAge": [],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Temporal Nature of Cognitive and Visuospatial Brain Domain Changes During Long-Duration Low-Earth Orbit Missions (Spatial Cognition)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Pennsylvania"
+                            ],
+                            "OrgStudyId": [
+                                   "843851"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 5,
+                            "MaximumAge": [],
+                            "MinimumAge": [],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Dietary Intake Can Predict and Protect Against Changes in Bone Metabolism During Spaceflight and Recovery"
+                            ],
+                            "OrgClass": [
+                                   "FED"
+                            ],
+                            "OrgFullName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "OrgStudyId": [
+                                   "Pro0225"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 6,
+                            "MaximumAge": [
+                                   "45 Years"
+                            ],
+                            "MinimumAge": [
+                                   "25 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Simulation of a Mission Aboard the International Space Station by a Long Duration Anti-Orthostatic Bed Confinement at - 6\u00b0 (90 Days) on Healthy Subjects:1/Perfecting of Preventive Methods (Muscular Exercise and Biphosphonates) and Evaluation of the Effects on the Locomotion and Cardiovascular Systems and on the Lipid and Energy Metabolisms. 2/Pharmacokinetic Assessment: Effects of Position on the Absorption Mechanisms: Pharmacokinetics of Paracetamol Used as Model to Study Oral Absorption in Simulated Weightlessness"
+                            ],
+                            "OrgClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "OrgFullName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "OrgStudyId": [
+                                   "MEDES/00-433"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 7,
+                            "MaximumAge": [
+                                   "55 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Safe and Effective Countermeasures to Reduce Intracranial Pressure and Ameliorate Visual Impairment in Astronauts (STOP VIIP)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Texas Southwestern Medical Center"
+                            ],
+                            "OrgStudyId": [
+                                   "STU 102015-057"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 8,
+                            "MaximumAge": [
+                                   "55 Years"
+                            ],
+                            "MinimumAge": [
+                                   "24 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Causes and Mechanisms of Space Hemolysis at High Altitudes (ANEMIA)"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Ottawa Hospital Research Institute"
+                            ],
+                            "OrgStudyId": [
+                                   "0220470-01H"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 9,
+                            "MaximumAge": [
+                                   "40 Years"
+                            ],
+                            "MinimumAge": [
+                                   "20 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Effect of Allopurinol Administration on the Prevention of Muscle Mass Loss in Subject Immobilized."
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Instituto de Investigacion Sanitaria La Fe"
+                            ],
+                            "OrgStudyId": [
+                                   "ALMU_2011"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 10,
+                            "MaximumAge": [],
+                            "MinimumAge": [],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "B-Complex: A Nutraceutical SANS Countermeasure"
+                            ],
+                            "OrgClass": [
+                                   "FED"
+                            ],
+                            "OrgFullName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "OrgStudyId": [
+                                   "NASA IRB STUDY00000448"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 11,
+                            "MaximumAge": [
+                                   "50 Years"
+                            ],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Combined Effects of Nutritional and Exercise Countermeasures"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "University of Arkansas"
+                            ],
+                            "OrgStudyId": [
+                                   "72779"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     },
+                     {
+                            "Rank": 12,
+                            "MaximumAge": [],
+                            "MinimumAge": [
+                                   "18 Years"
+                            ],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ],
+                            "NCTIdAlias": [],
+                            "OfficialTitle": [
+                                   "Asynchronous Techniques for the Delivery of Empirically Supported Psychotherapies"
+                            ],
+                            "OrgClass": [
+                                   "OTHER"
+                            ],
+                            "OrgFullName": [
+                                   "Stony Brook University"
+                            ],
+                            "OrgStudyId": [
+                                   "NNX15AN64G"
+                            ],
+                            "OrgStudyIdDomain": [],
+                            "OrgStudyIdLink": [],
+                            "OrgStudyIdType": [],
+                            "OtherEventAssessmentType": [],
+                            "OtherEventNotes": [],
+                            "OtherEventOrganSystem": [],
+                            "OtherEventSourceVocabulary": []
+                     }
+              ]
+       }
+}

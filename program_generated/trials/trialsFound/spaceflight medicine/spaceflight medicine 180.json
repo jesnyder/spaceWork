@@ -1,0 +1,488 @@
+{
+       "StudyFieldsResponse": {
+              "APIVrs": "1.01.05",
+              "DataVrs": "2022:12:27 23:33:24.623",
+              "Expression": "spaceflight medicine",
+              "NStudiesAvail": 437410,
+              "NStudiesFound": 12,
+              "MinRank": 1,
+              "MaxRank": 1000,
+              "NStudiesReturned": 12,
+              "FieldList": [
+                     "LastUpdateSubmitDate",
+                     "LeadSponsorClass",
+                     "LeadSponsorName",
+                     "LimitationsAndCaveatsDescription",
+                     "LocationCity",
+                     "LocationContactEMail",
+                     "LocationContactName",
+                     "LocationContactPhone",
+                     "LocationContactPhoneExt",
+                     "LocationContactRole",
+                     "LocationCountry",
+                     "LocationFacility",
+                     "LocationState",
+                     "LocationStatus",
+                     "LocationZip",
+                     "NCTId"
+              ],
+              "StudyFields": [
+                     {
+                            "Rank": 1,
+                            "LastUpdateSubmitDate": [
+                                   "May 3, 2018"
+                            ],
+                            "LeadSponsorClass": [
+                                   "FED"
+                            ],
+                            "LeadSponsorName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [],
+                            "LocationFacility": [],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT03526575"
+                            ]
+                     },
+                     {
+                            "Rank": 2,
+                            "LastUpdateSubmitDate": [
+                                   "January 12, 2016"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Baylor College of Medicine"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [],
+                            "LocationFacility": [],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [],
+                            "NCTId": [
+                                   "NCT02493985"
+                            ]
+                     },
+                     {
+                            "Rank": 3,
+                            "LastUpdateSubmitDate": [
+                                   "August 9, 2018"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Kathy Miller"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Indianapolis",
+                                   "Indianapolis"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States",
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "Indiana University Health Hospital",
+                                   "Indiana University Melvin and Bren Simon Cancer Center"
+                            ],
+                            "LocationState": [
+                                   "Indiana",
+                                   "Indiana"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "46202",
+                                   "46202"
+                            ],
+                            "NCTId": [
+                                   "NCT02491957"
+                            ]
+                     },
+                     {
+                            "Rank": 4,
+                            "LastUpdateSubmitDate": [
+                                   "September 30, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Pennsylvania"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Philadelphia",
+                                   "Houston",
+                                   "Berlin"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States",
+                                   "United States",
+                                   "Germany"
+                            ],
+                            "LocationFacility": [
+                                   "University of Pennsylvania Perelman School of Medicine",
+                                   "Johnson Space Center (JSC)",
+                                   "Charit\u00e9 - Universit\u00e4tsmedizin Berlin"
+                            ],
+                            "LocationState": [
+                                   "Pennsylvania",
+                                   "Texas"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "19104",
+                                   "77058",
+                                   "10117"
+                            ],
+                            "NCTId": [
+                                   "NCT04856410"
+                            ]
+                     },
+                     {
+                            "Rank": 5,
+                            "LastUpdateSubmitDate": [
+                                   "November 13, 2015"
+                            ],
+                            "LeadSponsorClass": [
+                                   "FED"
+                            ],
+                            "LeadSponsorName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Houston"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "Johnson Space Center"
+                            ],
+                            "LocationState": [
+                                   "Texas"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "77058"
+                            ],
+                            "NCTId": [
+                                   "NCT01713634"
+                            ]
+                     },
+                     {
+                            "Rank": 6,
+                            "LastUpdateSubmitDate": [
+                                   "September 1, 2006"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER_GOV"
+                            ],
+                            "LeadSponsorName": [
+                                   "Centre National d'Etudes Spatiales"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Toulouse"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "France"
+                            ],
+                            "LocationFacility": [
+                                   "Medes-Imps"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "31405"
+                            ],
+                            "NCTId": [
+                                   "NCT00311571"
+                            ]
+                     },
+                     {
+                            "Rank": 7,
+                            "LastUpdateSubmitDate": [
+                                   "August 31, 2021"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Texas Southwestern Medical Center"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Dallas"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "UT Southwestern Medical Center"
+                            ],
+                            "LocationState": [
+                                   "Texas"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "75390"
+                            ],
+                            "NCTId": [
+                                   "NCT05016414"
+                            ]
+                     },
+                     {
+                            "Rank": 8,
+                            "LastUpdateSubmitDate": [
+                                   "August 10, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Ottawa Hospital Research Institute"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Ottawa"
+                            ],
+                            "LocationContactEMail": [
+                                   "gtrudel@toh.ca"
+                            ],
+                            "LocationContactName": [
+                                   "Guy Trudel"
+                            ],
+                            "LocationContactPhone": [
+                                   "(613) 737-8899"
+                            ],
+                            "LocationContactPhoneExt": [
+                                   "75591"
+                            ],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "Canada"
+                            ],
+                            "LocationFacility": [
+                                   "Ottawa Hospital Research Institute"
+                            ],
+                            "LocationState": [
+                                   "Ontario"
+                            ],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "K1Y 4E9"
+                            ],
+                            "NCTId": [
+                                   "NCT05496309"
+                            ]
+                     },
+                     {
+                            "Rank": 9,
+                            "LastUpdateSubmitDate": [
+                                   "September 7, 2016"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Instituto de Investigacion Sanitaria La Fe"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Valencia",
+                                   "Valencia"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "Spain",
+                                   "Spain"
+                            ],
+                            "LocationFacility": [
+                                   "University of Valencia",
+                                   "Hospital Universitari i Polit\u00e8cnic La Fe"
+                            ],
+                            "LocationState": [],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "46010",
+                                   "46026"
+                            ],
+                            "NCTId": [
+                                   "NCT01987570"
+                            ]
+                     },
+                     {
+                            "Rank": 10,
+                            "LastUpdateSubmitDate": [
+                                   "September 26, 2022"
+                            ],
+                            "LeadSponsorClass": [
+                                   "FED"
+                            ],
+                            "LeadSponsorName": [
+                                   "National Aeronautics and Space Administration (NASA)"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Houston"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [
+                                   "Eden Fields"
+                            ],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [
+                                   "Contact"
+                            ],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "Johnson Space Center"
+                            ],
+                            "LocationState": [
+                                   "Texas"
+                            ],
+                            "LocationStatus": [
+                                   "Recruiting"
+                            ],
+                            "LocationZip": [
+                                   "77058"
+                            ],
+                            "NCTId": [
+                                   "NCT05366933"
+                            ]
+                     },
+                     {
+                            "Rank": 11,
+                            "LastUpdateSubmitDate": [
+                                   "June 17, 2009"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "University of Arkansas"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Little Rock"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "University of Arkansas for Medical Sciences"
+                            ],
+                            "LocationState": [
+                                   "Arkansas"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "72205"
+                            ],
+                            "NCTId": [
+                                   "NCT00447044"
+                            ]
+                     },
+                     {
+                            "Rank": 12,
+                            "LastUpdateSubmitDate": [
+                                   "November 4, 2021"
+                            ],
+                            "LeadSponsorClass": [
+                                   "OTHER"
+                            ],
+                            "LeadSponsorName": [
+                                   "Stony Brook University"
+                            ],
+                            "LimitationsAndCaveatsDescription": [],
+                            "LocationCity": [
+                                   "Stony Brook"
+                            ],
+                            "LocationContactEMail": [],
+                            "LocationContactName": [],
+                            "LocationContactPhone": [],
+                            "LocationContactPhoneExt": [],
+                            "LocationContactRole": [],
+                            "LocationCountry": [
+                                   "United States"
+                            ],
+                            "LocationFacility": [
+                                   "Mind-Body Clinical Research Center"
+                            ],
+                            "LocationState": [
+                                   "New York"
+                            ],
+                            "LocationStatus": [],
+                            "LocationZip": [
+                                   "11790"
+                            ],
+                            "NCTId": [
+                                   "NCT05122429"
+                            ]
+                     }
+              ]
+       }
+}

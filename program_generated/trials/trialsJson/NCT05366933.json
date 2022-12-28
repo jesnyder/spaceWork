@@ -1,0 +1,769 @@
+{
+       "Rank": 10,
+       "Acronym": [],
+       "AgreementOtherDetails": [],
+       "AgreementPISponsorEmployee": [],
+       "AgreementRestrictionType": [],
+       "AgreementRestrictiveAgreement": [],
+       "ArmGroupDescription": [
+              "Subjects will take a vitamin B-complex supplement before, during, and after a 6-12 month spaceflight on the International Space Station"
+       ],
+       "ArmGroupInterventionName": [
+              "Drug: Vitamin B-Complex Supplement"
+       ],
+       "ArmGroupLabel": [
+              "Supplemented with B-Complex"
+       ],
+       "ArmGroupType": [
+              "Experimental"
+       ],
+       "AvailIPDComment": [],
+       "AvailIPDId": [],
+       "AvailIPDType": [],
+       "AvailIPDURL": [],
+       "BaselineCategoryTitle": [],
+       "BaselineClassDenomCountGroupId": [],
+       "NCTId": [
+              "NCT05366933"
+       ],
+       "BaselineClassDenomCountValue": [],
+       "BaselineClassDenomUnits": [],
+       "BaselineClassTitle": [],
+       "BaselineDenomCountGroupId": [],
+       "BaselineDenomCountValue": [],
+       "BaselineDenomUnits": [],
+       "BaselineGroupDescription": [],
+       "BaselineGroupId": [],
+       "BaselineGroupTitle": [],
+       "BaselineMeasureCalculatePct": [],
+       "BaselineMeasureDenomCountGroupId": [],
+       "BaselineMeasureDenomCountValue": [],
+       "BaselineMeasureDenomUnits": [],
+       "BaselineMeasureDenomUnitsSelected": [],
+       "BaselineMeasureDescription": [],
+       "BaselineMeasureDispersionType": [],
+       "BaselineMeasureParamType": [],
+       "BaselineMeasurePopulationDescription": [],
+       "BaselineMeasureTitle": [],
+       "BaselineMeasureUnitOfMeasure": [],
+       "BaselineMeasurementComment": [],
+       "BaselineMeasurementGroupId": [],
+       "BaselineMeasurementLowerLimit": [],
+       "BaselineMeasurementSpread": [],
+       "BaselineMeasurementUpperLimit": [],
+       "BaselineMeasurementValue": [],
+       "BaselinePopulationDescription": [],
+       "BaselineTypeUnitsAnalyzed": [],
+       "BioSpecDescription": [],
+       "BioSpecRetention": [],
+       "BriefSummary": [
+              "In this project, the investigators propose to test effectiveness of a daily nutraceutical supplement containing bioactive B vitamins to mitigate optic disc edema in astronauts. The proposed countermeasure is intended to maximize functioning of the one-carbon metabolic pathway to provide enough substrate and cofactors to overcome any genetic differences that may impact the efficiency of enzyme function. By optimizing the pathway, this will 1) optimize endothelial function by increasing eNOS coupling and nitric oxide synthesis and 2) optimize collagen firmness and elasticity in the sclera and lamina cribrosa, and 3) minimize changes in total retinal thickness during and after flight.\n\nThe protocol includes assessments of ocular health and function, along with determinants of vascular endothelial function, advanced glycation end products, and nutritional status and one carbon biochemistry. These additional measures will be critical for the further definition of the causes of optic disc edema in some astronauts after long-duration space flight, and in understanding the effect of the countermeasure. Finally, the supplemented subjects in this study will be compared against total retinal thickness data from previously flown astronauts known to have not taken supplements during their missions."
+       ],
+       "BriefTitle": [
+              "B-Complex: A Nutraceutical SANS Countermeasure"
+       ],
+       "CentralContactEMail": [
+              "sara.zwart-1@nasa.gov",
+              "eden.e.fields@nasa.gov"
+       ],
+       "CentralContactName": [
+              "Sara Zwart, PhD",
+              "Eden Fields"
+       ],
+       "CentralContactPhone": [
+              "2814833753",
+              "2814837864"
+       ],
+       "CentralContactPhoneExt": [],
+       "CentralContactRole": [
+              "Contact",
+              "Contact"
+       ],
+       "CollaboratorClass": [
+              "OTHER",
+              "OTHER"
+       ],
+       "CollaboratorName": [
+              "Mayo Clinic",
+              "Texas A&M University"
+       ],
+       "CompletionDate": [
+              "September 30, 2028"
+       ],
+       "CompletionDateType": [
+              "Anticipated"
+       ],
+       "Condition": [
+              "Optic Disc Edema",
+              "Endothelial Dysfunction"
+       ],
+       "ConditionAncestorId": [
+              "D000009901",
+              "D000003389",
+              "D000009422",
+              "D000005128"
+       ],
+       "ConditionAncestorTerm": [
+              "Optic Nerve Diseases",
+              "Cranial Nerve Diseases",
+              "Nervous System Diseases",
+              "Eye Diseases"
+       ],
+       "ConditionBrowseBranchAbbrev": [
+              "BC23",
+              "All",
+              "BC10",
+              "BC11",
+              "Rare"
+       ],
+       "ConditionBrowseBranchName": [
+              "Symptoms and General Pathology",
+              "All Conditions",
+              "Nervous System Diseases",
+              "Eye Diseases",
+              "Rare Diseases"
+       ],
+       "ConditionBrowseLeafAsFound": [
+              "Optic Disc Edema"
+       ],
+       "ConditionBrowseLeafId": [
+              "M6809",
+              "M12282",
+              "M11984",
+              "M5757",
+              "M7423",
+              "T4402"
+       ],
+       "ConditionBrowseLeafName": [
+              "Edema",
+              "Papilledema",
+              "Optic Nerve Diseases",
+              "Cranial Nerve Diseases",
+              "Eye Diseases",
+              "Papilledema"
+       ],
+       "ConditionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "ConditionMeshId": [
+              "D000010211"
+       ],
+       "ConditionMeshTerm": [
+              "Papilledema"
+       ],
+       "DelayedPosting": [],
+       "DesignAllocation": [
+              "N/A"
+       ],
+       "DesignInterventionModel": [
+              "Single Group Assignment"
+       ],
+       "DesignInterventionModelDescription": [],
+       "DesignMasking": [
+              "None (Open Label)"
+       ],
+       "DesignMaskingDescription": [],
+       "DesignObservationalModel": [],
+       "DesignPrimaryPurpose": [
+              "Prevention"
+       ],
+       "DesignTimePerspective": [],
+       "DesignWhoMasked": [],
+       "DetailedDescription": [
+              "Fasting (8-h) blood samples (7.5 mL SST and 5 mL EDTA tubes, 12.5 mL total per session) will be collected approximately 180 days and 45 days before flight, on approximate flight day 90, and 30 days before landing, Return to Earth +0-2 days and 30 days after landing.\n\nBlood samples will be analyzed for vitamin status and one-carbon biochemistry, as previously described. One blood sample (collected before flight) will be analyzed for approximately 511 SNPs matching the profile of testing from our ongoing research related to optic disc edema. Serum samples will be analyzed for biochemistry measures evaluating endothelial function, vitamin status, and oxidative damage.\n\nNutritional status assessment data, including inflight dietary intake and body mass data, completed for routine medical requirements will be requested for data sharing. Inflight medical exercise log data as well as available standard measures data will also be requested for data sharing. Medication use/Med Logs will also be requested for data sharing.\n\nVascular function VENDYS-II (Endothelix, Inc) will be used to assess reactive hyperaemia through changes in fingertip temperature. The test consists of an automated blood pressure measurement followed by cuff occlusion of the right arm for 2 to 5 min. During this time, the fingertip temperature in the right hand decreases because of the lack of circulation in the fingertip. After the cuff is released, blood flow resumes, causing a temperature rebound in the fingertip in a manner that is proportional to vascular reactivity.\n\nAdvanced Glycation End (AGE) Products Skin autofluorescence (SAF) will be analyzed non-invasively using an AGE reader (Diagnoptics Technologies, Groningen, the Netherlands). The AGE reader illuminates a skin surface of approximately 4 cm2, guarded against surrounding light, with an excitation light source with wavelength between 300 and 429 nm. This method is based on the fluorescent properties of certain AGEs accumulated in dermal tissue.\n\nOCT and OCT-A Optical coherence tomography (OCT) and OCT-angiography (OCT-A) scans will be acquired using the Spectralis OCT2 (Heidelberg Engineering) before, during, and after flight. The scan pattern includes 24 B-scans centered in a radial pattern over the optic nerve head, as well as a 3.5 mm circle scan surrounding the optic nerve head for assessment of retinal nerve fiber layer thickness and choroid thickness. For OCT-A, five consecutive volume scans will be obtained in these regions, each containing 216 A-scans. These images will be registered, and the consecutive B-scans will be used to calculate the decorrelation among the images to provide split-spectrum amplitude decorrelation angiography (SSADA) images. This decorrelation between consecutive B-scan images will be used to highlight locations where there is blood flow. The density of the perfused peripapillary vessels within the various layers of the retina will be calculated to create a flow density map."
+       ],
+       "DispFirstPostDate": [],
+       "DispFirstPostDateType": [],
+       "DispFirstSubmitDate": [],
+       "DispFirstSubmitQCDate": [],
+       "EligibilityCriteria": [
+              "Inclusion Criteria:\n\n\u2022 Must be astronauts selected for 6-12 month missions on the International Space Station\n\nExclusion Criteria:\n\n\u2022 Subjects taking B-vitamin supplements"
+       ],
+       "EnrollmentCount": [
+              "16"
+       ],
+       "EnrollmentType": [
+              "Anticipated"
+       ],
+       "EventGroupDeathsNumAffected": [],
+       "EventGroupDeathsNumAtRisk": [],
+       "EventGroupDescription": [],
+       "EventGroupId": [],
+       "EventGroupOtherNumAffected": [],
+       "EventGroupOtherNumAtRisk": [],
+       "EventGroupSeriousNumAffected": [],
+       "EventGroupSeriousNumAtRisk": [],
+       "EventGroupTitle": [],
+       "EventsDescription": [],
+       "EventsFrequencyThreshold": [],
+       "EventsTimeFrame": [],
+       "ExpAccTypeIndividual": [],
+       "ExpAccTypeIntermediate": [],
+       "ExpAccTypeTreatment": [],
+       "ExpandedAccessNCTId": [],
+       "ExpandedAccessStatusForNCTId": [],
+       "FDAAA801Violation": [],
+       "FlowAchievementComment": [],
+       "FlowAchievementGroupId": [],
+       "FlowAchievementNumSubjects": [],
+       "FlowAchievementNumUnits": [],
+       "FlowDropWithdrawComment": [],
+       "FlowDropWithdrawType": [],
+       "FlowGroupDescription": [],
+       "FlowGroupId": [],
+       "FlowGroupTitle": [],
+       "FlowMilestoneComment": [],
+       "FlowMilestoneType": [],
+       "FlowPeriodTitle": [],
+       "FlowPreAssignmentDetails": [],
+       "FlowReasonComment": [],
+       "FlowReasonGroupId": [],
+       "FlowReasonNumSubjects": [],
+       "FlowReasonNumUnits": [],
+       "FlowRecruitmentDetails": [],
+       "FlowTypeUnitsAnalyzed": [],
+       "Gender": [
+              "All"
+       ],
+       "GenderBased": [],
+       "GenderDescription": [],
+       "HasExpandedAccess": [
+              "No"
+       ],
+       "HealthyVolunteers": [
+              "Accepts Healthy Volunteers"
+       ],
+       "IPDSharing": [
+              "No"
+       ],
+       "IPDSharingAccessCriteria": [],
+       "IPDSharingDescription": [],
+       "IPDSharingInfoType": [],
+       "IPDSharingTimeFrame": [],
+       "IPDSharingURL": [],
+       "InterventionAncestorId": [
+              "D000014815",
+              "D000018977",
+              "D000045505",
+              "D000006397"
+       ],
+       "InterventionAncestorTerm": [
+              "Vitamins",
+              "Micronutrients",
+              "Physiological Effects of Drugs",
+              "Hematinics"
+       ],
+       "InterventionArmGroupLabel": [
+              "Supplemented with B-Complex"
+       ],
+       "InterventionBrowseBranchAbbrev": [
+              "Micro",
+              "All",
+              "Hemat",
+              "Derm",
+              "ANeo",
+              "Vi"
+       ],
+       "InterventionBrowseBranchName": [
+              "Micronutrients",
+              "All Drugs and Chemicals",
+              "Hematinics",
+              "Dermatologic Agents",
+              "Antineoplastic Agents",
+              "Vitamins"
+       ],
+       "InterventionBrowseLeafAsFound": [
+              "Loose",
+              "Loose",
+              "Loose",
+              "Loose",
+              "Loose"
+       ],
+       "InterventionBrowseLeafId": [
+              "M16710",
+              "M7770",
+              "M22179",
+              "M13735",
+              "M13741",
+              "M16698",
+              "M16700",
+              "M16696",
+              "M14237",
+              "M302471",
+              "M13737",
+              "M7765",
+              "M16037",
+              "M20162",
+              "M8637",
+              "T446",
+              "T474",
+              "T459",
+              "T461",
+              "T448",
+              "T475",
+              "T476",
+              "T441",
+              "T444",
+              "T451",
+              "T462",
+              "T468",
+              "T463",
+              "T470",
+              "T447"
+       ],
+       "InterventionBrowseLeafName": [
+              "Vitamins",
+              "Folic Acid",
+              "Vitamin B 6",
+              "Pyridoxal",
+              "Pyridoxine",
+              "Vitamin B Complex",
+              "Vitamin B 12",
+              "Vitamin A",
+              "Riboflavin",
+              "Retinol palmitate",
+              "Pyridoxal Phosphate",
+              "Flavin Mononucleotide",
+              "Trace Elements",
+              "Micronutrients",
+              "Hematinics",
+              "Folic Acid",
+              "Vitamin B6",
+              "Pyridoxal",
+              "Pyridoxine",
+              "Folate",
+              "Vitamin B9",
+              "Vitamin B12",
+              "Cobalamin",
+              "Cyanocobalamin",
+              "Methylcobalamin",
+              "Retinol",
+              "Vitamin A",
+              "Riboflavin",
+              "Vitamin B2",
+              "Folinic Acid"
+       ],
+       "InterventionBrowseLeafRelevance": [
+              "low",
+              "high",
+              "low",
+              "low",
+              "low",
+              "high",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "high",
+              "low",
+              "low",
+              "low",
+              "high",
+              "high",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low",
+              "low"
+       ],
+       "InterventionDescription": [
+              "Vitamin B-Complex Supplement containing: 5-methyltetrahydrofolate, riboflavin 5 phosphate, pyridoxal phosphate, and methylcobalamin"
+       ],
+       "InterventionMeshId": [
+              "D000005492",
+              "D000014803"
+       ],
+       "InterventionMeshTerm": [
+              "Folic Acid",
+              "Vitamin B Complex"
+       ],
+       "InterventionName": [
+              "Vitamin B-Complex Supplement"
+       ],
+       "InterventionOtherName": [],
+       "InterventionType": [
+              "Drug"
+       ],
+       "IsFDARegulatedDevice": [
+              "No"
+       ],
+       "IsFDARegulatedDrug": [
+              "Yes"
+       ],
+       "IsPPSD": [],
+       "IsUSExport": [],
+       "IsUnapprovedDevice": [],
+       "Keyword": [],
+       "LargeDocDate": [],
+       "LargeDocFilename": [],
+       "LargeDocHasICF": [],
+       "LargeDocHasProtocol": [],
+       "LargeDocHasSAP": [],
+       "LargeDocLabel": [],
+       "LargeDocTypeAbbrev": [],
+       "LargeDocUploadDate": [],
+       "LastKnownStatus": [],
+       "LastUpdatePostDate": [
+              "September 28, 2022"
+       ],
+       "LastUpdatePostDateType": [
+              "Actual"
+       ],
+       "LastUpdateSubmitDate": [
+              "September 26, 2022"
+       ],
+       "LeadSponsorClass": [
+              "FED"
+       ],
+       "LeadSponsorName": [
+              "National Aeronautics and Space Administration (NASA)"
+       ],
+       "LimitationsAndCaveatsDescription": [],
+       "LocationCity": [
+              "Houston"
+       ],
+       "LocationContactEMail": [],
+       "LocationContactName": [
+              "Eden Fields"
+       ],
+       "LocationContactPhone": [],
+       "LocationContactPhoneExt": [],
+       "LocationContactRole": [
+              "Contact"
+       ],
+       "LocationCountry": [
+              "United States"
+       ],
+       "LocationFacility": [
+              "Johnson Space Center"
+       ],
+       "LocationState": [
+              "Texas"
+       ],
+       "LocationStatus": [
+              "Recruiting"
+       ],
+       "LocationZip": [
+              "77058"
+       ],
+       "MaximumAge": [],
+       "MinimumAge": [],
+       "NCTIdAlias": [],
+       "OfficialTitle": [
+              "B-Complex: A Nutraceutical SANS Countermeasure"
+       ],
+       "OrgClass": [
+              "FED"
+       ],
+       "OrgFullName": [
+              "National Aeronautics and Space Administration (NASA)"
+       ],
+       "OrgStudyId": [
+              "NASA IRB STUDY00000448"
+       ],
+       "OrgStudyIdDomain": [],
+       "OrgStudyIdLink": [],
+       "OrgStudyIdType": [],
+       "OtherEventAssessmentType": [],
+       "OtherEventNotes": [],
+       "OtherEventOrganSystem": [],
+       "OtherEventSourceVocabulary": [],
+       "OtherEventStatsGroupId": [],
+       "OtherEventStatsNumAffected": [],
+       "OtherEventStatsNumAtRisk": [],
+       "OtherEventStatsNumEvents": [],
+       "OtherEventTerm": [],
+       "OtherOutcomeDescription": [],
+       "OtherOutcomeMeasure": [],
+       "OtherOutcomeTimeFrame": [],
+       "OutcomeAnalysisCILowerLimit": [],
+       "OutcomeAnalysisCILowerLimitComment": [],
+       "OutcomeAnalysisCINumSides": [],
+       "OutcomeAnalysisCIPctValue": [],
+       "OutcomeAnalysisCIUpperLimit": [],
+       "OutcomeAnalysisCIUpperLimitComment": [],
+       "OutcomeAnalysisDispersionType": [],
+       "OutcomeAnalysisDispersionValue": [],
+       "OutcomeAnalysisEstimateComment": [],
+       "OutcomeAnalysisGroupDescription": [],
+       "OutcomeAnalysisGroupId": [],
+       "OutcomeAnalysisNonInferiorityComment": [],
+       "OutcomeAnalysisNonInferiorityType": [],
+       "OutcomeAnalysisOtherAnalysisDescription": [],
+       "OutcomeAnalysisPValue": [],
+       "OutcomeAnalysisPValueComment": [],
+       "OutcomeAnalysisParamType": [],
+       "OutcomeAnalysisParamValue": [],
+       "OutcomeAnalysisStatisticalComment": [],
+       "OutcomeAnalysisStatisticalMethod": [],
+       "OutcomeAnalysisTestedNonInferiority": [],
+       "OutcomeCategoryTitle": [],
+       "OutcomeClassDenomCountGroupId": [],
+       "OutcomeClassDenomCountValue": [],
+       "OutcomeClassDenomUnits": [],
+       "OutcomeClassTitle": [],
+       "OutcomeDenomCountGroupId": [],
+       "OutcomeDenomCountValue": [],
+       "OutcomeDenomUnits": [],
+       "OutcomeGroupDescription": [],
+       "OutcomeGroupId": [],
+       "OutcomeGroupTitle": [],
+       "OutcomeMeasureAnticipatedPostingDate": [],
+       "OutcomeMeasureCalculatePct": [],
+       "OutcomeMeasureDenomUnitsSelected": [],
+       "OutcomeMeasureDescription": [],
+       "OutcomeMeasureDispersionType": [],
+       "OutcomeMeasureParamType": [],
+       "OutcomeMeasurePopulationDescription": [],
+       "OutcomeMeasureReportingStatus": [],
+       "OutcomeMeasureTimeFrame": [],
+       "OutcomeMeasureTitle": [],
+       "OutcomeMeasureType": [],
+       "OutcomeMeasureTypeUnitsAnalyzed": [],
+       "OutcomeMeasureUnitOfMeasure": [],
+       "OutcomeMeasurementComment": [],
+       "OutcomeMeasurementGroupId": [],
+       "OutcomeMeasurementLowerLimit": [],
+       "OutcomeMeasurementSpread": [],
+       "OutcomeMeasurementUpperLimit": [],
+       "OutcomeMeasurementValue": [],
+       "OverallOfficialAffiliation": [
+              "UTMB"
+       ],
+       "OverallOfficialName": [
+              "Sara R Zwart, PhD"
+       ],
+       "OverallOfficialRole": [
+              "Principal Investigator"
+       ],
+       "OverallStatus": [
+              "Recruiting"
+       ],
+       "OversightHasDMC": [
+              "No"
+       ],
+       "PatientRegistry": [],
+       "Phase": [
+              "Phase 1"
+       ],
+       "PointOfContactEMail": [],
+       "PointOfContactOrganization": [],
+       "PointOfContactPhone": [],
+       "PointOfContactPhoneExt": [],
+       "PointOfContactTitle": [],
+       "PrimaryCompletionDate": [
+              "July 1, 2027"
+       ],
+       "PrimaryCompletionDateType": [
+              "Anticipated"
+       ],
+       "PrimaryOutcomeDescription": [
+              "Measure change in total retinal thickness during and after flight compared to preflight using OCT"
+       ],
+       "PrimaryOutcomeMeasure": [
+              "Optic Disc Edema"
+       ],
+       "PrimaryOutcomeTimeFrame": [
+              "6 months"
+       ],
+       "ReferenceCitation": [
+              "Zwart SR, Laurie SS, Chen JJ, Macias BR, Lee SMC, Stenger M, Grantham B, Carey K, Young M, Smith SM. Association of Genetics and B Vitamin Status With the Magnitude of Optic Disc Edema During 30-Day Strict Head-Down Tilt Bed Rest. JAMA Ophthalmol. 2019 Oct 1;137(10):1195-1200. doi: 10.1001/jamaophthalmol.2019.3124.",
+              "Zwart SR, Gibson CR, Gregory JF, Mader TH, Stover PJ, Zeisel SH, Smith SM. Astronaut ophthalmic syndrome. FASEB J. 2017 Sep;31(9):3746-3756. doi: 10.1096/fj.201700294. Epub 2017 May 25.",
+              "Smith SM, Zwart SR. Spaceflight-related ocular changes: the potential role of genetics, and the potential of B vitamins as a countermeasure. Curr Opin Clin Nutr Metab Care. 2018 Nov;21(6):481-488. doi: 10.1097/MCO.0000000000000510.",
+              "McGregor HR, Lee JK, Mulder ER, De Dios YE, Beltran NE, Kofman IS, Bloomberg JJ, Mulavara AP, Smith SM, Zwart SR, Seidler RD. Ophthalmic changes in a spaceflight analog are associated with brain functional reorganization. Hum Brain Mapp. 2021 Sep;42(13):4281-4297. doi: 10.1002/hbm.25546. Epub 2021 Jun 9.",
+              "Laurie SS, Vizzeri G, Taibbi G, Ferguson CR, Hu X, Lee SMC, Ploutz-Snyder R, Smith SM, Zwart SR, Stenger MB. Effects of short-term mild hypercapnia during head-down tilt on intracranial pressure and ocular structures in healthy human subjects. Physiol Rep. 2017 Jun;5(11):e13302. doi: 10.14814/phy2.13302."
+       ],
+       "ReferencePMID": [
+              "31415055",
+              "28546443",
+              "30169456",
+              "34105833",
+              "28611153"
+       ],
+       "ReferenceType": [
+              "background",
+              "background",
+              "background",
+              "background",
+              "background"
+       ],
+       "RemovedCountry": [],
+       "ResponsiblePartyInvestigatorAffiliation": [
+              "The University of Texas Medical Branch, Galveston"
+       ],
+       "ResponsiblePartyInvestigatorFullName": [
+              "Sara R. Zwart, PhD"
+       ],
+       "ResponsiblePartyInvestigatorTitle": [
+              "Deputy Manager for Nutritional Biochemistry"
+       ],
+       "ResponsiblePartyOldNameTitle": [],
+       "ResponsiblePartyOldOrganization": [],
+       "ResponsiblePartyType": [
+              "Principal Investigator"
+       ],
+       "ResultsFirstPostDate": [],
+       "ResultsFirstPostDateType": [],
+       "ResultsFirstPostedQCCommentsDate": [],
+       "ResultsFirstPostedQCCommentsDateType": [],
+       "ResultsFirstSubmitDate": [],
+       "ResultsFirstSubmitQCDate": [],
+       "RetractionPMID": [],
+       "RetractionSource": [],
+       "SamplingMethod": [],
+       "SecondaryId": [],
+       "SecondaryIdDomain": [],
+       "SecondaryIdLink": [],
+       "SecondaryIdType": [],
+       "SecondaryOutcomeDescription": [
+              "Assess reactive hyperemia through changes in fingertip temperature",
+              "Skin autofluorescence (SAF) will be analyzed non-invasively using an AGE reader",
+              "Vitamin status assessed from a fasting blood sample",
+              "Vitamin status assessed from a fasting blood sample",
+              "Vitamin status assessed from a fasting blood sample",
+              "Vitamin status assessed from a fasting blood sample",
+              "Serum glucose from a fasting blood sample",
+              "Serum nitric oxide from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample",
+              "Serum biochemistry from a fasting blood sample"
+       ],
+       "SecondaryOutcomeMeasure": [
+              "Endothelial function",
+              "Advanced Glycation End Products (AGE)",
+              "Serum folate status",
+              "Red Blood Cell folate status",
+              "Vitamin B6 status",
+              "Vitamin B12 status",
+              "Glucose",
+              "Nitric oxide",
+              "tetrahydrobiopterin",
+              "Dihydrobiopterin",
+              "Oxidized glutathione",
+              "Total antioxidant capacity",
+              "Advanced glycation end products",
+              "Albumin",
+              "Glycated albumin",
+              "3-nitrotyrosine",
+              "Formate",
+              "MMP-2",
+              "MMP-9",
+              "TIMP-1",
+              "TIMP-2",
+              "Heparan sulfate",
+              "Syndecan-1",
+              "Glypican",
+              "Hyaluronan",
+              "Total lipid peroxides"
+       ],
+       "SecondaryOutcomeTimeFrame": [
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months",
+              "6 months"
+       ],
+       "SeeAlsoLinkLabel": [],
+       "SeeAlsoLinkURL": [],
+       "SeriousEventAssessmentType": [],
+       "SeriousEventNotes": [],
+       "SeriousEventOrganSystem": [],
+       "SeriousEventSourceVocabulary": [],
+       "SeriousEventStatsGroupId": [],
+       "SeriousEventStatsNumAffected": [],
+       "SeriousEventStatsNumAtRisk": [],
+       "SeriousEventStatsNumEvents": [],
+       "SeriousEventTerm": [],
+       "StartDate": [
+              "August 1, 2022"
+       ],
+       "StartDateType": [
+              "Actual"
+       ],
+       "StatusVerifiedDate": [
+              "September 2022"
+       ],
+       "StdAge": [
+              "Child",
+              "Adult",
+              "Older Adult"
+       ],
+       "StudyFirstPostDate": [
+              "May 9, 2022"
+       ],
+       "StudyFirstPostDateType": [
+              "Actual"
+       ],
+       "StudyFirstSubmitDate": [
+              "April 29, 2022"
+       ],
+       "StudyFirstSubmitQCDate": [
+              "May 5, 2022"
+       ],
+       "StudyPopulation": [],
+       "StudyType": [
+              "Interventional"
+       ],
+       "SubmissionMCPReleaseN": [],
+       "SubmissionReleaseDate": [],
+       "SubmissionResetDate": [],
+       "SubmissionUnreleaseDate": [],
+       "TargetDuration": [],
+       "UnpostedEventDate": [],
+       "UnpostedEventType": [],
+       "UnpostedResponsibleParty": [],
+       "VersionHolder": [
+              "December 28, 2022"
+       ],
+       "WhyStopped": []
+}
