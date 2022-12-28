@@ -198,7 +198,7 @@ function onEachAward(feature, layer) {
 			+ feature.properties.awardType
 			+ '</font></b><br>'
 			+ feature.properties.aff
-			+ '<br> Grant AWard: '
+			+ '<br> Grant Award: '
 			+ feature.properties.cost
 			+ '<br>'
 			+ '<a href="' + feature.properties.url + '" target="_blank" rel="noopener">'
