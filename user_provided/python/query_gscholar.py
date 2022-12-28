@@ -197,12 +197,14 @@ def html_to_json(soup, year_given):
 
         # get the year of publication of each paper
         ref_year = year_given
+        """
         try:
             txt_year = result.find("div", class_="gs_a").text
             ref_year = re.findall('[0-9]{4}', txt_year)
             ref_year = int(float(ref_year[0]))
         except:
             ref_year = int(float(year_given))
+        """
 
         print('ref_year = ')
         print(ref_year)

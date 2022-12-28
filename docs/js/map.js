@@ -151,6 +151,36 @@ function onEachPub(feature, layer) {
 				  }
 
 
+function onEachTrial(feature, layer) {
+
+	var aff = feature.properties.aff;
+	var url = feature.properties.url;
+	var title = feature.properties.title;
+
+	map.createPane('popUpPane');
+	map.getPane('popUpPane').style.zIndex = 999;
+
+	var popupContent = '<p><b>'
+		+ feature.properties.title
+		+ '</b><br><font color="gray">'
+		+ "Clinical Trial | Status: "
+		+ feature.properties.status
+		+ '</font></b><br>'
+		+ feature.properties.aff
+		+ '<br> Enrolled: '
+		+ feature.properties.enrolled
+		+ '<br>'
+		//+ '<a href="' + feature.properties.url + '" target="_blank" rel="noopener">'
+		//+ feature.properties.url + '</a>'
+		+ '</p>';
+
+		if (feature.properties && feature.properties.popupContent) {
+			popupContent += feature.properties.popupContent;
+			}
+			layer.bindPopup(popupContent);
+			}
+
+
 function onEachAward(feature, layer) {
 
 		var aff = feature.properties.aff;
@@ -233,7 +263,7 @@ function pubToLayer(feature, latlng) {
 
 	var trials = L.geoJson(geojson_trials, {
 		style: pubStyle,
-		onEachFeature: onEachPub,
+		onEachFeature: onEachTrial,
 		pointToLayer: pubToLayer,
 	}).addTo(map).addTo(trials);
 

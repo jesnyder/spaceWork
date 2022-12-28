@@ -20,6 +20,7 @@ from admin import save_json
 from admin import save_value
 
 from geolocate_pubs import lookup_openmaps
+from write_geojson import disperse_geolocation
 
 
 def query_clinicaltrials():
@@ -27,7 +28,7 @@ def query_clinicaltrials():
     list clinical trials using an MSC intervention
     """
 
-    tasks = [5]
+    tasks = [0, 1, 2, 3, 4, 5]
 
     # scrape clinicalTrials.gov database
     if 0 in tasks: query_trials()
@@ -134,9 +135,14 @@ def build_geo(trial):
 
         if aff != loc['name']: continue
 
+        lon = float(loc['lon'])
+        lat = float(loc['lat'])
+
+        lon, lat = disperse_geolocation(lon, lat)
+
         geo = {}
         geo['type'] = 'Point'
-        geo['coordinates'] = [ float(loc['lon']), float(loc['lat']) ]
+        geo['coordinates'] = [ lon, lat ]
         #geo['lat'] = float(loc['lat'])
         #geo['lon'] = float(loc['lon'])
         #geo['display_name'] = loc['display_name']

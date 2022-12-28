@@ -9,7 +9,7 @@ var geojson_awards =
                         "year": 2022.0,
                         "aff": "STANFORD UNIVERSITY",
                         "cost": 196612.0,
-                        "color": "rgb( 19 , 219 , 89 )",
+                        "color": "rgb( 11 , 208 , 137 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -18,8 +18,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.17047,
-                              37.426852
+                              -122.182594,
+                              37.433791
                         ]
                   }
             },
@@ -30,7 +30,7 @@ var geojson_awards =
                         "year": 2022.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": 326693.0,
-                        "color": "rgb( 38 , 241 , 157 )",
+                        "color": "rgb( 41 , 218 , 128 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -39,8 +39,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.605131,
-                              39.325256
+                              -76.618958,
+                              39.315347
                         ]
                   }
             },
@@ -51,7 +51,7 @@ var geojson_awards =
                         "year": 2022.0,
                         "aff": "BRIGHAM AND WOMEN'S HOSPITAL",
                         "cost": 135281.0,
-                        "color": "rgb( 44 , 222 , 117 )",
+                        "color": "rgb( 50 , 227 , 151 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -60,8 +60,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.107481,
-                              42.336107
+                              -71.131517,
+                              42.320318
                         ]
                   }
             },
@@ -72,7 +72,7 @@ var geojson_awards =
                         "year": 2022.0,
                         "aff": "BRIGHAM AND WOMEN'S HOSPITAL",
                         "cost": 135281.0,
-                        "color": "rgb( 30 , 223 , 123 )",
+                        "color": "rgb( 22 , 237 , 139 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -81,8 +81,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.107481,
-                              42.336107
+                              -71.085482,
+                              42.361086
                         ]
                   }
             },
@@ -93,7 +93,7 @@ var geojson_awards =
                         "year": 2022.0,
                         "aff": "UNIVERSITY OF KENTUCKY",
                         "cost": 260155.0,
-                        "color": "rgb( 41 , 216 , 61 )",
+                        "color": "rgb( 10 , 212 , 102 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -102,8 +102,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.505885,
-                              38.040959
+                              -84.52796,
+                              38.053727
                         ]
                   }
             },
@@ -114,7 +114,7 @@ var geojson_awards =
                         "year": 2022.0,
                         "aff": "PHYSICAL SCIENCES, INC",
                         "cost": 482523.0,
-                        "color": "rgb( 47 , 216 , 127 )",
+                        "color": "rgb( 47 , 224 , 69 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -123,8 +123,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.202918,
-                              42.693308
+                              -71.226291,
+                              42.672781
                         ]
                   }
             },
@@ -135,7 +135,7 @@ var geojson_awards =
                         "year": 2022.0,
                         "aff": "UNIVERSITY OF TENNESSEE HEALTH SCI CTR",
                         "cost": 331056.0,
-                        "color": "rgb( 43 , 213 , 142 )",
+                        "color": "rgb( 43 , 208 , 114 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -144,8 +144,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -90.033163,
-                              35.138829
+                              -90.040009,
+                              35.138031
                         ]
                   }
             },
@@ -156,7 +156,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": 80419.0,
-                        "color": "rgb( 39 , 230 , 140 )",
+                        "color": "rgb( 31 , 208 , 146 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -165,8 +165,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.605131,
-                              39.325256
+                              -76.599079,
+                              39.332589
                         ]
                   }
             },
@@ -177,7 +177,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
                         "cost": 260009.0,
-                        "color": "rgb( 44 , 224 , 125 )",
+                        "color": "rgb( 22 , 242 , 136 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -186,8 +186,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.413937,
-                              37.767442
+                              -122.416157,
+                              37.792028
                         ]
                   }
             },
@@ -198,7 +198,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": 757735.0,
-                        "color": "rgb( 43 , 230 , 141 )",
+                        "color": "rgb( 38 , 215 , 151 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -207,8 +207,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.605131,
-                              39.325256
+                              -76.60127,
+                              39.326466
                         ]
                   }
             },
@@ -219,7 +219,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": 757735.0,
-                        "color": "rgb( 28 , 215 , 138 )",
+                        "color": "rgb( 13 , 227 , 95 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -228,8 +228,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.605131,
-                              39.325256
+                              -76.611559,
+                              39.326348
                         ]
                   }
             },
@@ -240,7 +240,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": 57922.0,
-                        "color": "rgb( 47 , 242 , 84 )",
+                        "color": "rgb( 17 , 238 , 84 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -249,8 +249,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.605131,
-                              39.325256
+                              -76.591773,
+                              39.344111
                         ]
                   }
             },
@@ -261,7 +261,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "STANFORD UNIVERSITY",
                         "cost": 714532.0,
-                        "color": "rgb( 22 , 242 , 144 )",
+                        "color": "rgb( 21 , 211 , 135 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -270,8 +270,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.17047,
-                              37.426852
+                              -122.169574,
+                              37.412081
                         ]
                   }
             },
@@ -282,7 +282,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF FLORIDA",
                         "cost": 483238.0,
-                        "color": "rgb( 20 , 213 , 83 )",
+                        "color": "rgb( 27 , 239 , 122 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -291,8 +291,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.349637,
-                              29.643443
+                              -82.356331,
+                              29.643662
                         ]
                   }
             },
@@ -303,7 +303,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF FLORIDA",
                         "cost": 76250.0,
-                        "color": "rgb( 41 , 205 , 69 )",
+                        "color": "rgb( 46 , 227 , 118 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -312,8 +312,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.349637,
-                              29.643443
+                              -82.326254,
+                              29.663942
                         ]
                   }
             },
@@ -324,7 +324,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF KENTUCKY",
                         "cost": 263579.0,
-                        "color": "rgb( 50 , 226 , 66 )",
+                        "color": "rgb( 57 , 238 , 147 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -333,8 +333,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.505885,
-                              38.040959
+                              -84.513397,
+                              38.023703
                         ]
                   }
             },
@@ -345,7 +345,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF MARYLAND BALTIMORE",
                         "cost": 34236.0,
-                        "color": "rgb( 22 , 243 , 109 )",
+                        "color": "rgb( 13 , 219 , 102 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -354,8 +354,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.625629,
-                              39.292248
+                              -76.604311,
+                              39.275171
                         ]
                   }
             },
@@ -366,7 +366,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "PHYSICAL SCIENCES, INC",
                         "cost": 678314.0,
-                        "color": "rgb( 15 , 218 , 135 )",
+                        "color": "rgb( 54 , 222 , 69 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -375,8 +375,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.202918,
-                              42.693308
+                              -71.192603,
+                              42.675563
                         ]
                   }
             },
@@ -387,7 +387,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF TENNESSEE HEALTH SCI CTR",
                         "cost": 324368.0,
-                        "color": "rgb( 29 , 233 , 136 )",
+                        "color": "rgb( 52 , 238 , 156 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -396,8 +396,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -90.033163,
-                              35.138829
+                              -90.029478,
+                              35.121003
                         ]
                   }
             },
@@ -408,7 +408,7 @@ var geojson_awards =
                         "year": 2021.0,
                         "aff": "GEORGIA INSTITUTE OF TECHNOLOGY",
                         "cost": 75502.0,
-                        "color": "rgb( 28 , 207 , 137 )",
+                        "color": "rgb( 16 , 250 , 135 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -417,8 +417,8 @@ var geojson_awards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.404009,
-                              33.781897
+                              -84.414946,
+                              33.779518
                         ]
                   }
             }

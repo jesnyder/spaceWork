@@ -19,6 +19,7 @@ from admin import retrieve_json
 from admin import save_json
 from admin import save_value
 
+from write_geojson import disperse_geolocation
 from summarize_data import df_to_json
 
 
@@ -140,6 +141,8 @@ def build_geo(award):
     lat = float(award['Latitude'])
     lon = float(award['Longitude'])
 
+    lon, lat = disperse_geolocation(lon, lat)
+
     geo = {}
     geo['type'] = 'Point'
     geo['coordinates'] = [ lon, lat]
@@ -147,5 +150,7 @@ def build_geo(award):
     #geo['lon'] = float(loc['lon'])
     #geo['display_name'] = loc['display_name']
     #geo['found_address'] = loc['found_address']
+
+
     #geo['aff'] = aff
     return(geo)
