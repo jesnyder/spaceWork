@@ -155,7 +155,7 @@ def build_geometry(aff):
     return geomerty
     """
 
-    fil_src = retrieve_path('located_affs')
+    fil_src = retrieve_path('locate_affs')
 
     for loc in retrieve_json(fil_src)['affs']:
 
@@ -195,8 +195,8 @@ def build_property(pub):
     prop['paneName'] = str('pane' + str(pub['is-referenced-by-count']).zfill(3))
     prop['color'] = random_color()
     prop['aff'] = ' '
-    prop['affs'] = pub['affs']
-    prop['authors'] = pub['authors']
+    #prop['affs'] = pub['affs']
+    #prop['authors'] = pub['authors']
 
     return(prop)
 

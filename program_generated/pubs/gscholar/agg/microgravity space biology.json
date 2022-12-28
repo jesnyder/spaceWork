@@ -2,7 +2,7 @@
         "pub_count": 750,
         "pubs": [
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Advances in Space Biology: Cell Behavior in Microgravity",
                         "title_link": "https://www.mdpi.com/2076-3417/12/22/11575/htm",
                         "publication_info": "MA Mariggi\u00f2, G Ricci\u00a0- Applied Sciences, 2022 - mdpi.com",
@@ -13,7 +13,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16539046988403580245&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Cells respond to space microgravity through cytoskeleton reorganization",
                         "title_link": "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.202101140R",
                         "publication_info": "XT Wu, X Yang, R Tian, YH Li, CY Wang\u2026\u00a0- The FASEB\u00a0\u2026, 2022 - Wiley Online Library",
@@ -24,7 +24,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6720890815297981413&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Microgravity and Space Medicine 2.0",
                         "title_link": "https://www.mdpi.com/1422-0067/23/8/4456/htm",
                         "publication_info": "D Grimm\u00a0- International Journal of Molecular Sciences, 2022 - mdpi.com",
@@ -35,7 +35,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13808122778963598085&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Interstellar space biology via Project Starlight",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576521005518",
                         "publication_info": "S Lantin, S Mendell, G Akkad, AN Cohen, X Apicella\u2026\u00a0- Acta Astronautica, 2022 - Elsevier",
@@ -46,7 +46,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=438423651841932621&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Plants in Microgravity: Molecular and Technological Perspectives",
                         "title_link": "https://www.mdpi.com/1824708",
                         "publication_info": "AI Baba, MY Mir, R Riyazuddin, \u00c1 Cs\u00e9pl\u0151\u2026\u00a0- International Journal of\u00a0\u2026, 2022 - mdpi.com",
@@ -57,7 +57,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=238183812342828128&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Testing 3D printed biological platform for advancing simulated microgravity and space mechanobiology research",
                         "title_link": "https://www.nature.com/articles/s41526-022-00207-6",
                         "publication_info": "G Silvani, P Bradbury, C Basirun, C Mehner, D Zalli\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -68,7 +68,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4155472711269072082&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microfluidic-assisted human cancer cells culturing platform for space biology applications",
                         "title_link": "https://www.mdpi.com/1424-8220/22/16/6183",
                         "publication_info": "A Krakos, J Jarosz, P \u015aniadek, M Psurski, A Graja\u2026\u00a0- Sensors, 2022 - mdpi.com",
@@ -79,7 +79,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=17349067874696135106&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Analog and simulated microgravity platforms for life sciences research: Their individual capacities, benefits and limitations",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0273117722000199",
                         "publication_info": "FA Oluwafemi, A Neduncheran\u00a0- Advances in Space Research, 2022 - Elsevier",
@@ -90,7 +90,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2995570164277743465&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Suppression of cortical microtubule reorientation and stimulation of cell elongation in Arabidopsis hypocotyls under microgravity conditions in space",
                         "title_link": "https://www.mdpi.com/1489230",
                         "publication_info": "S Kato, M Murakami, R Saika, K Soga, K Wakabayashi\u2026\u00a0- Plants, 2022 - mdpi.com",
@@ -101,7 +101,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10362212379465315985&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Recent Progress of Microgravity Science Research in China",
                         "title_link": "https://www.researchgate.net/profile/Yu-Cheng-Liu-5/publication/362537605_Recent_Progress_of_Microgravity_Science_Research_in_China/links/62ef7456505511283e98fec2/Recent-Progress-of-Microgravity-Science-Research-in-China.pdf",
                         "publication_info": "J ZHAO, W DU, Q KANG, D LAN, J MIAO\u2026\u00a0- \u2026\u00a0Journal of Space\u00a0\u2026, 2022 - researchgate.net",
@@ -112,7 +112,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6875077129190846786&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "The fight against cancer by microgravity: the multicellular spheroid as a metastasis model",
                         "title_link": "https://www.mdpi.com/1422-0067/23/6/3073",
                         "publication_info": "D Grimm, H Schulz, M Kr\u00fcger\u2026\u00a0- International Journal of\u00a0\u2026, 2022 - mdpi.com",
@@ -123,7 +123,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9807245661165340288&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Translation from Microgravity Research to Earth Application",
                         "title_link": "https://www.mdpi.com/1422-0067/23/19/10995/htm",
                         "publication_info": "D Grimm, R Hemmersbach\u00a0- International Journal of Molecular Sciences, 2022 - mdpi.com",
@@ -134,7 +134,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14665041249047675292&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Effects of Microgravity on mutualistic bacteria",
                         "title_link": "https://commons.erau.edu/discovery-day/db-discovery-day-2022/poster-session-2/21/",
                         "publication_info": "O Siu, M Villafania, L Taylor, A Mcmandon, A Chavez\u2026 - 2022 - commons.erau.edu",
@@ -145,7 +145,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "\u2026\u00a0, WANG Qinggong, WANG Shuangfeng, ZHANG Tao, ZHANG Xingwang, ZHANG Yonghai, ZHENG Huiqiong. Recent Progress of Microgravity Science Research in\u00a0\u2026",
                         "title_link": "https://www.cjss.ac.cn/cn/article/doi/10.11728/cjss2022.04.yg23",
                         "publication_info": "J ZHAO, W DU, Q KANG, D LAN, K LI, W LI\u00a0- Chinese Journal of Space\u00a0\u2026, 2022 - cjss.ac.cn",
@@ -156,7 +156,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Phenotypic and transcriptional changes in Escherichia coli K12 in response to simulated microgravity on the EagleStat, a new 2D microgravity analog for bacterial\u00a0\u2026",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552422000177",
                         "publication_info": "C Topolski, E Divo, X Li, J Hicks, A Chavez\u2026\u00a0- Life Sciences in Space\u00a0\u2026, 2022 - Elsevier",
@@ -167,7 +167,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16319909140821526568&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Latest knowledge about changes in the proteome in microgravity",
                         "title_link": "https://www.tandfonline.com/doi/abs/10.1080/14789450.2022.2030711",
                         "publication_info": "H Schulz, SM Strauch, P Richter\u2026\u00a0- Expert Review of\u00a0\u2026, 2022 - Taylor & Francis",
@@ -178,7 +178,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11532471318550818905&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "CAMDLES: CFD-DEM Simulation of Microbial Communities in Spaceflight and Artificial Microgravity",
                         "title_link": "https://www.mdpi.com/2075-1729/12/5/660",
                         "publication_info": "R An, JA Lee\u00a0- Life, 2022 - mdpi.com",
@@ -189,7 +189,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6855134351199291687&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity and space radiation inhibit autophagy in human capillary endothelial cells, through either opposite or synergistic effects on specific molecular pathways",
                         "title_link": "https://link.springer.com/article/10.1007/s00018-021-04025-z",
                         "publication_info": "I Barravecchia, C De Cesari, M Forcato\u2026\u00a0- Cellular and Molecular\u00a0\u2026, 2022 - Springer",
@@ -200,7 +200,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2650104967167841356&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] The effects of microgravity on bone structure and function",
                         "title_link": "https://www.nature.com/articles/s41526-022-00194-8",
                         "publication_info": "J Man, T Graham, G Squires-Donelly, AL Laslett\u00a0- npj Microgravity, 2022 - nature.com",
@@ -211,7 +211,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=559484906389570165&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] A magnetically enabled simulation of microgravity represses the auxin response during early seed germination on a microfluidic platform",
                         "title_link": "https://www.nature.com/articles/s41378-021-00331-5",
                         "publication_info": "J Du, L Zeng, Z Yu, S Chen, X Chen, Y Zhang\u2026\u00a0- Microsystems &\u00a0\u2026, 2022 - nature.com",
@@ -222,7 +222,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9399219576550024566&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Academician Wen-Rui Hu\u2014Eminent Pioneer and Prominent Leader of Microgravity Science in China",
                         "title_link": "https://link.springer.com/article/10.1007/s12217-022-09934-7",
                         "publication_info": "K Li, JF Zhao, Q Kang, SF Wang\u00a0- Microgravity Science and Technology, 2022 - Springer",
@@ -233,7 +233,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11084409446521910334&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Space Microgravity Alters Neural Stem Cell Division: Implications for Brain Cancer Research on Earth and in Space",
                         "title_link": "https://www.mdpi.com/1954282",
                         "publication_info": "S Shaka, N Carpo, V Tran, C Cepeda\u2026\u00a0- International Journal of\u00a0\u2026, 2022 - mdpi.com",
@@ -244,7 +244,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=17472802263826531807&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] The Effects of Space Radiation and Microgravity on Ocular Structures",
                         "title_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8876783/",
                         "publication_info": "B \u00d6zelbaykal, G \u00d6\u011fretmeno\u011flu\u2026\u00a0- Turkish Journal of\u00a0\u2026, 2022 - ncbi.nlm.nih.gov",
@@ -255,7 +255,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=15758633861427516799&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Lab-On-a-Chip Technologies for Microgravity Simulation and Space Applications",
                         "title_link": "https://www.preprints.org/manuscript/202212.0139",
                         "publication_info": "A Vashi, KR Sreejith, NT Nguyen - 2022 - preprints.org",
@@ -266,7 +266,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=975198572004640051&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microrna Based Countermeasure Mitigate Health Risks Associated with Space Radiation and Microgravity",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2927B/abstract",
                         "publication_info": "A Beheshti, E Blaber, C Mason, P Jirak\u2026\u00a0- \u2026\u00a0Assembly. Held 16\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -277,7 +277,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Conducting Plant Experiments in Space and on the Moon",
                         "title_link": "https://link.springer.com/protocol/10.1007/978-1-0716-1677-2_12",
                         "publication_info": "T Shymanovich, JZ Kiss\u00a0- Plant Gravitropism, 2022 - Springer",
@@ -288,7 +288,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=8238710587533048945&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "The Impacts of Microgravity on Bacterial Metabolism",
                         "title_link": "https://www.mdpi.com/2075-1729/12/6/774",
                         "publication_info": "G Sharma, PD Curtis\u00a0- Life, 2022 - mdpi.com",
@@ -299,7 +299,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9385096514889420118&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] A multi-omics longitudinal study of the murine retinal response to chronic low-dose irradiation and simulated microgravity",
                         "title_link": "https://www.nature.com/articles/s41598-022-19360-9",
                         "publication_info": "P Kothiyal, G Eley, H Ilangovan, KA Hoadley\u2026\u00a0- Scientific Reports, 2022 - nature.com",
@@ -310,7 +310,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16811686970265279331&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Effects of Microorganisms on Drop Formation in Microgravity During a Parabolic Flight with Residual Gravity and Jitter",
                         "title_link": "https://link.springer.com/article/10.1007/s12217-022-09933-8",
                         "publication_info": "PM McMackin, JA Adam, SR Griffin\u2026\u00a0- Microgravity Science\u00a0\u2026, 2022 - Springer",
@@ -321,7 +321,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=15202914318762394220&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Microgravity Induces Interplay Between Atg8, Tua and Tub Gene Expression in Arabidopsis Thaliana",
                         "title_link": "https://www.researchsquare.com/article/rs-2119853/latest.pdf",
                         "publication_info": "R Shadrina, A Yemets, S Plokhovska, Y Blume - 2022 - researchsquare.com",
@@ -332,7 +332,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=18137969428142308591&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity\u2014Simulation, Acceleration, and Effects on Plants: Case Study on Globally Important Agricultural Crop Rice",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-3-030-73943-0_34",
                         "publication_info": "SR Imadi, T Yasmin, A Gul\u00a0- Biodiversity, Conservation and Sustainability\u00a0\u2026, 2022 - Springer",
@@ -343,7 +343,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "NASA's Ground-Based Microgravity Simulation Facility",
                         "title_link": "https://link.springer.com/protocol/10.1007/978-1-0716-1677-2_18",
                         "publication_info": "Y Zhang, JT Richards, JL Hellein, CM Johnson\u2026\u00a0- Plant Gravitropism, 2022 - Springer",
@@ -354,7 +354,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=7018251196749669143&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Delayed Maturation of Oligodendrocyte Progenitors by Microgravity: Implications for Multiple Sclerosis and Space Flight",
                         "title_link": "https://www.mdpi.com/2075-1729/12/6/797",
                         "publication_info": "V Tran, N Carpo, S Shaka, J Zamudio, S Choi\u2026\u00a0- Life, 2022 - mdpi.com",
@@ -365,7 +365,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10129398852423842213&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Stem Cell Biology and Tissue Engineering in Space",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527830909.ch5",
                         "publication_info": "M Arzt, A Jenkins, A Sharma\u00a0- In\u2010Space Manufacturing and\u00a0\u2026, 2022 - Wiley Online Library",
@@ -376,7 +376,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13814592481144146926&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Simulated Microgravity Modulates Focal Adhesion Gene Expression in Human Neural Stem Progenitor Cells",
                         "title_link": "https://www.mdpi.com/2075-1729/12/11/1827",
                         "publication_info": "W Wang, E Di Nisio, V Licursi, E Cacci, G Lupo\u2026\u00a0- Life, 2022 - mdpi.com",
@@ -387,7 +387,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=8953674533984990015&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Exosome based analysis for Space Associated Neuro-Ocular Syndrome and health risks in space exploration",
                         "title_link": "https://www.nature.com/articles/s41526-022-00225-4",
                         "publication_info": "SK Chakrabortty, YL Khodor, RR Kitchen, DL Miller\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -398,7 +398,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6971061488180376278&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Experiment verification test of the Artemis I 'Deep Space Radiation Genomics' experiment",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576522003083",
                         "publication_info": "L Zea, SS Piper, H Gaikani, M Khoshnoodi\u2026\u00a0- Acta Astronautica, 2022 - Elsevier",
@@ -409,7 +409,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=8499241692743187340&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "3D microenvironment attenuates simulated microgravity-mediated changes in T cell transcriptome",
                         "title_link": "https://link.springer.com/article/10.1007/s00018-022-04531-8",
                         "publication_info": "M ElGindi, J Sapudom, P Laws\u2026\u00a0- Cellular and Molecular\u00a0\u2026, 2022 - Springer",
@@ -420,7 +420,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16342637103020914882&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Effects of Titanium Dioxide Nanoparticles on Cell Growth and Migration of A549 Cells under Simulated Microgravity",
                         "title_link": "https://www.mdpi.com/2079-4991/12/11/1879",
                         "publication_info": "M Wang, J Li, S Zhang, Y You, X Zhu, H Xiang, L Yan\u2026\u00a0- Nanomaterials, 2022 - mdpi.com",
@@ -431,7 +431,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1795129096751747649&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] How do You Harvest Microgreens in Microgravity?",
                         "title_link": "https://ntrs.nasa.gov/api/citations/20220004543/downloads/BPS_Microgreens_STI%20review.docx.pdf",
                         "publication_info": "LE Braatz, GD Massa, CM Johnson, L Poulet\u2026\u00a0- NASA SMD Tech\u00a0\u2026, 2022 - ntrs.nasa.gov",
@@ -442,7 +442,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Proteomic analysis of the effects of simulated microgravity in human gastric mucosal cells",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552421000754",
                         "publication_info": "SY Lu, S Guo, SB Chai, JQ Yang, Y Yue, H Li\u2026\u00a0- Life Sciences in Space\u00a0\u2026, 2022 - Elsevier",
@@ -453,7 +453,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3388865031578229672&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Simulated Microgravity Affects the TNF-\u03b1-Induced Interleukin Profile of Endothelial Cells Depending on the Initial ICAM-1 Expression",
                         "title_link": "https://link.springer.com/article/10.1007/s12217-021-09920-5",
                         "publication_info": "EG Rudimov, YV Rudimova, ER Andreeva\u2026\u00a0- Microgravity Science\u00a0\u2026, 2022 - Springer",
@@ -464,7 +464,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6182076494618056525&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "The effect of microgravity conditions on some biological properties of microorganisms",
                         "title_link": "http://jtae.ari.ac.ir/article_159801.html?lang=en",
                         "publication_info": "M Salavatifar\u00a0- Journal of Technology in Aerospace Engineering, 2022 - jtae.ari.ac.ir",
@@ -475,7 +475,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16027069534876105563&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Microfluidics-integrated spaceflight hardware for measuring muscle strength of Caenorhabditis elegans on the International Space Station",
                         "title_link": "https://www.nature.com/articles/s41526-022-00241-4",
                         "publication_info": "P Soni, T Anupom, L Lesanpezeshki, M Rahman\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -486,7 +486,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6536786537160727030&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity-simulation of plant growth and its implications to the Sustainable Development Goals",
                         "title_link": "http://www.ojs.klobexjournals.com/index.php/ijbhs/article/view/1390",
                         "publication_info": "FA Oluwafemi, SU Akpu\u2026\u00a0- \u2026\u00a0of Biomedical and\u00a0\u2026, 2022 - ojs.klobexjournals.com",
@@ -497,7 +497,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=7506217773152626910&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Expression profile of cell cycle or aging-related genes in human fibroblasts exposed simultaneously to radiation and simulated microgravity",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2713I/abstract",
                         "publication_info": "H Ikeda, A Takahashi, M Hada\u00a0- 44th COSPAR Scientific\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -508,7 +508,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Agro-Engineering Methodology Analysis of Nutritional Values of Solanum Lycopersicum Var. Cerasiforme under Simulated Microgravity for Crop Applications during\u00a0\u2026",
                         "title_link": "https://ieeexplore.ieee.org/abstract/document/9870076/",
                         "publication_info": "R Barreto, J Cornejo, DO Tacuri\u2026\u00a0- 2022 IEEE XXIX\u00a0\u2026, 2022 - ieeexplore.ieee.org",
@@ -519,7 +519,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3051157229365495074&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Striated Muscle Evaluation Based on Velocity and Amortization Ratio of Mechanical Impulse Propagation in Simulated Microgravity Environment",
                         "title_link": "https://www.mdpi.com/2079-7737/11/11/1677",
                         "publication_info": "A Nistorescu, SS Busnatu, A Dinculescu, G Olteanu\u2026\u00a0- Biology, 2022 - mdpi.com",
@@ -530,7 +530,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=7716097315591810362&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] The mitochondrial proteomic changes of rat hippocampus induced by 28-day simulated microgravity",
                         "title_link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265108",
                         "publication_info": "G Ji, H Chang, M Yang, H Chen, T Wang, X Liu, K Lv\u2026\u00a0- PloS one, 2022 - journals.plos.org",
@@ -541,7 +541,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1001517624256662915&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Adaptation to simulated microgravity in Streptococcus mutans",
                         "title_link": "https://www.nature.com/articles/s41526-022-00205-8",
                         "publication_info": "MC Fernander, PK Parsons, B Khaled, A Bradley\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -552,7 +552,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16750785554811853725&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Growth Behavior and Transcriptome Profile Analysis of Proteus mirabilis Strain Under Long-versus Short-Term Simulated Microgravity Environment",
                         "title_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9252141/",
                         "publication_info": "B Zhang, P Bai, D Wang\u00a0- Polish Journal of Microbiology, 2022 - ncbi.nlm.nih.gov",
@@ -563,7 +563,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[BOOK][B] In-Space Manufacturing and Resources: Earth and Planetary Exploration Applications",
                         "title_link": "https://books.google.com/books?hl=en&lr=&id=3GF6EAAAQBAJ&oi=fnd&pg=PR15&dq=microgravity+space+biology&ots=l8gqoNWH8T&sig=BaK50i1aO9VT0tQHGlOfuguqz1c",
                         "publication_info": "V Hessel, J Stoudemire, H Miyamoto, ID Fisk - 2022 - books.google.com",
@@ -574,7 +574,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3426462834462317292&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Use of Reduced Gravity Simulators for Plant Biological Studies",
                         "title_link": "https://link.springer.com/protocol/10.1007/978-1-0716-1677-2_16",
                         "publication_info": "R Herranz, MA Valbuena, A Manzano, KY Kamal\u2026\u00a0- Plant Gravitropism, 2022 - Springer",
@@ -585,7 +585,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3978291748258987172&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Growth Behavior and Transcriptome Profile Analysis of Strain Under Long-versus Short-Term Simulated Microgravity Environment",
                         "title_link": "https://sciendo.com/it/article/10.33073/pjm-2022-015",
                         "publication_info": "B Zhang, P Bai, D Wang\u00a0- Polish Journal of Microbiology, 2022 - sciendo.com",
@@ -596,7 +596,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14076592148590096092&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "-Omics studies of plant biology in spaceflight: A critical review of recent experiments",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022FrASS...9.4657H/abstract",
                         "publication_info": "AM Hughes, JZ Kiss\u00a0- Frontiers in Astronomy and Space\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -607,7 +607,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Modeling Effects of Electromagnetic Fields on Bone Density on Humans in Microgravity",
                         "title_link": "https://arc.aiaa.org/doi/abs/10.2514/6.2022-4291",
                         "publication_info": "K Lutz, T Trevino\u00a0- ASCEND 2022, 2022 - arc.aiaa.org",
@@ -618,7 +618,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space Experiments Using as a Model Organism",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-3-030-05526-4_3",
                         "publication_info": "N Ishioka, A Higashibata\u00a0- Handbook of Space Pharmaceuticals, 2022 - Springer",
@@ -629,7 +629,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Co-leveraging Scientific Advances in Space Biology and Astrobiology Towards Achieving NASA's Life Science Objectives",
                         "title_link": "https://ntrs.nasa.gov/citations/20210023696",
                         "publication_info": "J Broddrick, T Hoehler, C Dateo\u00a0- Decadal Survey on Biological and\u00a0\u2026, 2022 - ntrs.nasa.gov",
@@ -640,7 +640,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Small tissue chips with big opportunities for space medicine",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552422000682",
                         "publication_info": "X Mu, W He, VAM Rivera, RAD De Alba\u2026\u00a0- Life Sciences in Space\u00a0\u2026, 2022 - Elsevier",
@@ -651,7 +651,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13949927872589851918&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "A Model to Study Microscale Bone Flows in Microgravity",
                         "title_link": "https://meetings.aps.org/Meeting/DFD22/Session/J32.6",
                         "publication_info": "T Peterson, S Le Henaff, J Delgado, J Mares\u2026\u00a0- Bulletin of the American\u00a0\u2026, 2022 - APS",
@@ -662,7 +662,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Activation of RANKL-producing cells under simulated microgravity with a three-dimensional clinostat in regenerating goldfish scales",
                         "title_link": "https://www.jstage.jst.go.jp/article/bss/36/0/36_9/_article/-char/ja/",
                         "publication_info": "T Yamamoto, M Ikegame, K Kuroda\u2026\u00a0- Biological Sciences in\u00a0\u2026, 2022 - jstage.jst.go.jp",
@@ -673,7 +673,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3999935847592367064&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "The hindlimb unloading mouse model: study of the biological effects of ionizing radiation, psychological stress and microgravity in space",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2634B/abstract",
                         "publication_info": "B Baselet, S Baatout\u2026\u00a0- \u2026\u00a0Assembly. Held 16\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -684,7 +684,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Rodents as 31",
                         "title_link": "https://link.springer.com/content/pdf/10.1007/978-3-030-05526-4.pdf#page=680",
                         "publication_info": "AE Ronca, MG Lowe\u00a0- Handbook of Space Pharmaceuticals, 2022 - Springer",
@@ -695,7 +695,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Rodents as a Model for Research in Space",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022hsp..book..679R/abstract",
                         "publication_info": "AE Ronca, MG Lowe\u00a0- Handbook of Space Pharmaceuticals, 2022 - ui.adsabs.harvard.edu",
@@ -706,7 +706,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Enhanced assembly of bacteriophage T7 produced in cell-free reactions under simulated microgravity",
                         "title_link": "https://www.biorxiv.org/content/10.1101/2022.12.16.520761.abstract",
                         "publication_info": "FX Lehr, B Pavleti\u0107, T Glatter, T Heimerl, R Moeller\u2026\u00a0- bioRxiv, 2022 - biorxiv.org",
@@ -717,7 +717,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14602081510413322842&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Future of Drug Development in Space: Unmanned Satellites and Vehicles",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-3-030-05526-4_46",
                         "publication_info": "Y Glick, S Eyal\u00a0- Handbook of Space Pharmaceuticals, 2022 - Springer",
@@ -728,7 +728,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13235528811174308240&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Expression of recombinant EIT protein under simulated microgravity conditions",
                         "title_link": "https://cell.ijbio.ir/article_2173.html?lang=en",
                         "publication_info": "M Salavatifar, S Kashanpoor\u2026\u00a0- \u2026\u00a0(Iranian Journal of Biology), 2022 - cell.ijbio.ir",
@@ -739,7 +739,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Microgravity environment grown crystal structure information based engineering of direct electron transfer type glucose dehydrogenase",
                         "title_link": "https://www.nature.com/articles/s42003-022-04286-9",
                         "publication_info": "J Okuda-Shimazaki, H Yoshida, I Lee, K Kojima\u2026\u00a0- \u2026\u00a0Biology, 2022 - nature.com",
@@ -750,7 +750,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5874096103308855320&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Multiscale modelling in the framework of biological systems and its potential for spaceflight biology studies.",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2589004222016935",
                         "publication_info": "A Millar-Wilson, \u00d3 Ward, E Duffy, G Hardiman\u00a0- Iscience, 2022 - Elsevier",
@@ -761,7 +761,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6503306400899536142&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Amyloidogenesis via interfacial shear in a containerless biochemical reactor aboard the International Space Station",
                         "title_link": "https://www.nature.com/articles/s41526-022-00227-2",
                         "publication_info": "P McMackin, J Adam, S Griffin, A Hirsa\u00a0- npj Microgravity, 2022 - nature.com",
@@ -772,7 +772,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16854403762262366944&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space flight and central nervous system: Friends or enemies? Challenges and opportunities for neuroscience and neuro\u2010oncology",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jnr.25066",
                         "publication_info": "G Marfia, SE Navone, L Guarnaccia\u2026\u00a0- Journal of\u00a0\u2026, 2022 - Wiley Online Library",
@@ -783,7 +783,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=7404667366681644144&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Wearable sensors non-intrusively monitor cardiovascular and respiratory adaptation to simulated microgravity",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2880H/abstract",
                         "publication_info": "E Hedge, R Hughson\u2026\u00a0- 44th COSPAR Scientific\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -794,7 +794,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space Biomedicine: A Unique Opportunity to Rethink the Relationships between Physics and Biology",
                         "title_link": "https://www.mdpi.com/1894280",
                         "publication_info": "M Bizzarri, V Fedeli, A Piombarolo, A Angeloni\u00a0- Biomedicines, 2022 - mdpi.com",
@@ -805,7 +805,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4320993088297619208&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "No Effect of Microgravity and Simulated Mars Gravity on Final Bacterial Cell Concentrations on the International Space Station: Applications to Space Bioproduction",
                         "title_link": "https://books.google.com/books?hl=en&lr=&id=OYpzEAAAQBAJ&oi=fnd&pg=PA130&dq=microgravity+space+biology&ots=eneHHNek3R&sig=CMLuUGMlGuTBtLMf0InsN0vQZx4",
                         "publication_info": "RA White III, JZ Kiss, KY Kamal\u2026\u00a0- \u2026\u00a0(Spacecraft, Space\u00a0\u2026, 2022 - books.google.com",
@@ -816,7 +816,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9769988426186017166&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Osteoclastic and Osteoblastic Responses to Hypergravity and Microgravity: Analysis Using Goldfish Scales as a Bone Model",
                         "title_link": "https://bioone.org/journals/zoological-science/volume-39/issue-4/zs210107/Osteoclastic-and-Osteoblastic-Responses-to-Hypergravity-and-Microgravity--Analysis/10.2108/zs210107.short",
                         "publication_info": "T Yamamoto, M Ikegame, Y Furusawa, Y Tabuchi\u2026\u00a0- Zoological Science, 2022 - BioOne",
@@ -827,7 +827,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6706559141086398485&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Biofilm formation of Pseudomonas aeruginosa in spaceflight is minimized on Lubricant Impregnated Surfaces",
                         "title_link": "https://www.researchsquare.com/article/rs-2306860/latest.pdf",
                         "publication_info": "L Zea, P Flores, S McBride, J Galazka, K Varanasi - 2022 - researchsquare.com",
@@ -838,7 +838,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4011984222340701244&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "The free-living filaments of Porphyra Yezoensis, a promising materials for the study of algal space biology",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2729S/abstract",
                         "publication_info": "K Shen, Y Sun, Y Bai, H Lu\u2026\u00a0- 44th COSPAR Scientific\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -849,7 +849,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] The Epidermis in Microgravity and Unloading Conditions and Their Effects on Wound Healing",
                         "title_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8980714/",
                         "publication_info": "S Bacci, D Bani\u00a0- Frontiers in Bioengineering and Biotechnology, 2022 - ncbi.nlm.nih.gov",
@@ -860,7 +860,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10804508544055059343&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Scaffold-based bone tissue engineering in microgravity: potential, concerns and implications",
                         "title_link": "https://www.nature.com/articles/s41526-022-00236-1",
                         "publication_info": "F Mochi, E Scatena, D Rodriguez, MP Ginebra\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -871,7 +871,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14212821734602966707&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Suppression of secondary wall formation in the basal supporting region of Arabidopsis inflorescence stems under microgravity conditions in space",
                         "title_link": "https://www.jstage.jst.go.jp/article/bss/36/0/36_1/_article/-char/ja/",
                         "publication_info": "Y Tanimura, A Mabuchi, K Soga\u2026\u00a0- Biological Sciences in\u00a0\u2026, 2022 - jstage.jst.go.jp",
@@ -882,7 +882,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=12159915223795062841&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity enhances the phenotype of Arabidopsis zigzag-1 and reduces the Wortmannin-induced vacuole fusion in root cells",
                         "title_link": "https://www.biorxiv.org/content/10.1101/2022.04.01.486597.abstract",
                         "publication_info": "M Wang, K Danz, V Ly, M Rojas-Pierce\u00a0- bioRxiv, 2022 - biorxiv.org",
@@ -893,7 +893,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9252043381349302017&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Biology undergraduate research experience at the ERAU's Space Microbiology Laboratory",
                         "title_link": "https://commons.erau.edu/discovery-day/db-discovery-day-2022/poster-session-1/21/",
                         "publication_info": "E Larsen, B Burden, J Robertson, H Castillo - 2022 - commons.erau.edu",
@@ -904,7 +904,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "MAREMADS: Microgravity and radiation effects on musculoskeletal atrophy detection system",
                         "title_link": "https://aip.scitation.org/doi/abs/10.1063/5.0072496",
                         "publication_info": "T Sengupta, H Altaf, M Gupta, AK Devaraj\u2026\u00a0- AIP Conference\u00a0\u2026, 2022 - aip.scitation.org",
@@ -915,7 +915,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9003563195922069375&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Diamagnetic phase separation in microgravity",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2967R/abstract",
                         "publication_info": "\u00c1 Romero-Calvo, K Brinkert\u2026\u00a0- 44th COSPAR Scientific\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -926,7 +926,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity Compatible, Portable, and Automated Nucleic Acid Extraction System for Future Human Missions",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2853V/abstract",
                         "publication_info": "K Venkateswaran\u00a0- \u2026\u00a0Scientific Assembly. Held 16-24 July, 2022 - ui.adsabs.harvard.edu",
@@ -937,7 +937,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Low-shear modeled microgravity affects metabolic networks of Escherichia coli O157: H7 EDL933: Further insights into space-microbiology consequences",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0963996922000709",
                         "publication_info": "HW Kim, BH Park, H Park, BC Baek, IG Choi\u2026\u00a0- Food Research\u00a0\u2026, 2022 - Elsevier",
@@ -948,7 +948,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5765362634081569261&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] A Current Overview of the Biological Effects of Combined Space Environmental Factors in Mammals",
                         "title_link": "https://www.frontiersin.org/articles/10.3389/fcell.2022.861006/pdf",
                         "publication_info": "Y Xu, W Pei, W Hu\u00a0- Frontiers in Cell and Developmental Biology, 2022 - frontiersin.org",
@@ -959,7 +959,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14239551967654958963&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Long-term osteogenic differentiation of human bone marrow stromal cells in simulated microgravity: novel proteins sighted",
                         "title_link": "https://link.springer.com/article/10.1007/s00018-022-04553-2",
                         "publication_info": "G Montagna, G Pani, D Flinkman, F Cristofaro\u2026\u00a0- Cellular and Molecular\u00a0\u2026, 2022 - Springer",
@@ -970,7 +970,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=7279998403163353676&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity-Related Changes in Bone Density and Treatment Options: A Systematic Review",
                         "title_link": "https://www.mdpi.com/1759122",
                         "publication_info": "R Baran, M Wehland, H Schulz, M Heer\u2026\u00a0- International Journal of\u00a0\u2026, 2022 - mdpi.com",
@@ -981,7 +981,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11374322847281007524&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] RPM MACHINES AND THEIR APPLICATIONS IN BIOLOGICAL PROCESSES",
                         "title_link": "https://www.researchgate.net/profile/Am-Kolodziejczyk-2/publication/364213641_RPMfinalreduced/links/633f3dfe76e39959d6a3b6c3/RPMfinalreduced.pdf",
                         "publication_info": "AM Kolodziejczyka, M Raimbaulta, H Reillya\u2026 - 2022 - researchgate.net",
@@ -992,7 +992,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Nitrogen gas production from urine to mitigate gas leakage for long-term Space missions: Proof of concept for an energy-efficient microgravity-compatible bioreactor",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2841T/abstract",
                         "publication_info": "M Timmer, C Lasseur, S Vlaeminck\u2026\u00a0- \u2026\u00a0Assembly. Held 16\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -1003,7 +1003,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Are Skeletal Muscle Changes during Prolonged Space Flights Similar to Those Experienced by Frail and Sarcopenic Older Adults?",
                         "title_link": "https://www.mdpi.com/article/10.3390/life12122139",
                         "publication_info": "A Cannavo, A Carandina, G Corbi, E Tobaldini\u2026\u00a0- Life, 2022 - mdpi.com",
@@ -1014,7 +1014,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5560954899003004075&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Impairment of 7F2 osteoblast function by simulated partial gravity in a Random Positioning Machine",
                         "title_link": "https://www.nature.com/articles/s41526-022-00202-x",
                         "publication_info": "J Braveboy-Wagner, PI Lelkes\u00a0- npj Microgravity, 2022 - nature.com",
@@ -1025,7 +1025,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=598668297748886874&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Innovative drugs against degenerative disease: Applications for Earth and space biomedicine",
                         "title_link": "https://dta.santannapisa.it/t/etd-03222022-162727/",
                         "publication_info": "N DI LEO - 2022 - dta.santannapisa.it",
@@ -1036,7 +1036,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Space microgravity improves proliferation of human iPSC-derived cardiomyocytes",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2213671122004167",
                         "publication_info": "A Rampoldi, P Forghani, D Li, H Hwang, LC Armand\u2026\u00a0- Stem Cell Reports, 2022 - Elsevier",
@@ -1047,7 +1047,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11464730598981392460&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] An eBook on Marine Biology and Aquaculture. Vol. 1, Chapter 3, pp. 15-27",
                         "title_link": "https://openaccessebooks.com/marine-biology-aquaculture/aquatic-organisms-as-models-in-biomedical-space-research.pdf",
                         "publication_info": "NV Kuznetsov - 2022 - openaccessebooks.com",
@@ -1058,7 +1058,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Technologies for handling, preparation, and liquid-based analysis of fluidic samples in space",
                         "title_link": "https://www.researchgate.net/profile/Florian-Kehl/publication/363813439_Editorial_Technologies_for_handling_preparation_and_liquid-based_analysis_of_fluidic_samples_in_space/links/63306ff8694dbe4bf4be653a/Editorial-Technologies-for-handling-preparation-and-liquid-based-analysis-of-fluidic-samples-in-space.pdf",
                         "publication_info": "F Kehl, K Bywaters, AG Fair\u00e9n, T Granata\u2026\u00a0- Frontiers in Space\u00a0\u2026, 2022 - researchgate.net",
@@ -1069,7 +1069,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Entanglement of Arabidopsis Seedlings to a Mesh Substrate under Microgravity Conditions in KIBO on the ISS",
                         "title_link": "https://www.mdpi.com/2223-7747/11/7/956",
                         "publication_info": "M Nakano, T Furuichi, M Sokabe, H Iida, S Yano\u2026\u00a0- Plants, 2022 - mdpi.com",
@@ -1080,7 +1080,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=466922427625119740&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Study of Rotary Cell Culture System-Induced Microgravity Effects on Cancer Biomarkers",
                         "title_link": "https://link.springer.com/protocol/10.1007/978-1-0716-1896-7_10",
                         "publication_info": "R Singh, RP Singh\u00a0- Cancer Biomarkers, 2022 - Springer",
@@ -1091,7 +1091,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11473582229544901536&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Recent Progress in Space Science and Applications of China's Space Station in 2020-2022",
                         "title_link": "https://epizodyspace.ru/bibl/inostr-yazyki/Chinese_Journal_of_Space_Science/2022/4/Station_(2020-2022)_Chin_J_Space_Sci_42_(2022).pdf",
                         "publication_info": "M GAO, G ZHAO, Y GU\u00a0- Chinese Journal of Space Science, 2022 - epizodyspace.ru",
@@ -1102,7 +1102,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4302890155989551126&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Root-zone Water Stress Assessment for the Advanced Plant Habitat (APH) Inaugural Mission on the International Space Station (ISS)",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2830H/abstract",
                         "publication_info": "R Heinse, O Monje, J Richards\u2026\u00a0- \u2026\u00a0Assembly. Held 16\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -1113,7 +1113,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Preparation of Human Muscle Precursor Cells for the MyoGravity Project's Study of Cell Cultures in Experiment Units for Space Flight Purposes",
                         "title_link": "https://www.mdpi.com/2076-3417/12/14/7013",
                         "publication_info": "ES Di Filippo, S Chiappalupi, M Balsamo, M Vukich\u2026\u00a0- Applied Sciences, 2022 - mdpi.com",
@@ -1124,7 +1124,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4892924001802411237&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Real and Simulated Microgravity: Focus on Mammalian Extracellular Matrix",
                         "title_link": "https://www.mdpi.com/2075-1729/12/9/1343",
                         "publication_info": "E Andreeva, D Matveeva, O Zhidkova, I Zhivodernikov\u2026\u00a0- Life, 2022 - mdpi.com",
@@ -1135,7 +1135,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4867434606543593145&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Active matter in space",
                         "title_link": "https://www.nature.com/articles/s41526-022-00230-7",
                         "publication_info": "G Volpe, C Bechinger, F Cichos, R Golestanian\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -1146,7 +1146,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16540112573232915446&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "In Vitro Growth and Development of Plants Under Stimulated Microgravity Condition",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-981-16-6498-4_17",
                         "publication_info": "DT Nhut, HD Khai, NX Tuan, HT Tung\u00a0- Plant Tissue Culture: New\u00a0\u2026, 2022 - Springer",
@@ -1157,7 +1157,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9311406418572613431&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "evolution of biological satellites: from low earth orbit to nasa's biosentinel deep space mission",
                         "title_link": "https://ntrs.nasa.gov/citations/20220013811",
                         "publication_info": "SR Santa Maria\u00a0- International Astronautical Congress (IAC) 2022, 2022 - ntrs.nasa.gov",
@@ -1168,7 +1168,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Extraterrestrial Gynecology: Could Spaceflight Increase the Risk of Developing Cancer in Female Astronauts? An Updated Review",
                         "title_link": "https://www.mdpi.com/1712538",
                         "publication_info": "R Drago-Ferrante, R Di Fiore, F Karouia\u2026\u00a0- International Journal of\u00a0\u2026, 2022 - mdpi.com",
@@ -1179,7 +1179,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6098635599198965015&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Operation of a programmable microfluidic organic analyzer under microgravity conditions simulating space flight environments",
                         "title_link": "https://www.researchsquare.com/article/rs-2207125/latest.pdf",
                         "publication_info": "JJ Kim, Z Estlack, M Golozar, A Butterworth, R Mathies - 2022 - researchsquare.com",
@@ -1190,7 +1190,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16462289724590598918&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Plant Biology and a New Approach to Space Farming",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527830909.ch4",
                         "publication_info": "N Haveman, AL Paul, R Ferl\u00a0- In\u2010Space Manufacturing and\u00a0\u2026, 2022 - Wiley Online Library",
@@ -1201,7 +1201,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5577300566578039322&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Ishophloroglucin A Ameliorates VEGF-Induced Epithelial-Mesenchymal Transition via VEGFR2 Pathway Inhibition in Microgravity-Stimulated Human Retinal Pigment\u00a0\u2026",
                         "title_link": "https://www.mdpi.com/2076-3921/11/11/2212",
                         "publication_info": "M Son, B Ryu, JG Je, YJ Jeon, DY Kim\u00a0- Antioxidants, 2022 - mdpi.com",
@@ -1212,7 +1212,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11853373369348586441&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "A strategy to assess the effect of microgravity on the neuronal cytoskeleton and intracellular trafficking",
                         "title_link": "https://summit.sfu.ca/item/35450",
                         "publication_info": "M Danesh - 2022 - summit.sfu.ca",
@@ -1223,7 +1223,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Aquatic organisms as models in biomedical space research",
                         "title_link": "https://www.authorea.com/doi/full/10.1002/essoar.10510313",
                         "publication_info": "N Kuznetsov\u00a0- Authorea Preprints, 2022 - authorea.com",
@@ -1234,7 +1234,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3471848680002558110&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Integrating bioinformatic strategies in spatial life science research",
                         "title_link": "https://academic.oup.com/bib/article-abstract/23/6/bbac415/6748488",
                         "publication_info": "Y Hao, L Lu, A Liu, X Lin, L Xiao, X Kong\u2026\u00a0- Briefings in\u00a0\u2026, 2022 - academic.oup.com",
@@ -1245,7 +1245,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=7222022926527816419&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Could stem cell study in space avail patients and researchers on Earth?",
                         "title_link": "https://m.reload97.com/ATROA/ATROA-08-00127.pdf",
                         "publication_info": "LM Montaser\u00a0- Adv Tissue Eng Regen Med Open Access, 2022 - m.reload97.com",
@@ -1256,7 +1256,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=15771803083762150996&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] VDR regulates simulated microgravity-induced atrophy in C2C12 myotubes",
                         "title_link": "https://www.nature.com/articles/s41598-022-05354-0",
                         "publication_info": "R Yuzawa, H Koike, I Manabe, Y Oishi\u00a0- Scientific reports, 2022 - nature.com",
@@ -1267,7 +1267,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4029216575258364521&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Influence of Microgravity on the Physiology, Pathogenicity and Antibiotic Efficacy of Microorganisms",
                         "title_link": "https://jrasb.com/index.php/jrasb/article/view/92",
                         "publication_info": "A Dawar, R Warmoota\u00a0- Journal for Research in Applied Sciences and\u00a0\u2026, 2022 - jrasb.com",
@@ -1278,7 +1278,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Blood pressure adaptation in vertebrates: Comparative biology",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0085253822004343",
                         "publication_info": "A Nishiyama, K Kitada, M Suzuki\u00a0- Kidney International, 2022 - Elsevier",
@@ -1289,7 +1289,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13156391040553145011&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "A New Random Positioning Machine Modification Applied for Microgravity Simulation in Laboratory Experiments with Rats",
                         "title_link": "https://www.mdpi.com/1836990",
                         "publication_info": "VV Yotov, J Marovska, V Turiyski, SI Ivanov\u00a0- Inventions, 2022 - mdpi.com",
@@ -1300,7 +1300,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6833753270395371270&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space omics research in Europe: Contributions, geographical distribution and ESA member state funding schemes",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2589004222001900",
                         "publication_info": "CS Deane, J Borg, T Cahill, E Carnero-Diaz\u2026\u00a0- Iscience, 2022 - Elsevier",
@@ -1311,7 +1311,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11950725161059573328&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Unconscious mind activates central cardiovascular network and promotes adaptation to microgravity possibly anti-aging during 1-year-long spaceflight",
                         "title_link": "https://link.springer.com/content/pdf/10.1038/s41598-022-14858-8.pdf",
                         "publication_info": "K Otsuka, G Cornelissen, S Furukawa, K Shibata\u2026\u00a0- Scientific reports, 2022 - Springer",
@@ -1322,7 +1322,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=15151650381000654000&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Enhanced self-renewal of human pluripotent stem cells by simulated microgravity",
                         "title_link": "https://www.nature.com/articles/s41526-022-00209-4",
                         "publication_info": "S Timilsina, T Kirsch-Mangu, S Werth, B Shepard\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -1333,7 +1333,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4949670783060740027&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "In Vitro Models of Bone Marrow Remodelling and Immune Dysfunction in Space: Present State and Future Directions",
                         "title_link": "https://www.mdpi.com/1557978",
                         "publication_info": "R Sarkar, F Pampaloni\u00a0- Biomedicines, 2022 - mdpi.com",
@@ -1344,7 +1344,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2953759932881749073&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Micro-Bioreactors in Space: Case Study of a Yeast (Saccharomyces cerevisiae) Bioreactor With a Non-Invasive Monitoring Method",
                         "title_link": "https://www.frontiersin.org/articles/10.3389/frspt.2021.773814/full",
                         "publication_info": "T Granata, B Rattenbacher, G John\u00a0- Frontiers in Space Technologies, 2022 - frontiersin.org",
@@ -1355,7 +1355,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Effects of human thermophysiology and psychology in exposure to simulated microgravity",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576522005276",
                         "publication_info": "Q Zhang, L Ding, C Sun, H Feng, Y Ma, Y Chen, B Xin\u2026\u00a0- Acta Astronautica, 2022 - Elsevier",
@@ -1366,7 +1366,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14047083779374526283&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Ckip-1 3\u2032-UTR Attenuates Simulated Microgravity-Induced Cardiac Atrophy",
                         "title_link": "https://www.frontiersin.org/articles/10.3389/fcell.2021.796902/full",
                         "publication_info": "Y Zhao, G Zhong, R Du, D Zhao, J Li, Y Li\u2026\u00a0- \u2026\u00a0developmental biology, 2022 - frontiersin.org",
@@ -1377,7 +1377,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1488318370405244948&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Modeled microgravity alters apoptotic gene expression and caspase activity in the squid-vibrio symbiosis",
                         "title_link": "https://link.springer.com/article/10.1186/s12866-022-02614-x",
                         "publication_info": "MM Vroom, A Troncoso-Garcia, AA Duscher\u2026\u00a0- BMC microbiology, 2022 - Springer",
@@ -1388,7 +1388,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11561449865963652879&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Magnetic phase separation in microgravity",
                         "title_link": "https://www.nature.com/articles/s41526-022-00212-9",
                         "publication_info": "\u00c1 Romero-Calvo, \u00d6 Akay, H Schaub, K Brinkert\u00a0- npj Microgravity, 2022 - nature.com",
@@ -1399,7 +1399,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11997510120707702900&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity Modifies the Phenotype of Fibroblast and Promotes Remodeling of the Fibroblast\u2013Keratinocyte Interaction in a 3D Co-Culture Model",
                         "title_link": "https://www.mdpi.com/1422-0067/23/4/2163",
                         "publication_info": "V Fedeli, A Cucina, S Dinicola, G Fabrizi\u2026\u00a0- International journal of\u00a0\u2026, 2022 - mdpi.com",
@@ -1410,7 +1410,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13067253976990103699&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] SpaceHort: redesigning plants to support space exploration and on-earth sustainability",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0958166921001646",
                         "publication_info": "JC Mortimer, M Gilliham\u00a0- Current Opinion in Biotechnology, 2022 - Elsevier",
@@ -1421,7 +1421,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6690090882298100810&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "In situ resource utilisation: The potential for space biomining",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0892687521005173",
                         "publication_info": "Y Gumulya, L Zea, AH Kaksonen\u00a0- Minerals Engineering, 2022 - Elsevier",
@@ -1432,7 +1432,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=4704612805280439849&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Modulation of biological motion perception in humans by gravity",
                         "title_link": "https://www.nature.com/articles/s41467-022-30347-y",
                         "publication_info": "Y Wang, X Zhang, C Wang, W Huang, Q Xu\u2026\u00a0- Nature\u00a0\u2026, 2022 - nature.com",
@@ -1443,7 +1443,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=17413450458100545284&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "\u2026\u00a0of plant hormones in etiolated pea and maize seedlings grown under microgravity conditions in space: Relevance to the International Space Station experiment \u201cAuxin\u00a0\u2026",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552422000797",
                         "publication_info": "C Yamazaki, T Yamazaki, M Kojima\u2026\u00a0- Life Sciences in Space\u00a0\u2026, 2022 - Elsevier",
@@ -1454,7 +1454,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "The Impact of Long\u2010Duration Exposure to Microgravity and Galactic Cosmic Radiation on Corpus Cavernosum Function",
                         "title_link": "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2022.36.S1.R5470",
                         "publication_info": "MR Andrade, TA Azeez, MLM Montgomery\u2026\u00a0- The FASEB\u00a0\u2026, 2022 - Wiley Online Library",
@@ -1465,7 +1465,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10573518316931411954&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Root growth direction in simulated microgravity is modulated by a light avoidance mechanism mediated by flavonols",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ppl.13722",
                         "publication_info": "A Villacampa, I Fa\u00f1an\u00e1s\u2010Pueyo\u2026\u00a0- Physiologia\u00a0\u2026, 2022 - Wiley Online Library",
@@ -1476,7 +1476,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=90523171496221770&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "A novel device to study altered gravity and light interactions in seedling tropisms",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552421000742",
                         "publication_info": "G Aronne, LWF Muthert, LG Izzo, LE Romano\u2026\u00a0- Life Sciences in Space\u00a0\u2026, 2022 - Elsevier",
@@ -1487,7 +1487,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=721118529915515297&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Loss of physical contact in space alters the dopamine system in C. elegans",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2589004222000323",
                         "publication_info": "S Sudevan, K Muto, N Higashitani, T Hashizume\u2026\u00a0- Iscience, 2022 - Elsevier",
@@ -1498,7 +1498,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13731644563506498196&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Prolonged microgravity induces reversible and persistent changes on human cerebral connectivity",
                         "title_link": "https://orbi.uliege.be/handle/2268/295786",
                         "publication_info": "S Jillings, E Pechenkova, T Elena\u2026\u00a0- \u2026\u00a0Biology, 2022 - orbi.uliege.be",
@@ -1509,7 +1509,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space as a classic environment for microscopic and anatomical studies",
                         "title_link": "http://ojs.klobexjournals.com/index.php/ijbhs/article/view/1391",
                         "publication_info": "FA Oluwafemi, E Aregbe, O Ameh\u2026\u00a0- \u2026\u00a0of Biomedical and\u00a0\u2026, 2022 - ojs.klobexjournals.com",
@@ -1520,7 +1520,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6431432841849343685&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] High-gradient magnetic fields and starch metabolism: Results from a space experiment",
                         "title_link": "https://www.nature.com/articles/s41598-022-22691-2",
                         "publication_info": "KH Hasenstein, MR Park, SP John, C Ajala\u00a0- Scientific Reports, 2022 - nature.com",
@@ -1531,7 +1531,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=8311113918875289543&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Characterization of gene expression profiles in the mouse brain after 35 days of spaceflight mission",
                         "title_link": "https://www.nature.com/articles/s41526-022-00217-4",
                         "publication_info": "JM Holley, S Stanbouly, MJ Pecaut, JS Willey, M Delp\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -1542,7 +1542,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13799812940992495&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] The Wentian experiment module of the China space station has just gone into orbit",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S266667582200087X/pdf?md5=7afdc361abeb1ffcae27b13ac7911831&pid=1-s2.0-S266667582200087X-main.pdf",
                         "publication_info": "L Yan, Z Wei\u00a0- The Innovation, 2022 - Elsevier",
@@ -1553,7 +1553,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3994846798935684625&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "MULTI-SCALE MECHANICAL BEHAVIOR ANALYSIS ON FLUID\u2013SOLID COUPLING FOR OSTEONS IN VARIOUS GRAVITATIONAL FIELDS",
                         "title_link": "https://www.worldscientific.com/doi/abs/10.1142/S0219519421500718",
                         "publication_info": "H Zhang, HY Liu, CQ Zhang, ZZ Liu\u2026\u00a0- \u2026\u00a0in Medicine and Biology, 2022 - World Scientific",
@@ -1564,7 +1564,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "4149",
+                        "year": 2022,
                         "title": "Promoting Sustainability in Space: Biological Treatment of Urine Wastewater with a Membrane-Aerated Biofilm Reactor",
                         "title_link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149199",
                         "publication_info": "C Zhan, L Zhang, W Ai, W Dong\u00a0- Available at SSRN 4149199 - papers.ssrn.com",
@@ -1575,7 +1575,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "In Vitro Growth and Development of Plants Under Stimulated Microgravity Condition",
                         "title_link": "https://books.google.com/books?hl=en&lr=&id=jV1oEAAAQBAJ&oi=fnd&pg=PA343&dq=microgravity+space+biology&ots=NbfnHkP5fZ&sig=obhl7HIKbN70bblsB2yiSDxFBsI",
                         "publication_info": "HT Tung\u00a0- Plant Tissue Culture, 2022 - books.google.com",
@@ -1586,7 +1586,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Genomic Characterization of the Titan-like Cell Producing Naganishia tulchinskyi, the First Novel Eukaryote Isolated from the International Space Station",
                         "title_link": "https://www.mdpi.com/2309-608X/8/2/165",
                         "publication_info": "S Bijlani, C Parker, NK Singh, MA Sierra, J Foox\u2026\u00a0- Journal of Fungi, 2022 - mdpi.com",
@@ -1597,7 +1597,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11528859978514144946&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Spaceflight Changes the Production and Bioactivity of Secondary Metabolites in Beauveria bassiana",
                         "title_link": "https://www.mdpi.com/2072-6651/14/8/555",
                         "publication_info": "Y Zhang, X Zhang, J Zhang, S Ali, J Wu\u00a0- Toxins, 2022 - mdpi.com",
@@ -1608,7 +1608,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1795560508993517278&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Biosensor integrated tissue chips and their applications on Earth and in space",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0956566322008600",
                         "publication_info": "A Yau, Z Wang, N Ponthempilly, Y Zhang\u2026\u00a0- Biosensors and\u00a0\u2026, 2022 - Elsevier",
@@ -1619,7 +1619,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10070443047930035554&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Exocube; an Astrobiology Exposure Platform Onboard the International Space Station",
                         "title_link": "https://ui.adsabs.harvard.edu/abs/2022cosp...44.2759B/abstract",
                         "publication_info": "D Burr, A Elsaesser, S Wipf\u2026\u00a0- \u2026\u00a0Assembly. Held 16\u00a0\u2026, 2022 - ui.adsabs.harvard.edu",
@@ -1630,7 +1630,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Clinical trial in a dish for space radiation countermeasure discovery",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552422000347",
                         "publication_info": "X Cao, MM Weil, JC Wu\u00a0- Life Sciences in Space Research, 2022 - Elsevier",
@@ -1641,7 +1641,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Antioxidant metabolism and oxidative damage in Anthemis gilanica cell line under fast clinorotation",
                         "title_link": "https://link.springer.com/article/10.1007/s11240-022-02324-2",
                         "publication_info": "H Halimeh\u00a0- Plant Cell, Tissue and Organ Culture (PCTOC), 2022 - Springer",
@@ -1652,7 +1652,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Effects of space flight on sperm function and integrity: A systematic review",
                         "title_link": "https://www.frontiersin.org/articles/10.3389/fphys.2022.904375/pdf",
                         "publication_info": "K Ahrari, TS Omolaoye, N Goswami\u2026\u00a0- Frontiers in\u00a0\u2026, 2022 - frontiersin.org",
@@ -1663,7 +1663,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3848469135718298598&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Amyloidogenesis via interfacial shear in a containerless biochemical reactor aboard the International Space Station",
                         "title_link": "https://www.researchsquare.com/article/rs-1685436/latest.pdf",
                         "publication_info": "A Hirsa, P McMackin, J Adam, S Griffin - 2022 - researchsquare.com",
@@ -1674,7 +1674,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=22543483733153515&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space Medicines for Space Health",
                         "title_link": "https://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.1c00681",
                         "publication_info": "QD Tran, V Tran, LS Toh, PM Williams\u2026\u00a0- ACS Medicinal\u00a0\u2026, 2022 - ACS Publications",
@@ -1685,7 +1685,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Red Light Enhances Plant Adaptation to Spaceflight and Mars g-Levels",
                         "title_link": "https://www.mdpi.com/2075-1729/12/10/1484",
                         "publication_info": "FJ Medina, A Manzano, R Herranz, JZ Kiss\u00a0- Life, 2022 - mdpi.com",
@@ -1696,7 +1696,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=18091444458510486908&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Biomedical payloads: A maturing application for CubeSats",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576521006135",
                         "publication_info": "DJ Robson, C Cappelletti\u00a0- Acta Astronautica, 2022 - Elsevier",
@@ -1707,7 +1707,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=15980361189339014266&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Microgravity-induced stress mechanisms in human stem cell-derived cardiomyocytes",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2589004222008495",
                         "publication_info": "A Acharya, H Nemade, S Papadopoulos, J Hescheler\u2026\u00a0- Iscience, 2022 - Elsevier",
@@ -1718,7 +1718,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=8254239491527853801&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Simulated microgravity affects stroma-dependent ex vivo myelopoiesis",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0040816622002592",
                         "publication_info": "EA Tyrina, ER Andreeva, LB Buravkova\u00a0- Tissue and Cell, 2022 - Elsevier",
@@ -1729,7 +1729,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9661331677087290634&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Long-term partial gravity environment simulation method based on double inclined and horizontal planes cyclical simulation device",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0263224122010314",
                         "publication_info": "Y Zhang, J Lu, Y He\u00a0- Measurement, 2022 - Elsevier",
@@ -1740,7 +1740,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Aerospace Technology Improves Fermentation Potential of Microorganisms",
                         "title_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106405/",
                         "publication_info": "Y Chi, X Wang, F Li, Z Zhang, P Tan\u00a0- Frontiers in microbiology, 2022 - ncbi.nlm.nih.gov",
@@ -1751,7 +1751,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14536315078858464583&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space Architecture in Microgravity: TESSERAE Project for Large Scale Space Structures",
                         "title_link": "https://www.tandfonline.com/doi/abs/10.1080/24751448.2022.2116225",
                         "publication_info": "A Ekblaw\u00a0- Technology| Architecture+ Design, 2022 - Taylor & Francis",
@@ -1762,7 +1762,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Sex Differences in Biological Systems and the Conundrum of Menopause: Potential Commonalities in Post-Menopausal Disease Mechanisms",
                         "title_link": "https://www.mdpi.com/article/10.3390/ijms23084119",
                         "publication_info": "DA Hart\u00a0- International Journal of Molecular Sciences, 2022 - mdpi.com",
@@ -1773,7 +1773,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11254534941088578733&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Recent developments in space food for exploration missions: A review",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552422000736",
                         "publication_info": "JA Pandith, S Neekhra, S Ahmad, RA Sheikh\u00a0- Life Sciences in Space\u00a0\u2026, 2022 - Elsevier",
@@ -1784,7 +1784,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] GREEN APPROACH OF RICE (MR 219) TREATMENT USING A 2-D CLINOSTAT: FACTORIAL DESIGN ANALYSIS",
                         "title_link": "https://scholar.archive.org/work/r54vwko2rve5tfn5pv74g263mi/access/wayback/https://jssm.umt.edu.my/wp-content/uploads/sites/51/2022/05/Article-5-JSSM-Volume-17-Number-3-March-2022.pdf",
                         "publication_info": "NURA ZULKIFLI, TC CHUANG\u2026\u00a0- Journal of\u00a0\u2026, 2022 - scholar.archive.org",
@@ -1795,7 +1795,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9701904703023783933&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "FLUMIAS-live-cell imaging fluorescence microscopy on a centrifuge for research on gravity-sensitive cellular dynamics on-board the ISS",
                         "title_link": "https://elib.dlr.de/190202/",
                         "publication_info": "T Schmakeit - 2022 - elib.dlr.de",
@@ -1806,7 +1806,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Magnetic levitation for space exploration",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0167779922000786",
                         "publication_info": "MR Sarabi, AK Yetisen, S Tasoglu\u00a0- Trends in Biotechnology, 2022 - Elsevier",
@@ -1817,7 +1817,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2174177830732715229&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] The Regulating Mechanisms of Development, Growth, and Metabolism: From Ground to Space",
                         "title_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9240969/",
                         "publication_info": "X Lei, W Zhang, Y Zhang, L Zhao\u00a0- \u2026\u00a0and Developmental Biology, 2022 - ncbi.nlm.nih.gov",
@@ -1828,7 +1828,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Agarose hydrogel composite supports microgreen cultivation with enhanced porosity and continuous water supply under terrestrial and microgravitational conditions",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0141813022017408",
                         "publication_info": "Z Teng, Y Luo, DJ Pearlstein, B Zhou\u2026\u00a0- \u2026\u00a0Journal of Biological\u00a0\u2026, 2022 - Elsevier",
@@ -1839,7 +1839,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3726368563079141400&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Review extraterrestrial gynecology: could spaceflight increase the risk of developing cancer in female astronauts? An updated review",
                         "title_link": "https://www.um.edu.mt/library/oar/handle/123456789/99219",
                         "publication_info": "R Drago-Ferrante, R Di Fiore, F Karouia\u2026 - 2022 - um.edu.mt",
@@ -1850,7 +1850,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Hepatology in space: Effects of spaceflight and simulated microgravity on the liver",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/liv.15444",
                         "publication_info": "M Vinken\u00a0- Liver International, 2022 - Wiley Online Library",
@@ -1861,7 +1861,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9986594742671768679&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Three-dimensional growth of prostate cancer cells exposed to simulated microgravity",
                         "title_link": "https://www.frontiersin.org/articles/10.3389/fcell.2022.841017/pdf",
                         "publication_info": "D Dietrichs, D Grimm, J Sahana, D Melnik\u2026\u00a0- \u2026\u00a0Biology, 2022 - frontiersin.org",
@@ -1872,7 +1872,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14012470826349378115&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity Crystallization and Neutron Diffraction of PLP-Dependent Enzymes",
                         "title_link": "https://rave.ohiolink.edu/etdc/view?acc_num=toledo1651852693785807",
                         "publication_info": "DN Victoria - 2022 - rave.ohiolink.edu",
@@ -1883,7 +1883,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Physiological consequences of space flight, including abnormal bone metabolism, space radiation injury, and circadian clock dysregulation: Implications of melatonin\u00a0\u2026",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpi.12834",
                         "publication_info": "J Hirayama, A Hattori, A Takahashi\u2026\u00a0- Journal of Pineal\u00a0\u2026, 2022 - Wiley Online Library",
@@ -1894,7 +1894,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=15746299467783507051&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Melanin protects Cryptococcus neoformans from spaceflight effects",
                         "title_link": "https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1758-2229.13078",
                         "publication_info": "RJB Cordero, Q Dragotakes, PJ Friello\u2026\u00a0- Environmental\u00a0\u2026, 2022 - Wiley Online Library",
@@ -1905,7 +1905,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=12334441142496530358&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] To infinity and beyond: Strategies for fabricating medicines in outer space",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S259015672200010X",
                         "publication_info": "I Seoane-Viano, JJ Ong, AW Basit\u2026\u00a0- International Journal of\u00a0\u2026, 2022 - Elsevier",
@@ -1927,7 +1927,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=691423757389872943&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Microfluidics and Macrofluidics in Space: ISS-Proven Fluidic Transport and Handling Concepts",
                         "title_link": "https://www.frontiersin.org/articles/10.3389/frspt.2021.779696/full",
                         "publication_info": "J Nijhuis, S Schmidt, NN Tran, V Hessel\u00a0- Frontiers in Space\u00a0\u2026, 2022 - frontiersin.org",
@@ -1938,7 +1938,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Pectin methylesterase gene AtPMEPCRA contributes to physiological adaptation to simulated and spaceflight microgravity in Arabidopsis",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2589004222006022",
                         "publication_info": "P Xu, H Chen, J Hu, X Pang, J Jin, W Cai\u00a0- Iscience, 2022 - Elsevier",
@@ -1949,7 +1949,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14662478157913804831&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Nano drug delivery systems for space applications",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-3-030-05526-4_18",
                         "publication_info": "J Patel, A Patel\u00a0- Handbook of Space Pharmaceuticals, 2022 - Springer",
@@ -1960,7 +1960,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1435310927896741934&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Plant-based production and characterization of a promising Fc-fusion protein against microgravity-induced bone density loss",
                         "title_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9511166/",
                         "publication_info": "Y Xiong, H Hirano, NE Lane, S Nandi\u2026\u00a0- \u2026\u00a0in Bioengineering and\u00a0\u2026, 2022 - ncbi.nlm.nih.gov",
@@ -1971,7 +1971,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6592300290856152808&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Challenges and considerations for single-cell and spatially resolved transcriptomics sample collection during spaceflight",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2667237522002156",
                         "publication_info": "EG Overbey, S Das, H Cope, P Madrigal\u2026\u00a0- Cell Reports\u00a0\u2026, 2022 - Elsevier",
@@ -1982,7 +1982,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=170258282122364687&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Role of microfluidics in accelerating new space missions",
                         "title_link": "https://aip.scitation.org/doi/abs/10.1063/5.0079819",
                         "publication_info": "S Kuang, NM Singh, Y Wu, Y Shen, W Ren, L Tu\u2026\u00a0- \u2026, 2022 - aip.scitation.org",
@@ -1993,7 +1993,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5843333916094837011&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Designing a novel monitoring approach for the effects of space travel on astronauts' health",
                         "title_link": "https://www.biorxiv.org/content/10.1101/2022.02.06.479323.abstract",
                         "publication_info": "A Sakharkar, J Yang\u00a0- bioRxiv, 2022 - biorxiv.org",
@@ -2015,7 +2015,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Temporal effects of three-dimensional clinostat treatment on bone and serum metabolome in C57BL/J mice: a new method of simulating microgravity effect",
                         "title_link": "https://www.researchsquare.com/article/rs-1861083/latest.pdf",
                         "publication_info": "C Song, T Kang, M Zhang, K Gao, X Shi, J Guo - 2022 - researchsquare.com",
@@ -2026,7 +2026,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2897339489742692073&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Agent-Based Modeling of Microbes in Space",
                         "title_link": "https://ntrs.nasa.gov/citations/20220008806",
                         "publication_info": "JA Lee, R An, A Singh, MP Lera\u00a0- ASM Microbe 2022, 2022 - ntrs.nasa.gov",
@@ -2037,7 +2037,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space Life Science in China",
                         "title_link": "https://www.cjss.ac.cn/en/article/doi/10.11728/cjss2022.04.yg17",
                         "publication_info": "MA Hong, Z Chen, LI Yujuan, L\u00dc Xuefei, LI Xiaoqiong\u2026\u00a0- \u7a7a\u95f4\u79d1\u5b66\u5b66\u62a5, 2022 - cjss.ac.cn",
@@ -2048,7 +2048,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Space food on celestial bodies and on the way there",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/B9780323910019000128",
                         "publication_info": "F Oluwafemi\u00a0- Future Foods, 2022 - Elsevier",
@@ -2070,7 +2070,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Characteristics of blood plasma proteome changes associated with the hemorrhagic purpura of cosmonauts on the first day after long-term space missions",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552422000013",
                         "publication_info": "LK Pastushkova, IN Goncharov, MI Koloteva\u2026\u00a0- Life Sciences in Space\u00a0\u2026, 2022 - Elsevier",
@@ -2081,7 +2081,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1380794486957449205&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Conceptual Technical Design of 3-Dimension Rotational Clinostat for Microgravity Simulation focused on Agro-Engineering Applications for Small Plants Cultivation",
                         "title_link": "https://ieeexplore.ieee.org/abstract/document/9870112/",
                         "publication_info": "R Barreto, J Cornejo\u2026\u00a0- 2022 IEEE XXIX\u00a0\u2026, 2022 - ieeexplore.ieee.org",
@@ -2092,7 +2092,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3294683567016497135&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Prolonged Exposure to Simulated Microgravity Changes Release of Small Extracellular Vesicle in Breast Cancer Cells",
                         "title_link": "https://www.mdpi.com/2013038",
                         "publication_info": "PM Wise, J Sahana, P Neviani, TJ Corydon\u2026\u00a0- International Journal of\u00a0\u2026, 2022 - mdpi.com",
@@ -2103,7 +2103,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Acquired Antibiotic Resistance in Klebsiella pneumoniae Exposed to Short-Term Simulated Microgravity and Background Antibiotic Exposure",
                         "title_link": "https://www.researchsquare.com/article/rs-1871995/latest.pdf",
                         "publication_info": "T Fang, X Su, D Wang, X Jiang, Y Li, J Wang, C Liu - 2022 - researchsquare.com",
@@ -2114,7 +2114,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=670469298621302492&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Simulated Microgravity Potentiates Hematopoietic Differentiation of Human Pluripotent Stem Cells and Supports Formation of 3D Hematopoietic Cluster",
                         "title_link": "https://www.frontiersin.org/articles/10.3389/fcell.2021.797060/full",
                         "publication_info": "C Ma, Y Xiong, P Han, X Zhang, Y Cao\u2026\u00a0- \u2026\u00a0developmental biology, 2022 - frontiersin.org",
@@ -2125,7 +2125,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=17130588397155165188&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Recent transcriptomic studies to elucidate the plant adaptive response to spaceflight and to simulated space environments",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2589004222009592",
                         "publication_info": "A Manzano, E Carnero-Diaz, R Herranz, FJ Medina\u00a0- Iscience, 2022 - Elsevier",
@@ -2136,7 +2136,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13577057015551842041&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Leveraging Spaceflight to Advance Cardiovascular Research on Earth",
                         "title_link": "https://www.ahajournals.org/doi/abs/10.1161/CIRCRESAHA.121.319843",
                         "publication_info": "JM Scott, J Stoudemire, L Dolan, M Downs\u00a0- Circulation Research, 2022 - Am Heart Assoc",
@@ -2147,7 +2147,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=17467167684927505912&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Effects of Space Flight on Bone and Skeletal Tissue",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-3-030-05526-4_21",
                         "publication_info": "A Sundaresan, V Mann, E Okoro\u00a0- Handbook of Space Pharmaceuticals, 2022 - Springer",
@@ -2158,7 +2158,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1126144807718919416&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Utilizing the KSC Fixation Tube to Conduct Human-Tended Plant Biology Experiments on a Suborbital Spaceflight",
                         "title_link": "https://www.mdpi.com/1942680",
                         "publication_info": "NJ Haveman, M Zhou, J Callaham, HF Strickland\u2026\u00a0- Life, 2022 - mdpi.com",
@@ -2169,7 +2169,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=12157218240766210197&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Drosophila melanogaster Oocytes after Space Flight: The Early Period of Adaptation to the Force of Gravity",
                         "title_link": "https://www.mdpi.com/article/10.3390/cells11233871",
                         "publication_info": "IV Ogneva, MA Golubkova, NS Biryukov, OV Kotov\u00a0- Cells, 2022 - mdpi.com",
@@ -2180,7 +2180,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10669087346958145627&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] MSCs in Space: Mesenchymal Stromal Cell Therapeutics as Enabling Technology for Long-Distance Manned Space Travel",
                         "title_link": "https://link.springer.com/article/10.1007/s40778-022-00207-y",
                         "publication_info": "J Giri, G Moll\u00a0- Current Stem Cell Reports, 2022 - Springer",
@@ -2191,7 +2191,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2468538178524182014&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space research for improvements of treatment cancer disease",
                         "title_link": "https://dspace.nau.edu.ua/handle/NAU/55126",
                         "publication_info": "M Shportak - 2022 - dspace.nau.edu.ua",
@@ -2202,7 +2202,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "The Role of Nitric Oxide in the Arabidopsis thaliana Response to Simulated Microgravity and the Involvement of Autophagy in This Process",
                         "title_link": "https://link.springer.com/article/10.3103/S0095452722030100",
                         "publication_info": "SH Plokhovska, RY Shadrina, OA Kravets\u2026\u00a0- Cytology and\u00a0\u2026, 2022 - Springer",
@@ -2213,7 +2213,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3477441190788223235&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Space Healthtech: Innovation Base for Longevity",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-3-031-08191-0_10",
                         "publication_info": "TH Nguyen\u00a0- Novel Innovation Design for the Future of Health, 2022 - Springer",
@@ -2224,7 +2224,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Atherogenic potential of microgravity hemodynamics in the carotid bifurcation: a numerical investigation",
                         "title_link": "https://www.nature.com/articles/s41526-022-00223-6",
                         "publication_info": "P Sucosky, VV Kalaiarasan, GB Quasebarth, P Strack\u2026\u00a0- \u2026\u00a0Microgravity, 2022 - nature.com",
@@ -2235,7 +2235,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10163822941647951310&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microgravity: New aspect for breast cancer treatment, a review",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576521005312",
                         "publication_info": "M Medha, A Roy\u00a0- Acta Astronautica, 2022 - Elsevier",
@@ -2246,7 +2246,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=12294503385657868184&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Changes in interstitial fluid flow, mass transport and the bone cell response in microgravity and normogravity",
                         "title_link": "https://www.nature.com/articles/s41413-022-00234-9",
                         "publication_info": "F Wei, K Flowerdew, M Kinzel, LE Perotti, J Asiatico\u2026\u00a0- Bone Research, 2022 - nature.com",
@@ -2257,7 +2257,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=8826483686370750514&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Ceramic paste for space stereolithography 3D printing technology in microgravity environment",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0955221922002102",
                         "publication_info": "R Dou, W Tang, K Hu, L Wang\u00a0- Journal of the European Ceramic Society, 2022 - Elsevier",
@@ -2268,7 +2268,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Rotifer in space (RISE): a model organism for extreme stress conditions",
                         "title_link": "https://researchportal.unamur.be/en/publications/rotifer-in-space-rise-a-model-organism-for-extreme-stress-conditi",
                         "publication_info": "B Hespeels, S Penninckx, R Coos, T Tabarrant\u2026 - 2022 - researchportal.unamur.be",
@@ -2279,7 +2279,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Physiological Alterations in Relation to Space Flight: The Role of Nutrition",
                         "title_link": "https://www.mdpi.com/2072-6643/14/22/4896",
                         "publication_info": "S Chaloulakou, KA Poulia, D Karayiannis\u00a0- Nutrients, 2022 - mdpi.com",
@@ -2290,7 +2290,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16068091223624708963&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Carcinogenesis induced by space radiation: A systematic review",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S1476558622000550",
                         "publication_info": "Z Guo, G Zhou, W Hu\u00a0- Neoplasia, 2022 - Elsevier",
@@ -2301,7 +2301,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=17364531457908488687&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Microbiota\u2013muscle/immune interactions in rhesus macaque under simulated microgravity revealed by integrated multi\u2010omics analysis",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rco2.60",
                         "publication_info": "P Zhang, L Shao, J Zhang, L Wang\u2026\u00a0- JCSM Rapid\u00a0\u2026, 2022 - Wiley Online Library",
@@ -2312,7 +2312,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Cardiac function, structural, and electrical remodeling by microgravity exposure",
                         "title_link": "https://journals.physiology.org/doi/abs/10.1152/ajpheart.00611.2022",
                         "publication_info": "MR Sy, JA Keefe, JP Sutton\u2026\u00a0- American Journal of\u00a0\u2026, 2022 - journals.physiology.org",
@@ -2323,7 +2323,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=18274914061628613669&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Inhibition of SIRT1 by miR-138-5p provides a mechanism for inhibiting osteoblast proliferation and promoting apoptosis under simulated microgravity",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552422000566",
                         "publication_info": "L Xu, X Zhang, G Li, L Zhang, S Zhang, F Shi\u2026\u00a0- Life Sciences in Space\u00a0\u2026, 2022 - Elsevier",
@@ -2334,7 +2334,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Fungal Experiments in Space 34",
                         "title_link": "https://link.springer.com/content/pdf/10.1007/978-3-030-05526-4.pdf#page=733",
                         "publication_info": "S Nielsen, R Schauer\u00a0- Handbook of Space Pharmaceuticals, 2022 - Springer",
@@ -2345,7 +2345,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=8372156609724207521&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Validating Causal Diagrams of Human Health Risks for Spaceflight: An Example Using Bone Data from Rodents",
                         "title_link": "https://www.mdpi.com/2227-9059/10/9/2187",
                         "publication_info": "RJ Reynolds, RT Scott, RT Turner, UT Iwaniec\u2026\u00a0- Biomedicines, 2022 - mdpi.com",
@@ -2356,7 +2356,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5352686428367875158&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Medications in Microgravity: History, Facts, and Future Trends",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-3-030-05526-4_20",
                         "publication_info": "J Vernikos\u00a0- Handbook of Space Pharmaceuticals, 2022 - Springer",
@@ -2367,7 +2367,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1823017130647205142&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Mining and microbiology for the solar system silicate and basalt economy",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527830909.ch8",
                         "publication_info": "CS Cockell, R Santomartino\u00a0- In\u2010Space Manufacturing and\u00a0\u2026, 2022 - Wiley Online Library",
@@ -2378,7 +2378,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "Lab-on-Chip Culturing System for Fungi\u2014Towards Nanosatellite Missions",
                         "title_link": "https://www.mdpi.com/2076-3417/12/20/10627",
                         "publication_info": "A Krakos, P \u015aniadek, M Jurga, M Bia\u0142as\u2026\u00a0- Applied Sciences, 2022 - mdpi.com",
@@ -2389,7 +2389,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=8398602933896288678&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[PDF][PDF] Biological 12-hour rhythm facilitates re-entrainment from circadian desynchrony and promotes psychological resilience during long-duration spaceflight",
                         "title_link": "https://www.researchsquare.com/article/rs-2106983/latest.pdf",
                         "publication_info": "K Otsuka, G Cornelissen, S Furukawa, Y Kubo\u2026 - 2022 - researchsquare.com",
@@ -2400,7 +2400,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2815130253473310284&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": "2022",
+                        "year": 2022,
                         "title": "[HTML][HTML] Comparison of biological measurement and physical estimates of space radiation in the International Space Station",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2405844022015547",
                         "publication_info": "K Yoshida, M Hada, A Kizu, K Kitada, K Eguchi-Kasai\u2026\u00a0- Heliyon, 2022 - Elsevier",
@@ -5348,7 +5348,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2583102638053550410&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": 4098,
+                        "year": 2022,
                         "title": "A Purposeful Analysis of Space Tourism",
                         "title_link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4098040",
                         "publication_info": "T Tatum\u00a0- Available at SSRN 4098040, 2022 - papers.ssrn.com",
@@ -6503,7 +6503,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9190840400501268913&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": 7478,
+                        "year": 2022,
                         "title": "[PDF][PDF] The potential for lunar and Martian Regolith simulants to sustain plant growth: a multidisciplinary overview",
                         "title_link": "https://www.researchgate.net/profile/Youssef-Rouphael/publication/357555476_The_Potential_for_Lunar_and_Martian_Regolith_Simulants_to_Sustain_Plant_Growth_A_Multidisciplinary_Overview/links/61d40771b8305f7c4b1ef72a/The-Potential-for-Lunar-and-Martian-Regolith-Simulants-to-Sustain-Plant-Growth-A-Multidisciplinary-Overview.pdf",
                         "publication_info": "LG Duri, AG Caporale, Y Rouphael\u2026\u00a0- \u2026\u00a0Space Sci. 8: 747821\u00a0\u2026, 2022 - researchgate.net",
@@ -6822,7 +6822,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16967129745062782869&hl=en&as_sdt=0,5&as_ylo=2022&as_yhi=2022"
                 },
                 {
-                        "year": 4071,
+                        "year": 2022,
                         "title": "The Study of a Mems Sensor for Partial Nucleate Pool Boiling at Low Heat Flux",
                         "title_link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4071399",
                         "publication_info": "W Jiang\u00a0- Available at SSRN 4071399 - papers.ssrn.com",
@@ -7801,7 +7801,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Protective effect of TPP-Niacin on microgravity-induced oxidative stress and mitochondrial dysfunction of retinal epithelial cells",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0167488922001768",
                         "publication_info": "HP Nguyen, S Shin, KJ Shin, PH Tran, H Park\u2026\u00a0- \u2026\u00a0et Biophysica Acta (BBA\u00a0\u2026, 2023 - Elsevier",
@@ -7812,7 +7812,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13649795987249693726&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[PDF][PDF] \u2026\u00a0of Selected Plant Growth Stimulators on Enhancing Germinability and Germination Parameters of Zea mays L. under Microgravity Conditions Simulated by a\u00a0\u2026",
                         "title_link": "https://ijhst.ut.ac.ir/article_87549_e835fe18439f078d6425303ccaa8d7bc.pdf",
                         "publication_info": "B Ikhajiagbe, GO Anoliefo, AO Orukpe\u2026\u00a0- International Journal of\u00a0\u2026, 2023 - ijhst.ut.ac.ir",
@@ -7823,7 +7823,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=3693369381358592269&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Simulated Microgravity Influences Immunity-Related Biomarkers in Lung Cancer",
                         "title_link": "https://www.mdpi.com/2021312",
                         "publication_info": "H Baghoum, H Alahmed, M Al Hachim\u2026\u00a0- International Journal of\u00a0\u2026, 2023 - mdpi.com",
@@ -7834,7 +7834,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Plant responses to hypergravity: a comprehensive review",
                         "title_link": "https://link.springer.com/article/10.1007/s00425-022-04051-6",
                         "publication_info": "R Hosamani, BK Swamy, A Dsouza, M Sathasivam\u00a0- Planta, 2023 - Springer",
@@ -7845,7 +7845,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Short-term virtual reality simulation of the effects of space station colour and microgravity and lunar gravity on cognitive task performance and emotion",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0360132322010198",
                         "publication_info": "A Jiang, Y Gong, X Yao, B Foing, R Allen\u2026\u00a0- Building and\u00a0\u2026, 2023 - Elsevier",
@@ -7856,7 +7856,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16623990509354551990&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "A space crawling robotic bio-paw (SCRBP) enabled by triboelectric sensors for surface identification",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2211285522010916",
                         "publication_info": "X Hou, L Zhang, Y Su, G Gao, Y Liu, Z Na, QZ Xu\u2026\u00a0- Nano Energy, 2023 - Elsevier",
@@ -7867,7 +7867,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5933900781806037264&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[HTML][HTML] Exact travelling wave solution for the local fractional Camassa-Holm-Kadomtsev-Petviashvili equation",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S1110016822005348",
                         "publication_info": "KL Wang\u00a0- Alexandria Engineering Journal, 2023 - Elsevier",
@@ -7878,7 +7878,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[HTML][HTML] Glycogen metabolism is required for optimal cyanobacterial growth in the rapid light-dark cycle of low-Earth orbit",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2214552422000992",
                         "publication_info": "B Bish\u00e9, SS Golden, JW Golden\u00a0- Life Sciences in Space Research, 2023 - Elsevier",
@@ -7889,7 +7889,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=7795100598866972711&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Novel propellant settling strategies for liquid rocket engine restart in microgravity",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576522005495",
                         "publication_info": "\u00c1 Romero-Calvo, V Urbansky, V Yudintsev, H Schaub\u2026\u00a0- Acta Astronautica, 2023 - Elsevier",
@@ -7900,7 +7900,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=12682246392788961588&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Food production in space from CO2 using microbial electrosynthesis",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S1567539422002717",
                         "publication_info": "KA Alvarado, JBG Mart\u00ednez, MM Brown\u2026\u00a0- \u2026, 2023 - Elsevier",
@@ -7911,7 +7911,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5482007373140440189&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Protective effect of Gastrodia elata blume ameliorates simulated weightlessness-induced cognitive impairment in mice",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S221455242200075X",
                         "publication_info": "F Chen, N Jiang, YW Zhang, MZ Xie, XM Liu\u00a0- Life Sciences in Space\u00a0\u2026, 2023 - Elsevier",
@@ -7922,7 +7922,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13022448806265810557&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Dry ice propellant for electric propulsion with triple-point storage",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576522005835",
                         "publication_info": "T Maki, K Kinefuchi, S Cho, H Watanabe\u00a0- Acta Astronautica, 2023 - Elsevier",
@@ -7933,7 +7933,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=9879277074699258138&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Spaceflight human factors: Enter the cosmos",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/B9780124201392000101",
                         "publication_info": "LB Landon, JJ Marquez, E Flynn-Evans\u00a0- Human Factors in Aviation and\u00a0\u2026, 2023 - Elsevier",
@@ -7944,7 +7944,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Impact of 10\u2010day bed rest on serum levels of irisin and markers of musculoskeletal metabolism",
                         "title_link": "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.202201005RR",
                         "publication_info": "A Oranger, G Storlino, M Dicarlo, R Zerlotin\u2026\u00a0- The FASEB\u00a0\u2026, 2023 - Wiley Online Library",
@@ -7955,7 +7955,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13491923438092638315&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "The Future of Biomining: Towards Sustainability in a Metal-Demanding World",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-3-031-05382-5_17",
                         "publication_info": "AH Kaksonen, J Petersen\u00a0- Biomining Technologies, 2023 - Springer",
@@ -7966,7 +7966,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6127258837370667064&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Impeded frontal-occipital communications during Go/Nogo tasks in humans owing to mental workload",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S016643282200451X",
                         "publication_info": "P Zhang, J Yan, Z Liu, Q Zhou\u00a0- Behavioural Brain Research, 2023 - Elsevier",
@@ -7977,7 +7977,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2426813863415054118&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[HTML][HTML] A molecular study of Italian ryegrass grown on Martian regolith simulant",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0048969722058739",
                         "publication_info": "R Berni, CC Leclercq, P Roux, JF Hausman\u2026\u00a0- Science of The Total\u00a0\u2026, 2023 - Elsevier",
@@ -7988,7 +7988,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=7746960123841481127&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Comprehensive analysis for the bioturbation effect of space mutation and biofortification on strong-flavor Daqu by high-throughput sequencing, volatile analysis and\u00a0\u2026",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0308814622024025",
                         "publication_info": "Y Mu, J Huang, R Zhou, S Zhang, H Qin, Y Dong\u2026\u00a0- Food Chemistry, 2023 - Elsevier",
@@ -7999,7 +7999,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=201072892688689455&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "How to make the Lunar and Martian soils suitable for food production-Assessing the changes after manure addition and implications for plant growth",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S030147972202028X",
                         "publication_info": "AG Caporale, M Palladino, S De Pascale\u2026\u00a0- Journal of\u00a0\u2026, 2023 - Elsevier",
@@ -8010,7 +8010,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16035191656652174321&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "\u0628\u0631\u0631\u0633\u06cc \u062a\u0627\u062b\u06cc\u0631 \u0646\u0627\u0646\u0648\u0644\u0648\u0644\u0647 \u0647\u0627\u06cc \u06a9\u0631\u0628\u0646\u06cc \u0686\u0646\u062f\u062c\u062f\u0627\u0631\u0647 (MWCNTs) \u0628\u0631 \u0645\u06cc\u0632\u0627\u0646 \u062a\u0631\u0634\u062d \u0647\u0648\u0631\u0645\u0648\u0646 \u062a\u0633\u062a\u0648\u0633\u062a\u0631\u0648\u0646 \u0645\u0648\u0634 \u0635\u062d\u0631\u0627\u06cc\u06cc \u0646\u0631 \u062a\u062d\u062a \u0634\u0631\u0627\u06cc\u0637 \u0628\u06cc \u0648\u0632\u0646\u06cc\u200e",
                         "title_link": "https://journals.iau.ir/article_697911.html",
                         "publication_info": "\u0645\u0637\u0644\u0628 \u0632\u0627\u062f\u0647, \u0639\u0631\u0641\u0627\u0646, \u062d\u06cc\u0627\u062a\u06cc \u0631\u0648\u062f\u0628\u0627\u0631\u06cc\u2026\u00a0- \u0641\u0635\u0644\u0646\u0627\u0645\u0647 \u0632\u06cc\u0633\u062a \u0634\u0646\u0627\u0633\u06cc\u00a0\u2026, 2023\u200e - journals.iau.ir",
@@ -8021,7 +8021,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Rate effects in detachment of a spherical probe from fibrillar adhesive surfaces",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0022509622003076",
                         "publication_info": "R Li, D Li, W Zhang\u00a0- Journal of the Mechanics and Physics of Solids, 2023 - Elsevier",
@@ -8032,7 +8032,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=6244343461122733477&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Effects of 15 days\u2212 6\u00b0 Head-Down Bed Rest Simulated Weightlessness on the Judgment of Motion Direction",
                         "title_link": "https://link.springer.com/chapter/10.1007/978-981-19-4786-5_9",
                         "publication_info": "T Cheng, D Wang, Y Tian, Z Yuan, L Wang\u00a0- International Conference on\u00a0\u2026, 2023 - Springer",
@@ -8043,7 +8043,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10656964935937954046&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Heat transfer to a liquid bridge from a surrounding liquid via a heating/cooling ring",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S001793102200967X",
                         "publication_info": "AH Saifi, MK Tripathi\u00a0- International Journal of Heat and Mass Transfer, 2023 - Elsevier",
@@ -8054,7 +8054,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11999727831125835660&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Long-term change of transmission spectra of quartz glass contaminated with oleamide in vacuum",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576522006233",
                         "publication_info": "N Shimosako, H Sakama, T Dotani\u00a0- Acta Astronautica, 2023 - Elsevier",
@@ -8065,7 +8065,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=17058676856542397479&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Using multi-omics approach to investigate the effect of a moon soil simulant on Vigna radiata seedling root and shoot growth, stress responses, and photosynthesis",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576522006282",
                         "publication_info": "GD Setiawan, C Treesubsuntorn, S Krobthong\u2026\u00a0- Acta Astronautica, 2023 - Elsevier",
@@ -8076,7 +8076,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=1590347630675322201&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[HTML][HTML] Proactive human\u2013robot collaboration: Mutual-cognitive, predictable, and self-organising perspectives",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0736584522001922",
                         "publication_info": "S Li, P Zheng, S Liu, Z Wang, XV Wang, L Zheng\u2026\u00a0- Robotics and Computer\u00a0\u2026, 2023 - Elsevier",
@@ -8087,7 +8087,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=25271146971431425&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "A Surgical Approach to Hindlimb Suspension: A Mouse Model of Disuse-Induced Atrophy",
                         "title_link": "https://link.springer.com/protocol/10.1007/978-1-0716-2835-5_1",
                         "publication_info": "L Kutz, T Zhou, Q Chen, H Zhu\u00a0- Chemokine-Glycosaminoglycan\u00a0\u2026, 2023 - Springer",
@@ -8098,7 +8098,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=13731819044049589568&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Towards novel energy shunt inspired vibration suppression techniques: Principles, designs and applications",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0888327022006070",
                         "publication_info": "X Huang, B Yang\u00a0- Mechanical Systems and Signal Processing, 2023 - Elsevier",
@@ -8109,7 +8109,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14575788823675439854&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[HTML][HTML] Engineered Microenvironments for 3D Cell Culture and Regenerative Medicine: Challenges, Advances, and Trends",
                         "title_link": "https://www.mdpi.com/2306-5354/10/1/17",
                         "publication_info": "A Guller, A Igrunkova\u00a0- Bioengineering, 2023 - mdpi.com",
@@ -8120,7 +8120,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[PDF][PDF] Generalidades del ambiente de cabina de la Estaci\u00f3n Espacial Internacional como an\u00e1logo para misiones de tipo exploraci\u00f3n*: una visi\u00f3n desde la medicina\u00a0\u2026",
                         "title_link": "https://www.redalyc.org/journal/6735/673573184001/673573184001.pdf",
                         "publication_info": "DLM Hincapi\u00e9\u00a0- Ciencia y Poder A\u00e9reo, 2023 - redalyc.org",
@@ -8131,7 +8131,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=5953028521993493416&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Nanoceria-GO-intercalated multicellular spheroids revascularize and salvage critical ischemic limbs through anti-apoptotic and pro-angiogenic functions",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0142961222005543",
                         "publication_info": "O Bayaraa, K Dashnyam, RK Singh, N Mandakhbayar\u2026\u00a0- Biomaterials, 2023 - Elsevier",
@@ -8142,7 +8142,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=16329997972243353973&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[HTML][HTML] Switch-on mode of bioenergetic channels regulated by curcumin-loaded 3D composite scaffold to steer bone regeneration",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S1385894722046447",
                         "publication_info": "J Wei, X Zhang, Z Zhang, X Ding, Y Li, Y Zhang\u2026\u00a0- Chemical Engineering\u00a0\u2026, 2023 - Elsevier",
@@ -8153,7 +8153,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Design of the connection mechanism between the basic units of a planar deployable antenna",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0094576522005926",
                         "publication_info": "L Guo, Y Zhao, B Chen, X Wei, S Lu, Y Xu, B Han\u00a0- Acta Astronautica, 2023 - Elsevier",
@@ -8164,7 +8164,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=12147539562987189951&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[HTML][HTML] Therapeutic strategies of three-dimensional stem cell spheroids and organoids for tissue repair and regeneration",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S2452199X22001554",
                         "publication_info": "W Kim, Y Gwon, S Park, H Kim, J Kim\u00a0- Bioactive Materials, 2023 - Elsevier",
@@ -8175,7 +8175,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=10501829920268493213&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Advances in X-ray crystallography methods to study structural dynamics of macromolecules",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/B9780323991278000209",
                         "publication_info": "AA Kermani, S Aggarwal, A Ghanbarpour\u00a0- \u2026\u00a0Spectroscopic Methods to\u00a0\u2026, 2023 - Elsevier",
@@ -8186,7 +8186,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=11701408279749669753&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Performance of spray cooling with vertical surface orientation: An experimental investigation",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S1359431122013643",
                         "publication_info": "L Xiang, X Yu, T Hong, X Yang, B Xie, R Hu\u2026\u00a0- Applied Thermal\u00a0\u2026, 2023 - Elsevier",
@@ -8197,7 +8197,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Thermocapillary convection modulating ion migration for rapid recognition and detection of Cu (\u2161) based on MnO2 NSs-AuNSs modified screen printed electrode",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S0925400522014629",
                         "publication_info": "Q Zhang, S Ma, L Zhang, H Wang, X Zhuo\u2026\u00a0- Sensors and Actuators B\u00a0\u2026, 2023 - Elsevier",
@@ -8208,7 +8208,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Evaporation of water and urea solution in a magnetic field; the role of nuclear isomers",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S002197972201596X",
                         "publication_info": "S Poulose, M Venkatesan, M M\u00f6bius\u2026\u00a0- Journal of Colloid and\u00a0\u2026, 2023 - Elsevier",
@@ -8219,7 +8219,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=14398242167066147644&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "A bone\u2010on\u2010a\u2010chip collagen hydrogel\u2010based model using pre\u2010differentiated adipose\u2010derived stem cells for personalized bone tissue engineering",
                         "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jbm.a.37448",
                         "publication_info": "P Alam\u00e1n\u2010D\u00edez, E Garc\u00eda\u2010Gareta\u2026\u00a0- \u2026\u00a0Research Part A, 2023 - Wiley Online Library",
@@ -8230,7 +8230,7 @@
                         "all_article_versions": "https://scholar.google.com/scholar?cluster=2704436792078572495&hl=en&as_sdt=0,5&as_ylo=2023&as_yhi=2023"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "[PDF][PDF] INDUSTRIALIZING SPACEPORT ESTUARIES ENABLES CNRRSHLLVs TO RAPIDLY RESCUE REFUGEES & SUPERSEDE MAD",
                         "title_link": "https://www.researchgate.net/profile/Eric-Lee-99/publication/364236727_INDUSTRIALIZING_SPACEPORT_ESTUARIES_ENABLES_CNRRSHLLVS_TO_RAPIDLY_RESCUE_REFUGEES_SUPERSEDE_MAD/links/63402689ff870c55ce0ac878/INDUSTRIALIZING-SPACEPORT-ESTUARIES-ENABLES-CNRRSHLLVS-TO-RAPIDLY-RESCUE-REFUGEES-SUPERSEDE-MAD.pdf",
                         "publication_info": "E D'ALEO - 2023 - researchgate.net",
@@ -8241,7 +8241,7 @@
                         "all_article_versions": "https://scholar.google.comNone"
                 },
                 {
-                        "year": "2023",
+                        "year": 2023,
                         "title": "Combination of a simplified one-dimensional human thermoregulatory model with the water circulation temperature control and RO membrane sweating systems in\u00a0\u2026",
                         "title_link": "https://www.sciencedirect.com/science/article/pii/S1290072922004690",
                         "publication_info": "J Nie, L Ding, Y Tian, L Xue, Q Zhang, F Yi\u00a0- International Journal of\u00a0\u2026, 2023 - Elsevier",

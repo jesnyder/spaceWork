@@ -37,7 +37,7 @@ def meta_pubs():
 
     print("running meta_pubs")
 
-    tasks = [1]
+    tasks = [0, 1]
 
     if 0 in tasks: crossref_titles()
     #if 0 in tasks: crossref_doi()

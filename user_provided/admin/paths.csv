@@ -44,4 +44,5 @@ geojson_trials,docs js geojson geojson_trials.js
 
 # referenced by geolocate_awards
 src_awards,user_provided grants
+json_awards,program_generated grants json
 geojson_awards,docs js geojson geojson_awards.js

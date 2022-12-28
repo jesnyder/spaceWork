@@ -66,12 +66,16 @@ def aggregate_term(term):
 
         for pub in retrieve_json(fil_src)['results']:
 
+            pub['year'] = int(fil.split('_')[1])
+
             if pub in results: continue
             results.append(pub)
 
             pub_json = {}
             pub_json['pub_count'] = len(results)
             pub_json['pubs'] = results
+
+
 
     with open(fil_dst, "w+") as fp:
         json.dump(pub_json, fp, indent = 8)
@@ -195,19 +199,21 @@ def html_to_json(soup, year_given):
         cited_by = result.select_one('#gs_res_ccl_mid .gs_nph+ a')['href']
         related_articles = result.select_one('a:nth-child(4)')['href']
 
+        """
         # get the year of publication of each paper
         ref_year = year_given
-        """
+
         try:
             txt_year = result.find("div", class_="gs_a").text
             ref_year = re.findall('[0-9]{4}', txt_year)
             ref_year = int(float(ref_year[0]))
         except:
             ref_year = int(float(year_given))
-        """
+
 
         print('ref_year = ')
         print(ref_year)
+        """
 
 
         # get number of citations for each paper
@@ -225,7 +231,7 @@ def html_to_json(soup, year_given):
             all_article_versions = None
 
         data.append({
-            'year': ref_year,
+            #'year': ref_year,
             'title': title,
             'title_link': title_link,
             'publication_info': publication_info,

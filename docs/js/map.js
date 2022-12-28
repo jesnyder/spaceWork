@@ -170,8 +170,8 @@ function onEachTrial(feature, layer) {
 		+ '<br> Enrolled: '
 		+ feature.properties.enrolled
 		+ '<br>'
-		//+ '<a href="' + feature.properties.url + '" target="_blank" rel="noopener">'
-		//+ feature.properties.url + '</a>'
+		+ '<a href="' + feature.properties.url + '" target="_blank" rel="noopener">'
+		+ feature.properties.url + '</a>'
 		+ '</p>';
 
 		if (feature.properties && feature.properties.popupContent) {

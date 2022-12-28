@@ -28,10 +28,43 @@ def geolocate_awards():
     list clinical trials using an MSC intervention
     """
 
-    tasks = [0]
+    tasks = [1]
 
     # write geojson for trials
     if 0 in tasks: geojson_awards()
+    if 1 in tasks: json_awards()
+
+
+def json_awards():
+    """
+    save .json from .csv downloaded from grant website
+    """
+
+    fol_src = retrieve_path('src_awards')
+    fol_dst = retrieve_path('json_awards')
+
+    # for each csv saved in grant folder
+    for fil in os.listdir(fol_src):
+
+        fil_src = os.path.join(fol_src, fil)
+        df = retrieve_df(fil_src)
+        awards_json = df_to_json(df)
+
+        awards = []
+        for award in awards_json:
+            awards.append(award)
+
+        fil_name = fil.split('.')[0]
+        fil_dst = os.path.join(fol_dst, fil_name + '.json')
+
+        awards_json = {}
+        awards_json['count_awards'] = len(awards)
+        awards_json['awards'] = awards
+
+        with open(fil_dst, "w+") as f:
+            json.dump(awards_json, f, indent = 8)
+            f.close()
+
 
 
 def geojson_awards():
@@ -69,7 +102,6 @@ def geojson_awards():
         geojson['type'] = 'FeatureCollection'
         #geojson['feature_count'] = len(features)
         geojson['features'] = features
-
 
 
         with open(fil_dst, "w+") as f:
