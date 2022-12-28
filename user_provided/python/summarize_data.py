@@ -37,12 +37,15 @@ def summarize_data():
 
     print("running summarize_data")
 
-    tasks = [0, 1, 2, 3]
+    tasks = [2, 3, 4]
     if 0 in tasks: word_count()
-    if 1 in tasks: count_fields()
-    if 2 in tasks: table_js()
 
-    if 3 in tasks: table_pubs()
+    if 1 in tasks: count_fields_pubs()
+    if 2 in tasks: count_fields_trials()
+
+    if 3 in tasks: table_js()
+
+    if 4 in tasks: table_pubs()
 
     print("completed summarize_data")
 
@@ -83,7 +86,6 @@ def table_pubs():
             f.close()
 
 
-
 def table_js():
     """
     save js
@@ -103,7 +105,7 @@ def table_js():
         fil_name = fil_name.replace('-', '')
         fil_name = fil_name.replace('_', '')
         fil_name = fil_name.replace(' ', '')
-        
+
         fil_dst = os.path.join(fol_dst, fil_name + '.js')
 
         with open(fil_dst, "w+") as f:
@@ -144,7 +146,39 @@ def df_to_json(df):
     return(json_list)
 
 
-def count_fields():
+def count_fields_trials():
+    """
+
+    """
+
+    fil_src = retrieve_path('scraped_trials')
+    fol_dst = retrieve_path('field_count')
+
+    keys = ['NCTId', 'BriefTitle', 'CollaboratorName', 'Condition', 'EnrollmentCount', 'Gender', 'InterventionBrowseBranchName']
+
+    for key in keys:
+
+        targets = []
+
+        fil_dst = os.path.join(fol_dst, 'trial' + key + '.csv')
+
+        for pub in retrieve_json(fil_src)['trials']:
+
+            if key not in pub.keys(): continue
+
+            target = pub[key]
+
+            if type(target) is list:
+                for item in target:
+                    targets.append(item)
+
+            else:
+                targets.append(target)
+
+        audit_list(targets).to_csv(fil_dst)
+
+
+def count_fields_pubs():
     """
 
     """

@@ -41,7 +41,7 @@ def main():
 
     print("running main")
 
-    tasks = [5]
+    tasks = [4]
 
     if 0 in tasks: query_gscholar()
     if 1 in tasks: meta_pubs()
