@@ -139,7 +139,10 @@ def df_to_json(df):
 
             print(df.loc[i, col])
 
-            json[col] = df.loc[i, col]
+            try:
+                json[col] = float(df.loc[i, col])
+            except:
+                json[col] = df.loc[i, col]
 
         json_list.append(json)
 

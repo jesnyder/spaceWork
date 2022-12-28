@@ -1,7 +1,8 @@
 var cities = L.layerGroup();
 var pubs = L.layerGroup();
 var trials = L.layerGroup();
-var awards = L.layerGroup();
+var nihawards = L.layerGroup();
+var nsfawards = L.layerGroup();
 
 
 var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>';
@@ -32,7 +33,8 @@ var map = L.map('map', {
 	var overlays = {
 		'Pubs': pubs,
 		'ClinialTrials': trials,
-		'NIH Awards': awards,
+		'NIH Awards': nihawards,
+		'NSF Awards': nsfawards,
 	};
 
 	var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
@@ -193,14 +195,14 @@ function onEachAward(feature, layer) {
 		var popupContent = '<p><b>'
 			+ feature.properties.title
 			+ '</b><br><font color="gray">'
-			+ "NIH Award"
+			+ feature.properties.awardType
 			+ '</font></b><br>'
 			+ feature.properties.aff
-			+ '<br> Grant AWard: $'
+			+ '<br> Grant AWard: '
 			+ feature.properties.cost
 			+ '<br>'
-			//+ '<a href="' + feature.properties.url + '" target="_blank" rel="noopener">'
-			//+ feature.properties.url + '</a>'
+			+ '<a href="' + feature.properties.url + '" target="_blank" rel="noopener">'
+			+ feature.properties.url + '</a>'
 			+ '</p>';
 
 			if (feature.properties && feature.properties.popupContent) {
@@ -268,11 +270,17 @@ function pubToLayer(feature, latlng) {
 	}).addTo(map).addTo(trials);
 
 
-	var awards = L.geoJson(geojson_awards, {
+	var awards = L.geoJson(geojson_nihAwards, {
 		style: pubStyle,
 		onEachFeature: onEachAward,
 		pointToLayer: pubToLayer,
-	}).addTo(map).addTo(awards);
+	}).addTo(map).addTo(nihawards);
+
+	var awards = L.geoJson(geojson_nsfAwards, {
+		style: pubStyle,
+		onEachFeature: onEachAward,
+		pointToLayer: pubToLayer,
+	}).addTo(map).addTo(nsfawards);
 
 console.log('microgravity_space_biology = ')
 console.log(microgravity_space_biology)

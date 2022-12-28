@@ -1,3 +1,4 @@
+import chardet
 import csv
 import codecs
 import datetime
@@ -143,7 +144,7 @@ def retrieve_df(name):
         #print(df)
         return(df)
 
-    encodings = ['utf-16', "utf-8-sig", "utf-8", "cp1252", "latin1", 'utf-8-sig', ]
+
 
     # find the path
     if '.' in str(name): df_path = name
@@ -152,23 +153,33 @@ def retrieve_df(name):
     #print('df_path = ')
     #print(df_path)
 
+    # look up encoding
+    with open(df_path) as f:
+        print(f)
+
+    encodings = ['UTF-8', 'utf-16', "latin1", "utf-8", "cp1252", 'utf-8-sig', ]
+
+
     try:
         df = pd.read_csv(df_path)
-
     except:
 
-        try:
-            for encoding in encodings:
+        for encoding in encodings:
+            print('encoding = ' + str(encoding))
+            try:
                 df = pd.read_csv(retrieve_path(name), encoding=encoding)
+                break
+            except:
+
+                if encoding == encodings[-1]:
+                    f = open(df_path,"r")
+                    lines = f.readlines()
+                    f.close()
+
+                    df = pd.DataFrame()
+                    df['list'] = lines
+
                 continue
-        except:
-
-            f = open(df_path,"r")
-            lines = f.readlines()
-            f.close()
-
-            df = pd.DataFrame()
-            df['list'] = lines
 
 
     for col in df.columns:

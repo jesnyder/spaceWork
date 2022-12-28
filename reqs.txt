@@ -1,3 +1,4 @@
+chardet
 crossrefapi
 flake8
 jsonlines
