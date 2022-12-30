@@ -10,7 +10,7 @@ var geojson_nihAwards =
                         "year": 2022.0,
                         "aff": "STANFORD UNIVERSITY",
                         "cost": "$196612.0",
-                        "color": "rgb( 125 , 250 , 145 )",
+                        "color": "rgb( 141 , 248 , 224 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -19,8 +19,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.155554,
-                              37.447751
+                              -122.176445,
+                              37.410571
                         ]
                   }
             },
@@ -32,7 +32,7 @@ var geojson_nihAwards =
                         "year": 2022.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": "$326693.0",
-                        "color": "rgb( 145 , 249 , 61 )",
+                        "color": "rgb( 61 , 243 , 174 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -41,8 +41,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.585013,
-                              39.321131
+                              -76.628916,
+                              39.313763
                         ]
                   }
             },
@@ -54,7 +54,7 @@ var geojson_nihAwards =
                         "year": 2022.0,
                         "aff": "BRIGHAM AND WOMEN'S HOSPITAL",
                         "cost": "$135281.0",
-                        "color": "rgb( 88 , 242 , 173 )",
+                        "color": "rgb( 129 , 249 , 245 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -63,8 +63,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.120905,
-                              42.322937
+                              -71.112818,
+                              42.332632
                         ]
                   }
             },
@@ -76,7 +76,7 @@ var geojson_nihAwards =
                         "year": 2022.0,
                         "aff": "BRIGHAM AND WOMEN'S HOSPITAL",
                         "cost": "$135281.0",
-                        "color": "rgb( 128 , 251 , 79 )",
+                        "color": "rgb( 112 , 251 , 132 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -85,8 +85,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.107427,
-                              42.323014
+                              -71.098944,
+                              42.325896
                         ]
                   }
             },
@@ -98,7 +98,7 @@ var geojson_nihAwards =
                         "year": 2022.0,
                         "aff": "UNIVERSITY OF KENTUCKY",
                         "cost": "$260155.0",
-                        "color": "rgb( 120 , 249 , 239 )",
+                        "color": "rgb( 55 , 251 , 62 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -107,8 +107,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.51361,
-                              38.057524
+                              -84.5176,
+                              38.03321
                         ]
                   }
             },
@@ -120,7 +120,7 @@ var geojson_nihAwards =
                         "year": 2022.0,
                         "aff": "PHYSICAL SCIENCES, INC",
                         "cost": "$482523.0",
-                        "color": "rgb( 123 , 246 , 120 )",
+                        "color": "rgb( 141 , 245 , 110 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -129,8 +129,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.180572,
-                              42.714663
+                              -71.197969,
+                              42.685361
                         ]
                   }
             },
@@ -142,7 +142,7 @@ var geojson_nihAwards =
                         "year": 2022.0,
                         "aff": "UNIVERSITY OF TENNESSEE HEALTH SCI CTR",
                         "cost": "$331056.0",
-                        "color": "rgb( 53 , 248 , 86 )",
+                        "color": "rgb( 55 , 249 , 69 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -151,8 +151,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -90.011801,
-                              35.154336
+                              -90.047488,
+                              35.119989
                         ]
                   }
             },
@@ -164,7 +164,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": "$80419.0",
-                        "color": "rgb( 111 , 240 , 65 )",
+                        "color": "rgb( 86 , 246 , 156 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -173,8 +173,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.596521,
-                              39.314831
+                              -76.594391,
+                              39.329949
                         ]
                   }
             },
@@ -186,7 +186,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF CALIFORNIA, SAN FRANCISCO",
                         "cost": "$260009.0",
-                        "color": "rgb( 138 , 248 , 69 )",
+                        "color": "rgb( 52 , 244 , 111 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -195,8 +195,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.399125,
-                              37.778422
+                              -122.413123,
+                              37.775775
                         ]
                   }
             },
@@ -208,7 +208,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": "$757735.0",
-                        "color": "rgb( 98 , 246 , 175 )",
+                        "color": "rgb( 93 , 244 , 136 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -217,8 +217,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.624396,
-                              39.310293
+                              -76.586079,
+                              39.330756
                         ]
                   }
             },
@@ -230,7 +230,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": "$757735.0",
-                        "color": "rgb( 99 , 252 , 96 )",
+                        "color": "rgb( 56 , 253 , 77 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -239,8 +239,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.621111,
-                              39.343062
+                              -76.590389,
+                              39.30922
                         ]
                   }
             },
@@ -252,7 +252,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "JOHNS HOPKINS UNIVERSITY",
                         "cost": "$57922.0",
-                        "color": "rgb( 87 , 240 , 164 )",
+                        "color": "rgb( 53 , 254 , 110 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -261,8 +261,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.627028,
-                              39.322469
+                              -76.600108,
+                              39.334194
                         ]
                   }
             },
@@ -274,7 +274,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "STANFORD UNIVERSITY",
                         "cost": "$714532.0",
-                        "color": "rgb( 112 , 245 , 234 )",
+                        "color": "rgb( 71 , 245 , 217 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -283,8 +283,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.194592,
-                              37.415993
+                              -122.155235,
+                              37.440919
                         ]
                   }
             },
@@ -296,7 +296,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF FLORIDA",
                         "cost": "$483238.0",
-                        "color": "rgb( 110 , 245 , 212 )",
+                        "color": "rgb( 119 , 254 , 222 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -305,8 +305,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.360399,
-                              29.645273
+                              -82.327305,
+                              29.62364
                         ]
                   }
             },
@@ -318,7 +318,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF FLORIDA",
                         "cost": "$76250.0",
-                        "color": "rgb( 59 , 240 , 138 )",
+                        "color": "rgb( 60 , 243 , 58 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -327,8 +327,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.333324,
-                              29.639638
+                              -82.336627,
+                              29.646399
                         ]
                   }
             },
@@ -340,7 +340,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF KENTUCKY",
                         "cost": "$263579.0",
-                        "color": "rgb( 89 , 244 , 189 )",
+                        "color": "rgb( 86 , 242 , 133 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -349,8 +349,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.497222,
-                              38.063706
+                              -84.483068,
+                              38.026552
                         ]
                   }
             },
@@ -362,7 +362,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF MARYLAND BALTIMORE",
                         "cost": "$34236.0",
-                        "color": "rgb( 73 , 254 , 174 )",
+                        "color": "rgb( 50 , 251 , 220 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -371,8 +371,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.607546,
-                              39.301216
+                              -76.621412,
+                              39.273069
                         ]
                   }
             },
@@ -384,7 +384,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "PHYSICAL SCIENCES, INC",
                         "cost": "$678314.0",
-                        "color": "rgb( 122 , 245 , 231 )",
+                        "color": "rgb( 93 , 242 , 129 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -393,8 +393,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.199792,
-                              42.70243
+                              -71.220127,
+                              42.677938
                         ]
                   }
             },
@@ -406,7 +406,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "UNIVERSITY OF TENNESSEE HEALTH SCI CTR",
                         "cost": "$324368.0",
-                        "color": "rgb( 77 , 246 , 95 )",
+                        "color": "rgb( 120 , 245 , 50 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -415,8 +415,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -90.020394,
-                              35.142089
+                              -90.046314,
+                              35.158523
                         ]
                   }
             },
@@ -428,7 +428,7 @@ var geojson_nihAwards =
                         "year": 2021.0,
                         "aff": "GEORGIA INSTITUTE OF TECHNOLOGY",
                         "cost": "$75502.0",
-                        "color": "rgb( 125 , 250 , 161 )",
+                        "color": "rgb( 76 , 250 , 112 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -437,8 +437,8 @@ var geojson_nihAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.381645,
-                              33.770375
+                              -84.423925,
+                              33.796432
                         ]
                   }
             }

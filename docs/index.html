@@ -22,7 +22,7 @@
 			margin: 0;
 		}
 		.leaflet-container {
-			height: 600px;
+			height: 650px;
 			width: 100%;
 			max-width: 100%;
 			max-height: 100%;
@@ -34,18 +34,18 @@
 
 <body>
 
-<div id=map style="width:90% ; margin-left: 3%; max-width:2000px;"></div>
+<div id=map style="width:90% ; margin-left: 3%; max-width:1800px;"></div>
 <script src="js/microgravity_space_biology.js"></script>
 <script src="js/geojson/geojson_trials.js"></script>
 <script src="js/geojson/geojson_nihAwards.js"></script>
 <script src="js/geojson/geojson_nsfAwards.js"></script>
 <script type="text/javascript"  src="js/map.js"></script>
 
-<div style="width:80% ; margin-left: 3%; max-width:1000px;">
+<div style="width:90% ; margin-left: 3%;  max-width:1800px; font-family: Calibri;">
 <br>
 Welcome to a map of the space biology community described by publications, clinical trials, and NIH/NSF grants.
 <ol>
-<li> Map publications from 2022-2023 on microgravity space biology. Search
+<li> <font color="orange"><b>Publications: </b></font>Map publications from 2022-2023 on microgravity space biology. Search
   <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
   for
   <a href="https://scholar.google.com/scholar?as_ylo=2022&q=microgravity+space+biology&hl=en&as_sdt=0,5" target="_blank" rel="noopener">"microgravity space biology" published since 2022</a>.
@@ -55,16 +55,16 @@ Welcome to a map of the space biology community described by publications, clini
   <a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMaps</a>.
   Map the locations using
   <a href="https://leafletjs.com/" target="_blank" rel="noopener">Leaflet</a>
-  , an open-source JavaScript library for interactive maps.
+  , an open-source JavaScript library for interactive maps.<br>
 
-<li> Map clinical trials on microgravity or hypergravity. Search
+<li> <font color="purple"><b>Clinical Trials: </b></font>Map clinical trials on microgravity or hypergravity. Search
   <a href="https://clinicaltrials.gov/ct2/home" target="_blank" rel="noopener">ClinicalTrials.gov</a>
-  for "hypergraivty" or "microgravity" trials. Similar to the publications, list and then geolocate the trial sponsor on the map.
+  for "hypergraivty" or "microgravity" trials. Similar to the publications, list and then geolocate the trial sponsor on the map.<br>
 
-<li> Map of NIH grants related to microgravity awards since 2021. Awards found using
-  <a href="https://reporter.nih.gov/search/6hVkYis8g0K2w5EifMOI_A/projects" target="_blank" rel="noopener">NIH Reporter</a>.
+<li> <font color="green"><b>NIH Awards: </b></font>Map of NIH grants related to microgravity awards since 2021. Awards found using
+  <a href="https://reporter.nih.gov/search/6hVkYis8g0K2w5EifMOI_A/projects" target="_blank" rel="noopener">NIH Reporter</a>.<br>
 
-<li> Map of NSF current support related to microgravity research. Results identified using the online database
+<li> <font color="green"><b>NSF Awards: </b></font>Map of NSF current support related to microgravity research. Results identified using the online database
   <a href="https://nsf.gov/awardsearch/simpleSearchResult?queryText=microgravity&ActiveAwards=true" target="_blank" rel="noopener">NSF Simple Search</a>.
 
 </ol>
@@ -74,11 +74,11 @@ Welcome to a map of the space biology community described by publications, clini
 <script src="js/setTableMakerPub.js"></script>
 
 
-<div style="width:90% ; margin-left: 3%;  max-width:2000px; font-family: Calibri;"><br><br>
-Table of 599 scholarly articles on microgravity space biology published since 2022. The map identifies the author location for 114 of the publicaitions. Click on the marker on the map for more information. Click on the column name to sort the table. 
+<div style="width:90% ; margin-left: 3%;  max-width:1800px; font-family: Calibri;"><br><br>
+Table of 599 scholarly articles on microgravity space biology published since 2022. The map identifies the author location for 114 of the publicaitions. Click on the marker on the map for more information. Click on the column name to sort the table.
 <br><br>
 <button id="download-csv-microgravityspacebiology">Publications: Download CSV</button></div>
-<div id="microgravityspacebiology" style="width:90% ; margin-left: 3%;  max-width:2000px; font-family: Calibri;">
+<div id="microgravityspacebiology" style="width:90% ; margin-left: 3%;  max-width:1800px; font-family: Calibri;">
 <script> var setVars = {"tabledata": microgravityspacebiology, "divName": 'microgravityspacebiology'}; setTableMakerPub(setVars);</script>
 </div>
 

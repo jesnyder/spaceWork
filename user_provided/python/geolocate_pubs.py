@@ -34,16 +34,10 @@ def geolocate_pubs():
 
     print("running geolocate_pubs")
 
-    tasks = [0, 1]
+    tasks = [0,1]
 
     if 0 in tasks: list_affs()
     if 1 in tasks: geolocate_affs()
-
-    if 10 in tasks: list_missing({'reset': 'reset'})
-    if 20 in tasks: list_all_affs()
-    if 30 in tasks: compile_located()
-    if 40 in tasks: openmaps_affs()
-    if 30 in tasks: compile_located()
 
     print("completed geolocate_pubs")
 
@@ -63,30 +57,22 @@ def list_affs():
         fil_src = os.path.join(fol_src, fil)
         for pub in retrieve_json(fil_src)['pubs']:
 
-            if 'author' not in pub.keys(): continue
+            if 'affs' not in pub.keys(): continue
 
-            for author in pub['author']:
+            for aff in pub['affs']:
 
-                if author['affiliation'] == []: continue
+                if aff in affs: continue
 
-                for affiliation in author['affiliation']:
+                affs.append(aff)
+                affs.sort()
 
-                    print(affiliation)
-                    if 'name' not in affiliation.keys(): continue
+                affs_json = {}
+                affs_json['count_affs'] = len(affs)
+                affs_json['affs'] = affs
 
-                    aff = affiliation['name']
-                    if aff in affs: continue
-
-                    affs.append(aff)
-                    affs.sort()
-
-                    affs_json = {}
-                    affs_json['count_affs'] = len(affs)
-                    affs_json['affs'] = affs
-
-                    with open(fil_dst, "w+") as fp:
-                        json.dump(affs_json, fp, indent = 8)
-                        fp.close()
+                with open(fil_dst, "w+") as fp:
+                    json.dump(affs_json, fp, indent = 8)
+                    fp.close()
 
 
 def geolocate_affs():
@@ -146,8 +132,8 @@ def replace_aff(aff):
     if aff == 'MIT Media Lab, United States':
         return('MIT Media Lab, Massachusetts Institute of Technology')
 
-    if aff == 'Songshan Lake Materials Laboratory Dongguan Guangdong 523808 China':
-        return('Guangdong China')
+    if 'Songshan Lake Materials Laboratory Dongguan' in aff:
+        return('China')
 
     if aff == 'Institute of Food Biotechnology and Genomics NAS of Ukraine':
         return('Institute of Food Biotechnology and Genomics NAS of Ukraine, Kyiv, Ukraine')
@@ -160,6 +146,51 @@ def replace_aff(aff):
 
     if aff == 'University UPO':
         return('University UPO, University Eastern Piedmont, UPO, Alessandria, Novara, Vercelli, Italy')
+
+    if aff == 'Cell Physiology Laboratory, Institute of Biomedical ProblemsRussian Academy of SciencesMoscowRussia':
+        return('Cell Physiology Laboratory, Institute of Biomedical Problems, Russian Academy of Sciences, Moscow, Russia')
+
+    if aff == 'Department of Molecular Sciences Macquarie University North Ryde New South Wales2109 Australia':
+        return('Department of Molecular Sciences, Macquarie University, New South Wales, Australia')
+
+    if aff == 'Department of Primary Industries Elizabeth Macarthur Agricultural Institute Woodbridge Road Menangle New South Wales2568 Australia':
+        return('Department of Primary Industries, Elizabeth Macarthur Agricultural Institute, New South Wales, Australia')
+
+    if aff == 'Division of Food Sciences, The University of Nottingham, Sutton Bonington Campus, Loughborough LE12 5RD,\nUK':
+        return('Division of Food Sciences, The University of Nottingham, Loughborough, United Kingdom')
+
+    if aff == 'GSI Helmholtzzentrum f\u00fcr Schwerionenforschung, and Technische Universit\u00e4t Darmstadt':
+        return('Planckstraße 1, 64291 Darmstadt, Germany')
+
+    if aff == 'INM \u2013 Leibniz Institute for New Materials gGmbH':
+        return('Campus D2 2, 66123 Saarbrücken, Germany')
+
+    if aff == 'Colloid and Interface Chemistry':
+        return('Saarland University, Germany')
+
+    if aff == 'NuVant Systems':
+        return('130 N West St, Crown Point, IN 46307')
+
+    if aff == 'Institute of Clinical Neuroscience and Medical Psychology, Medical Faculty Heinrich\u2010Heine\u2010University  D\u00fcsseldorf Germany':
+        return('Dusseldorf, Germany')
+
+    if aff == 'Friedrich-Schiller-Universit\u00e4t Jena':
+        return('Jena, Germany')
+
+    if aff == 'Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, U.S.A.':
+        return('Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, USA')
+
+    if aff == 'Rensselaer Polytechnic Inst.':
+        return('110 8th St, Troy, NY 12180')
+
+    if aff == 'Research Centre for Natural Sciences':
+        return('Budapest')
+
+    if aff == 'Chinese Academy of Sciences':
+        return('Chinese Academy of Sciences, Beijing, China')
+
+    if aff == 'The Russian Federation State Research Center - Institute of Biomedical Problems of Russian Academy of Sciences':
+        return('The Russian Federation State Research Center - Institute of Biomedical Problems of Russian Academy of Sciences, Moscow, Russia')
 
     return(aff)
 

@@ -1,338 +1,961 @@
 ,word,count,percent
-0,Japan Aerospace Exploration Agency,4,1.13314
-1,Massachusetts Institute of Technology,3,0.84986
-2,University of Colorado Boulder,2,0.56657
-3,Rensselaer Polytechnic Institute,2,0.56657
-4,Rensselaer Polytechnic Inst.,2,0.56657
-5,"Department of Clinical Pharmacology and Therapy , Russian Medical Academy of Continuing Professional Education, Ministry of Health of Russia , Moscow , Russian Federation",2,0.56657
-6,"Department of Clinical Pharmacology and Propaedeutics of Internal Diseases , Sechenov First Moscow State Medical University (Sechenov University), Ministry of Health of Russia , Moscow , Russian Federation",2,0.56657
-7,"Universidad Tecnol&#x00F3;gica del Per&#x00FA;,IEEE Senior Member,Lima,Peru",2,0.56657
-8,"KBR, Houston, TX, USA",2,0.56657
-9,Tohoku Fukushi University,2,0.56657
-10,"Tianjin Key Laboratory for Advanced Mechatronic System Design and Intelligent Control, School of Mechanical Engineering, Tianjin University of Technology, Tianjin, People’s Republic of China",2,0.56657
-11,University of Houston,2,0.56657
-12,"Department of Mechanics, School of Mechanical Engineering, Tianjin University, Tianjin, People’s Republic of China",2,0.56657
-13,University of Minnesota,2,0.56657
-14,"Universidad Nacional de Ingenier&#x00ED;a;,Center for Space Emerging Technologies,Lima,Peru",2,0.56657
-15,"Blue Marble Space Institute of Science, Space Biosciences Division, NASA Ames Research Center, Mountain View, California, USA.",1,0.28329
-16,"Department of Bioengineering, School of Life Science and Engineering Lanzhou University of Technology  Lanzhou China",1,0.28329
-17,"Gansu Key Laboratory of Space Radiobiology Institute of Modern Physics, Chinese Academy of Sciences  Lanzhou China",1,0.28329
-18,Tokyo Women’s Medical University,1,0.28329
-19,"Lockheed Martin, Houston, TX, USA",1,0.28329
-20,UniSA Clinical and Health Sciences University of South Australia  Adelaide South Australia Australia,1,0.28329
-21,"Department of Pharmacy, The 940th Hospital of Joint Logistic Support Force People's Liberation Army of China  Lanzhou China",1,0.28329
-22,"Department of Allied Health Sciences, School of Health Sciences and Technology, University of Petroleum and Energy Studies (UPES), Energy Acres Building , Bidholi Dehradun, 248007 Uttarakhand, India",1,0.28329
-23,"Leidos, Houston, TX, USA",1,0.28329
-24,"Cross II Leidos, Houston, TX, USA",1,0.28329
-25,"Sector of Microtechnologies, Institute of Biotechnology, Life Sciences Center, Vilnius University, Vilnius, Lithuania.",1,0.28329
-26,"Fundamental Medical Science Research Laboratories, The 940th Hospital of Joint Logistic Support Force People's Liberation Army of China  Lanzhou China",1,0.28329
-27,"KBR, KBR, Houston, TX, USA",1,0.28329
-28,"Space Biosciences Division, NASA Ames Research Center, Moffett Field, California, USA.",1,0.28329
-29,"Key Laboratory for Biomechanics and Mechanobiology (Beihang University), Ministry of Education Beijing Advanced Innovation Center for Biomedical Engineering School of Biological Science and Medical Engineering Beihang University  Beijing China",1,0.28329
-30,"NASA Johnson Space Center, Houston, TX, USA",1,0.28329
-31,Institute of Aerospace Medicine German Aerospace Center  Cologne Germany,1,0.28329
-32,"Institute of Biomedical Problems, Russian Academy of Sciences, Moscow 123007, Russia",1,0.28329
-33,"Imec-Vision Lab, University of Antwerp, B-2610 Antwerp, Belgium",1,0.28329
-34,"Lab for Equilibrium Investigations and Aerospace, University of Antwerp, B-2610 Antwerp, Belgium",1,0.28329
-35,"Department of Radiology and Radiological Science, Medical University of South Carolina, Charleston, SC 29425",1,0.28329
-36,"Laboratory of Neuro Imaging, University of Southern California, Los Angeles, CA 90033",1,0.28329
-37,"School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, Henan 454000, P. R. China",1,0.28329
-38,"College of Computer Science and Technology, Henan Polytechnic University, Jiaozuo, Henan 454000, P. R. China",1,0.28329
-39,"Laboratory for the Development of Means and Methods of Medical Care in Extreme Conditions and Telemedicine of the State Scientific Centre of the Russian Federation, Institute of Medical and Biological Problems of the Russian Academy of Sciences , Moscow , Russian Federation",1,0.28329
-40,"Institute of Electrodynamics, Microwave and Circuit Engineering Vienna University of Technology  Vienna Austria",1,0.28329
-41,"University of Houston, Houston, TX, USA",1,0.28329
-42,Center for Health &amp; Bioresources AIT Austrian Institute of Technology  Vienna Austria,1,0.28329
-43,School of Engineering Science University of Chinese Academy of Sciences  Beijing 100049 China,1,0.28329
-44,National Microgravity Laboratory Institute of Mechanics Chinese Academy of Sciences  Beijing 100190 China,1,0.28329
-45,"Department of Biotechnology, SRM Institute of Science and Technology, Kattankulathur, India.",1,0.28329
-46,"School of Environment, Earth and Ecosystem Sciences, Open University, Milton Keynes, United Kingdom.",1,0.28329
-47,"Totsuka Royal Clinic, Tokyo Women's Medical University",1,0.28329
-48,"Blue Marble Space Institute of Science, Seattle, Washington, USA.",1,0.28329
-49,"Centre of Excellence in Astrobiology, Amity University Mumbai, Mumbai, India.",1,0.28329
-50,"Mars Society Australia, CLIFTON HILL, Australia.",1,0.28329
-51,"German Aerospace Center, Institute of Aerospace Medicine, in Köln, Germany",1,0.28329
-52,"Physics Department, Birla Institute of Technology and Science, Pilani, Hyderabad, Telangana, India",1,0.28329
-53,"Baylor Scott & White Medical Center, Temple, TX, USA",1,0.28329
-54,Lehigh University,1,0.28329
-55,Aja University of Medical Sciences,1,0.28329
-56,Beijing Institute of Microbiology and Epidemiology,1,0.28329
-57,"Biotechnology and Planetary Protection Group, Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA",1,0.28329
-58,"University of Southern California, Los Angeles, California, USA",1,0.28329
-59,"University of Wisconsin-Madison, Madison, Wisconsin, USA",1,0.28329
-60,"Development of Means and Methods of Medical Care in Extreme Conditions and Telemedicine of the State Scientific Centre of the Russian Federation – Institute of Medical and Biological Problems of the Russian Academy of Sciences , Moscow , Russian Federation",1,0.28329
-61,"Cell and Molecular Biology Program, Colorado State University, Fort Collins, CO, USA",1,0.28329
-62,"Department of Electronics and Communication Engineering, Vignana Bharathi Institute of Technology, Hyderabad, Telangana, India",1,0.28329
-63,"Department of Environmental and Radiological Health Sciences, Colorado State University, Fort Collins, CO, USA",1,0.28329
-64,Ludwik Hirszfeld Institute of Immunology and Experimental Therapy,1,0.28329
-65,Wrocław University of Science and Technology,1,0.28329
-66,NASA Glenn Research Center,1,0.28329
-67,"College of medicine, Inha university",1,0.28329
-68,"Trinity University,San Antonio,TX,78212",1,0.28329
-69,"LS2N, Faculté des Sciences et Techniques (FST), Université de Nantes, Nantes, France",1,0.28329
-70,Rafsanjan University of Medical Sciences,1,0.28329
-71,"Department of Psychiatry, PC Sint-Amandus, 8730 Beernem, Belgium",1,0.28329
-72,"Private address, Moab, UT 84532",1,0.28329
-73,"South Shore Eye Center, League City, TX 77573",1,0.28329
-74,"Department of Electrical and Electronics Engineering and the Physics Department, Birla Institute of Technology and Science, Pilani, Hyderabad, Telangana, India",1,0.28329
-75,"University of Melbourne, in Melbourne, and the University of Adelaide, in Adelaide, both in Australia",1,0.28329
-76,"Coma Science Group, University of Liège, 4000 Liège, Belgium",1,0.28329
-77,"University of Adelaide, in Adelaide, Australia",1,0.28329
-78,"McGill University, in Montreal, Canada",1,0.28329
-79,"State Key Laboratory of Solidification Processing, Center for Nano Energy Materials, School of Materials Science and Engineering, Northwestern Polytechnical University, Xi’an, Shaanxi Province, China",1,0.28329
-80,"Key Laboratory for Space Bioscience and Space Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi’an, Shaanxi Province, China",1,0.28329
-81,"School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China",1,0.28329
-82,"Department of Pharmacy, Chinese PLA General Hospital, Beijing, China",1,0.28329
-83,"School of Food and Bioengineering, Xihua University, Chengdu, China",1,0.28329
-84,"Department of Mechanical Engineering , University of Louisville",1,0.28329
-85,"Department of Chemical Engineering , University of Louisville",1,0.28329
-86,"Center for Translational Neuromedicine, University of Rochester Medical Center, Rochester, NY 14642",1,0.28329
-87,"Center for Translational Neuromedicine, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark",1,0.28329
-88,"KBR, NASA Space Medicine Operations Division, Houston, TX 77058",1,0.28329
-89,"Department of Radiology, National Medical Research Treatment and Rehabilitation Centre of the Ministry of Health of Russia, Moscow 125367, Russia",1,0.28329
-90,"Institute for Neuroradiology, Ludwig-Maximilians-University Munich, 80539 Munich, Germany",1,0.28329
-91,"Department of Radiology, Lomonosov Moscow State University, Moscow 119991, Russia",1,0.28329
-92,"Centre of Water and Environmental Research, University of Duisburg-Essen, Essen, Germany",1,0.28329
-93,"Institute of Molecular Genetics, National Research Center Kurchatov Institute, Moscow, Russia",1,0.28329
-94,"Group for Aquatic Microbial Ecology, Department of Chemistry, Environmental Microbiology and Biotechnology, University of Duisburg-Essen, Essen, Germany",1,0.28329
-95,"Department of Cardiology, Xijing Hospital, Fourth Military Medical University, Xi’an, China.",1,0.28329
-96,"Department of Aerospace Physiology, Fourth Military Medical University, Xi’an, China.",1,0.28329
-97,"Department of Basic Medicine, Xi’an Medical University, Xi’an, China.",1,0.28329
-98,"Regenerative Medicine Manufacturing Society , Winston-Salem, NC , USA",1,0.28329
-99,"Cytiva , Marlborough, MA , USA",1,0.28329
-100,"AlloSource , Centennial, CO , USA",1,0.28329
-101,"Tissue Testing Technologies, LLC , Charleston, SC , USA",1,0.28329
-102,"Axiom Space Headquarters , Houston, TX , USA",1,0.28329
-103,"Cellbox Solutions , Hamburg , Germany",1,0.28329
-104,"Wake Forest Institute for Regenerative Medicine , Winston-Salem, NC , USA",1,0.28329
-105,"Biology and Environmental Chemistry Division, Sustainable System Research Laboratory, Central Research Institute of Electric Power Industry (CRIEPI), Komae, Japan",1,0.28329
-106,"Environmental Health Science Research Bureau, Health Canada, Ottawa, Canada",1,0.28329
-107,"Department of Environmental and Biological Sciences, University of Eastern Finland, Kuopio, Finland",1,0.28329
-108,"Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",1,0.28329
-109,"KBR, Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA",1,0.28329
-110,"Skolkovo Institute of Science and Technology, Moscow, Russia",1,0.28329
-111,"Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences Peking University  Beijing China",1,0.28329
-112,"Laboratory for Cognitive Research, HSE University, Moscow 101000, Russia",1,0.28329
-113,"Department of Immunology, School of Basic Medical Sciences NHC Key Laboratory of Medical Immunology, Peking University  Beijing China",1,0.28329
-114,"Department of Kinesiology, Indiana University School of Public Health–Bloomington, Bloomington",1,0.28329
-115,"Program in Neuroscience, The College of Arts and Sciences, Indiana University, Bloomington",1,0.28329
-116,"Medical Radiation Research Center, Tabriz University of Medical Sciences, Tabriz, Iran",1,0.28329
-117,"Division of Interventional Radiology and Image-Guided Medicine, Department of Radiology and Imaging Sciences, Emory University School of Medicine, Atlanta, GA, USA",1,0.28329
-118,"Department of Community Medicine, Tabriz University of Medical Sciences, Tabriz, Iran",1,0.28329
-119,"Department of Radiology, Tabriz University of Medical Sciences, Tabriz, Iran",1,0.28329
-120,"Research Center of Psychiatry and Behavioral Sciences, Tabriz University of Medical Sciences, Tabriz, Iran",1,0.28329
-121,"National Demonstration Center for Experimental Mechanical and Electrical Engineering Education, Tianjin University of Technology, Tianjin, People’s Republic of China",1,0.28329
-122,"Centre
-for Rural Technology, Indian Institute of Technology, Guwahati, India",1,0.28329
-123,"NIFTEM, Kundii, India",1,0.28329
-124,"Department of Biotechnology, D.Y. Patil Deemed to be University, Mumbai, India",1,0.28329
-125,"Department of Dairy
-Science and Food Technology, Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",1,0.28329
-126,"Department of Food Technology, Lady Irwin College, University of Delhi, New Delhi, India",1,0.28329
-127,National Key Laboratory of Human Factors Engineering China Astronauts Research and Training Center  Beijing China,1,0.28329
-128,"Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Key Laboratory of Molecular Cardiovascular Science Ministry of Education, Peking University  Beijing China",1,0.28329
-129,"Immunology Research Center Beijing Clinical Research Institute, Beijing Friendship Hospital, Capital Medical University  Beijing China",1,0.28329
-130,State Key Laboratory of Space Medicine Fundamentals and Application Chinese Astronaut Research and Training Center  Beijing China,1,0.28329
-131,"Helmholtz Zentrum München, Institute of Radiation Medicine (HMGU-IRM), Neuherberg, Germany",1,0.28329
-132,"School of Medicine, Institute of Clinical Medicine, Pathology and Forensic Medicine, and Translational Cancer Research Area, University of Eastern Finland, Kuopio, Finland",1,0.28329
-133,"Canadian Nuclear Laboratories, Chalk River, Canada",1,0.28329
-134,"Department of Biochemistry and Molecular and Cellular Biology, Georgetown University, Washington, DC, USA",1,0.28329
-135,"Translational Research Institute for Space Health, United States",1,0.28329
-136,"Space Biosciences Research Branch, NASA Space Biology, United States",1,0.28329
-137,"Jet Propulsion Laboratory, California Institute of Technology, United States",1,0.28329
-138,"Computer Science, University College London, United Kingdom",1,0.28329
-139,"Politecnico di Milano, Italy",1,0.28329
-140,"Human Systems Integration, SJSURF at NASA Ames, United States",1,0.28329
-141,"Tangible Media Group - MIT Media Lab, Massachusetts Institute of Technology, United States",1,0.28329
-142,"MIT, MIT, United States",1,0.28329
-143,Embry-Riddle Aeronautical University,1,0.28329
-144,"Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA",1,0.28329
-145,"Department of Biology, University of Ottawa, Ottawa, Canada",1,0.28329
-146,"Consumer and Clinical Radiation Protection Bureau, Health Canada, Ottawa, Canada",1,0.28329
-147,"Department of Radiology, Royal Perth Hospital, Perth, WA, 6000, Australia",1,0.28329
-148,"Department of Imaging and Pathology, Katholieke Universiteit Leuven, 3000 Leuven, Belgium",1,0.28329
-149,"Department of Radiology, Alfred Health, Melbourne, VIC, 3181, Australia",1,0.28329
-150,"Department of Integrative Biology, University of California, Berkeley, California, USA",1,0.28329
-151,"Gagarin Cosmonauts Training Center, Star City 141160, Russia",1,0.28329
-152,"Media Lab, MIT, United States",1,0.28329
-153,"MIT Media Lab - Responsive Environments, MIT, United States",1,0.28329
-154,"LMU Munich, Germany",1,0.28329
-155,"Department of Life Sciences, School of Health Sciences, Birmingham City University, Birmingham B15 3TN, United Kingdom",1,0.28329
-156,"Department of Oncology, Lombardi Comprehensive Cancer Center, Georgetown University, Washington, DC, USA",1,0.28329
-157,"Institute for Environment, Health and Safety, Radiobiology Unit, Belgian Nuclear Research Centre (SCK CEN), Mol, Belgium",1,0.28329
-158,"Federal Office for Radiation Protection (BfS), Section Radiation Biology, Neuherberg, Germany",1,0.28329
-159,"Research Professor, SUNY Upstate Medical University, Millersville, Maryland, USA.",1,0.28329
-160,"CSF/MITRE Workshop Summary Report, Commercial Spaceflight Federation, Washington, DC, USA.",1,0.28329
-161,"School of Metallurgy and Materials, University of Birmingham, Birmingham B15 2TT, United Kingdom",1,0.28329
-162,"Shanghai Aerospace Equipment Manufacturer, 100 Huaning Road, Minhang, Shanghai 200245, China",1,0.28329
-163,"Quantum Solid-State Physics, Department of Physics and Astronomy, KU Leuven, B-3001 Leuven, Belgium",1,0.28329
-164,"Responsive Environments, MIT Media Lab, United States",1,0.28329
-165,"Teer Coatings Ltd., West Stone, Droitwich, Worcestershire WR9 9AS, United Kingdom",1,0.28329
-166,"Lee Kum Kee (Xinhui) Food Co., Ltd.  Jiangmen Guangdong 529156 China",1,0.28329
-167,China Astronaut Research and Training Center Key Laboratory of Space Nutrition and Food Engineering  Beijing 100094 China,1,0.28329
-168,Space Science and Technology Institute (Shenzhen)  Shenzhen 518117 China,1,0.28329
-169,"Faculty of Engineering, University of Nottingham, Nottingham NG7 2RD, United Kingdom",1,0.28329
-170,"School of Mechanical Engineering, Northwestern Polytechnical University, Xi'an 710072, China",1,0.28329
-171,"MIT Media Lab, United States",1,0.28329
-172,"Département des Sciences Biologiques, Université de Montréal, Montréal, Quebec, Canada",1,0.28329
-173,Oak Ridge National Laboratory,1,0.28329
-174,"Center of Applied Space Technology and Microgravity (ZARM), University of Bremen, Bremen, Germany",1,0.28329
-175,"Department of Clinical Engineering, Faculty of Health Sciences &amp; Division of Health Sciences, Graduate School of Sustainable Systems Science Komatsu University Komatsu Japan",1,0.28329
-176,"Graduate School of Biological Sciences, Nara Institute of Science and Technology",1,0.28329
-177,Japan Space Forum,1,0.28329
-178,Advanced Engineering Services,1,0.28329
-179,Japan Manned Space Systems,1,0.28329
-180,"Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency",1,0.28329
-181,"Department of Biology, Graduate School of Science, Osaka City University",1,0.28329
-182,NASA Ames Research Center,1,0.28329
-183,"BioServe Space Technologies, University of Colorado Boulder",1,0.28329
-184,"Noto Center for Fisheries Science and Technology, Kanazawa University, Ossaka, Noto-cho, Ishikawa 927-0552, Japan",1,0.28329
-185,"Laboratory of Fish Culture, Tokyo University of Marine Science and Technology, Minato-ku, Tokyo 108-8477, Japan",1,0.28329
-186,"Department of Clinical Laboratory Science, Division of Health Sciences, Graduate School of Medical Science, Kanazawa University, Kodatsuno, Ishikawa 920-0942, Japan",1,0.28329
-187,"Japan Aerospace Exploration Agency, Tsukuba, Ibaraki 305-8505, Japan",1,0.28329
-188,"Department of Clinical Engineering, Faculty of Health Sciences, Komatsu University, Komatsu, Ishikawa 923-0961, Japan",1,0.28329
-189,"Department of Biology, College of Liberal Arts and Sciences, Tokyo Medical and Dental University, Ichikawa, Chiba 272-0827, Japan",1,0.28329
-190,"Life Science Research Center, University of Toyama, Sugitani, Toyama 930-0194, Japan",1,0.28329
-191,"Department of Pharmaceutical Engineering, Faculty of Engineering, Toyama Prefectural University, Kurokawa, Toyama 939-0398, Japan",1,0.28329
-192,"Department of Oral Morphology, Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Okayama 700-8525, Japan",1,0.28329
-193,The University of Utah,1,0.28329
-194,University of California Berkeley,1,0.28329
-195,Karolinska Institute,1,0.28329
-196,"National Demonstration Center for Experimental, Mechanical and Electrical Engineering Education, Tianjin University of Technology, Tianjin 300384, P. R. China",1,0.28329
-197,"School of Engineering, University of Warwick, Coventry CV4 7AL, United Kingdom",1,0.28329
-198,"Department of Chemical Engineering, Can Tho University, Can Tho 900000, Vietnam",1,0.28329
-199,"Faculty of Science, University of Nottingham, Nottingham NG7 2RD, United Kingdom",1,0.28329
-200,"Adelaide Medical School, University of Adelaide, Adelaide 5005, Australia",1,0.28329
-201,"Andy Thomas Centre for Space Resources, University of Adelaide, Adelaide 5005, Australia",1,0.28329
-202,"School of Chemical Engineering and Advanced Materials, University of Adelaide, Adelaide 5005, Australia",1,0.28329
-203,"Department of Mechanics, School of Mechanical Engineering, Tianjin University, Tianjin 300354, P. R. China",1,0.28329
-204,"Tianjin Key Laboratory for Advanced Mechatronic System Design and Intelligent Control, School of Mechanical Engineering, Tianjin University of Technology, Tianjin 300384, P. R. China",1,0.28329
-205,"Key Laboratory of DGHD, MOE, School of Life Science and Technology, Southeast University , Nanjing, China",1,0.28329
-206,National Institute of Crop Science,1,0.28329
-207,University of Louisiana at Lafayette,1,0.28329
-208,Centro de Investigaciones Biológicas Margarita Salas – CSIC  Madrid Spain,1,0.28329
-209,Florida State UniversityTallahasseeFL,1,0.28329
-210,Florida State UniversityBaltimoreMD,1,0.28329
-211,"Department of Bioinformatics, School of Biomedical Engineering and Informatics, Nanjing Medical University , Nanjing, China",1,0.28329
-212,"The State Key Laboratory of Space Medicine Fundamentals and Application, China Astronaut Research and Training Center , No. 26 Beiqing Road, Haidian District, Beijing, 100094, China",1,0.28329
-213,"Noto Marine Laboratory, Institute of Nature and Environmental Technology, Kanazawa University, Housu-gun, Ishikawa 927-0553, Japan",1,0.28329
-214,Istituto di Medicina Aerospaziale “A. Mosso” Aeronautica Militare  Milan Italy,1,0.28329
-215,Italian Air Force Logistic Command  Rome Italy,1,0.28329
-216,"Space Biology Unlimited SAS, 24 Cours de l’Intendance, Bordeaux, France",1,0.28329
-217,"Respiratory Diseases Department, PLA Rocket Force Characteristic Medical Center , Beijing , China",1,0.28329
-218,"Department of Respiratory and Critical Care Medicine, Binzhou Medical University Hospital , Binzhou , China",1,0.28329
-219,"Center for Space Emerging Technologies,Department of Medicine and Biology,Lima,Peru",1,0.28329
-220,"Center for Space Emerging Technologies,Sociedad Cient&#x00ED;fica de Astrobiolog&#x00ED;a del Per&#x00FA;, (SCAP);,Lima,Peru",1,0.28329
-221,New York University Abu Dhabi,1,0.28329
-222,"Institute of Food Biotechnology and Genomics, National Academy of Sciences of Ukraine",1,0.28329
-223,Institute of Food Biotechnology and Genomics NAS of Ukraine,1,0.28329
-224,"The Saban Research Institute, Children’s Hospital Los Angeles, University of Southern California, Los Angeles, Southern California, USA",1,0.28329
-225,Magneto Space,1,0.28329
-226,"Department of Ophthalmology, Aarhus University Hospital, Aarhus C, Denmark",1,0.28329
-227,"Department of Biomedicine, Aarhus University, Aarhus C, Denmark",1,0.28329
-228,"Gravitational Biology Group, Department of Biology, Friedrich-Alexander University, Erlangen, Germany",1,0.28329
-229,"Postgraduate Program in Health and Environment, University of Joinville Region, Joinville, Brazil",1,0.28329
-230,"Research Group ‘Magdeburger Arbeitsgemeinschaft Für Forschung Unter Raumfahrt- Und Schwerelosigkeitsbedingungen‘ (MARS), Otto-von-Guericke University, Magdeburg, Germany",1,0.28329
-231,"Department of Microgravity and Translational Regenerative Medicine, Clinic for Plastic, Aesthetic and Hand Surgery, Otto-von-Guericke-University Magdeburg, Magdeburg, Germany",1,0.28329
-232,School of Engineering Medicine Beihang University  Beijing China,1,0.28329
-233,"Respiratory Diseases Department, The Second Medical Center of PLA General Hospital , Beijing , China",1,0.28329
-234,Mars University,1,0.28329
-235,Istituto di Medicina Aerospaziale “Aldo Di Loreto” Aeronautica Militare  Roma Italy,1,0.28329
-236,"Laboratory of Experimental Neurosurgery and Cell Therapy, Neurosurgery Unit Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico  Milan Italy",1,0.28329
-237,Istituto di Medicina Aerospaziale “Aldo Di Loreto” Aeronautica Militare  Rome Italy,1,0.28329
-238,Unit of Medical Genetics ASST Santi Paolo e Carlo  Milan Italy,1,0.28329
-239,Department of Health Sciences Università degli Studi di Milano  Milan Italy,1,0.28329
-240,Department of Medical‐Surgical Physiopathology and Transplantation University of Milan  Milan Italy,1,0.28329
-241,Department of Clinical Sciences and Community Health University of Milan  Milan Italy,1,0.28329
-242,"Clinical Pathology Unit Istituto di Medicina Aerospaziale “A. Mosso”, Aeronautica Militare  Milan Italy",1,0.28329
-243,Aldo Ravelli' Research Center  Milan Italy,1,0.28329
-244,"Department of Biology, College of Liberal Arts and Sciences, Tokyo Medical and Dental University",1,0.28329
-245,"Noto Marine Laboratory, Institute of Nature and Environmental Technology, Division of Marine Environmental Studies, Kanazawa University",1,0.28329
-246,"Noto Center for Fisheries Science and Technology, Kanazawa University",1,0.28329
-247,"Department of Pharmaceutical Engineering, Faculty of Engineering, Toyama Prefectural University",1,0.28329
-248,"Life Science Research Center, University of Toyama",1,0.28329
-249,"Department of Marine Biosciences, Tokyo University of Marine Science and Technology",1,0.28329
-250,"Faculty of Biological Science and Technology, Institute of Science and Engineering, Kanazawa University",1,0.28329
-251,"Department of Clinical Engineering, Faculty of Health Sciences, Komatsu University",1,0.28329
-252,"Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University",1,0.28329
-253,Department of Pharmaceutical and Pharmacological Sciences Vrije Universiteit Brussel  Brussels Belgium,1,0.28329
-254,"Department of Biology, College of Liberal Arts and Sciences Tokyo Medical and Dental University Ichikawa Japan",1,0.28329
-255,"National Demonstration Center for Experimental Mechanical and Electrical Engineering Education (Tianjin University of Technology), Tianjin, People’s Republic of China",1,0.28329
-256,Gunma University Heavy Ion Medical Center Maebashi Japan,1,0.28329
-257,Frontier Research Core for Life Sciences University of Toyama  Toyama Japan,1,0.28329
-258,"Department of Advanced Nano‐ and Bio‐sciences, Graduate School of Innovative Life Sciences University of Toyama  Toyama Japan",1,0.28329
-259,"Department of Applied Chemistry, Graduate School of Science and Engineering University of Toyama  Toyama Japan",1,0.28329
-260,"Department of Medicine, Johns Hopkins School of Medicine, Baltimore, Maryland",1,0.28329
-261,"Department of Biomedical Engineering, Johns Hopkins University, Baltimore, Maryland",1,0.28329
-262,"Spiritus Medical, Inc., Columbus, Ohio",1,0.28329
-263,"Department of Pathology and Laboratory Medicine, Brown University, Providence, Rhode Island",1,0.28329
-264,"Department of Cardiothoracic Surgery, Southcoast Health, Fall River, Massachusetts",1,0.28329
-265,UK Centre for Astrobiology School of Physics and Astronomy University of Edinburgh Edinburgh UK,1,0.28329
-266,Songshan Lake Materials Laboratory  Dongguan Guangdong 523808 China,1,0.28329
-267,Center of Materials Science and Optoelectronics Engineering University of Chinese Academy of Sciences  Beijing 100049 China,1,0.28329
-268,"Institute of Physics, Chinese Academy of Sciences  Beijing 100190 China",1,0.28329
-269,School of Materials Science and Engineering Tsinghua University  Beijing 100084 China,1,0.28329
-270,College of Mechanical and Electrical Engineering Beijing University of Chemical Technology  Beijing 100029 China,1,0.28329
-271,Qian Xuesen Laboratory of Space Technology China Academy of Space Technology  Beijing 100094 China,1,0.28329
-272,International Joint Research Center of Aerospace Biotechnology &amp; Medical Engineering Beihang University  Beijing 100083 China,1,0.28329
-273,"State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering Beihang University  Beijing 100083 China",1,0.28329
-274,School of Materials Science Japan Advanced Institute of Science and Technology  Nomi Japan,1,0.28329
-275,"New Business Project, Development Division Kitagawa Iron Works Co., Ltd.  Hiroshima Japan",1,0.28329
-276,The University of Tokyo: Tokyo Daigaku,1,0.28329
-277,Department of Surgery The University of Minnesota  Minneapolis MN USA,1,0.28329
-278,"Axiom Space, Houston, Texas, USA.",1,0.28329
-279,"State Key Laboratory of Space Medicine Fundamentals and Application, China Astronaut Research and Training Center  Beijing China",1,0.28329
-280,University of Nebraska Medical Center,1,0.28329
-281,Department of Mathematics and Computing Indian Institute of Technology Delhi  New Delhi India,1,0.28329
-282,Department of Physics Massachusetts Institute of Technology  Cambridge MA USA,1,0.28329
-283,Medical School The University of Rochester  Rochester NY USA,1,0.28329
-284,Center for Space Medicine Baylor College of Medicine  Houston TX USA,1,0.28329
-285,Trinity College University of Oxford  Broad Street Oxford OX1 3BH UK,1,0.28329
-286,"Interdisciplinary Center for Bioethics, Institution for Social and Policy Studies, Yale University, New Haven, CT, USA",1,0.28329
-287,University of Wisconsin–Madison,1,0.28329
-288,Universidade de São Paulo,1,0.28329
-289,California Institute of Technology,1,0.28329
-290,"Department of Plant Pathology, University of Florida, Merritt Island, Florida, USA.",1,0.28329
-291,"Department of Horticultural Sciences, University of Florida, Gainesville, Florida, USA.",1,0.28329
-292,"Sherwood Observatory, Mansfield and Sutton Astronomical Society, Sutton-in-Ashfield a” and “b” Nottinghamshire, NG17 5LF England, United Kingdom",1,0.28329
-293,"Department of Social Sciences, University of Information Technology and Management in Rzeszow, Rzeszow, Poland",1,0.28329
-294,China School of Instrumentation and Optoelectronic Engineering Beihang University  Beijing 100083 China,1,0.28329
-295,"Key Laboratory of Biomechanics and Mechanobiology (Beihang University), Ministry of Education Beijing Advanced Innovation Center for Biomedical Engineering, School of Biological Science and Medical Engineering Beihang University  Beijing 100083 China",1,0.28329
-296,"German Aerospace Center (DLR), Institute of Aerospace Medicine, Radiation Biology Department, Aerospace Microbiology Research Group, Linder Hoehe, Cologne (Köln), Germany.",1,0.28329
-297,"Hubei Key Laboratory of Plasma Chemistry and Advanced Materials, School of Materials Science and Engineering, Wuhan Institute of Technology, Wuhan 430205, People's Republic of China",1,0.28329
-298,"Chinese Ministry of Health, Chinese Academy of Medical Sciences and Comparative Medicine Center, Peking Union Medical College",1,0.28329
-299,"Faculty of Engineering, School of Biomedical Engineering, University of Sydney, Sydney, NSW 2006, Australia",1,0.28329
-300,"School of Physics and Astronomy, Sun Yat-sen University (Zhuhai Campus), Zhuhai 519082, People's Republic of China",1,0.28329
-301,"SPACETY, No.9 Dengzhuang South Road, Haidian District, Beijing, People's Republic of China",1,0.28329
-302,"School of Aeronautics and Astronautics, Sun Yat-Sen University, No. 135, Xingang Xi Road, Guangzhou, 510275, People's Republic of China",1,0.28329
-303,"College of Resources & Environment of Huazhong Agricultural University, No.1, Shizishan Street, Wuhan, 430070, People's Republic of China",1,0.28329
-304,"Critical Analytics for Manufacturing Personalized-Medicine, Singapore-MIT Alliance for Research and Technology, CREATE, Singapore",1,0.28329
-305,"MOE Key Laboratory of Fundamental Physical Quantities Measurement & Hubei Key Laboratory of Gravitation and Quantum Physics, PGMF and School of Physics, Huazhong University of Science and Technology, Wuhan 430074, People's Republic of China",1,0.28329
-306,Chinese PLA General Hospital,1,0.28329
-307,Space Center  Houston TX 77058 USA,1,0.28329
-308,Molecular Microbiology and Immunology Department Johns Hopkins Bloomberg School of Public Health  Baltimore MD 21205 USA,1,0.28329
-309,"Noto Marine Laboratory, Institute of Nature and Environmental Technology Kanazawa University Noto‐cho Japan",1,0.28329
-310,"Noto Center for Fisheries Science and Technology Kanazawa University Noto‐cho, Ishikawa Japan",1,0.28329
-311,Japan Aerospace Exploration Agency Tsukuba Japan,1,0.28329
-312,Life Science Research Center University of Toyama Toyama Japan,1,0.28329
-313,"Department of Pharmaceutical Engineering, Faculty of Engineering Toyama Prefectural University Toyama Japan",1,0.28329
-314,"Center for Space Emerging Technologies,J2MECH Ingenier&#x00ED;a y Dise&#x00F1;o;,Lima,Peru",1,0.28329
-315,"Air Force Medical Center, PLA",1,0.28329
-316,Tokyo Women's Medical University,1,0.28329
-317,"State Key Laboratory of Quality Research in Chinese Medicine, Institute of Chinese Medical Sciences University of Macau  Macao China",1,0.28329
-318,"Department of Neuroscience, Baylor College of Medicine, Houston, Texas",1,0.28329
-319,"Department of Medicine, Baylor College of Medicine, Houston, Texas",1,0.28329
-320,"Center for Space Medicine, Baylor College of Medicine, Houston, Texas",1,0.28329
-321,"Department of Integrative Physiology, Baylor College of Medicine, Houston, Texas",1,0.28329
-322,"Cardiovascular Research Institute, Baylor College of Medicine, Houston, Texas",1,0.28329
-323,China National GeneBank BGI‐Shenzhen  Shenzhen China,1,0.28329
-324,MGI BGI‐Shenzhen  Shenzhen China,1,0.28329
-325,School of Biology and Biological Engineering South China University of Technology  Guangzhou China,1,0.28329
-326,"Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY (J.M.S.).",1,0.28329
-327,"BGI‐Qingdao, BGI‐Shenzhen  Qingdao China",1,0.28329
-328,National Key Laboratory of Human Factors Engineering China Astronaut Research and Training Center  Beijing China,1,0.28329
-329,State Key Laboratory of Space Medicine Fundamentals and Application China Astronaut Research and Training Center  Beijing China,1,0.28329
-330,"NASA Johnson Space Center, Houston, TX (M.D.).",1,0.28329
-331,"Toronto Rehabilitation Institute, University Health Network, Toronto, ON, Canada (L.D.).",1,0.28329
-332,"Axiom Space, Houston, TX (J.S.).",1,0.28329
-333,"Weill Cornell Medical College, New York, NY (J.M.S.).",1,0.28329
-334,"Texas A & M University Wm Michael Barnes 64 Department of Industrial and Systems Engineering, , College Station, TX 77840-3131",1,0.28329
+0,"Aerospace Research Institute, Ministry of Science Research and Technology, Tehran 14665-834, Iran",6,0.57526
+1,Japan Aerospace Exploration Agency,5,0.47939
+2,Rensselaer Polytechnic Institute,4,0.38351
+3,"Laboratory for Immuno Bioengineering Research & Applications, Division of Engineering, New York University Abu Dhabi, Abu Dhabi, UAE",4,0.38351
+4,"Department of Mechanical Engineering, Tandon School of Engineering, New York University, NY, USA",4,0.38351
+5,"Cell Physiology Laboratory, Institute of Biomedical ProblemsRussian Academy of SciencesMoscowRussia",3,0.28763
+6,San Jose State University,3,0.28763
+7,"Graduate School of Science, Osaka City University, Osaka, Japan",3,0.28763
+8,"Center of Applied Space Technology and Microgravity (ZARM), University of Bremen, Bremen, Germany",3,0.28763
+9,"Department of Experimental Medicine, “Sapienza” University of Rome, Systems Biology Group, Viale Regina Elena 324, Via A. Scarpa 14, 00161 Rome, Italy",3,0.28763
+10,"Department of Horticultural Sciences, University of Florida, Gainesville, Florida, USA.",3,0.28763
+11,"Department of Biology, Chemistry & Environmental Sciences, College of Arts & Sciences, American University of Sharjah, University City, Sharjah, UAE",3,0.28763
+12,Massachusetts Institute of Technology,3,0.28763
+13,University of Sharjah,3,0.28763
+14,Faculty of Life Sciences,3,0.28763
+15,Leipzig University,3,0.28763
+16,Biophysical Chemistry Group,3,0.28763
+17,Leipzig 04103,3,0.28763
+18,Institute of Biochemistry,3,0.28763
+19,Laboratory for Immuno Bioengineering Research and ApplicationsDivision of EngineeringNew York University Abu Dhabi Abu Dhabi UAE,3,0.28763
+20,"Department of Clinical Pharmacology and Propaedeutics of Internal Diseases , Sechenov First Moscow State Medical University (Sechenov University), Ministry of Health of Russia , Moscow , Russian Federation",2,0.19175
+21,"Institut Curie, Paris Sciences et Lettres Research University Mechanics and Genetics of Embryonic and Tumoral Development Group  Paris France",2,0.19175
+22,"Department of Mechanics, School of Mechanical Engineering, Tianjin University, Tianjin, People’s Republic of China",2,0.19175
+23,"Tianjin Key Laboratory for Advanced Mechatronic System Design and Intelligent Control, School of Mechanical Engineering, Tianjin University of Technology, Tianjin, People’s Republic of China",2,0.19175
+24,Rensselaer Polytechnic Inst.,2,0.19175
+25,"Azienda Policlinico Umberto I, Viale del Policlinico 155, 00161 Rome, Italy",2,0.19175
+26,"Department of Surgery “Pietro Valdoni”, Sapienza University of Rome, Via A. Scarpa 14, 00161 Rome, Italy",2,0.19175
+27,"School of Biomedical Engineering, Faculty of Engineering and Information Technology University of Technology Sydney  Sydney Australia",2,0.19175
+28,Department of Physiology and Biomedical Engineering Mayo Clinic  Jacksonville FL USA,2,0.19175
+29,"EMBL Australia node in Single Molecule Science, School of Medical Sciences, Faculty of Medicine University of New South Wales  Sydney 2052 Australia",2,0.19175
+30,"Department of Biomedical Engineering, University of South Carolina, Columbia, SC, USA",2,0.19175
+31,"Zoology Department, College of Science; King Saud University; Riyadh Saudi Arabia",2,0.19175
+32,Tohoku Fukushi University,2,0.19175
+33,"Radiobiology Unit, Belgian Nuclear Research Centre, SCK CEN, Mol, Belgium",2,0.19175
+34,"Department of Chemistry and Biochemistry, University of South Carolina, Columbia, SC, USA",2,0.19175
+35,"NASA Ames Research Center, Moffett Field, California, USA.",2,0.19175
+36,"School of Chemistry and Biochemistry, Georgia Institute of Technology, 901 Atlantic Dr. NW, Atlanta, Georgia 30332-0400, United States",2,0.19175
+37,Japan Space Forum,2,0.19175
+38,"National Institute of Radiological Sciences, National Institutes for Quantum and Radiological Science and Technology, Chiba, Japan",2,0.19175
+39,"VIBT-Extremophile Center, University of Natural Resources and Life Sciences, Vienna, Austria",2,0.19175
+40,University of Colorado Boulder,2,0.19175
+41,"Department of Social Sciences, University of Information Technology and Management in Rzeszow, Rzeszow, Poland",2,0.19175
+42,"Department of Biology, Chemistry and Environmental Sciences, College of Arts and Sciences, American University of Sharjah, University City, Sharjah, United Arab Emirates",2,0.19175
+43,"Physiology Division, Otto Loewi Research Center, Medical University of Graz, Graz, Austria",2,0.19175
+44,"Lab for Equilibrium Investigations and Aerospace, University of Antwerp, B-2610 Antwerp, Belgium",2,0.19175
+45,"Department of Ecological and Biological Sciences, University of Tuscia, Viterbo, Italy",2,0.19175
+46,"Institute of Biomedical Problems, Russian Academy of Sciences, Moscow 123007, Russia",2,0.19175
+47,"Institute of Aerospace Medicine, Gravitational Biology, German Aerospace Center (DLR), Linder Hoehe, D-51147 Cologne, Germany",2,0.19175
+48,"Department of Clinical Pharmacology and Therapy , Russian Medical Academy of Continuing Professional Education, Ministry of Health of Russia , Moscow , Russian Federation",2,0.19175
+49,"KBR, Houston, TX, USA",2,0.19175
+50,"Universidad Nacional de Ingenier&#x00ED;a;,Center for Space Emerging Technologies,Lima,Peru",2,0.19175
+51,"Universidad Tecnol&#x00F3;gica del Per&#x00FA;,IEEE Senior Member,Lima,Peru",2,0.19175
+52,University of Houston,2,0.19175
+53,Division of Endocrinology Metabolism and Diabetes Anschutz Health &amp; Wellness Center University of Colorado  Anschutz Medical Campus Aurora CO USA,2,0.19175
+54,"Institute for Technical Thermodynamics, Technische Universität Darmstadt, Alarich-Weiss-Straße 10, 64287 Darmstadt, Germany",2,0.19175
+55,"Laboratory of Microbiology, Wageningen University &amp; Research, Wageningen, The Netherlands",2,0.19175
+56,"Université de Strasbourg  CNRS, IPHC UMR 7178 Strasbourg France",2,0.19175
+57,University of Minnesota,2,0.19175
+58,Florida State UniversityTallahasseeFL,2,0.19175
+59,"Department of Mechanical, Aerospace and Civil Engineering University of Manchester Manchester UK",1,0.09588
+60,"Institute of Applied Sciences and Intelligent Systems ""E. Caianiello"",CNR-ISASI,Pozzuoli(NA),Italy,80078",1,0.09588
+61,"University of Naples Federico II,Department of Chemical, Materials and Production Engineering,Napoli,Italy,80125",1,0.09588
+62,"Faculty of Earth and Life Sciences, Vrije Universiteit Amsterdam, De Boelelaan 1081-1087, 1081 HV, Amsterdam, Netherlands.",1,0.09588
+63,"Center for Computational Simulation, Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio, Universidad Politécnica de Madrid, Plaza de Cardenal Cisneros 3, 28040 Madrid, Spain",1,0.09588
+64,"CNRS Centre de Biophysique Moléculaire, UPR-4301, Rue Charles Sadron, CS80054, 45071 Orléans Cedex 2, France.",1,0.09588
+65,"Biodiversity Research/Systematic Botany, University of Potsdam, Maulbeerallee 1, D-14469 Potsdam, Germany.",1,0.09588
+66,"Department Technology Assessment and Substance Cycles, Leibniz- Institute for Agriculture Engineering and Bioeconomy, Max-Eyth-Allee 100, D-14469 Potsdam, Germany.",1,0.09588
+67,"Department of Ecological and Biological Sciences (DEB), University of Tuscia, Largo dell’Università snc, 01100 Viterbo, Italy.",1,0.09588
+68,"George Washington University, Space Policy Institute, Washington, DC 20052, USA.",1,0.09588
+69,"Institute for Landscape and Open Space, Eastern Switzerland University of Applied Sciences, Seestrasse 10, 8640 Rapperswil, Switzerland.",1,0.09588
+70,"Institute of Molecular Biology and Genetics of NASU, Acad. Zabolotnoho str.150, 03680, Kyiv Ukraine.",1,0.09588
+71,Sam Houston State University,1,0.09588
+72,"European Institute for Systems Biology & Medicine, Université de Lyon, France",1,0.09588
+73,"German Aerospace Center (DLR), Institute of Optical Sensor Systems, Rutherfordstr. 2, 12489 Berlin, Germany.",1,0.09588
+74,"Japan Aerospace Exploration Agency (JAXA), Tsukuba, Ibaraki, Japan",1,0.09588
+75,"Freie Universitaet Berlin, Experimental Biophysics and Space Sciences, Institute of Experimental Physics; Arnimallee 14, 14195 Berlin, Germany.",1,0.09588
+76,"Italian Space Agency,Rome,Italy,00133",1,0.09588
+77,"Department of Mechanical Engineering, Clemson University, Clemson, South Carolina 29631, USA",1,0.09588
+78,"AstrobiologyOU, Faculty of Science, Technology, Engineering and Mathematics, The Open University, Milton Keynes, MK7 6AA, UK.",1,0.09588
+79,"Departamento de Observación de la Tierra, Instituto Nacional de Técnica Aeroespacial (INTA), Torrejón de Ardoz-28850, Madrid, Spain.",1,0.09588
+80,"European Space Agency (ESA), European Space Research and Technology Centre (ESTEC),, Noordwijk, Netherlands.",1,0.09588
+81,"University of Bradford, University Analytical Centre, Division of Chemical and Forensic Sciences, Raman Spectroscopy Group, West Yorkshire, UK.",1,0.09588
+82,"Robert Frederick Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithaca, New York 14853, USA",1,0.09588
+83,University of Genoa,1,0.09588
+84,"Department of Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica, 00133, Rome, Italy.",1,0.09588
+85,University UPO,1,0.09588
+86,"School of Mathematics and Information Science, Henan Polytechnic University, 454000 Jiaozuo, P. R. China",1,0.09588
+87,"German Aerospace Center (DLR), Institute of Aerospace Medicine, Radiation Biology Department, Linder Höhe, 51147 Köln, Germany.",1,0.09588
+88,"Department of Mathematics, Faculty of Education, Ain Shams University, Cairo, Egypt",1,0.09588
+89,"Heinrich-Heine-Universität (HHU), Institut für Botanik, Universitätsstr. 1, 40225 Düsseldorf, Germany.",1,0.09588
+90,"Leiden Observatory, Laboratory Astrophysics, Leiden University, Leiden, Netherlands.",1,0.09588
+91,"University of Texas Medical Branch, Galveston, Texas",1,0.09588
+92,"Microbial Geoecology and Astrobiology, Department of Ecology and Environmental Sciences, Umeå university, Linnaeus väg 6, 901 87 Umeå, Sweden.",1,0.09588
+93,"German Aerospace Center (DLR), Institute of Planetary Research, Planetary Laboratories Department, Rutherfordstr. 2, 12489 Berlin, Germany.",1,0.09588
+94,"Centre for Biological Threats and Special Pathogens (ZBS 6), Robert Koch Institute, Nordufer 20, 13353 Berlin, Germany.",1,0.09588
+95,Biomining Consultant Santiago Chile,1,0.09588
+96,"Research and Science Department, Italian Space Agency (ASI), Via del Politecnico snc, 00133, Rome, Italy.",1,0.09588
+97,"NASA Ames Research Center, Mail Stop 239-20, P.O. Box 1, Moffett Field, CA 94035-0001, USA.",1,0.09588
+98,"Department of Radiology, University of California, San Diego, California",1,0.09588
+99,"Department of Biochemistry and Molecular Biology, Center for Infectious Disease Dynamics, and the Huck Institutes of the Life Sciences, Pennsylvania State University, University Park, Pennsylvania, USA",1,0.09588
+100,"Rosliston Astronomy Group, Rosliston Forestry Centre , Burton Road, Rosliston, Swadlincote, DE12 8JX, England, United Kingdom",1,0.09588
+101,"Sherwood Observatory, Mansfield and Sutton Astronomical Society, Coxmoor Road , Sutton-in-Ashfield, Nottinghamshire, NG17 5LF, England, United Kingdom ; Science4U.co.uk, Radcliffe-on-Trent, Nottinghamshire, NG12 2LA, England, United Kingdom",1,0.09588
+102,"China-Japan Union Hospital of Jilin University, 126 Xiantai Street, Changchun 130033, China",1,0.09588
+103,"State Key Laboratory of Molecular Developmental Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 3 Nanyitiao, Zhongguancun, Beijing 100101, China",1,0.09588
+104,"Key Laboratory of Molecular Developmental Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100080, China",1,0.09588
+105,"Department of Mechanical and Aerospace Engineering, University of Florida, Gainesville, Florida 32611, USA",1,0.09588
+106,"NASA Glenn Research Center, Cleveland, Ohio 44135, USA",1,0.09588
+107,"Department of Orthopedic Trauma Surgery, Rheinisch Westfälische Technische Hochschule Aachen, Aachen, Germany",1,0.09588
+108,"Departments of Neurologic Surgery, Mayo Clinic, Rochester, MN 55905 USA",1,0.09588
+109,"Neurology, Mayo Clinic, Rochester, MN 55905 USA",1,0.09588
+110,"Neuroradiology, Mayo Clinic, Rochester, MN 55905 USA",1,0.09588
+111,"Departments of Experimental Medical Science, Lund University, Lund 228 11 Sweden",1,0.09588
+112,"Wallenberg Center for Molecular Medicine, Lund University, Lund 228 11 Sweden",1,0.09588
+113,"Thünen Institute of Baltic Sea Fisheries, Alter Hafen Süd 2, 18069 Rostock, Germany",1,0.09588
+114,"Mines Saint‐Etienne Univ Clermont Auvergne CNRS UMR 6158 LIMOS, Centre CIS Saint‐Etienne F ‐ 42023 France",1,0.09588
+115,Tor Vergata University of Roma Department of Chemical Sciences and Technologies  Via della Ricerca Scientifica Roma 00133 Italy,1,0.09588
+116,"National Ctr. for Physical Acoust. and Dept. of Phys. and Astronomy, Univ. of Mississippi, 502 Park Ln., Oxford, MS 38655,",1,0.09588
+117,"National Ctr. for Physical Acoust. and Dept. of Phys. and Astronomy, Univ. of Mississippi, University, MS",1,0.09588
+118,"School of Basic Medical Sciences , Savitribai Phule Pune University , Pune - , MS , INDIA",1,0.09588
+119,"Department of Physics , Haribhai V. Desai College , Pune - , MS , INDIA",1,0.09588
+120,"Department of Physics , Savitribai Phule Pune University , Pune - , MS , INDIA",1,0.09588
+121,"The BioRobotics Institute, Scuola Superiore Sant'Anna, Piazza Martiri della Libertà 33, 56127 Pisa, Italy",1,0.09588
+122,"Department of Excellence in Robotics & AI, Scuola Superiore Sant'Anna, Piazza Martiri della Libertà 33, 56127 Pisa, Italy",1,0.09588
+123,"INAIL Centro Protesi, Research and Training Area, Budrio, Italy",1,0.09588
+124,Harbin Institute of Technology,1,0.09588
+125,"Department of Mechanical and Aerospace Engineering, University of California, San Diego, California",1,0.09588
+126,"Division of Physiology, Otto Löwi Research Center for Vascular Biology, Immunity and Inflammation, Medical University of Graz, Graz, Austria",1,0.09588
+127,"Centre of Human & Applied Physiological Sciences, King’s College London, London, United Kingdom",1,0.09588
+128,"Biological and Environmental Engineering, Cornell University, Ithaca, New York 14853, United States",1,0.09588
+129,"Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, 185 Meeting Street, Providence, RI 02912, USA.",1,0.09588
+130,"Technical University Berlin, ZAA, Hardenbergstr. 36, D-10623 Berlin, Germany.",1,0.09588
+131,"Section Geomicrobiology, German Research Centre for Geosciences (GFZ), Telegrafenberg, 14473 Potsdam, Germany.",1,0.09588
+132,"Department of Experimental Limnology, Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB), 12587, Stechlin, Germany.",1,0.09588
+133,"Mycological Section, Italian Antarctic National Museum (MNA), 16121 Genoa, Italy.",1,0.09588
+134,"Department of Precision Mechanics, Faculty of Science and Engineering, Chuo University, Tokyo, Bunkyo-ku, Japan",1,0.09588
+135,China Astronaut Research and Training Center,1,0.09588
+136,"Institute of Environmental Technology, Environmental Microbiology, Technical University Berlin, Ernst-Reuter-Platz 1, Berlin, 10587 Berlin, Germany.",1,0.09588
+137,"Center of Applied Space Technology and Microgravity (ZARM), University of Bremen, Am Fallturm 2, 28359, Bremen, Germany.",1,0.09588
+138,"Institute of Geosciences, University of Potsdam, Karl-Liebknecht-Str. 24, 14476, Potsdam, Germany.",1,0.09588
+139,"German Aerospace Center (DLR), Microgravity User Support Center (MUSC), Linder Höhe, 51147 Köln, Germany.",1,0.09588
+140,Akademia Gorniczo-Hutnicza imienia Stanislawa Staszica w Krakowie,1,0.09588
+141,"Sports Medical Research Group, Department of Orthopedics, Balgrist University Hospital, University of Zurich, Switzerland",1,0.09588
+142,"Department of Kinesiology and Health Sciences, Faculty of Health, University of Waterloo, Waterloo, Ontario, Canada",1,0.09588
+143,"University Centre for Prevention and Sports Medicine, Department of Orthopedics, Balgrist University Hospital, University of Zurich, Switzerland",1,0.09588
+144,"Institute of Physiology, Department of Biomedical Sciences, University of Padua, Italy",1,0.09588
+145,"Arts et Metiers Institute of Technology, Bordeaux INP, INRAE, I2M Bordeaux CNRS, University of Bordeaux Talence France",1,0.09588
+146,University of Yamanashi,1,0.09588
+147,RIKEN BioResource Research Center,1,0.09588
+148,Japan Manned Space Systems Corporation,1,0.09588
+149,"Advanced Engineering Services Co., Ltd",1,0.09588
+150,Laboratory of Molecular Microbiology and Biotechnology Department of Biology Faculty of Sciences University of Chile Santiago Chile,1,0.09588
+151,Meiji University,1,0.09588
+152,"Faculty of Medicine, Memorial University of Newfoundland, St. John’s, Newfoundland and Labrador, Canada",1,0.09588
+153,"European Astronaut Centre, European Space Agency, Space Medicine Team (HRE-OM), Cologne, Germany",1,0.09588
+154,"KBR GmbH, Cologne, Germany",1,0.09588
+155,"Helmholtz Centre for Polar and Marine Research, Alfred Wegener Institute (AWI), Telegrafenberg, 14473 Potsdam, Germany.",1,0.09588
+156,Department of Radiation Oncology University of California Davis  Sacramento California USA,1,0.09588
+157,"School of Mechanical Engineering, North China University of Water Resource and Electric Power, Zhengzhou 450045, Henan, China",1,0.09588
+158,"Shriners Hospital for Children, Montreal, Quebec, Canada",1,0.09588
+159,"Department of Basic Medicine, Xi’an Medical University, Xi’an, China.",1,0.09588
+160,"Department of Aerospace Physiology, Fourth Military Medical University, Xi’an, China.",1,0.09588
+161,"Department of Cardiology, Xijing Hospital, Fourth Military Medical University, Xi’an, China.",1,0.09588
+162,"Group for Aquatic Microbial Ecology, Department of Chemistry, Environmental Microbiology and Biotechnology, University of Duisburg-Essen, Essen, Germany",1,0.09588
+163,"Institute of Molecular Genetics, National Research Center Kurchatov Institute, Moscow, Russia",1,0.09588
+164,"Skolkovo Institute of Science and Technology, Moscow, Russia",1,0.09588
+165,"Centre of Water and Environmental Research, University of Duisburg-Essen, Essen, Germany",1,0.09588
+166,"Division of Agriculture and Environmental Sciences, School of Biosciences, University of Nottingham , Nottingham, LE12 5RD, UK",1,0.09588
+167,"Division of Food Sciences, The University of Nottingham, Sutton Bonington Campus, Loughborough LE12 5RD,
+UK",1,0.09588
+168,"Department of Chemical Engineering and Chemistry, Eindhoven University of Technology, De Rondom 70, 5612 AP Eindhoven, The Netherlands",1,0.09588
+169,"Laboratoire de Génie des Procédées Catalytiques, Centre National de la Recherche Scientifique (CNRS)−UMR 5285, CPE Lyon, 43 Bd du 11 Novembre 1918, Villeurbanne, France",1,0.09588
+170,"King Abdullah International Medical Research Center/King Saud bin Abdulaziz University for Health Sciences, Jeddah, Saudi Arabia;",1,0.09588
+171,"Department of Integration of Chinese and Western Medicine, School of Basic Medical Sciences Peking University  Beijing China",1,0.09588
+172,"Department of Immunology, School of Basic Medical Sciences NHC Key Laboratory of Medical Immunology, Peking University  Beijing China",1,0.09588
+173,State Key Laboratory of Space Medicine Fundamentals and Application Chinese Astronaut Research and Training Center  Beijing China,1,0.09588
+174,"Immunology Research Center Beijing Clinical Research Institute, Beijing Friendship Hospital, Capital Medical University  Beijing China",1,0.09588
+175,"Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Key Laboratory of Molecular Cardiovascular Science Ministry of Education, Peking University  Beijing China",1,0.09588
+176,National Key Laboratory of Human Factors Engineering China Astronauts Research and Training Center  Beijing China,1,0.09588
+177,"Department of Food Technology, Lady Irwin College, University of Delhi, New Delhi, India",1,0.09588
+178,"Department of Dairy
+Science and Food Technology, Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",1,0.09588
+179,"Department of Biotechnology, D.Y. Patil Deemed to be University, Mumbai, India",1,0.09588
+180,"NIFTEM, Kundii, India",1,0.09588
+181,"Centre
+for Rural Technology, Indian Institute of Technology, Guwahati, India",1,0.09588
+182,"National Demonstration Center for Experimental Mechanical and Electrical Engineering Education, Tianjin University of Technology, Tianjin, People’s Republic of China",1,0.09588
+183,University of Maryland,1,0.09588
+184,"Faculty of Dentistry, McGill University, Montreal, Quebec, Canada.",1,0.09588
+185,"Regenerative Medicine Manufacturing Society , Winston-Salem, NC , USA",1,0.09588
+186,"Department of Radiology, Tabriz University of Medical Sciences, Tabriz, Iran",1,0.09588
+187,"Cytiva , Marlborough, MA , USA",1,0.09588
+188,"School of Metallurgy and Materials, University of Birmingham, Birmingham B15 2TT, United Kingdom",1,0.09588
+189,"CSF/MITRE Workshop Summary Report, Commercial Spaceflight Federation, Washington, DC, USA.",1,0.09588
+190,"Research Professor, SUNY Upstate Medical University, Millersville, Maryland, USA.",1,0.09588
+191,"Federal Office for Radiation Protection (BfS), Section Radiation Biology, Neuherberg, Germany",1,0.09588
+192,"Institute for Environment, Health and Safety, Radiobiology Unit, Belgian Nuclear Research Centre (SCK CEN), Mol, Belgium",1,0.09588
+193,"Department of Oncology, Lombardi Comprehensive Cancer Center, Georgetown University, Washington, DC, USA",1,0.09588
+194,"Department of Biochemistry and Molecular and Cellular Biology, Georgetown University, Washington, DC, USA",1,0.09588
+195,"Canadian Nuclear Laboratories, Chalk River, Canada",1,0.09588
+196,"School of Medicine, Institute of Clinical Medicine, Pathology and Forensic Medicine, and Translational Cancer Research Area, University of Eastern Finland, Kuopio, Finland",1,0.09588
+197,"Helmholtz Zentrum München, Institute of Radiation Medicine (HMGU-IRM), Neuherberg, Germany",1,0.09588
+198,"KBR, Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA",1,0.09588
+199,"Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA",1,0.09588
+200,"Department of Environmental and Biological Sciences, University of Eastern Finland, Kuopio, Finland",1,0.09588
+201,"Environmental Health Science Research Bureau, Health Canada, Ottawa, Canada",1,0.09588
+202,"Biology and Environmental Chemistry Division, Sustainable System Research Laboratory, Central Research Institute of Electric Power Industry (CRIEPI), Komae, Japan",1,0.09588
+203,"KBR, Houston, Texas, USA.",1,0.09588
+204,"NASA Johnson Space Center, Houston, Texas, USA.",1,0.09588
+205,NASA Langley Research Center  Hampton VA USA,1,0.09588
+206,"Department of Mechanical Engineering, S. V. National Institute of Technology, Surat 395 007, India",1,0.09588
+207,"Thayer School of Engineering at Dartmouth, Hanover, New Hampshire",1,0.09588
+208,"Wake Forest Institute for Regenerative Medicine , Winston-Salem, NC , USA",1,0.09588
+209,"Cellbox Solutions , Hamburg , Germany",1,0.09588
+210,"Axiom Space Headquarters , Houston, TX , USA",1,0.09588
+211,"Tissue Testing Technologies, LLC , Charleston, SC , USA",1,0.09588
+212,"AlloSource , Centennial, CO , USA",1,0.09588
+213,"Research Center of Psychiatry and Behavioral Sciences, Tabriz University of Medical Sciences, Tabriz, Iran",1,0.09588
+214,"Department of Community Medicine, Tabriz University of Medical Sciences, Tabriz, Iran",1,0.09588
+215,"Respiratory Sciences, University of Leicester, Leicester, UK",1,0.09588
+216,"ISS Utilization and Operations Department, Japan Manned Space Systems Corp. , 1-1-26 Kawaguchi, Tsuchiura 300-0033, Japan",1,0.09588
+217,"Faculty of Applied Biology, Kyoto Institute of Technology , Matsugasaki, Sakyo-ku, Kyoto 606-8585, Japan",1,0.09588
+218,"Faculty of Agriculture, Kyushu University , 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan",1,0.09588
+219,"Faculty of Science, Hokkaido University , Kita 10 Nishi 8 Kita-ku, Sapporo, Hokkaido 060-0810, Japan",1,0.09588
+220,"School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, P. R. China",1,0.09588
+221,Department of Biology University of North Dakota 10 Cornell Street Stop 9019 Grand Forks North Dakota 58202,1,0.09588
+222,Cardiovascular Research Institute Icahn School of Medicine at Mount Sinai  New York New York USA,1,0.09588
+223,Center for Translational Medicine Temple University School of Medicine  Philadelphia Pennsylvania USA,1,0.09588
+224,"Bioinformatics Group Institute of Molecular Biology, NAS RA  Yerevan Armenia",1,0.09588
+225,"Department of Bioengineering, Bioinformatics and Molecular Biology Russian‐Armenian University  Yerevan Armenia",1,0.09588
+226,Armenian Bioinformatics Institute  Yerevan Armenia,1,0.09588
+227,Department of Emergency Medicine The Ohio State University Wexner Medical Center  Columbus Ohio USA,1,0.09588
+228,Plant Proteomics Institute of Plant Genetics Leibniz Universität Hannover Herrenhäuser Str. 2 30419 Hannover Germany,1,0.09588
+229,Lawrence Livermore National Laboratory  Livermore California USA,1,0.09588
+230,Department of Biomedical Engineering The University of Alabama at Birmingham  Birmingham Alabama USA,1,0.09588
+231,Thomas Jefferson University  Philadelphia Pennsylvania USA,1,0.09588
+232,Integrative Health and Mind‐Body Biomarker Laboratory University of San Diego  San Diego California USA,1,0.09588
+233,University of Virginia School of Medicine  Charlottesville Virginia USA,1,0.09588
+234,Dorothy M. Davis Heart Lung and Research Institute The Ohio State University Wexner Medical Center  Columbus Ohio USA,1,0.09588
+235,"Food Quality Laboratory, US Department of Agriculture, Agricultural Research Service, Beltsville Agricultural Research Center, Beltsville, Maryland, USA;,",1,0.09588
+236,"Department of Nutrition and Food Science, University of Maryland, College Park, Maryland, USA",1,0.09588
+237,"Environmental, Microbial, and Food Safety Laboratory, US Department of Agriculture, Agricultural Research Service, Beltsville Agricultural Research Center, Beltsville, Maryland, USA",1,0.09588
+238,"Exploration Research and Technology, Kennedy Space Center, NASA, Merritt Island, Florida, USA",1,0.09588
+239,"NASA Postdoctoral Program, Kennedy Space Center, Florida, Merritt Island, Florida, USA",1,0.09588
+240,"Laboratory Medicine, National University Hospital, Singapore",1,0.09588
+241,"CERN (European Organisation for Nuclear Research), Geneva, Switzerland",1,0.09588
+242,"Future Development Division, Advanced Engineering Services Co., Ltd , 1-6-1 Takezono, Tsukuba, Ibaraki 305-0032, Japan",1,0.09588
+243,"Technology and Research Promotion Department, Japan Space Forum , 3-2-1 Kandasurugadai, Tokyo 101-0062, Japan",1,0.09588
+244,"Division of Interventional Radiology and Image-Guided Medicine, Department of Radiology and Imaging Sciences, Emory University School of Medicine, Atlanta, GA, USA",1,0.09588
+245,"Kibo Utilization Center, Human Spaceflight Technology Directorate, Japan Aerospace Exploration Agency , 2-1-1 Sengen, Tsukuba 305-8505, Japan",1,0.09588
+246,"Medical Radiation Research Center, Tabriz University of Medical Sciences, Tabriz, Iran",1,0.09588
+247,"Program in Neuroscience, The College of Arts and Sciences, Indiana University, Bloomington",1,0.09588
+248,"Department of Kinesiology, Indiana University School of Public Health–Bloomington, Bloomington",1,0.09588
+249,"Department of Agricultural Sciences, University of Naples Federico II, Via Università 100, 80055 Portici, Italy",1,0.09588
+250,"Texas A & M University Wm Michael Barnes 64 Department of Industrial and Systems Engineering, , College Station, TX 77840-3131",1,0.09588
+251,"Department of Healthcare Surveillance and Bioethics, Section of Pharmacology Università Cattolica del Sacro Cuore  Rome Italy",1,0.09588
+252,Fondazione Policlinico Universitario A. Gemelli IRCCS  Rome Italy,1,0.09588
+253,"MRC Centre for Drug Safety Science and Wolfson Centre for Personalised Medicine, Institute of Systems, Molecular and Integrative Biology (ISMIB) University of Liverpool  Liverpool UK",1,0.09588
+254,D3‐PharmaChemistry Line Istituto Italiano di Tecnologia (IIT)  Genoa Italy,1,0.09588
+255,"ASAcampus Joint Laboratory, ASA Res. Div. &amp; Dept. of Experimental and Clinical Biomedical Sciences “Mario Serio” University of Florence  Florence Italy",1,0.09588
+256,Space Applications Services NV/SA for the European Space Agency  Noordwijk The Netherlands,1,0.09588
+257,International Space University  Illkirch‐Graffenstaden France,1,0.09588
+258,Department of Life Sciences University of Siena  Siena Italy,1,0.09588
+259,NFESFlorida State UniversityTallahasseeFL,1,0.09588
+260,"Blue Marble Space Institute of Science , 600 1st Ave, Floor 1, Seattle, Washington, 98104, USA ; Istanbul Aydin University , Beşyol, İnönü Street, No 38, Kucukcekmece , Istanbul , Turkey",1,0.09588
+261,"Blue Marble Space Institute of Science , 600 1st Ave, Floor 1, Seattle, Washington, 98104, USA",1,0.09588
+262,"The University of Texas Medical Branch, Galveston, Texas",1,0.09588
+263,"Louisiana State University Health New Orleans School of Medicine, Baton Rouge, Louisiana",1,0.09588
+264,"NASA Johnson Space Center, Houston, Texas",1,0.09588
+265,"IU International University of Applied Sciences and Institute of Nutritional and Food Sciences, University of Bonn, Bonn, Germany",1,0.09588
+266,"M Health Fairview, University of Minnesota Physicians, Edina, Minnesota",1,0.09588
+267,"Department of Biology, Graduate School of Science and Engineering for Education, University of Toyama , 3190 Gofuku, Toyama 930-8555, Japan",1,0.09588
+268,"Faculty of Science, University of Toyama , 3190 Gofuku, Toyama 930-8555, Japan",1,0.09588
+269,"Graduate School of Science, University of Hyogo , 2167 Shosha, Himeji, Hyogo 671-2280, Japan",1,0.09588
+270,"Scattering and Imaging Division, Japan Synchrotron Radiation Research Institute , 1-1-1 Kouto, Sayo, Sayo-gun, Hyogo, Hyôgo 679-5198, Japan",1,0.09588
+271,"WestCHEM, School of Chemistry, University of Glasgow, University Avenue, Glasgow, G12 8QQ, United Kingdom",1,0.09588
+272,"Villamedic Group, Lima, Peru",1,0.09588
+273,Plant Genomics Institute of Plant Genetics Leibniz Universität Hannover Herrenhäuser Str. 2 30419 Hannover Germany,1,0.09588
+274,"Molecular and Environmental Plant Sciences Program, Texas A&M University, College Station, TX",1,0.09588
+275,"School of Biomedical Sciences, The University of Hong Kong, Hong Kong, China",1,0.09588
+276,"The New York Stem Cell Foundation Research Institute, New York, New York, USA.",1,0.09588
+277,"Molecular Medicine and Gene Therapy, Lund Stem Cell Centre, Wallenberg Centre for Molecular Medicine, Lund University, Lund, Sweden.",1,0.09588
+278,"Inspired Materials & Stem-Cell Based Tissue Engineering Laboratory (IMSTEL), The University of Texas at El Paso, El Paso, Texas 79968, United States",1,0.09588
+279,"Department of Metallurgical, Materials, and Biomedical Engineering, M201 Engineering, The University of Texas at El Paso, 500 W. University Avenue, El Paso, Texas 79968, United States",1,0.09588
+280,"Department of Molecular and Translational Medicine, Center of Emphasis in Diabetes and Metabolism, Texas Tech University Health Sciences Center, 5001 El Paso Drive, El Paso, Texas 79905, United States",1,0.09588
+281,"Border Biomedical Research Center, The University of Texas at El Paso, 500 W. University Avenue, El Paso, Texas 79968, United States",1,0.09588
+282,"Universidad Nacional Pedro Ruiz Gallo,Center for Space Emerging Technologies,Department of Physics and Engineering,Lima,Peru",1,0.09588
+283,"Universidad Tecnologica del Per&#x00FA;,Lima,Peru",1,0.09588
+284,"Universidad Nacional de Ingenier&#x00ED;a,Department of Physics and Engineering,Lima,Peru",1,0.09588
+285,"Center for Space Emerging Technologies; Hub Designers,Department of Physics and Engineering,Atlanta,GA,USA",1,0.09588
+286,"Professional School of Electronic Engineering, Universidad Nacional Pedro Ruiz Gallo,Faculty of Physical Sciences and Mathematics,Lambayeque,Peru",1,0.09588
+287,"European Bioinformatics Institute 1 European Molecular Biology Laboratory , , Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD , UK",1,0.09588
+288,"Organisms and Ecosystems, Earlham Institute, Norwich Research Park 2 , Norwich NR4 7UZ , UK",1,0.09588
+289,"School of Chemistry, University of Nottingham 3 , Nottingham NG7 2RD , UK",1,0.09588
+290,"United States Food and Drug Administration, Center for Food Safety and Applied Nutrition 4 Office of Regulatory Science , , College Park, MD 20740 , USA",1,0.09588
+291,"The BioRobotics Institute, Scuola Superiore Sant'Anna 5 , Pisa 56127 , Italy",1,0.09588
+292,"Noblegen Inc. 6 Discovery Biology , , Peterborough, Ontario K9L 1Z8 , Canada",1,0.09588
+293,"Trent University 7 Environmental and Life Sciences Graduate Program , , Peterborough, Ontario K9L 0G2 , Canada",1,0.09588
+294,"Department of Chemistry and Manchester Institute of Biotechnology, University of Manchester 8 , Manchester M1 7DN , UK",1,0.09588
+295,"School of Applied Sciences, University of Huddersfield 9 , Huddersfield HD1 3DH , UK",1,0.09588
+296,"Laboratorio de Enzimología Molecular, Instituto de Agrobiotecnología del Litoral. CCT CONICET Santa Fe 10 , Santa Fe 3000 , Argentina",1,0.09588
+297,"Institute of Parasitology, Biology Centre, Czech Academy of Sciences 11 , České Budějovice 370 05 , Czech Republic",1,0.09588
+298,"Charles University 12 , Faculty of Science, Department of Parasitology , , Vestec 25250 , Czech Republic",1,0.09588
+299,"BIOCEV 12 , Faculty of Science, Department of Parasitology , , Vestec 25250 , Czech Republic",1,0.09588
+300,"Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong, China",1,0.09588
+301,"Department of Ecosystem Science and Management, Texas A&M University, College Station, TX",1,0.09588
+302,"Institute of Agricultural and Life Sciences, Academic Assembly, Shimane University 14 , Matsue 690-8504 , Japan",1,0.09588
+303,"Laboratory of Forest Genomics, Genome Research and Education Center, Institute of Fundamental Biology and Biotechnology, Siberian Federal University, Krasnoyarsk, Russia",1,0.09588
+304,"WLSA Shanghai Academy, Shanghai 200433, China",1,0.09588
+305,"Shanghai Lingang National Laboratory, Shanghai 200210,China",1,0.09588
+306,"Space Science Center (ANGKASA) Institute of Climate Change, National University of Malaysia (UKM)  Bangi Selangor Malaysia",1,0.09588
+307,"Earth‐Life Science Institute, Tokyo Institute of Technology  Tokyo Japan",1,0.09588
+308,Blue Marble Space Institute of Science  Seattle Washington USA,1,0.09588
+309,"Sciences of Visual Arts and New-Media Arts, Faculty of Humanities, University of Bern &amp; School of Arts University of Applied Sciences Bern, Bern, Switzerland",1,0.09588
+310,"Laboratory of NeuroImaging, University of Southern California, Los Angeles, CA 90033",1,0.09588
+311,"Department of Radiology, Medical University of South Carolina, Charleston, SC 29425",1,0.09588
+312,"Japan Synchrotron Radiation Research Institute, Sayo, Hyogo, Japan",1,0.09588
+313,School of Chemistry University College Dublin  Belfield Dublin 4 Ireland,1,0.09588
+314,AO Research Institute Davos  Clavadelerstrasse 8 Davos 7270 Switzerland,1,0.09588
+315,Post‐Graduate Department of Zoology Magadh University Bodh Gaya Bihar 824234 India,1,0.09588
+316,"The Energy and Resources Institute Darbari Seth Block, IHC Complex, Lodhi Road New Delhi 110003 India",1,0.09588
+317,Department of Zoology Gargi College University of Delhi Siri Fort Road New Delhi 110049 India,1,0.09588
+318,Department of Zoology Deen Dayal Upadhyaya College University of Delhi Dwarka New Delhi 110078 India,1,0.09588
+319,"Indira Paryavaran Bhawan Ministry of Environment, Forest and Climate Change Lodi Colony New Delhi 110003 India",1,0.09588
+320,Department of Biological Sciences P. D. Patel Institute of Applied Sciences Charotar University of Science and Technology (CHARUSAT) Changa Gujarat 388421 India,1,0.09588
+321,"Physics Department, SUNY-Buffalo State College, Buffalo, NY 14222;",1,0.09588
+322,Department of Molecular and Cellular Physiology Stanford University  Stanford California USA,1,0.09588
+323,Department of Biology Queens College at the City University of New York  New York New York USA,1,0.09588
+324,"SpaceAble, France",1,0.09588
+325,"Aerospace Industry Professional and Independent Reseacher, Slovakia",1,0.09588
+326,"UK Students for the Exploration and Development of Space (UKSEDS), UK",1,0.09588
+327,"Department of Forest Genetics and Forest Tree Breeding, Georg-August-University of Göttingen, Göttingen, Germany",1,0.09588
+328,"Laboratory of Population Genetics, N. I. Vavilov Institute of General Genetics, Russian Academy of Sciences, Moscow, Russia",1,0.09588
+329,"Kemin Industries, Research and Development 13 , Plymouth, MI 48170 , USA",1,0.09588
+330,"Institute of Evolutionary Biology 15 , Faculty of Biology , , Warsaw 02-089 , Poland",1,0.09588
+331,"Department of Biology, Skidmore Microscopy Imaging Center, Skidmore College , Saratoga Springs, New York 12866, USA",1,0.09588
+332,"Department of Mathematics, University of Engineering and Technology, Lahore, Pakistan",1,0.09588
+333,"Department of Mathematics, Vehari Campus, Multan, Pakistan",1,0.09588
+334,"Department of Mathematics, Al-Zulfi, Majmmah University, Al-Majmmah 11952, Saudi Arabia",1,0.09588
+335,"Eastern Africa Statistical Training Center, Dar es Salaam, Tanzania",1,0.09588
+336,Laboratory of Multiscale Mathematical Modeling Ural Federal University named after the first President of Russia B.N. Yeltsin  Yekaterinburg Russia,1,0.09588
+337,"Otto Schott Institute of Materials Research, Friedrich-Schiller-Universität Jena, 07743, Germany",1,0.09588
+338,"Laboratory of Multi-scale Mathematical Modeling, Department of Theoretical and Mathematical Physics, Ural Federal University, 620000 Ekaterinburg, Russia",1,0.09588
+339,Friedrich-Schiller-Universität Jena,1,0.09588
+340,"Department of Natural Resource Sciences, McGill University, Sainte-Anne-de-Bellevue, Québec, Canada.",1,0.09588
+341,"McGill Space Institute, Montréal, Québec, Canada.",1,0.09588
+342,"Department of Animal and Aquaculture Sciences, Faculty of Biosciences, Norwegian University of Life Sciences, Ås, Norway.",1,0.09588
+343,"Department of Mechanical Engineering, Faculty of Engineering, McGill University, Montréal, Québec, Canada.",1,0.09588
+344,"microgravity research center of Universit&#x00E9; Libre de Bruxelles,Bruxelles,Belgium",1,0.09588
+345,Mohammed Bin Rashid University of Medicine and Health Sciences,1,0.09588
+346,"Department of Basic Medical Sciences, College of Medicine, Mohammed Bin Rashid University of Medicine and Health Sciences, Dubai, UAE",1,0.09588
+347,"School of Design, University of Leeds, Leeds, UK",1,0.09588
+348,"Nagoya University, Nagoya 464-8603, Japan",1,0.09588
+349,Department of Precision and Regenerative Medicine and Ionian Area University of Bari  Bari Italy,1,0.09588
+350,Department of Translational Biomedicine and Neuroscience University of Bari  Bari Italy,1,0.09588
+351,Department of Biomedical Sciences University of Padova  Padova Italy,1,0.09588
+352,"Institute of Kinesiology Research, Science and Research Centre  Koper Slovenia",1,0.09588
+353,"School of Mechanical Engineering, State Key Laboratory of Mechanical Systems and Vibration, Shanghai Jiao Tong University, Shanghai, China",1,0.09588
+354,"Macquarie Medical School, Macquarie University, Sydney, NSW, Australia",1,0.09588
+355,"Multiscale in Mechanical and Biological Engineering, Aragón Institute of Engineering Research (I3A), Aragón Institute of Healthcare Research (IIS Aragón) University of Zaragoza  Zaragoza Spain",1,0.09588
+356,"Division of Biomaterials and Tissue Engineering, UCL Eastman Dental Institute University College London  London UK",1,0.09588
+357,"Aragón Institute of Nanoscience and Materials (INMA), Consejo Superior de Investigaciones Científicas (CSIC) University of Zaragoza  Zaragoza Spain",1,0.09588
+358,"Faculty of Science, Yibin University, Yibin 644000, China",1,0.09588
+359,"Math Center, House No 87 Rahmanyia Colony, Vehari, Pakistan",1,0.09588
+360,"University of Warsaw 15 , Faculty of Biology , , Warsaw 02-089 , Poland",1,0.09588
+361,"Pomeranian Medical University in Szczecin , Department of Medical Physics , Ku Słońcu 12, 71-073 Szczecin , Poland",1,0.09588
+362,"Central Michigan University 16 Department of Biology , , Mt. Pleasant, MI 48859 , USA",1,0.09588
+363,"Center for Global Infectious Disease Research, Seattle Children's Research Institute and Department of Biomedical Informatics & Medical Education, University of Washington 17 , WA 98109 , USA",1,0.09588
+364,"Department of Applied Biochemistry, Faculty of Agriculture, Osaka Metropolitan University 18 , Sakai, Osaka, 599-8531 , Japan",1,0.09588
+365,"Department of Life Sciences, Institut de Botanique, Université de Liège 19 , Liège 4000 , Belgium",1,0.09588
+366,"Instituto Nacional de Cardiología, Ignacio Chávez 20 , Mexico 14080 , Mexico",1,0.09588
+367,"Forensic Science, Environmental and Life Sciences Graduate Program, Trent University 21 , Peterborough K9L 0G2 , Canada",1,0.09588
+368,"Dalhousie University 22 Department of Biology and Institute for Comparative Genomics , , Halifax, Nova Scotia B3H 4R2 , Canada",1,0.09588
+369,"R&D Company, Euglena Co., Ltd., 2F Yokohama Bio Industry Center (YBIC), 1-6 Suehiro, Tsurumi, Yokohama 23 , Kanagawa, 230-0045 , Japan",1,0.09588
+370,"Biomedical Research Centre, Norwich Medical School, University of East Anglia, Norwich Research Park 24 , Norwich NR4 7TJ , UK",1,0.09588
+371,"King Abdul Aziz University 25 Center of Excellence for Bionanoscience Research , , Jeddah , Saudi Arabia",1,0.09588
+372,"PVZimba, LLC 26 , 12241 Percival St, Chester, VA 23831 , USA",1,0.09588
+373,"Rice Rivers Center, VA Commonwealth University 27 , Richmond, VA 23284 , USA",1,0.09588
+374,"School of Biological Sciences, University of East Anglia 28 , Norwich, NR4 7TJ, Norfolk , UK",1,0.09588
+375,"School of Life Sciences, University of Dundee 29 , Dundee DD1 5EH , UK",1,0.09588
+376,University of Bristol,1,0.09588
+377,"Institute for Quantum Life Science, National Institutes for Quantum Science and Technology",1,0.09588
+378,"Institut Curie, Paris Sciences and Letters Research University, CNRS UMR3215, INSERM U934, Pierre and Marie Curie University Paris-Sorbonne, 75005 Paris, France",1,0.09588
+379,"European Neuroscience Institute - A Joint Initiative of the University Medical Center Göttingen and the Max-Planck-Society, 37077 Göttingen,  Germany",1,0.09588
+380,"Romanian Academy – Timisoara Branch, Center for Fundamental and Advanced Technical Research, Laboratory of Magnetic Fluids, Mihai Viteazu Ave. 24, 300223 Timisoara, Romania",1,0.09588
+381,"Frank Laboratory of Neutron Physics, Joint Institute for Nuclear Research, Joliot-Curie Str. 6, 141980 Dubna, Moscow Reg., Russia",1,0.09588
+382,"National Institute of Materials Physics, Bucharest-Magurele, 077125, Romania",1,0.09588
+383,"National Institute for Research and Development of Isotopic and Molecular Technologies (INCDTIM), Donat Str. 67-103, 400293 Cluj-Napoca, Romania",1,0.09588
+384,"University of Szeged, Faculty of Engineering, Department of Food Engineering, Moszkvai krt. 5-7, H-6725 Szeged, Hungary",1,0.09588
+385,"University of Pannonia – Soós Ernő Water Technology Research and Development Center, H-8800 Zrínyi M. str. 18, Nagykanizsa, Hungary",1,0.09588
+386,"Politehnica University of Timisoara, Research Center for Complex Fluids Systems Engineering, Mihai Viteazul Ave. 1, 300222 Timisoara, Romania",1,0.09588
+387,"Pharm-X Center, Laboratory of Medicinal Chemical Biology & Frontiers on Drug Discovery (RLMCBFDD), School of Pharmaceutical Sciences, Shanghai Jiao Tong University, Shanghai 200240, China",1,0.09588
+388,"Department of Biomedical Engineering, Columbia University, 622 West 168th Street, New York, New York 10032, United States",1,0.09588
+389,"Beijing Advanced Innovation Centre for Biomedical Engineering, Beihang University, Beijing, China",1,0.09588
+390,"Department of Urology, Mayo Clinic, FL, USA",1,0.09588
+391,"Nouvel Hôpital Civil, Hôpitaux Universitaires de Strasbourg, Strasbourg, France",1,0.09588
+392,"Institut of Image-Guided Surgery (IHU-Strasbourg), Strasbourg, France",1,0.09588
+393,"Portsmouth Regional Hospital, NH, USA",1,0.09588
+394,"Experimental Surgery and Simulation Center, Department of Digestive Surgery, Catholic University of Chile, Santiago, Chile",1,0.09588
+395,"Aerospace Human Factors Association, Aerospace Medical Association, VA, USA",1,0.09588
+396,"InnovaSpace, London, UK",1,0.09588
+397,"Department of Mathematics, University of the Punjab, Quaid-e-Azam Campus, Lahore, Pakistan",1,0.09588
+398,"Department of Physics, College of Sciences, University of Bisha, PO Box 344, Bisha 61922, Saudi Arabia",1,0.09588
+399,"Physics Department, Faculty of Science, Al-Azhar University, Assiut 71524, Egypt",1,0.09588
+400,"Department of Mathematics, College of Science, King Khalid University, P.O. Box 9004, Abha 61413, Saudi Arabia",1,0.09588
+401,"Department of Mathematics, University of Management and Technology, 54770 Lahore, Pakistan",1,0.09588
+402,"Department of Mathematics (Statistics Option) Program, Pan African University, Institute of Basic Science, Technology and Innovation (PAUSTI), Nairobi 6200-00200, Kenya",1,0.09588
+403,"Department of Mathematics and Statistics, College of Science, Taif University, PO Box 11099, Taif 21944, Saudi Arabia",1,0.09588
+404,"Division of Orthopaedic Surgery, Department of Surgery, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Alberta, Canada",1,0.09588
+405,"Department of Civil & Environmental Engineering, University of Alberta, Edmonton, Alberta, Canada",1,0.09588
+406,"University College Dublin School of Medicine, Belfield, Dublin, Ireland",1,0.09588
+407,"Michigan Medicine, University of Michigan, Ann Arbor, Michigan, USA",1,0.09588
+408,"Brigham and Women’s Hospital, Harvard Medical School, Boston, Massachusetts, USA",1,0.09588
+409,"Human-Machine Perception Laboratory, Department of Computer Science and Engineering, University of Nevada, Reno, Reno, Nevada, USA",1,0.09588
+410,"Center for Space Medicine, Baylor College of Medicine, Houston, Texas, USA",1,0.09588
+411,"Department of Ophthalmology, Blanton Eye Institute, Houston Methodist Hospital, Houston, Texas, USA",1,0.09588
+412,University of Texas at El Paso,1,0.09588
+413,University of Puerto Rico- Rio Piedras Campus,1,0.09588
+414,University of Alicante,1,0.09588
+415,University of Puerto Rico-Rio Piedras Campus,1,0.09588
+416,"Howard University Hospital, Washington, DC, USA",1,0.09588
+417,"Department of Urology, Fundación Santa Fe de Bogotá, Colombia",1,0.09588
+418,Northeastern University,1,0.09588
+419,"Obstetrics and Gynecology, Lincoln Medical and Mental Health Center, Bronx, NY, USA",1,0.09588
+420,"State Key Laboratory of Software Development Environment, School of Computer Science and Engineering, Beihang University, Beijing, China",1,0.09588
+421,"Institute of Environmental Biology and Life Support Technology, School of Biological Science and Medical Engineering, Beihang University, Beijing, China",1,0.09588
+422,"International Joint Research Center of Aerospace Biotechnology &amp; Medical Engineering, Beihang University, Beijing, China",1,0.09588
+423,"Laboratory of Sport Nutrition and Intelligent Cooking, Shandong Sport University, Jinan, China",1,0.09588
+424,"Centre for Applied Research in Electronics, Indian Institute of Technology Delhi, New Delhi, India",1,0.09588
+425,"Facultad de Ingeniería, Universidad San Ignacio de Loyola, La Molina, Lima 15024, Peru",1,0.09588
+426,"Department of Medicine and Biology & Department of Physics and Engineering, Bioastronautics and Space Mechatronics Research Group, Lima 15024, Peru",1,0.09588
+427,"Department of Surgery, Northwest Hospital, Randallstown, MD, USA",1,0.09588
+428,"Faculty of Health Sciences, Universidad de León, Spain",1,0.09588
+429,"Escuela Superior Politécnica del Litoral, ESPOL, Ecuador",1,0.09588
+430,"Robotics and Biomechanics Laboratory, Department of Mechanical Engineering, Universidade Federal do Espírito Santo, Brazil",1,0.09588
+431,"Teodorescu Lab, University of California, Santa Cruz, CA, USA",1,0.09588
+432,"Department of Oral and Maxillofacial Surgery, Hospital 12 de Octubre, Madrid, Spain",1,0.09588
+433,"Department of Neurosurgery, Medical University of South Carolina, Charleston, SC, USA",1,0.09588
+434,"Department of Neurosurgery, Mayo Clinic, FL, USA",1,0.09588
+435,"Department of Neurosurgery, Cedars-Sinai Medical Center, Los Angeles, CA, USA",1,0.09588
+436,"Cardiovascular Surgery, Instituto de Cardiología-Fundación Cardioinfantil, Universidad del Rosario, Bogotá DC, Colombia",1,0.09588
+437,"Department of Radiology, Massachusetts General Hospital, Boston, MA, USA",1,0.09588
+438,"Department of Life Sciences, School of Health Sciences, Birmingham City University, Birmingham B15 3TN, United Kingdom",1,0.09588
+439,"Clínica Internacional, Lima, Peru",1,0.09588
+440,"Hospital Universitari Sagrat Cor, Barcelona, Spain",1,0.09588
+441,"Miami Cancer Research Center, FL, USA",1,0.09588
+442,"Palmetto General Hospital, FL, USA",1,0.09588
+443,"Universidad Científica del Sur, Lima, Peru",1,0.09588
+444,"Department of Surgery, Mayo Clinic, Rochester, MN, USA",1,0.09588
+445,DeVry University,1,0.09588
+446,NuVant Systems,1,0.09588
+447,"Bloomberg–Kimmel Institute for Cancer Immunotherapy, Johns Hopkins University, Baltimore, MD 21231",1,0.09588
+448,"Department of Physics and the Soft Materials Research Center, University of Colorado, Boulder, Colorado 80309, USA",1,0.09588
+449,"CSIRO Australian e-Health Research Centre, Brisbane, Australia",1,0.09588
+450,"Robert Frederick Smith School of Chemical and Biomolecular Engineering, Cornell University, Ithaca, New York 14853, United States",1,0.09588
+451,"Department of Mechanical Engineering, Clemson University, Clemson, South Carolina 29634, United States",1,0.09588
+452,"InnovaSpace Ltd & Centre for Human and Applied Physiological Sciences, School of Basic & Medical Biosciences, Faculty of Life Sciences and Medicine, King’s College London, UK",1,0.09588
+453,"Department of Biomedical Engineering Rutgers University, The State University of New Jersey  New Brunswick NJ USA",1,0.09588
+454,"Department of Orthopedic Surgery, Xijing Hospital, Air Force Medical University, Xi’an, China",1,0.09588
+455,"Department of Orthopaedics, Affiliated Hospital of Yanan University, Yanan 716000, China",1,0.09588
+456,"Center of Clinical Aerospace Medicine, School of Aerospace Medicine, Air Force Medical University, Xi’an 710032, China",1,0.09588
+457,"Department of Aviation Medicine, The First Affiliated Hospital, Air Force Medical University, Xi’an 710032, China",1,0.09588
+458,"Faculty of Dental Medicine and Oral Health Sciences, McGill University, Montreal, Quebec, Canada",1,0.09588
+459,"Shriners Hospital for Children–Canada, Montreal, Quebec, Canada",1,0.09588
+460,"Institute of Refrigeration and Cryogenics, Shanghai Jiao Tong University, Shanghai 200240, China",1,0.09588
+461,"School of Mechanical and Electrical Engineering, Guilin University of Electronic Technology, Guilin, Guangxi 541004",1,0.09588
+462,"Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016",1,0.09588
+463,"National Space Science Center, Chinese Academy of Sciences, Beijing 100190",1,0.09588
+464,"College of Information Science and Engineering，Guilin University of Technology, Guilin, 541006",1,0.09588
+465,"School of Mechanical Engineering, Ningxia University, Yinchuan, 750021",1,0.09588
+466,Victor Chang Cardiac Research Institute,1,0.09588
+467,"Laboratory for Immuno Bioengineering Research and Applications Division of Engineering New York University Abu Dhabi  Saadiyat Campus, P.O. Box 127788 Abu Dhabi UAE",1,0.09588
+468,Department of Mechanical Engineering Tandon School of Engineering New York University  6 MetroTech Center Brooklyn NY 11201 USA,1,0.09588
+469,Department of Biomedical Engineering Tandon School of Engineering New York University  6 MetroTech Center Brooklyn NY 11201 USA,1,0.09588
+470,"Department of Chemical &amp; Biomolecular Engineering, Johns Hopkins University, Baltimore, MD  21218",1,0.09588
+471,"Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218",1,0.09588
+472,"Translational Tissue Engineering Center, Johns Hopkins University, Baltimore, MD 21231",1,0.09588
+473,"Department of Oncology, Johns Hopkins University, Baltimore, MD 21231",1,0.09588
+474,"CSIRO Data 61, Hobart, Australia",1,0.09588
+475,"Earthly Dynamics Corp.,Atlanta,GA,30309",1,0.09588
+476,"Department of Psychology, Royal Holloway, University of London, Egham, UK",1,0.09588
+477,"SpaceWorks Enterprises, Inc.,Atlanta,GA,30338",1,0.09588
+478,"Department of Psychological Sciences, Birkbeck, University of London, London, UK",1,0.09588
+479,University of California at San Francisco,1,0.09588
+480,"Water Research Institute (IRSA) - MEG Molecular Ecology Group, CNR - National Research Council of Italy, Verbania, Italy.",1,0.09588
+481,"Laboratório de Biologia Molecular e Computacional de Fungos, Departamento de Genetica, Ecologia e Evolucao, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.",1,0.09588
+482,"Laboratório de Microbiologia Aplicada, Departamento de Ciências Biológicas, Universidade Estadual de Santa Cruz, Ilhéus, Brasil.",1,0.09588
+483,"Institute of Molecular Biology and Genetics of NASU, Kyiv, Ukraine.",1,0.09588
+484,"German Aerospace Center (DLR), Space Operations and Astronaut Training, Microgravity User Support Center (MUSC), Cologne, Germany.",1,0.09588
+485,"Laboratório de Genética Celular e Molecular, Departamento de Genetica, Ecologia e Evolucao, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.",1,0.09588
+486,"Centre for Genomics and Applied Gene Technology, Institute of Integrative Omics and Applied Biotechnology (IIOAB), West Bengal, India.",1,0.09588
+487,"Department of Biomedical Sciences, University of Padova , Via Ugo Bassi, 58/B, 35131 Padua, Italy",1,0.09588
+488,"Max-Planck-Institute of Biochemistry , Am Klopferspitz 18, 82152 Martinsried, Germany",1,0.09588
+489,"Veneto Institute of Molecular Medicine , Via Orus 2, 35129 Padua, Italy",1,0.09588
+490,"Department of Molecular Medicine, University of Pavia , Via Forlanini 6, 27100 Pavia, Italy",1,0.09588
+491,"Bruker Daltonik , GmbH, Fahrenheitstr. 4, 28359 Bremen, Germany",1,0.09588
+492,"Science and Research Center Koper, Institute for Kinesiology Research , Garibaldijeva Street 1, 6000 Koper, Slovenia",1,0.09588
+493,"Clinical Department of Medical, Surgical and Health Sciences , Strada di Fiume 447, 34149 Trieste, Italy",1,0.09588
+494,"Department of Medicine, University of Fribourg , Chemin du Musee 5, 1700 Fribourg, Switzerland",1,0.09588
+495,"CIR-MYO Myology Center , Viale G Colombo 3, 35121 Padua, Italy",1,0.09588
+496,"NNF Center for Protein Research, Faculty of Health Sciences, University of Copenhagen , Blegdamsvej 3B, Building 6.1, 2200 Copenhagen, Denmark",1,0.09588
+497,"Department of Human Perception, Cognition, and Action Max Planck Institute for Biological Cybernetics  Tübingen Germany",1,0.09588
+498,"Translational Research Center, University Hospital of Psychiatry University of Bern  Bern Switzerland",1,0.09588
+499,"Institute of Clinical Neuroscience and Medical Psychology, Medical Faculty Heinrich‐Heine‐University  Düsseldorf Germany",1,0.09588
+500,Department of Psychology Royal Holloway University of London  Egham UK,1,0.09588
+501,Department of Psychological Sciences Birkbeck University of London  London UK,1,0.09588
+502,University of Arizon,1,0.09588
+503,"Shanghai Aerospace Equipment Manufacturer, 100 Huaning Road, Minhang, Shanghai 200245, China",1,0.09588
+504,"CEA, LETI, Univ. Grenoble Alpes  Grenoble France",1,0.09588
+505,"Quantum Solid-State Physics, Department of Physics and Astronomy, KU Leuven, B-3001 Leuven, Belgium",1,0.09588
+506,Swedish Space Corporation Science Service Division Solna Sweden,1,0.09588
+507,"Department of Marine Biosciences, Tokyo University of Marine Science and Technology",1,0.09588
+508,"Life Science Research Center, University of Toyama",1,0.09588
+509,"Department of Pharmaceutical Engineering, Faculty of Engineering, Toyama Prefectural University",1,0.09588
+510,"Noto Center for Fisheries Science and Technology, Kanazawa University",1,0.09588
+511,"Department of Biology, College of Liberal Arts and Sciences, Tokyo Medical and Dental University",1,0.09588
+512,"Centre for Synthetic Biology, Technische Universität Darmstadt, Darmstadt 64287, Germany",1,0.09588
+513,"Department of Electrical Engineering and Information Technology, Technische Universität Darmstadt, Darmstadt 64283, Germany",1,0.09588
+514,"Core Facility for Mass Spectrometry and Proteomics, Max Planck Institute for Terrestrial Microbiology, Karl-von-Frisch-Str. 10, D-35043 Marburg, Germany",1,0.09588
+515,Max Planck Institute for Terrestrial Microbiology  Marburg Germany,1,0.09588
+516,"Laboratory of Experimental Neurosurgery and Cell Therapy, Neurosurgery Unit Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico  Milan Italy",1,0.09588
+517,Aldo Ravelli' Research Center  Milan Italy,1,0.09588
+518,"Clinical Pathology Unit Istituto di Medicina Aerospaziale “A. Mosso”, Aeronautica Militare  Milan Italy",1,0.09588
+519,Department of Clinical Sciences and Community Health University of Milan  Milan Italy,1,0.09588
+520,Department of Medical‐Surgical Physiopathology and Transplantation University of Milan  Milan Italy,1,0.09588
+521,Department of Health Sciences Università degli Studi di Milano  Milan Italy,1,0.09588
+522,Unit of Medical Genetics ASST Santi Paolo e Carlo  Milan Italy,1,0.09588
+523,Istituto di Medicina Aerospaziale “Aldo Di Loreto” Aeronautica Militare  Rome Italy,1,0.09588
+524,Istituto di Medicina Aerospaziale “Aldo Di Loreto” Aeronautica Militare  Roma Italy,1,0.09588
+525,Italian Air Force Logistic Command  Rome Italy,1,0.09588
+526,Istituto di Medicina Aerospaziale “A. Mosso” Aeronautica Militare  Milan Italy,1,0.09588
+527,"Noto Marine Laboratory, Institute of Nature and Environmental Technology, Kanazawa University, Housu-gun, Ishikawa 927-0553, Japan",1,0.09588
+528,"Department of Oral Morphology, Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Okayama 700-8525, Japan",1,0.09588
+529,"Department of Pharmaceutical Engineering, Faculty of Engineering, Toyama Prefectural University, Kurokawa, Toyama 939-0398, Japan",1,0.09588
+530,"Life Science Research Center, University of Toyama, Sugitani, Toyama 930-0194, Japan",1,0.09588
+531,"Department of Biology, College of Liberal Arts and Sciences, Tokyo Medical and Dental University, Ichikawa, Chiba 272-0827, Japan",1,0.09588
+532,"Faculty of Biological Science and Technology, Institute of Science and Engineering, Kanazawa University",1,0.09588
+533,"Department of Clinical Engineering, Faculty of Health Sciences, Komatsu University",1,0.09588
+534,"Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University",1,0.09588
+535,"Department of Biomedicine, Aarhus University, Aarhus C, Denmark",1,0.09588
+536,"Department of Neuroscience, Imaging and Clinical Sciences, University “G. d’Annunzio” of Chieti-Pescara, Chieti 66100, Italy",1,0.09588
+537,"Center for Advanced Studies and Technology (CAST), University “G. d’Annunzio” of Chieti-Pescara, Chieti 66100, Italy",1,0.09588
+538,"Key Laboratory for Biomechanics and Mechanobiology (Beihang University), Ministry of Education Beijing Advanced Innovation Center for Biomedical Engineering School of Biological Science and Medical Engineering Beihang University  Beijing China",1,0.09588
+539,"State Key Laboratory of Space Medicine Fundamentals and Application, China Astronaut Research and Training Center  Beijing China",1,0.09588
+540,School of Engineering Medicine Beihang University  Beijing China,1,0.09588
+541,"Department of Experimental Therapy, Institute of Immunology and Experimental Therapy, Polish Academy Sciences, Wroclaw 53-114, Poland",1,0.09588
+542,"Department of Plastic, Aesthetic and Hand Surgery Otto‐von‐Guericke University Magdeburg Germany",1,0.09588
+543,"Department of Microgravity and Translational Regenerative Medicine, Clinic for Plastic, Aesthetic and Hand Surgery, Otto-von-Guericke-University Magdeburg, Magdeburg, Germany",1,0.09588
+544,"Research Group ‘Magdeburger Arbeitsgemeinschaft Für Forschung Unter Raumfahrt- Und Schwerelosigkeitsbedingungen‘ (MARS), Otto-von-Guericke University, Magdeburg, Germany",1,0.09588
+545,"Postgraduate Program in Health and Environment, University of Joinville Region, Joinville, Brazil",1,0.09588
+546,"Gravitational Biology Group, Department of Biology, Friedrich-Alexander University, Erlangen, Germany",1,0.09588
+547,"Department of Ophthalmology, Aarhus University Hospital, Aarhus C, Denmark",1,0.09588
+548,"Noto Marine Laboratory, Institute of Nature and Environmental Technology, Division of Marine Environmental Studies, Kanazawa University",1,0.09588
+549,"The Saban Research Institute, Children’s Hospital Los Angeles, University of Southern California, Los Angeles, Southern California, USA",1,0.09588
+550,"Space Biology Unlimited SAS, 24 Cours de l’Intendance, Bordeaux, France",1,0.09588
+551,"Institute of Biorobotics, Scuola Superiore Sant’Anna, Via G. Moruzzi, 1 - 56124 Pisa, Italy",1,0.09588
+552,Griffith University,1,0.09588
+553,Institute of Food Biotechnology and Genomics NAS of Ukraine,1,0.09588
+554,"Institute of Food Biotechnology and Genomics, National Academy of Sciences of Ukraine",1,0.09588
+555,"Center for Space Emerging Technologies,Sociedad Cient&#x00ED;fica de Astrobiolog&#x00ED;a del Per&#x00FA;, (SCAP);,Lima,Peru",1,0.09588
+556,"Center for Space Emerging Technologies,Department of Medicine and Biology,Lima,Peru",1,0.09588
+557,"Department of Respiratory and Critical Care Medicine, Binzhou Medical University Hospital , Binzhou , China",1,0.09588
+558,"Respiratory Diseases Department, PLA Rocket Force Characteristic Medical Center , Beijing , China",1,0.09588
+559,"Respiratory Diseases Department, The Second Medical Center of PLA General Hospital , Beijing , China",1,0.09588
+560,"Department of Clinical Engineering, Faculty of Health Sciences, Komatsu University, Komatsu, Ishikawa 923-0961, Japan",1,0.09588
+561,"Japan Aerospace Exploration Agency, Tsukuba, Ibaraki 305-8505, Japan",1,0.09588
+562,"Department of Clinical Laboratory Science, Division of Health Sciences, Graduate School of Medical Science, Kanazawa University, Kodatsuno, Ishikawa 920-0942, Japan",1,0.09588
+563,"Andy Thomas Centre for Space Resources, University of Adelaide, Adelaide 5005, Australia",1,0.09588
+564,"Department of Bioinformatics, School of Biomedical Engineering and Informatics, Nanjing Medical University , Nanjing, China",1,0.09588
+565,"E O Lawrence Berkeley National Laboratory, Environmental Genomics and Systems Biology, Joint BioEnergy Institute, Berkeley CA, USA",1,0.09588
+566,"School of Agriculture, Food and Wine, University of Adelaide, Glen Osmond, SA, Australia",1,0.09588
+567,"Waite Research Institute, University of Adelaide, Australia",1,0.09588
+568,Florida State UniversityBaltimoreMD,1,0.09588
+569,Centro de Investigaciones Biológicas Margarita Salas – CSIC  Madrid Spain,1,0.09588
+570,"Tianjin Key Laboratory for Advanced Mechatronic System Design and Intelligent Control, School of Mechanical Engineering, Tianjin University of Technology, Tianjin 300384, P. R. China",1,0.09588
+571,"National Demonstration Center for Experimental, Mechanical and Electrical Engineering Education, Tianjin University of Technology, Tianjin 300384, P. R. China",1,0.09588
+572,"Department of Mechanics, School of Mechanical Engineering, Tianjin University, Tianjin 300354, P. R. China",1,0.09588
+573,"School of Molecular Cell Biology and Biotechnology, Tel Aviv University, Ramat Aviv, Israel",1,0.09588
+574,"School of Chemical Engineering and Advanced Materials, University of Adelaide, Adelaide 5005, Australia",1,0.09588
+575,"Adelaide Medical School, University of Adelaide, Adelaide 5005, Australia",1,0.09588
+576,"Key Laboratory of DGHD, MOE, School of Life Science and Technology, Southeast University , Nanjing, China",1,0.09588
+577,"Faculty of Science, University of Nottingham, Nottingham NG7 2RD, United Kingdom",1,0.09588
+578,"Department of Chemical Engineering, Can Tho University, Can Tho 900000, Vietnam",1,0.09588
+579,"School of Engineering, University of Warwick, Coventry CV4 7AL, United Kingdom",1,0.09588
+580,"University of Nottingham - Department of Mechanical, Materials, and Manufacturing Engineering - Nottingham - United Kingdom",1,0.09588
+581,"Forschungszentrum Jülich GmbH, Institute of Neuroscience and Medicine, Nuclear Chemistry (INM-5), Jülich, Germany",1,0.09588
+582,"University of Cologne, Faculty of Medicine and University Hospital Cologne, Institute of Radiochemistry and Experimental Molecular Imaging, Cologne, Germany",1,0.09588
+583,"Institute of Pathology, University Medical Center, Georg-August University of Göttingen, Robert-Koch-Str. 40, 37075 Göttingen, Germany",1,0.09588
+584,"Department of Post‐Harvest Engineering and Technology, Faculty of Agriculture Aligarh Muslim University  Aligarh India",1,0.09588
+585,Department of Pharmaceutical and Pharmacological Sciences Vrije Universiteit Brussel  Brussels Belgium,1,0.09588
+586,"Department of Clinical Engineering, Faculty of Health Sciences &amp; Division of Health Sciences, Graduate School of Sustainable Systems Science Komatsu University Komatsu Japan",1,0.09588
+587,"Department of Biology, College of Liberal Arts and Sciences Tokyo Medical and Dental University Ichikawa Japan",1,0.09588
+588,"The State Key Laboratory of Space Medicine Fundamentals and Application, China Astronaut Research and Training Center , No. 26 Beiqing Road, Haidian District, Beijing, 100094, China",1,0.09588
+589,Karolinska Institute,1,0.09588
+590,"Laboratory of Fish Culture, Tokyo University of Marine Science and Technology, Minato-ku, Tokyo 108-8477, Japan",1,0.09588
+591,Åbo Akademi University: Abo Akademi,1,0.09588
+592,"Noto Center for Fisheries Science and Technology, Kanazawa University, Ossaka, Noto-cho, Ishikawa 927-0552, Japan",1,0.09588
+593,"BioServe Space Technologies, University of Colorado Boulder",1,0.09588
+594,NASA Ames Research Center,1,0.09588
+595,"Biomaterials, Biomechanics and Tissue Engineering Group , Department of Materials Science and Engineering , Universitat Politècnica de Catalunya , 08019 Barcelona , Spain ",1,0.09588
+596,"Department of Biology, Graduate School of Science, Osaka City University",1,0.09588
+597,"Institute of Space and Astronautical Science, Japan Aerospace Exploration Agency",1,0.09588
+598,Japan Manned Space Systems,1,0.09588
+599,Advanced Engineering Services,1,0.09588
+600,"Graduate School of Biological Sciences, Nara Institute of Science and Technology",1,0.09588
+601,University of Pavia: Universita degli Studi di Pavia,1,0.09588
+602,Università degli Studi di Milano: Universita degli Studi di Milano,1,0.09588
+603,IC CNR Monterotondo Scalo: Istituto di Cristallografia Consiglio Nazionale delle Ricerche Sede di Monterotondo Scalo,1,0.09588
+604,"Functional Cellular Networks Laboratory, College of Medicine, Department of Medicine, Graduate School and Lee Gil Ya Cancer and Diabetes Institute, Gachon University, Incheon 21999, Republic of Korea",1,0.09588
+605,San Raffaele Hospital: IRCCS Ospedale San Raffaele,1,0.09588
+606,University of Turku: Turun Yliopisto,1,0.09588
+607,Abo Akademi University: Abo Akademi,1,0.09588
+608,Tokyo Gakugei University,1,0.09588
+609,"Laboratory of Biochemistry, Department of Biological, Chemical and Pharmaceutical Sciences and Technologies University of Palermo, Polyclinic  Palermo Italy",1,0.09588
+610,Associazione Siciliana per la Lotta contro i Tumori (ASLOT)  Palermo Italy,1,0.09588
+611,"Center for Biotechnology, Sbarro Institute for Cancer Research and Molecular Medicine, College of Science and Technology Temple University  Philadelphia Pennsylvania",1,0.09588
+612,"Center for Systems Biology and Molecular Medicine, Yenepoya Research Centre, Yenepoya (Deemed to be University), Mangalore, India.",1,0.09588
+613,The University of Utah,1,0.09588
+614,University of California Berkeley,1,0.09588
+615,"Department of Anatomy & Cell Biology, Gachon University College of Medicine, Incheon 21936, Republic of Korea",1,0.09588
+616,CELLINK AB Gothenburg Sweden,1,0.09588
+617,Luzerne School of Engineering and Architecture Institute of Medical Engineering (IMT) Luzerne Switzerland,1,0.09588
+618,"Department of Pharmaceutical Engineering, Faculty of Engineering Toyama Prefectural University Toyama Japan",1,0.09588
+619,"Department of Pharmaceutical Bioscience, Molecular Pharmacology Uppsala University Uppsala Sweden",1,0.09588
+620,"Université de Perpignan Via Domitia, LGDP UMR 5096 Perpignan 66860 France",1,0.09588
+621,"Bioastronautics and Space Mechatronics Research Group,Space Veterinary Medicine Division,Bogota,COLOMBIA",1,0.09588
+622,"Universidad San Ignacio de Loyola,Space Physics and Engineering Division, Bioastronautics and Space Mechatronics Research Group,Lima,PERU",1,0.09588
+623,"Bioastronautics and Space Mechatronics Research Group,Space Veterinary Medicine Division,Bogot&#x00E1;,COLOMBIA",1,0.09588
+624,"Bioastronautics and Space Mechatronics Research Group,Space Veterinary Medicine Division,Santiago,CHILE",1,0.09588
+625,"Bioastronautics and Space Mechatronics Research,Space Veterinary Medicine Division,Group La Habana,CUBA",1,0.09588
+626,"School of Life Science, Beijing Institute of Technology, China",1,0.09588
+627,"Institute of Chinese Materia Medica, China Academy of Chinese Medical Sciences, China",1,0.09588
+628,"Shanghai AB Sciex Analytical Instrument Trading Co., Ltd., China",1,0.09588
+629,"Institute of Engineering Medicine, Beijing Institute of Technology, Beijing 100081, China",1,0.09588
+630,"Horticultural Sciences , University of Florida , Gainesville , FL",1,0.09588
+631,"The Genetics Institute , University of Florida , Gainesville , FL",1,0.09588
+632,"Program in Genetics and Genomics , University of Florida , Gainesville , FL",1,0.09588
+633,"Canadian Space Agency , Montreal , QC , Canada",1,0.09588
+634,"Environmental Sciences , University of Guelph , Guelph , ON , Canada",1,0.09588
+635,"Program in Plant Molecular and Cellular Biology , University of Florida , Gainesville , FL",1,0.09588
+636,"Interdisciplinary Center for Biotechnology and Research , University of Florida , Gainesville , FL",1,0.09588
+637,"Office of Research , University of Florida , Gainesville , FL",1,0.09588
+638,"Pharmacological Research Center, Showa University",1,0.09588
+639,"Department of Pharmacology, Showa University School Dentistry",1,0.09588
+640,Admiralty University of Nigeria,1,0.09588
+641,"Faculty of Biology, Department of Plant Physiology and Biochemistry, Saint Petersburg State University, Saint Petersburg, Russia",1,0.09588
+642,School of Life Sciences Northwestern Polytechnical University  Xi'an China,1,0.09588
+643,Key Laboratory for Space Biosciences and Biotechnology Northwestern Polytechnical University  Xi'an China,1,0.09588
+644,"Department of Spine Surgery, The People's Hospital of Longhua Affiliated Hospital of Southern Medical University  Shenzhen China",1,0.09588
+645,"CNRS, Laboratoire Génome et Développement des Plantes (LGDP) UMR 5096 Perpignan 66860 France",1,0.09588
+646,GSBMS/AMIS Université Paul Sabatier Toulouse III Toulouse France,1,0.09588
+647,Centro de Investigaciones Biológicas Margarita Salas ‐ CSIC Ramiro de Maeztu 9 Madrid 28040 Spain,1,0.09588
+648,"Division of Biomedical Engineering Sciences (BMES), Department of Basic Sciences, Loma Linda University, Loma Linda, California",1,0.09588
+649,Gunma University Heavy Ion Medical Center,1,0.09588
+650,"Radiation Institute for Science & Engineering, Prairie View A&M University",1,0.09588
+651,"Biological Systems & Engineering Division, Lawrence Berkeley Laboratory",1,0.09588
+652,"Department of Cardiology, University of Texas MD Anderson Cancer Center",1,0.09588
+653,"Department of Radiation Oncology, Wake Forest School of Medicine, Winston-Salem, North Carolina",1,0.09588
+654,"Department of Radiation Oncology, Eastern Virginia Medical School, Norfolk, Virginia",1,0.09588
+655,"Department of Biomedical Engineering, Rensselaer Polytechnic Institute, Troy, New York",1,0.09588
+656,"Department of Biology, University of North Florida, Jacksonville, Florida",1,0.09588
+657,"Department of Physics & Astronomy, Louisiana State University, Baton Rouge, Louisiana",1,0.09588
+658,"Department of Neurology, Harvard Medical School, Beth Israel Deaconess Medical Center, Boston, Massachusetts",1,0.09588
+659,"Department of Nutrition, Food and Exercise Sciences, Florida State University, Tallahassee, Florida",1,0.09588
+660,"Department of Molecular Oncology Health Sciences Institute, Health Sciences University, Istanbul, Turkey",1,0.09588
+661,"Department of Neurology, Graduate School of Medical Sciences Kumamoto University  Kumamoto Japan",1,0.09588
+662,"Department of Pediatrics, University of Health Sciences, Sariyer Etfal Training and Research Hospital, Istanbul, Turkey",1,0.09588
+663,School of Life Sciences Northwestern Polytechnical University Xi'an Shaanxi China,1,0.09588
+664,Center of Special Environmental Biomechanics &amp; Biomedical Engineering Northwestern Polytechnical University Xi'an Shaanxi China,1,0.09588
+665,"Department of Human Genetics, Lady Davis Institute for Medical Research, McGill University, Canada",1,0.09588
+666,Department of Experimental Medicine School of Medical and Pharmaceutical Sciences University of Genoa Genoa Italy,1,0.09588
+667,"Department of Health Sciences, University of Genoa, Via A. Pastore 1, 16132 Genoa, Italy",1,0.09588
+668,"Kewalo Marine Laboratory, Pacific Biosciences Research Center University of Hawaii at Manoa  Honolulu HI 96813 USA",1,0.09588
+669,"Hauptman-Woodward Medical Research Institute, Buffalo, NY, USA",1,0.09588
+670,"Materials Design and Innovation Department, SUNY Buffalo, Buffalo, NY, USA",1,0.09588
+671,"Chemistry Department, University of Manchester, Manchester, UK",1,0.09588
+672,"Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA",1,0.09588
+673,Research &amp; Development Institute of Northwestern Polytechnical University in Shenzhen  Shenzhen China,1,0.09588
+674,Ministry of Education Key Laboratory of Micro/Nano Systems for Aerospace Northwestern Polytechnical University  Xi'an China,1,0.09588
+675,"Department of Biomedical Engineering, College of Medicine, Seoul National University, Seoul, South Korea",1,0.09588
+676,"Department of Clinical and Experimental Medicine, Biology and Genetics Unit Università di Pisa  Pisa Italy",1,0.09588
+677,Princeton University Princeton NJ USA,1,0.09588
+678,"Translational Biology, Conrad Prebys Center for Chemical Genomics, Orlando, FL 32827, USA",1,0.09588
+679,"Department of Biomedical Engineering, Rutgers University, 599 Taylor Rd, Piscataway, NJ 08854, USA",1,0.09588
+680,"Department of Aerospace Engineering, Texas A&M University, College Station, Texas",1,0.09588
+681,"Department of Health and Kinesiology, Texas A&M University, College Station, Texas",1,0.09588
+682,Research Centre for Natural Sciences,1,0.09588
+683,"Space Enabled Research Group, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA.",1,0.09588
+684,"Università di Pisa, Department of Clinical and Experimental Medicine Biology and Genetics unit  Pisa Italy",1,0.09588
+685,"Istituto Italiano di Tecnologia Center for Materials Interfaces, Smart Bio‐Interfaces  Pisa Italy",1,0.09588
+686,"Dutch Experiment Support Center (DESC), Department of Oral and Maxillofacial Surgery/Oral Pathology Amsterdam UMC location VU University Medical Center &amp; Academic Centre for Dentistry Amsterdam (ACTA)  Amsterdam The Netherlands",1,0.09588
+687,"TEC‐MMG LIS lab European Space Agency (ESA), European Space Research and Technology Center (ESTEC)  Noordwijk The Netherlands",1,0.09588
+688,"Department of Pathology, Biochemistry Unit Università di Pisa  Pisa Italy",1,0.09588
+689,"KBR/NASA Ames Research Center, Moffett Field, CA 94035, USA",1,0.09588
+690,Institut Hospitalo‐Universitaire Méditerranée Infection  Marseille France,1,0.09588
+691,Techno Jouvence  Marseille France,1,0.09588
+692,Istituto Italiano di Tecnologia Electron Microscopy Facility  Genoa Italy,1,0.09588
+693,Istituto Italiano di Tecnologia Materials Characterization Facility  Genoa Italy,1,0.09588
+694,"Center for the Utilization of Biological Engineering in Space (CUBES), Berkeley, CA, USA",1,0.09588
+695,"Department of Chemical Engineering, University of California, Davis, CA, USA",1,0.09588
+696,"Radcliffe Department of Medicine, Oxford University, Oxford, UK",1,0.09588
+697,"Department of Bioengineering, University of California, Berkeley, CA, USA",1,0.09588
+698,"Center for Musculoskeletal Health, School of Medicine, University of California, Davis, CA, USA",1,0.09588
+699,"Global HealthShare® Initiative, University of California, Davis, CA, USA",1,0.09588
+700,"Department of Neuroscience, Regenerative Neurobiology Uppsala University Uppsala Sweden",1,0.09588
+701,Division of Cardiac Surgery Thomas Jefferson University Philadelphia PA USA,1,0.09588
+702,"Weill Cornell Medicine, New York, NY 10065, USA",1,0.09588
+703,MERLN Institute for Technology‐Inspired Regenerative Medicine Department of Complex Tissue Regeneration Maastricht University  Maastricht 6229 ER Netherlands,1,0.09588
+704,"Department of Laboratory Medicine, Karolinska Institutet Huddinge, 171 77 Stockholm, Sweden",1,0.09588
+705,"Logyx LLC, Mountain View, California, USA.",1,0.09588
+706,"FILMSS/Bionetics, NASA Ames Research Center, Moffett Field, California, USA.",1,0.09588
+707,"Amyris, Inc., Emeryville, California, USA.",1,0.09588
+708,"Millenium Engineering & Integration Co., NASA Ames Research Center, Moffett Field, California, USA.",1,0.09588
+709,"Wainamics, Inc., Pleasanton, California, USA.",1,0.09588
+710,"FILMSS/Wyle Labs, NASA Ames Research Center, Moffett Field, California, USA.",1,0.09588
+711,"Stanford University, Stanford, California, USA.",1,0.09588
+712,"University of New Mexico, Albuquerque, New Mexico, USA.",1,0.09588
+713,"Department of Physics, Portland State University, Portland, Oregon 97201, United States",1,0.09588
+714,Chinese Academy of Sciences,1,0.09588
+715,"School of Electrical and Computer Engineering, Biomedical Engineering Laboratory, National Technical University of Athens, Heroon Polytecniou 9, Athens, 15780, Athens, Greece",1,0.09588
+716,"First Department of Pediatrics, National and Kapodistrian University of Athens, Choremeio Research Laboratory, Thivon & Levadeias 8, 11527 Athens, Greece",1,0.09588
+717,"NASA Ames Research Center, Moffett Field, CA 94035, USA",1,0.09588
+718,Department of Biomedicine and Prevention University of Rome “Tor Vergata’’ Italy,1,0.09588
+719,"Department of Mechanical Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, Florida 32310, USA",1,0.09588
+720,"National High Magnetic Field Laboratory, Florida State University, 1800 E Paul Dirac Dr., Tallahassee, Florida 32310, USA",1,0.09588
+721,"National Plant Phenomics Centre, Institute of Biological, Environmental, and Rural Sciences (IBERS), Aberystwyth University, Gogerddan, Aberystwyth SY23 3EB, United Kingdom",1,0.09588
+722,"Department of Biology, Chemistry and Environmental Sciences College of Arts and Sciences American University of SharjahUniversity City Sharjah United Arab Emirates",1,0.09588
+723,"Thales Alenia Space Italia,ALS Engineer at Cleanliness and Bioresources dpt.,Torino,Italy",1,0.09588
+724,"Thales Alenia Space Italia,Head of Cleanliness and Bioresources dpt.,Torino,Italy",1,0.09588
+725,"Innovation Lead, Exploration and Science Thales Alenia Space Italia,Torino,Italy",1,0.09588
+726,University of Arizona,1,0.09588
+727,"Faculty of Humanities and Social Sciences, Kumamoto University, Kumamoto, Japan",1,0.09588
+728,"USRA/NASA Ames Research Center, Moffett Field, CA 94035, USA",1,0.09588
+729,Gunma University Heavy Ion Medical Center Maebashi Japan,1,0.09588
+730,Life Science Research Center University of Toyama Toyama Japan,1,0.09588
+731,"Teer Coatings Ltd., West Stone, Droitwich, Worcestershire WR9 9AS, United Kingdom",1,0.09588
+732,Department of Molecular Sciences Macquarie University North Ryde New South Wales2109 Australia,1,0.09588
+733,"Sector of Microtechnologies, Institute of Biotechnology, Life Sciences Center, Vilnius University, Vilnius, Lithuania.",1,0.09588
+734,"Space Biosciences Division, NASA Ames Research Center, Moffett Field, California, USA.",1,0.09588
+735,"Department of Gastroenterology and Hepatology, Yamaguchi University Graduate School of Medicine, Japan",1,0.09588
+736,"Department of Psychological Sciences, University of Chieti, Via dei Vestini 31, 66013 Chieti, Italy",1,0.09588
+737,"Fundamental Medical Science Research Laboratories, The 940th Hospital of Joint Logistic Support Force People's Liberation Army of China  Lanzhou China",1,0.09588
+738,"Department of Bioengineering, School of Life Science and Engineering Lanzhou University of Technology  Lanzhou China",1,0.09588
+739,"Gansu Key Laboratory of Space Radiobiology Institute of Modern Physics, Chinese Academy of Sciences  Lanzhou China",1,0.09588
+740,UniSA Clinical and Health Sciences University of South Australia  Adelaide South Australia Australia,1,0.09588
+741,"Department of Pharmacy, The 940th Hospital of Joint Logistic Support Force People's Liberation Army of China  Lanzhou China",1,0.09588
+742,"GSI Helmholtzzentrum für Schwerionenforschung, and Technische Universität Darmstadt",1,0.09588
+743,"Department of Allied Health Sciences, School of Health Sciences and Technology, University of Petroleum and Energy Studies (UPES), Energy Acres Building , Bidholi Dehradun, 248007 Uttarakhand, India",1,0.09588
+744,"Leidos, Houston, TX, USA",1,0.09588
+745,"Cross II Leidos, Houston, TX, USA",1,0.09588
+746,"KBR, KBR, Houston, TX, USA",1,0.09588
+747,"Lockheed Martin, Houston, TX, USA",1,0.09588
+748,"NASA Johnson Space Center, Houston, TX, USA",1,0.09588
+749,"University of Houston, Houston, TX, USA",1,0.09588
+750,"Centre of Excellence in Astrobiology, Amity University Mumbai, Mumbai, India.",1,0.09588
+751,"Blue Marble Space Institute of Science, Seattle, Washington, USA.",1,0.09588
+752,"Mars Society Australia, CLIFTON HILL, Australia.",1,0.09588
+753,"School of Environment, Earth and Ecosystem Sciences, Open University, Milton Keynes, United Kingdom.",1,0.09588
+754,"Department of Biotechnology, SRM Institute of Science and Technology, Kattankulathur, India.",1,0.09588
+755,"Department of Surgery, Divisions of Orthopaedic Surgery and Surgical Research, Faculty of Medicine & Dentistry, University of Alberta, Li Ka Shing Centre for Health Research Innovation, Edmonton, AB, Canada",1,0.09588
+756,"Department of Civil and Environmental Engineering, Faculty of Engineering, University of Alberta, Edmonton, AB, Canada",1,0.09588
+757,"Divisions of Orthopedic Surgery and Surgical Research, Department of Surgery University of Alberta Edmonton Alberta Canada",1,0.09588
+758,"Blue Marble Space Institute of Science, Space Biosciences Division, NASA Ames Research Center, Mountain View, California, USA.",1,0.09588
+759,Tokyo Women’s Medical University,1,0.09588
+760,"Totsuka Royal Clinic, Tokyo Women's Medical University",1,0.09588
+761,"School of Food and Bioengineering, Xihua University, Chengdu, China",1,0.09588
+762,Aja University of Medical Sciences,1,0.09588
+763,Lehigh University,1,0.09588
+764,Rafsanjan University of Medical Sciences,1,0.09588
+765,"Department of Psychiatry, PC Sint-Amandus, 8730 Beernem, Belgium",1,0.09588
+766,"Private address, Moab, UT 84532",1,0.09588
+767,"South Shore Eye Center, League City, TX 77573",1,0.09588
+768,"KBR, NASA Space Medicine Operations Division, Houston, TX 77058",1,0.09588
+769,"Center for Translational Neuromedicine, Faculty of Health and Medical Sciences, University of Copenhagen, 2200 Copenhagen, Denmark",1,0.09588
+770,"Center for Translational Neuromedicine, University of Rochester Medical Center, Rochester, NY 14642",1,0.09588
+771,"Department of Chemical Engineering , University of Louisville",1,0.09588
+772,"Department of Mechanical Engineering , University of Louisville",1,0.09588
+773,"Department of Pharmacy, Chinese PLA General Hospital, Beijing, China",1,0.09588
+774,"Physics Department, Birla Institute of Technology and Science, Pilani, Hyderabad, Telangana, India",1,0.09588
+775,"School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China",1,0.09588
+776,"Department of Food Science and Technology, National Nutrition and Food Technology Research Institute, Faculty of Nutrition Science and Food Technology, Shahid Beheshti University of Medical Sciences, Tehran, Iran",1,0.09588
+777,"LAPLACE, Toulouse University, 118 Route de Narbonne, Toulouse 31062, France",1,0.09588
+778,"Key Laboratory for Space Bioscience and Space Biotechnology, School of Life Sciences, Northwestern Polytechnical University, Xi’an, Shaanxi Province, China",1,0.09588
+779,"State Key Laboratory of Solidification Processing, Center for Nano Energy Materials, School of Materials Science and Engineering, Northwestern Polytechnical University, Xi’an, Shaanxi Province, China",1,0.09588
+780,"McGill University, in Montreal, Canada",1,0.09588
+781,"University of Adelaide, in Adelaide, Australia",1,0.09588
+782,"German Aerospace Center, Institute of Aerospace Medicine, in Köln, Germany",1,0.09588
+783,"University of Melbourne, in Melbourne, and the University of Adelaide, in Adelaide, both in Australia",1,0.09588
+784,"Department of Electrical and Electronics Engineering and the Physics Department, Birla Institute of Technology and Science, Pilani, Hyderabad, Telangana, India",1,0.09588
+785,"Department of Electronics and Communication Engineering, Vignana Bharathi Institute of Technology, Hyderabad, Telangana, India",1,0.09588
+786,"Division of Otolaryngology, Department of Surgery University of Alberta Edmonton Alberta Canada",1,0.09588
+787,National Microgravity Laboratory Institute of Mechanics Chinese Academy of Sciences  Beijing 100190 China,1,0.09588
+788,School of Engineering Science University of Chinese Academy of Sciences  Beijing 100049 China,1,0.09588
+789,"Jet Propulsion Laboratory, California Institute of Technology, United States",1,0.09588
+790,"Univ. Grenoble Alpes, CEA, LETI, DTBS, F-38000 Grenoble, France",1,0.09588
+791,"Department of Mechanical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, Massachusetts 02139, United States",1,0.09588
+792,"Consumer and Clinical Radiation Protection Bureau, Health Canada, Ottawa, Canada",1,0.09588
+793,"Department of Biology, University of Ottawa, Ottawa, Canada",1,0.09588
+794,"Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA",1,0.09588
+795,Embry-Riddle Aeronautical University,1,0.09588
+796,"MIT, MIT, United States",1,0.09588
+797,"Tangible Media Group - MIT Media Lab, Massachusetts Institute of Technology, United States",1,0.09588
+798,"Human Systems Integration, SJSURF at NASA Ames, United States",1,0.09588
+799,"Politecnico di Milano, Italy",1,0.09588
+800,"Computer Science, University College London, United Kingdom",1,0.09588
+801,"Space Biosciences Research Branch, NASA Space Biology, United States",1,0.09588
+802,"Department of Radiology, Royal Perth Hospital, Perth, WA, 6000, Australia",1,0.09588
+803,"Translational Research Institute for Space Health, United States",1,0.09588
+804,"Media Lab, MIT, United States",1,0.09588
+805,"MIT Media Lab - Responsive Environments, MIT, United States",1,0.09588
+806,"LMU Munich, Germany",1,0.09588
+807,"Responsive Environments, MIT Media Lab, United States",1,0.09588
+808,"MIT Media Lab, United States",1,0.09588
+809,"School of Mechanical Engineering, Northwestern Polytechnical University, Xi'an 710072, China",1,0.09588
+810,"Faculty of Engineering, University of Nottingham, Nottingham NG7 2RD, United Kingdom",1,0.09588
+811,Space Science and Technology Institute (Shenzhen)  Shenzhen 518117 China,1,0.09588
+812,China Astronaut Research and Training Center Key Laboratory of Space Nutrition and Food Engineering  Beijing 100094 China,1,0.09588
+813,"Lee Kum Kee (Xinhui) Food Co., Ltd.  Jiangmen Guangdong 529156 China",1,0.09588
+814,"Department of Mechanical Engineering, Indian Institute of Science, Bangalore, India",1,0.09588
+815,"Department of Imaging and Pathology, Katholieke Universiteit Leuven, 3000 Leuven, Belgium",1,0.09588
+816,Department of PsychiatryPC Sint‐Amandus Beernem Belgium,1,0.09588
+817,"Laboratorio de Biodiversidad y Funcionamiento Ecosistemico Instituto de Recursos Naturales y Agrobiología de Sevilla (IRNAS), CSIC Sevilla Spain",1,0.09588
+818,INM – Leibniz Institute for New Materials gGmbH,1,0.09588
+819,Germany,1,0.09588
+820,Colloid and Interface Chemistry,1,0.09588
+821,Saarland University,1,0.09588
+822,Campus D2 2,1,0.09588
+823,Center for Health &amp; Bioresources AIT Austrian Institute of Technology  Vienna Austria,1,0.09588
+824,"Institute of Electrodynamics, Microwave and Circuit Engineering Vienna University of Technology  Vienna Austria",1,0.09588
+825,Institute of Aerospace Medicine German Aerospace Center  Cologne Germany,1,0.09588
+826,"Department of Basic Sciences, College of Medicine, Mohammed Bin Rashid University of Medicine and Health Sciences, Dubai, United Arab Emirates",1,0.09588
+827,"Seoul National University, South Korea",1,0.09588
+828,"Laboratory for the Development of Means and Methods of Medical Care in Extreme Conditions and Telemedicine of the State Scientific Centre of the Russian Federation, Institute of Medical and Biological Problems of the Russian Academy of Sciences , Moscow , Russian Federation",1,0.09588
+829,Unidad Asociada CSIC‐UPO (BioFun) Universidad Pablo de Olavide Sevilla Spain,1,0.09588
+830,"Department of Radiology, Alfred Health, Melbourne, VIC, 3181, Australia",1,0.09588
+831,"College of Computer Science and Technology, Henan Polytechnic University, Jiaozuo, Henan 454000, P. R. China",1,0.09588
+832,"School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, Henan 454000, P. R. China",1,0.09588
+833,"Laboratory of Neuro Imaging, University of Southern California, Los Angeles, CA 90033",1,0.09588
+834,"Department of Radiology and Radiological Science, Medical University of South Carolina, Charleston, SC 29425",1,0.09588
+835,"Imec-Vision Lab, University of Antwerp, B-2610 Antwerp, Belgium",1,0.09588
+836,"Department of Radiology, National Medical Research Treatment and Rehabilitation Centre of the Ministry of Health of Russia, Moscow 125367, Russia",1,0.09588
+837,"Coma Science Group, University of Liège, 4000 Liège, Belgium",1,0.09588
+838,"Department of Radiology, Lomonosov Moscow State University, Moscow 119991, Russia",1,0.09588
+839,"Laboratory for Cognitive Research, HSE University, Moscow 101000, Russia",1,0.09588
+840,"Gagarin Cosmonauts Training Center, Star City 141160, Russia",1,0.09588
+841,"Institute for Neuroradiology, Ludwig-Maximilians-University Munich, 80539 Munich, Germany",1,0.09588
+842,"Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy",1,0.09588
+843,Department of Primary Industries Elizabeth Macarthur Agricultural Institute Woodbridge Road Menangle New South Wales2568 Australia,1,0.09588
+844,Japan Aerospace Exploration Agency Tsukuba Japan,1,0.09588
+845,Beijing Institute of Microbiology and Epidemiology,1,0.09588
+846,School of Biology and Biological Engineering South China University of Technology  Guangzhou China,1,0.09588
+847,"State Key Laboratory of Quality Research in Chinese Medicine, Institute of Chinese Medical Sciences University of Macau  Macao China",1,0.09588
+848,MGI BGI‐Shenzhen  Shenzhen China,1,0.09588
+849,China National GeneBank BGI‐Shenzhen  Shenzhen China,1,0.09588
+850,"Cardiovascular Research Institute, Baylor College of Medicine, Houston, Texas",1,0.09588
+851,"Department of Integrative Physiology, Baylor College of Medicine, Houston, Texas",1,0.09588
+852,"Center for Space Medicine, Baylor College of Medicine, Houston, Texas",1,0.09588
+853,"Department of Medicine, Baylor College of Medicine, Houston, Texas",1,0.09588
+854,"Department of Neuroscience, Baylor College of Medicine, Houston, Texas",1,0.09588
+855,Tokyo Women's Medical University,1,0.09588
+856,"German Aerospace Center (DLR), Institute of Aerospace Medicine, Radiation Biology Department, Aerospace Microbiology Research Group, Linder Hoehe, Cologne (Köln), Germany.",1,0.09588
+857,"Key Laboratory of Biomechanics and Mechanobiology (Beihang University), Ministry of Education Beijing Advanced Innovation Center for Biomedical Engineering, School of Biological Science and Medical Engineering Beihang University  Beijing 100083 China",1,0.09588
+858,China School of Instrumentation and Optoelectronic Engineering Beihang University  Beijing 100083 China,1,0.09588
+859,"State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering Beihang University  Beijing 100083 China",1,0.09588
+860,International Joint Research Center of Aerospace Biotechnology &amp; Medical Engineering Beihang University  Beijing 100083 China,1,0.09588
+861,Qian Xuesen Laboratory of Space Technology China Academy of Space Technology  Beijing 100094 China,1,0.09588
+862,College of Mechanical and Electrical Engineering Beijing University of Chemical Technology  Beijing 100029 China,1,0.09588
+863,School of Materials Science and Engineering Tsinghua University  Beijing 100084 China,1,0.09588
+864,"Institute of Physics, Chinese Academy of Sciences  Beijing 100190 China",1,0.09588
+865,Center of Materials Science and Optoelectronics Engineering University of Chinese Academy of Sciences  Beijing 100049 China,1,0.09588
+866,Songshan Lake Materials Laboratory  Dongguan Guangdong 523808 China,1,0.09588
+867,UK Centre for Astrobiology School of Physics and Astronomy University of Edinburgh Edinburgh UK,1,0.09588
+868,Department of Artificial IntelligenceUniversidad Nacional de Educación a Distancia (UNED) Madrid Spain,1,0.09588
+869,"Department of Cardiothoracic Surgery, Southcoast Health, Fall River, Massachusetts",1,0.09588
+870,"Department of Pathology and Laboratory Medicine, Brown University, Providence, Rhode Island",1,0.09588
+871,"BGI‐Qingdao, BGI‐Shenzhen  Qingdao China",1,0.09588
+872,National Key Laboratory of Human Factors Engineering China Astronaut Research and Training Center  Beijing China,1,0.09588
+873,State Key Laboratory of Space Medicine Fundamentals and Application China Astronaut Research and Training Center  Beijing China,1,0.09588
+874,"Faculty of Engineering, School of Biomedical Engineering, University of Sydney, Sydney, NSW 2006, Australia",1,0.09588
+875,"Noto Center for Fisheries Science and Technology Kanazawa University Noto‐cho, Ishikawa Japan",1,0.09588
+876,"Noto Marine Laboratory, Institute of Nature and Environmental Technology Kanazawa University Noto‐cho Japan",1,0.09588
+877,Molecular Microbiology and Immunology Department Johns Hopkins Bloomberg School of Public Health  Baltimore MD 21205 USA,1,0.09588
+878,Space Center  Houston TX 77058 USA,1,0.09588
+879,"MOE Key Laboratory of Fundamental Physical Quantities Measurement & Hubei Key Laboratory of Gravitation and Quantum Physics, PGMF and School of Physics, Huazhong University of Science and Technology, Wuhan 430074, People's Republic of China",1,0.09588
+880,"Hubei Key Laboratory of Plasma Chemistry and Advanced Materials, School of Materials Science and Engineering, Wuhan Institute of Technology, Wuhan 430205, People's Republic of China",1,0.09588
+881,"Critical Analytics for Manufacturing Personalized-Medicine, Singapore-MIT Alliance for Research and Technology, CREATE, Singapore",1,0.09588
+882,"College of Resources & Environment of Huazhong Agricultural University, No.1, Shizishan Street, Wuhan, 430070, People's Republic of China",1,0.09588
+883,"School of Aeronautics and Astronautics, Sun Yat-Sen University, No. 135, Xingang Xi Road, Guangzhou, 510275, People's Republic of China",1,0.09588
+884,"SPACETY, No.9 Dengzhuang South Road, Haidian District, Beijing, People's Republic of China",1,0.09588
+885,"School of Physics and Astronomy, Sun Yat-sen University (Zhuhai Campus), Zhuhai 519082, People's Republic of China",1,0.09588
+886,"Chinese Ministry of Health, Chinese Academy of Medical Sciences and Comparative Medicine Center, Peking Union Medical College",1,0.09588
+887,Mechanical and Aerospace Engineering Department University of Central Florida  Orlando USA,1,0.09588
+888,"Center for Space Emerging Technologies,J2MECH Ingenier&#x00ED;a y Dise&#x00F1;o;,Lima,Peru",1,0.09588
+889,Chinese PLA General Hospital,1,0.09588
+890,"Air Force Medical Center, PLA",1,0.09588
+891,"Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY (J.M.S.).",1,0.09588
+892,"Weill Cornell Medical College, New York, NY (J.M.S.).",1,0.09588
+893,"Axiom Space, Houston, TX (J.S.).",1,0.09588
+894,"Toronto Rehabilitation Institute, University Health Network, Toronto, ON, Canada (L.D.).",1,0.09588
+895,"NASA Johnson Space Center, Houston, TX (M.D.).",1,0.09588
+896,"TIFR Complex, 605 Raman, Homi Bhabha Road, Navy Nagar, Colaba, Mumbai, India",1,0.09588
+897,BIH Center for Regenerative Therapies (BCRT) Charité Universitätsmedizin Berlin Berlin Germany,1,0.09588
+898,Berlin‐Brandenburg School for Regenerative Therapies (BSRT) Charité Universitätsmedizin Berlin Berlin Germany,1,0.09588
+899,"Spiritus Medical, Inc., Columbus, Ohio",1,0.09588
+900,"Department of Biomedical Engineering, Johns Hopkins University, Baltimore, Maryland",1,0.09588
+901,"Department of Medicine, Johns Hopkins School of Medicine, Baltimore, Maryland",1,0.09588
+902,"Institut Laue-Langevin, 38043 Grenoble, France",1,0.09588
+903,Abu Dhabi Stem Cells Center (ADSCC)  Abu Dhabi United Arab Emirates,1,0.09588
+904,"National Demonstration Center for Experimental Mechanical and Electrical Engineering Education (Tianjin University of Technology), Tianjin, People’s Republic of China",1,0.09588
+905,"Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, U.S.A.",1,0.09588
+906,"Laboratorio di Botanica ed Ecologia Riproduttiva, Dipartimento di Arboricoltura, Botanica e Patologia Vegetale, Università degli Studi di Napoli Federico II, Viale Università 100, 80055 Portici, Italy",1,0.09588
+907,"Department of Integrative Biology, University of California, Berkeley, California, USA",1,0.09588
+908,"Département des Sciences Biologiques, Université de Montréal, Montréal, Quebec, Canada",1,0.09588
+909,"LS2N, Faculté des Sciences et Techniques (FST), Université de Nantes, Nantes, France",1,0.09588
+910,"Trinity University,San Antonio,TX,78212",1,0.09588
+911,"Institut für Biologie und Biotechnologie der Pflanzen, Westfälische Wilhelms-Universität Münster, Germany",1,0.09588
+912,"College of medicine, Inha university",1,0.09588
+913,"Neutron Scattering Division, Oak Ridge National Laboratory, USA",1,0.09588
+914,"Diffraction Group, Neutron Scattering Division, Oak Ridge National Laboratory, USA",1,0.09588
+915,"Department of Microbiology and Immunology, Western University, London, Ontario, Canada",1,0.09588
+916,NASA Glenn Research Center,1,0.09588
+917,Wrocław University of Science and Technology,1,0.09588
+918,Ludwik Hirszfeld Institute of Immunology and Experimental Therapy,1,0.09588
+919,"Department of Environmental and Radiological Health Sciences, Colorado State University, Fort Collins, CO, USA",1,0.09588
+920,"Cell and Molecular Biology Program, Colorado State University, Fort Collins, CO, USA",1,0.09588
+921,"Baylor Scott & White Medical Center, Temple, TX, USA",1,0.09588
+922,The Russian Federation State Research Center - Institute of Biomedical Problems of Russian Academy of Sciences,1,0.09588
+923,"Development of Means and Methods of Medical Care in Extreme Conditions and Telemedicine of the State Scientific Centre of the Russian Federation – Institute of Medical and Biological Problems of the Russian Academy of Sciences , Moscow , Russian Federation",1,0.09588
+924,"University of Wisconsin-Madison, Madison, Wisconsin, USA",1,0.09588
+925,"University of Southern California, Los Angeles, California, USA",1,0.09588
+926,"Biotechnology and Planetary Protection Group, Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA",1,0.09588
+927,"Lawson Health Research Institute, University of Western Ontario, Canada",1,0.09588
+928,"Centre for Human Microbiome and Probiotic Research, Lawson Health Research Institute, London, Ontario, Canada",1,0.09588
+929,"Department of Applied Chemistry, Graduate School of Science and Engineering University of Toyama  Toyama Japan",1,0.09588
+930,University of Wisconsin–Madison,1,0.09588
+931,"Department of Advanced Nano‐ and Bio‐sciences, Graduate School of Innovative Life Sciences University of Toyama  Toyama Japan",1,0.09588
+932,Frontier Research Core for Life Sciences University of Toyama  Toyama Japan,1,0.09588
+933,School of Materials Science Japan Advanced Institute of Science and Technology  Nomi Japan,1,0.09588
+934,"New Business Project, Development Division Kitagawa Iron Works Co., Ltd.  Hiroshima Japan",1,0.09588
+935,The University of Tokyo: Tokyo Daigaku,1,0.09588
+936,"Yale University, New Haven, Connecticut, USA",1,0.09588
+937,"University of Information Technology and Management in Rzeszow, Rzeszow, Poland",1,0.09588
+938,"Sherwood Observatory, Mansfield and Sutton Astronomical Society, England, UK",1,0.09588
+939,"Department of Plant Pathology, University of Florida, Merritt Island, Florida, USA.",1,0.09588
+940,California Institute of Technology,1,0.09588
+941,Universidade de São Paulo,1,0.09588
+942,Trinity College University of Oxford  Broad Street Oxford OX1 3BH UK,1,0.09588
+943,"Department of Saint Camillus International
+University of Health Sciences, Via di Sant\'Alessandro 8, 00131 Rome, Italy",1,0.09588
+944,Department of Surgery The University of Minnesota  Minneapolis MN USA,1,0.09588
+945,Center for Space Medicine Baylor College of Medicine  Houston TX USA,1,0.09588
+946,Medical School The University of Rochester  Rochester NY USA,1,0.09588
+947,Department of Physics Massachusetts Institute of Technology  Cambridge MA USA,1,0.09588
+948,Department of Mathematics and Computing Indian Institute of Technology Delhi  New Delhi India,1,0.09588
+949,University of Nebraska Medical Center,1,0.09588
+950,Oak Ridge National Laboratory,1,0.09588
+951,"Axiom Space, Houston, Texas, USA.",1,0.09588
+952,University of Essex; Colchester UK,1,0.09588
+953,"Department of Experimental Medicine, University of Rome “Tor Vergata”, Via Montpellier 1, 00133 Rome, Italy",1,0.09588
+954,"Department of San Raffaele University, Via di Val Cannuta 247, 00166 Rome, Italy",1,0.09588
+955,Department of Chemical Engineering University of Zaragoza  Zaragoza Spain,1,0.09588

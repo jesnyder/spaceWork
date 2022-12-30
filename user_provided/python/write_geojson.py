@@ -37,21 +37,9 @@ def write_geojson():
 
     print("running write_geojson")
 
-    tasks = [0, 1]
+    tasks = [0,1]
     if 0 in tasks: geojson()
     if 1 in tasks: disperse_geojson()
-
-
-    """
-
-    if 0 in tasks: summarize_located('located_salesdata')
-    if 1 in tasks: build_geojson('located_salesdata')
-    if 2 in tasks: customer_html()
-    if 3 in tasks: group_customers()
-
-    if 10 in tasks: save_geojson('crossref_json')
-    if 20 in tasks: save_geojson('grouped')
-    """
 
     print("completed write_geojson")
 
@@ -96,8 +84,6 @@ def disperse_geojson():
                 f.close()
 
 
-
-
 def geojson():
     """
     write geojson
@@ -119,35 +105,25 @@ def geojson():
             feature['type'] = 'Feature'
             feature['properties'] = build_property(pub)
 
-            if 'author' not in pub.keys(): continue
-            for author in pub['author']:
+            if 'affs' not in pub.keys(): continue
+            for aff in pub['affs']:
 
-                if author['affiliation'] == []: continue
-                for affiliation in author['affiliation']:
+                feature['properties']['aff'] = aff
+                feature['geometry'] = build_geometry(aff)
 
-                    if 'name' not in affiliation.keys(): continue
+                if feature in features: continue
+                features.append(feature)
 
-                    aff = affiliation['name']
+                geojson = {}
+                geojson['type'] = 'FeatureCollection'
+                geojson['feature_count'] = len(features)
+                geojson['features'] = features
 
-                    print('aff = ')
-                    print(aff)
-
-                    feature['properties']['aff'] = aff
-                    feature['geometry'] = build_geometry(aff)
-
-                    if feature in features: continue
-                    features.append(feature)
-
-                    geojson = {}
-                    geojson['type'] = 'FeatureCollection'
-                    geojson['feature_count'] = len(features)
-                    geojson['features'] = features
-
-                    with open(fil_dst, "w+") as f:
-                        #f.write('var ' + str(fil_name) + ' = ' + '\n')
-                        json.dump(geojson, f, indent = 6)
-                        #f.write(';')
-                    f.close()
+                with open(fil_dst, "w+") as f:
+                    #f.write('var ' + str(fil_name) + ' = ' + '\n')
+                    json.dump(geojson, f, indent = 6)
+                    #f.write(';')
+                f.close()
 
 
 def build_geometry(aff):
@@ -189,7 +165,7 @@ def build_property(pub):
         prop['journal'] = pub['publisher']
 
     prop['cited'] = int(pub['is-referenced-by-count'])
-    prop['radius'] = int(3*(pub['is-referenced-by-count'] + 5))
+    prop['radius'] = int((pub['is-referenced-by-count'] + 15))
     prop['year'] = int(pub['year'])
     prop['zindex'] = int(300 - pub['is-referenced-by-count'])
     prop['paneName'] = str('pane' + str(pub['is-referenced-by-count']).zfill(3))
@@ -206,9 +182,9 @@ def random_color():
     return rgb
     """
 
-    r = int(255 - 20*random.random())
-    g = int(60 + 160*random.random())
-    b = int(10 + 50*random.random())
+    r = int(255 - 10*random.random())
+    g = int(20 + 200*random.random())
+    b = int(20 + 50*random.random())
 
     color_str = str('rgb( ' + str(r) + ' , ' +  str(g) + ' , ' + str(b) + ' )')
     print('color_str = ' + color_str)
@@ -227,7 +203,7 @@ def disperse_geolocation(lon, lat):
         random1 =  (2*random.random() - 1)/40
         random2 =  (2*random.random() - 1)/40
 
-        print('random1 / random2 = ' + str(random1) + ' / ' + str(random2))
+        #print('random1 / random2 = ' + str(random1) + ' / ' + str(random2))
 
         lon = float(lon) + random1
         lat = float(lat) + random2

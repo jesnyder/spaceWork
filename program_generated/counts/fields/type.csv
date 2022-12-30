@@ -1,8 +1,9 @@
 ,word,count,percent
-0,journal-article,366,76.56904
-1,book-chapter,54,11.29707
-2,posted-content,34,7.11297
-3,proceedings-article,13,2.71967
-4,other,9,1.88285
-5,book,1,0.20921
-6,edited-book,1,0.20921
+0,journal-article,747,78.71444
+1,book-chapter,106,11.16965
+2,posted-content,53,5.58483
+3,proceedings-article,28,2.95047
+4,other,10,1.05374
+5,dissertation,3,0.31612
+6,book,1,0.10537
+7,edited-book,1,0.10537

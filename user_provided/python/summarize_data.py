@@ -37,7 +37,7 @@ def summarize_data():
 
     print("running summarize_data")
 
-    tasks = [2, 3, 4]
+    tasks = [0, 1, 2, 3, 4]
     if 0 in tasks: word_count()
 
     if 1 in tasks: count_fields_pubs()

@@ -11,8 +11,12 @@ gscholar_json_scrape,program_generated pubs gscholar scrape json
 gscholar_json_agg,program_generated pubs gscholar agg
 
 # created by meta_pubs
-meta_pubs,program_generated pubs meta crossref
-missing_json,program_generated pubs meta missing.json
+crossref_pubs,program_generated pubs crossref meta
+missing_json,program_generated pubs crossref missing missing.json
+orcid_list,program_generated pubs orcid list_orcid.json
+orcid_locate,program_generated pubs orcid locate_orcid.json
+coregister_pubs,program_generated pubs coregistered coregistered.json
+meta_pubs,program_generated pubs meta
 
 list_affs,program_generated pubs affs affs.json
 locate_affs,program_generated pubs affs located_affs.json
@@ -45,4 +49,4 @@ geojson_trials,docs js geojson geojson_trials.js
 # referenced by geolocate_awards
 src_awards,user_provided grants
 json_awards,program_generated grants json
-geojson_awards,docs js geojson 
+geojson_awards,docs js geojson

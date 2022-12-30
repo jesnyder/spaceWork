@@ -1,8 +1,6 @@
 var year = 
 [
-{'word': 2022.0, 'count': 309.0, 'percent': 64.64435} , 
-{'word': 2022.0, 'count': 166.0, 'percent': 34.72803} , 
-{'word': 4149.0, 'count': 1.0, 'percent': 0.20921} , 
-{'word': 4098.0, 'count': 1.0, 'percent': 0.20921} , 
-{'word': 7478.0, 'count': 1.0, 'percent': 0.20921} , 
+{'word': 2022.0, 'count': 747.0, 'percent': 78.71444} , 
+{'word': 2021.0, 'count': 164.0, 'percent': 17.28135} , 
+{'word': 2023.0, 'count': 38.0, 'percent': 4.00421} , 
 ]

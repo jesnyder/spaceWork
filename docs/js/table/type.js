@@ -1,10 +1,11 @@
 var type = 
 [
-{'word': 'journal-article', 'count': 366.0, 'percent': 76.56904} , 
-{'word': 'book-chapter', 'count': 54.0, 'percent': 11.29707} , 
-{'word': 'posted-content', 'count': 34.0, 'percent': 7.11297} , 
-{'word': 'proceedings-article', 'count': 13.0, 'percent': 2.71967} , 
-{'word': 'other', 'count': 9.0, 'percent': 1.88285} , 
-{'word': 'book', 'count': 1.0, 'percent': 0.20921} , 
-{'word': 'edited-book', 'count': 1.0, 'percent': 0.20921} , 
+{'word': 'journal-article', 'count': 747.0, 'percent': 78.71444} , 
+{'word': 'book-chapter', 'count': 106.0, 'percent': 11.16965} , 
+{'word': 'posted-content', 'count': 53.0, 'percent': 5.58483} , 
+{'word': 'proceedings-article', 'count': 28.0, 'percent': 2.95047} , 
+{'word': 'other', 'count': 10.0, 'percent': 1.05374} , 
+{'word': 'dissertation', 'count': 3.0, 'percent': 0.31612} , 
+{'word': 'book', 'count': 1.0, 'percent': 0.10537} , 
+{'word': 'edited-book', 'count': 1.0, 'percent': 0.10537} , 
 ]

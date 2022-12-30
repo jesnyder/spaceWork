@@ -12,7 +12,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "Regents of the University of Michigan - Ann Arbor",
                         "cost": "$549,241.00",
-                        "color": "rgb( 149 , 244 , 218 )",
+                        "color": "rgb( 80 , 254 , 149 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -21,8 +21,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -83.709483,
-                              42.245703
+                              -83.720198,
+                              42.252424
                         ]
                   }
             },
@@ -36,7 +36,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of California-Irvine",
                         "cost": "$399,685.00",
-                        "color": "rgb( 55 , 247 , 58 )",
+                        "color": "rgb( 99 , 254 , 155 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -45,8 +45,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -117.830423,
-                              33.632017
+                              -117.85517,
+                              33.636325
                         ]
                   }
             },
@@ -60,7 +60,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "University of California-San Francisco",
                         "cost": "$400,000.00",
-                        "color": "rgb( 149 , 242 , 85 )",
+                        "color": "rgb( 54 , 252 , 84 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -69,8 +69,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.458665,
-                              37.768688
+                              -122.463735,
+                              37.758338
                         ]
                   }
             },
@@ -84,7 +84,7 @@ var geojson_nsfAwards =
                         "year": 2018,
                         "aff": "Palo Alto Veterans Institute for Research",
                         "cost": "$359,999.00",
-                        "color": "rgb( 106 , 252 , 155 )",
+                        "color": "rgb( 112 , 251 , 92 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -93,8 +93,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.167839,
-                              37.444249
+                              -122.176899,
+                              37.466794
                         ]
                   }
             },
@@ -108,7 +108,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "University of California-Berkeley",
                         "cost": "$276,000.00",
-                        "color": "rgb( 126 , 241 , 58 )",
+                        "color": "rgb( 100 , 248 , 204 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -117,8 +117,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.230368,
-                              37.873969
+                              -122.262024,
+                              37.887954
                         ]
                   }
             },
@@ -132,7 +132,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "Stanford University",
                         "cost": "$276,000.00",
-                        "color": "rgb( 118 , 241 , 190 )",
+                        "color": "rgb( 56 , 245 , 118 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -141,8 +141,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.179075,
-                              37.406341
+                              -122.160535,
+                              37.438591
                         ]
                   }
             },
@@ -156,7 +156,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER AT EL PASO",
                         "cost": "$256,892.00",
-                        "color": "rgb( 86 , 240 , 169 )",
+                        "color": "rgb( 129 , 244 , 129 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -165,8 +165,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -106.443418,
-                              31.776407
+                              -106.45995,
+                              31.771422
                         ]
                   }
             },
@@ -180,7 +180,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "University of Texas at El Paso",
                         "cost": "$339,744.00",
-                        "color": "rgb( 93 , 246 , 61 )",
+                        "color": "rgb( 62 , 244 , 178 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -189,8 +189,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -106.510684,
-                              31.792452
+                              -106.488264,
+                              31.787361
                         ]
                   }
             },
@@ -204,7 +204,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "Colorado Mesa University",
                         "cost": "$49,771.00",
-                        "color": "rgb( 136 , 241 , 197 )",
+                        "color": "rgb( 71 , 245 , 80 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -213,8 +213,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -108.556381,
-                              39.081781
+                              -108.548763,
+                              39.066882
                         ]
                   }
             },
@@ -228,7 +228,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "Florida International University",
                         "cost": "$349,817.00",
-                        "color": "rgb( 64 , 240 , 151 )",
+                        "color": "rgb( 122 , 247 , 218 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -237,8 +237,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -80.369527,
-                              25.780076
+                              -80.392939,
+                              25.740004
                         ]
                   }
             },
@@ -252,7 +252,7 @@ var geojson_nsfAwards =
                         "year": 2020,
                         "aff": "Virginia Polytechnic Institute and State University",
                         "cost": "$399,997.00",
-                        "color": "rgb( 99 , 254 , 98 )",
+                        "color": "rgb( 108 , 249 , 202 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -261,8 +261,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -80.444241,
-                              37.215977
+                              -80.445157,
+                              37.234149
                         ]
                   }
             },
@@ -276,7 +276,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "Arizona State University",
                         "cost": "$380,000.00",
-                        "color": "rgb( 77 , 242 , 203 )",
+                        "color": "rgb( 110 , 240 , 101 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -285,8 +285,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -111.911444,
-                              33.401985
+                              -111.921897,
+                              33.444444
                         ]
                   }
             },
@@ -300,7 +300,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "Texas State University - San Marcos",
                         "cost": "$29,999.00",
-                        "color": "rgb( 55 , 253 , 95 )",
+                        "color": "rgb( 144 , 254 , 186 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -309,8 +309,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -97.930141,
-                              29.89166
+                              -97.929514,
+                              29.90803
                         ]
                   }
             },
@@ -324,7 +324,7 @@ var geojson_nsfAwards =
                         "year": 2018,
                         "aff": "University of California-San Francisco",
                         "cost": "$299,847.00",
-                        "color": "rgb( 111 , 241 , 119 )",
+                        "color": "rgb( 96 , 248 , 136 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -333,8 +333,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.471966,
-                              37.777515
+                              -122.447113,
+                              37.755106
                         ]
                   }
             },
@@ -348,7 +348,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of California-Berkeley",
                         "cost": "$270,000.00",
-                        "color": "rgb( 59 , 252 , 152 )",
+                        "color": "rgb( 123 , 252 , 120 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -357,8 +357,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.239555,
-                              37.859278
+                              -122.238474,
+                              37.88456
                         ]
                   }
             },
@@ -372,7 +372,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "Stanford University",
                         "cost": "$247,500.00",
-                        "color": "rgb( 83 , 249 , 63 )",
+                        "color": "rgb( 86 , 251 , 210 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -381,8 +381,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.188794,
-                              37.430449
+                              -122.149967,
+                              37.442606
                         ]
                   }
             },
@@ -396,7 +396,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "Johns Hopkins University",
                         "cost": "$270,000.00",
-                        "color": "rgb( 85 , 248 , 164 )",
+                        "color": "rgb( 54 , 251 , 122 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -405,8 +405,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.633357,
-                              39.330111
+                              -76.616153,
+                              39.346134
                         ]
                   }
             },
@@ -420,7 +420,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of California-Berkeley",
                         "cost": "$247,500.00",
-                        "color": "rgb( 111 , 252 , 63 )",
+                        "color": "rgb( 104 , 253 , 211 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -429,8 +429,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.229162,
-                              37.87286
+                              -122.243467,
+                              37.862581
                         ]
                   }
             },
@@ -444,7 +444,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "Icahn School of Medicine at Mount Sinai",
                         "cost": "$499,879.00",
-                        "color": "rgb( 136 , 252 , 195 )",
+                        "color": "rgb( 133 , 251 , 132 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -453,8 +453,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.932197,
-                              40.788818
+                              -73.955226,
+                              40.773917
                         ]
                   }
             },
@@ -468,7 +468,7 @@ var geojson_nsfAwards =
                         "year": 2020,
                         "aff": "University of Connecticut",
                         "cost": "$400,000.00",
-                        "color": "rgb( 138 , 254 , 232 )",
+                        "color": "rgb( 142 , 243 , 213 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -477,8 +477,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -72.252367,
-                              41.797827
+                              -72.244746,
+                              41.836483
                         ]
                   }
             },
@@ -492,7 +492,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "University of Colorado at Boulder",
                         "cost": "$399,997.00",
-                        "color": "rgb( 104 , 247 , 66 )",
+                        "color": "rgb( 95 , 245 , 146 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -501,8 +501,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -105.380582,
-                              40.11979
+                              -105.358267,
+                              40.098033
                         ]
                   }
             },
@@ -516,7 +516,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "University of Minnesota-Twin Cities",
                         "cost": "$400,000.00",
-                        "color": "rgb( 99 , 246 , 149 )",
+                        "color": "rgb( 122 , 247 , 167 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -525,8 +525,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -93.260052,
-                              44.974777
+                              -93.262764,
+                              44.960567
                         ]
                   }
             },
@@ -540,7 +540,7 @@ var geojson_nsfAwards =
                         "year": 2023,
                         "aff": "Tufts University",
                         "cost": "$400,000.00",
-                        "color": "rgb( 71 , 242 , 192 )",
+                        "color": "rgb( 95 , 252 , 183 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -549,8 +549,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.137174,
-                              42.383494
+                              -71.094751,
+                              42.397813
                         ]
                   }
             },
@@ -564,7 +564,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of California-Santa Barbara",
                         "cost": "$400,000.00",
-                        "color": "rgb( 110 , 241 , 201 )",
+                        "color": "rgb( 67 , 254 , 193 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -573,8 +573,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -119.841408,
-                              34.409203
+                              -119.83591,
+                              34.433484
                         ]
                   }
             },
@@ -588,7 +588,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "Rensselaer Polytechnic Institute",
                         "cost": "$269,654.00",
-                        "color": "rgb( 101 , 243 , 244 )",
+                        "color": "rgb( 125 , 243 , 186 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -597,8 +597,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.700704,
-                              42.709218
+                              -73.692636,
+                              42.718768
                         ]
                   }
             },
@@ -612,7 +612,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "New Jersey Institute of Technology",
                         "cost": "$269,007.00",
-                        "color": "rgb( 129 , 251 , 231 )",
+                        "color": "rgb( 118 , 249 , 106 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -621,8 +621,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.195027,
-                              40.742907
+                              -74.157436,
+                              40.741017
                         ]
                   }
             },
@@ -636,7 +636,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "CUNY City College",
                         "cost": "$442,459.00",
-                        "color": "rgb( 88 , 248 , 236 )",
+                        "color": "rgb( 146 , 253 , 57 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -645,8 +645,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.142532,
-                              40.581908
+                              -74.15034,
+                              40.583895
                         ]
                   }
             },
@@ -660,7 +660,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "University of California-San Diego",
                         "cost": "$400,000.00",
-                        "color": "rgb( 61 , 244 , 145 )",
+                        "color": "rgb( 147 , 243 , 72 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -669,8 +669,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -117.220481,
-                              32.878728
+                              -117.251238,
+                              32.872151
                         ]
                   }
             },
@@ -684,7 +684,7 @@ var geojson_nsfAwards =
                         "year": 2020,
                         "aff": "Rensselaer Polytechnic Institute",
                         "cost": "$85,000.00",
-                        "color": "rgb( 89 , 240 , 183 )",
+                        "color": "rgb( 113 , 244 , 233 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -693,8 +693,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.668397,
-                              42.737321
+                              -73.692851,
+                              42.752701
                         ]
                   }
             },
@@ -708,7 +708,7 @@ var geojson_nsfAwards =
                         "year": 2017,
                         "aff": "Auburn University",
                         "cost": "$191,935.00",
-                        "color": "rgb( 124 , 249 , 249 )",
+                        "color": "rgb( 75 , 252 , 163 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -717,8 +717,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -85.49786,
-                              32.588421
+                              -85.513178,
+                              32.600708
                         ]
                   }
             },
@@ -732,7 +732,7 @@ var geojson_nsfAwards =
                         "year": 2017,
                         "aff": "University of California-Davis",
                         "cost": "$195,992.00",
-                        "color": "rgb( 107 , 243 , 148 )",
+                        "color": "rgb( 94 , 254 , 235 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -741,8 +741,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -121.744834,
-                              38.539857
+                              -121.771103,
+                              38.527165
                         ]
                   }
             },
@@ -756,7 +756,7 @@ var geojson_nsfAwards =
                         "year": 2020,
                         "aff": "Boise State University",
                         "cost": "$409,999.00",
-                        "color": "rgb( 100 , 244 , 246 )",
+                        "color": "rgb( 69 , 249 , 65 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -765,8 +765,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -116.211998,
-                              43.627192
+                              -116.214,
+                              43.62699
                         ]
                   }
             },
@@ -780,7 +780,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "Middlebury College",
                         "cost": "$231,896.00",
-                        "color": "rgb( 69 , 249 , 112 )",
+                        "color": "rgb( 121 , 244 , 182 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -789,8 +789,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.156143,
-                              44.01335
+                              -73.158083,
+                              43.984024
                         ]
                   }
             },
@@ -804,7 +804,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "Michigan Technological University",
                         "cost": "$83,712.00",
-                        "color": "rgb( 119 , 242 , 115 )",
+                        "color": "rgb( 128 , 244 , 167 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -813,8 +813,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -88.548394,
-                              47.13063
+                              -88.534817,
+                              47.120903
                         ]
                   }
             },
@@ -828,7 +828,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of Washington",
                         "cost": "$332,781.00",
-                        "color": "rgb( 141 , 246 , 79 )",
+                        "color": "rgb( 124 , 249 , 178 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -837,8 +837,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.300044,
-                              47.645604
+                              -122.296048,
+                              47.652632
                         ]
                   }
             },
@@ -852,7 +852,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of Virginia Main Campus",
                         "cost": "$175,000.00",
-                        "color": "rgb( 81 , 248 , 236 )",
+                        "color": "rgb( 99 , 249 , 231 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -861,8 +861,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -78.494514,
-                              38.01047
+                              -78.487868,
+                              38.015896
                         ]
                   }
             },
@@ -876,7 +876,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "Virginia Polytechnic Institute and State University",
                         "cost": "$224,791.00",
-                        "color": "rgb( 53 , 250 , 67 )",
+                        "color": "rgb( 111 , 244 , 91 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -885,8 +885,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -80.424441,
-                              37.23557
+                              -80.412634,
+                              37.217624
                         ]
                   }
             },
@@ -900,7 +900,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "University of Tennessee Knoxville",
                         "cost": "$474,452.00",
-                        "color": "rgb( 90 , 244 , 59 )",
+                        "color": "rgb( 61 , 245 , 249 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -909,8 +909,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -83.936581,
-                              35.953675
+                              -83.920577,
+                              35.949355
                         ]
                   }
             },
@@ -924,7 +924,7 @@ var geojson_nsfAwards =
                         "year": 2020,
                         "aff": "University of California-Santa Barbara",
                         "cost": "$400,000.00",
-                        "color": "rgb( 110 , 254 , 109 )",
+                        "color": "rgb( 99 , 246 , 151 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -933,8 +933,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -119.830271,
-                              34.437779
+                              -119.842724,
+                              34.393562
                         ]
                   }
             },
@@ -948,7 +948,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "Emory University",
                         "cost": "$399,999.00",
-                        "color": "rgb( 135 , 244 , 129 )",
+                        "color": "rgb( 66 , 240 , 85 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -957,8 +957,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.341033,
-                              33.783085
+                              -84.334922,
+                              33.788378
                         ]
                   }
             },
@@ -972,7 +972,7 @@ var geojson_nsfAwards =
                         "year": 2018,
                         "aff": "Rutgers University New Brunswick",
                         "cost": "$299,667.00",
-                        "color": "rgb( 64 , 249 , 249 )",
+                        "color": "rgb( 101 , 243 , 169 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -981,8 +981,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.464893,
-                              40.505938
+                              -74.466035,
+                              40.479974
                         ]
                   }
             },
@@ -996,7 +996,7 @@ var geojson_nsfAwards =
                         "year": 2020,
                         "aff": "University of Florida",
                         "cost": "$615,125.00",
-                        "color": "rgb( 58 , 242 , 193 )",
+                        "color": "rgb( 88 , 251 , 188 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1005,8 +1005,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.366224,
-                              29.613014
+                              -82.324482,
+                              29.637563
                         ]
                   }
             },
@@ -1020,7 +1020,7 @@ var geojson_nsfAwards =
                         "year": 2018,
                         "aff": "New York University",
                         "cost": "$231,700.00",
-                        "color": "rgb( 125 , 247 , 81 )",
+                        "color": "rgb( 141 , 254 , 182 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1029,8 +1029,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.973371,
-                              40.725333
+                              -73.994661,
+                              40.73561
                         ]
                   }
             },
@@ -1044,7 +1044,7 @@ var geojson_nsfAwards =
                         "year": 2018,
                         "aff": "New Jersey Institute of Technology",
                         "cost": "$200,000.00",
-                        "color": "rgb( 54 , 254 , 103 )",
+                        "color": "rgb( 114 , 241 , 90 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1053,8 +1053,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.179845,
-                              40.763207
+                              -74.176789,
+                              40.749674
                         ]
                   }
             },
@@ -1068,7 +1068,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "Portland State University",
                         "cost": "$395,999.00",
-                        "color": "rgb( 82 , 245 , 161 )",
+                        "color": "rgb( 102 , 254 , 220 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1077,8 +1077,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.693985,
-                              45.488468
+                              -122.678597,
+                              45.533464
                         ]
                   }
             },
@@ -1092,7 +1092,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "Worcester Polytechnic Institute",
                         "cost": "$399,095.00",
-                        "color": "rgb( 80 , 249 , 134 )",
+                        "color": "rgb( 105 , 243 , 156 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1101,8 +1101,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.816591,
-                              42.278756
+                              -71.795478,
+                              42.299145
                         ]
                   }
             },
@@ -1116,7 +1116,7 @@ var geojson_nsfAwards =
                         "year": 2020,
                         "aff": "Carnegie-Mellon University",
                         "cost": "$491,230.00",
-                        "color": "rgb( 57 , 246 , 248 )",
+                        "color": "rgb( 123 , 252 , 207 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1125,8 +1125,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -79.943894,
-                              40.461095
+                              -79.927521,
+                              40.455006
                         ]
                   }
             },
@@ -1140,7 +1140,7 @@ var geojson_nsfAwards =
                         "year": 2016,
                         "aff": "University of Delaware",
                         "cost": "$439,993.00",
-                        "color": "rgb( 144 , 243 , 202 )",
+                        "color": "rgb( 128 , 242 , 98 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1149,8 +1149,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -75.767595,
-                              39.681166
+                              -75.729906,
+                              39.680634
                         ]
                   }
             },
@@ -1164,7 +1164,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "Lehigh University",
                         "cost": "$400,000.00",
-                        "color": "rgb( 96 , 245 , 108 )",
+                        "color": "rgb( 102 , 241 , 204 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1173,8 +1173,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -75.384179,
-                              40.589793
+                              -75.354205,
+                              40.601643
                         ]
                   }
             },
@@ -1188,7 +1188,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of Notre Dame",
                         "cost": "$726,224.00",
-                        "color": "rgb( 86 , 251 , 227 )",
+                        "color": "rgb( 54 , 251 , 237 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1197,8 +1197,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -86.220627,
-                              41.725808
+                              -86.248037,
+                              41.701362
                         ]
                   }
             },
@@ -1212,7 +1212,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "University of South Carolina at Columbia",
                         "cost": "$400,000.00",
-                        "color": "rgb( 145 , 251 , 232 )",
+                        "color": "rgb( 102 , 245 , 240 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1221,8 +1221,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.057393,
-                              33.991509
+                              -81.010534,
+                              33.991676
                         ]
                   }
             },
@@ -1236,7 +1236,7 @@ var geojson_nsfAwards =
                         "year": 2020,
                         "aff": "University of California-San Diego",
                         "cost": "$400,000.00",
-                        "color": "rgb( 117 , 242 , 207 )",
+                        "color": "rgb( 67 , 252 , 223 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1245,8 +1245,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -117.239821,
-                              32.89902
+                              -117.23515,
+                              32.902974
                         ]
                   }
             },
@@ -1260,7 +1260,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "University of California-Santa Barbara",
                         "cost": "$646,875.00",
-                        "color": "rgb( 68 , 248 , 103 )",
+                        "color": "rgb( 118 , 254 , 222 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1269,8 +1269,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -119.84306,
-                              34.396441
+                              -119.857157,
+                              34.399751
                         ]
                   }
             },
@@ -1284,7 +1284,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "Rensselaer Polytechnic Institute",
                         "cost": "$331,112.00",
-                        "color": "rgb( 120 , 252 , 240 )",
+                        "color": "rgb( 59 , 243 , 125 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1293,8 +1293,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.654558,
-                              42.74032
+                              -73.695986,
+                              42.706457
                         ]
                   }
             },
@@ -1308,7 +1308,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of South Carolina at Columbia",
                         "cost": "$240,000.00",
-                        "color": "rgb( 93 , 243 , 219 )",
+                        "color": "rgb( 83 , 242 , 115 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1317,8 +1317,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.054872,
-                              34.004969
+                              -81.032938,
+                              34.023369
                         ]
                   }
             },
@@ -1332,7 +1332,7 @@ var geojson_nsfAwards =
                         "year": 2023,
                         "aff": "University of Alabama at Birmingham",
                         "cost": "$400,000.00",
-                        "color": "rgb( 120 , 242 , 197 )",
+                        "color": "rgb( 66 , 242 , 115 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1341,8 +1341,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -86.786061,
-                              33.491177
+                              -86.817825,
+                              33.477137
                         ]
                   }
             },
@@ -1356,7 +1356,7 @@ var geojson_nsfAwards =
                         "year": 2022,
                         "aff": "University of Utah",
                         "cost": "$554,285.00",
-                        "color": "rgb( 91 , 248 , 82 )",
+                        "color": "rgb( 128 , 254 , 92 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1365,8 +1365,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -111.817251,
-                              40.762405
+                              -111.832371,
+                              40.780612
                         ]
                   }
             },
@@ -1380,7 +1380,7 @@ var geojson_nsfAwards =
                         "year": 2017,
                         "aff": "University of Maryland, College Park",
                         "cost": "$286,023.00",
-                        "color": "rgb( 82 , 250 , 159 )",
+                        "color": "rgb( 131 , 254 , 147 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1389,8 +1389,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.946458,
-                              38.97035
+                              -76.944907,
+                              39.007002
                         ]
                   }
             },
@@ -1404,7 +1404,7 @@ var geojson_nsfAwards =
                         "year": 2016,
                         "aff": "Rensselaer Polytechnic Institute",
                         "cost": "$419,997.00",
-                        "color": "rgb( 91 , 243 , 50 )",
+                        "color": "rgb( 70 , 250 , 109 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1413,8 +1413,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.686895,
-                              42.73461
+                              -73.696082,
+                              42.720285
                         ]
                   }
             },
@@ -1428,7 +1428,7 @@ var geojson_nsfAwards =
                         "year": 2018,
                         "aff": "The University of Central Florida Board of Trustees",
                         "cost": "$503,603.00",
-                        "color": "rgb( 78 , 252 , 97 )",
+                        "color": "rgb( 67 , 249 , 239 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1437,8 +1437,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.388871,
-                              28.552376
+                              -81.363279,
+                              28.540628
                         ]
                   }
             },
@@ -1452,7 +1452,7 @@ var geojson_nsfAwards =
                         "year": 2018,
                         "aff": "Rutgers University New Brunswick",
                         "cost": "$248,412.00",
-                        "color": "rgb( 65 , 254 , 53 )",
+                        "color": "rgb( 69 , 245 , 50 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1461,8 +1461,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.440263,
-                              40.499512
+                              -74.437019,
+                              40.484375
                         ]
                   }
             },
@@ -1476,7 +1476,7 @@ var geojson_nsfAwards =
                         "year": 2019,
                         "aff": "Arizona State University",
                         "cost": "$239,739.00",
-                        "color": "rgb( 96 , 253 , 76 )",
+                        "color": "rgb( 52 , 249 , 134 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1485,8 +1485,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -111.90991,
-                              33.446089
+                              -111.917007,
+                              33.396606
                         ]
                   }
             },
@@ -1500,7 +1500,7 @@ var geojson_nsfAwards =
                         "year": 2021,
                         "aff": "Embry-Riddle Aeronautical University",
                         "cost": "$433,369.00",
-                        "color": "rgb( 53 , 241 , 211 )",
+                        "color": "rgb( 144 , 253 , 132 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1509,8 +1509,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.028541,
-                              29.195142
+                              -81.06029,
+                              29.168216
                         ]
                   }
             },
@@ -1524,7 +1524,7 @@ var geojson_nsfAwards =
                         "year": 2017,
                         "aff": "University of Iowa",
                         "cost": "$50,000.00",
-                        "color": "rgb( 78 , 246 , 96 )",
+                        "color": "rgb( 54 , 251 , 168 )",
                         "opacity": 0.5,
                         "radius": 5,
                         "zindex": 495,
@@ -1533,8 +1533,8 @@ var geojson_nsfAwards =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -91.517482,
-                              41.62527
+                              -91.547446,
+                              41.619798
                         ]
                   }
             }

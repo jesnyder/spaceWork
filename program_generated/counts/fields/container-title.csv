@@ -1,221 +1,441 @@
 ,word,count,percent
-0,Handbook of Space Pharmaceuticals,27,5.8952
-1,npj Microgravity,25,5.45852
-2,Life,23,5.02183
-3,Acta Astronautica,20,4.36681
-4,Life Sciences in Space Research,19,4.14847
-5,International Journal of Molecular Sciences,18,3.93013
-6,In‐Space Manufacturing and Resources,9,1.96507
-7,Methods in Molecular Biology,8,1.74672
-8,Microgravity Science and Technology,7,1.52838
-9,Frontiers in Bioengineering and Biotechnology,7,1.52838
-10,Plant Gravitropism,7,1.52838
-11,Frontiers in Microbiology,6,1.31004
-12,Frontiers in Cell and Developmental Biology,6,1.31004
-13,iScience,6,1.31004
-14,Biomedicines,6,1.31004
-15,Frontiers in Physiology,5,1.0917
-16,Scientific Reports,5,1.0917
-17,Heliyon,4,0.87336
-18,SSRN Electronic Journal,4,0.87336
-19,Microbiome,4,0.87336
-20,The FASEB Journal,3,0.65502
-21,Frontiers in Space Technologies,3,0.65502
-22,Applied and Environmental Microbiology,3,0.65502
-23,Plant Physiology and Biochemistry,3,0.65502
-24,International Journal of Radiation Biology,3,0.65502
-25,Applied Sciences,3,0.65502
-26,New Space,3,0.65502
-27,Cellular and Molecular Life Sciences,3,0.65502
-28,Frontiers in Astronomy and Space Sciences,3,0.65502
-29,Plants,3,0.65502
-30,ASCEND 2022,3,0.65502
-31,Biological Sciences in Space,2,0.43668
-32,Advanced Engineering Materials,2,0.43668
-33,Frontiers in Plant Science,2,0.43668
-34,Quantum Science and Technology,2,0.43668
-35,Acta Crystallographica Section F Structural Biology Communications,2,0.43668
-36,Applied Microbiology and Biotechnology,2,0.43668
-37,Nature Communications,2,0.43668
-38,Current Opinion in Biotechnology,2,0.43668
-39,"2022 IEEE XXIX International Conference on Electronics, Electrical Engineering and Computing (INTERCON)",2,0.43668
-40,Computer Methods in Biomechanics and Biomedical Engineering,2,0.43668
-41,AIAA SCITECH 2022 Forum,2,0.43668
-42,Kidney International,2,0.43668
-43,Astrobiology,2,0.43668
-44,Plant Tissue Culture: New Techniques and Application in Horticultural Species of Tropical Region,2,0.43668
-45,Nature Medicine,2,0.43668
-46,Communications Biology,2,0.43668
-47,Food Research International,2,0.43668
-48,4th Symposium on Space Educational Activities,2,0.43668
-49,Drug Metabolism and Personalized Therapy,2,0.43668
-50,Proceedings of the National Academy of Sciences,2,0.43668
-51,Cellulose,1,0.21834
-52,Plant Science,1,0.21834
-53,Journal of Biotechnology and Biomedicine,1,0.21834
-54,Applied Mathematics and Computation,1,0.21834
-55,Biomedical Microdevices,1,0.21834
-56,Eye,1,0.21834
-57,Scientific Data,1,0.21834
-58,Brazilian Journal of Microbiology,1,0.21834
-59,Vietnam Journal of Biotechnology,1,0.21834
-60,Optical and Quantum Electronics,1,0.21834
-61,Frontiers in Cardiovascular Medicine,1,0.21834
-62,Medicine &amp; Science in Sports &amp; Exercise,1,0.21834
-63,Stem Cells and Development,1,0.21834
-64,Human Factors: The Journal of the Human Factors and Ergonomics Society,1,0.21834
-65,Engineering and Medicine in Extreme Environments,1,0.21834
-66,Gravitational and Space Research,1,0.21834
-67,Evidence-Based Complementary and Alternative Medicine,1,0.21834
-68,International Journal of Heat and Mass Transfer,1,0.21834
-69,Transhumanism: Entering an Era of Bodyhacking and Radical Human Modification,1,0.21834
-70,The International Library of Bioethics,1,0.21834
-71,BioScience,1,0.21834
-72,Genes,1,0.21834
-73,Biotechnology Advances,1,0.21834
-74,IEEE Sensors Journal,1,0.21834
-75,CARDIOMETRY,1,0.21834
-76,NeuroQuantology,1,0.21834
-77,Frontiers in Immunology,1,0.21834
-78,Experimental Physiology,1,0.21834
-79,Journal of Cellular and Molecular Medicine,1,0.21834
-80,Engineering &amp; Technology,1,0.21834
-81,Physics,1,0.21834
-82,FEMS Microbiology Letters,1,0.21834
-83,Arab Journal of Mathematical Sciences,1,0.21834
-84,Trends in Microbiology,1,0.21834
-85,International Journal of Mechanical Sciences,1,0.21834
-86,Biomimicry for Aerospace,1,0.21834
-87,ACS Applied Materials &amp; Interfaces,1,0.21834
-88,Management for Professionals,1,0.21834
-89,Project Finance,1,0.21834
-90,Journal of Cardiovascular Translational Research,1,0.21834
-91,Journal of Crystal Growth,1,0.21834
-92,Frontiers in Psychology,1,0.21834
-93,SN Applied Sciences,1,0.21834
-94,Sports Medicine,1,0.21834
-95,Stem Cells Translational Medicine,1,0.21834
-96,Human Physiology,1,0.21834
-97,Journal of Space Safety Engineering,1,0.21834
-98,Canadian Journal of Physiology and Pharmacology,1,0.21834
-99,CEAS Space Journal,1,0.21834
-100,Neurological Sciences,1,0.21834
-101,Shape Memory Composites Based on Polymers and Metals for 4D Printing,1,0.21834
-102,Current Nutrition &amp; Food Science,1,0.21834
-103,International Journal of Refrigeration,1,0.21834
-104,China's Space Programme,1,0.21834
-105,Biological Rhythm Research,1,0.21834
-106,JAMA Neurology,1,0.21834
-107,International Journal of Food Science &amp; Technology,1,0.21834
-108,Physics of Fluids,1,0.21834
-109,Plant Reproduction,1,0.21834
-110,ECS Meeting Abstracts,1,0.21834
-111,Patterns,1,0.21834
-112,Plant Growth Regulation,1,0.21834
-113,INNOVATIONS in pharmacy,1,0.21834
-114,Biomechanics of Injury and Prevention,1,0.21834
-115,Biotechnology in Space,1,0.21834
-116,SpringerBriefs in Space Life Sciences,1,0.21834
-117,Fractals,1,0.21834
-118,Trends in Ecology &amp; Evolution,1,0.21834
-119,Space Policy,1,0.21834
-120,Frontiers Research Topics,1,0.21834
-121,Lecture Notes in Networks and Systems,1,0.21834
-122,High Blood Pressure &amp; Cardiovascular Prevention,1,0.21834
-123,Applied Thermal Engineering,1,0.21834
-124,Perspectives in Biology and Medicine,1,0.21834
-125,International Journal of Multiphase Flow,1,0.21834
-126,Plasma Physics Reports,1,0.21834
-127,Developmental Biology,1,0.21834
-128,Journal of medical pharmaceutical and allied sciences,1,0.21834
-129,CHI Conference on Human Factors in Computing Systems Extended Abstracts,1,0.21834
-130,Digital Transformation Technology,1,0.21834
-131,"Imaging, Manipulation, and Analysis of Biomolecules, Cells, and Tissues XX",1,0.21834
-132,Journal of Craniofacial Surgery,1,0.21834
-133,Microbiology Spectrum,1,0.21834
-134,Trends in Biotechnology,1,0.21834
-135,Biosensors and Bioelectronics,1,0.21834
-136,"Plant Cell, Tissue and Organ Culture (PCTOC)",1,0.21834
-137,Turkish Journal of Ophthalmology,1,0.21834
-138,ACS Medicinal Chemistry Letters,1,0.21834
-139,Tissue and Cell,1,0.21834
-140,Measurement,1,0.21834
-141,Technology|Architecture + Design,1,0.21834
-142,JOURNAL OF SUSTAINABILITY SCIENCE AND MANAGEMENT,1,0.21834
-143,International Journal of Biological Macromolecules,1,0.21834
-144,Journal of Fungi,1,0.21834
-145,Liver International,1,0.21834
-146,Journal of Pineal Research,1,0.21834
-147,Environmental Microbiology Reports,1,0.21834
-148,International Journal of Pharmaceutics: X,1,0.21834
-149,Cell Reports Methods,1,0.21834
-150,Biomicrofluidics,1,0.21834
-151,Future Foods,1,0.21834
-152,Circulation Research,1,0.21834
-153,Toxins,1,0.21834
-154,"Biodiversity, Conservation and Sustainability in Asia",1,0.21834
-155,Current Stem Cell Reports,1,0.21834
-156,Cancer Biomarkers,1,0.21834
-157,Journal of Neuroscience Research,1,0.21834
-158,Polish Journal of Microbiology,1,0.21834
-159,Zoological Science,1,0.21834
-160,PLOS ONE,1,0.21834
-161,EIGHTH INTERNATIONAL CONFERENCE NEW TRENDS IN THE APPLICATIONS OF DIFFERENTIAL EQUATIONS IN SCIENCES (NTADES2021),1,0.21834
-162,AIP Conference Proceedings,1,0.21834
-163,Biology,1,0.21834
-164,Stem Cell Reports,1,0.21834
-165,Antioxidants,1,0.21834
-166,Journal of Mechanics in Medicine and Biology,1,0.21834
-167,Briefings in Bioinformatics,1,0.21834
-168,Journal for Research in Applied Sciences and Biotechnology,1,0.21834
-169,Inventions,1,0.21834
-170,Nanomaterials,1,0.21834
-171,BMC Microbiology,1,0.21834
-172,Minerals Engineering,1,0.21834
-173,Physiologia Plantarum,1,0.21834
-174,The Innovation,1,0.21834
-175,Cells,1,0.21834
-176,Cytology and Genetics,1,0.21834
-177,Cell Reports,1,0.21834
-178,Handbook of Plant Disease Management,1,0.21834
-179,Neuroscience &amp; Biobehavioral Reviews,1,0.21834
-180,Microorganisms,1,0.21834
-181,Additive Manufacturing,1,0.21834
-182,Acta Crystallographica Section A Foundations and Advances,1,0.21834
-183,Oxygen,1,0.21834
-184,Membranes,1,0.21834
-185,Marine Drugs,1,0.21834
-186,Handbook of Vegetable and Herb Diseases,1,0.21834
-187,Extremophiles,1,0.21834
-188,Ageing Research Reviews,1,0.21834
-189,Lunar Science - Habitat and Humans,1,0.21834
-190,Expert Review of Proteomics,1,0.21834
-191,Nature,1,0.21834
-192,2022 IEEE Aerospace Conference (AERO),1,0.21834
-193,Nature Microbiology,1,0.21834
-194,Advances in Space Research,1,0.21834
-195,Progress in Biophysics and Molecular Biology,1,0.21834
-196,Sensors,1,0.21834
-197,Advanced Materials Technologies,1,0.21834
-198,CNS Spectrums,1,0.21834
-199,Novel Innovation Design for the Future of Health,1,0.21834
-200,Sustainable Energy Technologies and Assessments,1,0.21834
-201,Bone Research,1,0.21834
-202,Journal of the European Ceramic Society,1,0.21834
-203,Nutrients,1,0.21834
-204,Neoplasia,1,0.21834
-205,JCSM Rapid Communications,1,0.21834
-206,American Journal of Physiology-Heart and Circulatory Physiology,1,0.21834
-207,Microsystems &amp; Nanoengineering,1,0.21834
-208,Twin Research for Everyone,1,0.21834
-209,Environmental Microbiology,1,0.21834
-210,NeuroSci,1,0.21834
-211,Microbial Biotechnology,1,0.21834
-212,Culture and Computing,1,0.21834
-213,Lecture Notes in Computer Science,1,0.21834
-214,American Journal of Physiology-Cell Physiology,1,0.21834
-215,Artificial Organs,1,0.21834
-216,New Frontiers in Astrobiology,1,0.21834
-217,Combustion and Flame,1,0.21834
-218,Astropolitics,1,0.21834
-219,Journal of Manufacturing Science and Engineering,1,0.21834
+0,npj Microgravity,47,5.09761
+1,International Journal of Molecular Sciences,36,3.90456
+2,Life,35,3.7961
+3,Life Sciences in Space Research,34,3.68764
+4,Acta Astronautica,34,3.68764
+5,Handbook of Space Pharmaceuticals,32,3.47072
+6,Frontiers in Microbiology,15,1.6269
+7,Frontiers in Cell and Developmental Biology,14,1.51844
+8,Microgravity Science and Technology,11,1.19306
+9,Biomedicines,11,1.19306
+10,SSRN Electronic Journal,11,1.19306
+11,Scientific Reports,11,1.19306
+12,Frontiers in Bioengineering and Biotechnology,10,1.0846
+13,Methods in Molecular Biology,10,1.0846
+14,In‐Space Manufacturing and Resources,10,1.0846
+15,Frontiers in Physiology,9,0.97614
+16,Plant Gravitropism,7,0.75922
+17,Frontiers in Space Technologies,7,0.75922
+18,iScience,6,0.65076
+19,Frontiers in Astronomy and Space Sciences,6,0.65076
+20,Physics of Fluids,6,0.65076
+21,Astrobiology,5,0.5423
+22,Communications Biology,5,0.5423
+23,The FASEB Journal,5,0.5423
+24,Heliyon,5,0.5423
+25,Space: Science &amp; Technology,4,0.43384
+26,Neuroscience &amp; Biobehavioral Reviews,4,0.43384
+27,Applied Sciences,4,0.43384
+28,New Space,4,0.43384
+29,Plants,4,0.43384
+30,Biomimicry for Aerospace,4,0.43384
+31,Biological Sciences in Space,4,0.43384
+32,4th Symposium on Space Educational Activities,4,0.43384
+33,Microbiome,4,0.43384
+34,AIAA SCITECH 2022 Forum,4,0.43384
+35,Proceedings of the National Academy of Sciences,4,0.43384
+36,Progress in Biophysics and Molecular Biology,3,0.32538
+37,"The Minerals, Metals &amp; Materials Series",3,0.32538
+38,Acta Crystallographica Section F Structural Biology Communications,3,0.32538
+39,Fractals,3,0.32538
+40,Behavioural Brain Research,3,0.32538
+41,International Journal of Radiation Biology,3,0.32538
+42,PLOS ONE,3,0.32538
+43,Nature Communications,3,0.32538
+44,Metallurgy in Space,3,0.32538
+45,Advances in Space Research,3,0.32538
+46,Cellular and Molecular Life Sciences,3,0.32538
+47,Applied Thermal Engineering,3,0.32538
+48,Spaceflight Associated Neuro-Ocular Syndrome,3,0.32538
+49,Plant Physiology and Biochemistry,3,0.32538
+50,Applied and Environmental Microbiology,3,0.32538
+51,Microbial Biotechnology,3,0.32538
+52,Hormones and Reality,3,0.32538
+53,Cells,3,0.32538
+54,Gravitational and Space Research,3,0.32538
+55,Aerospace Medicine and Human Performance,3,0.32538
+56,Encyclopedia of Bioastronautics,3,0.32538
+57,International Journal of Astrobiology,3,0.32538
+58,Handbook of Bioastronautics,3,0.32538
+59,Microorganisms,3,0.32538
+60,AIP Conference Proceedings,3,0.32538
+61,Stem Cells International,2,0.21692
+62,SpringerBriefs in Space Life Sciences,2,0.21692
+63,Health Physics,2,0.21692
+64,Engineering and Medicine in Extreme Environments,2,0.21692
+65,Biomechanics of Injury and Prevention,2,0.21692
+66,Kidney International,2,0.21692
+67,Bioactive Materials,2,0.21692
+68,Stem Cell Research &amp; Therapy,2,0.21692
+69,2022 IEEE Aerospace Conference (AERO),2,0.21692
+70,Current Issues in Molecular Biology,2,0.21692
+71,Bioengineering,2,0.21692
+72,Brazilian Journal of Microbiology,2,0.21692
+73,Studia Humana,2,0.21692
+74,Crystallography Reviews,2,0.21692
+75,Frontiers in Cardiovascular Medicine,2,0.21692
+76,Nanomaterials,2,0.21692
+77,"2022 IEEE XXIX International Conference on Electronics, Electrical Engineering and Computing (INTERCON)",2,0.21692
+78,Drug Metabolism and Personalized Therapy,2,0.21692
+79,Plant Tissue Culture: New Techniques and Application in Horticultural Species of Tropical Region,2,0.21692
+80,ASCEND 2022,2,0.21692
+81,Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers,2,0.21692
+82,Food Research International,2,0.21692
+83,Journal of Applied Physiology,2,0.21692
+84,Current Opinion in Biotechnology,2,0.21692
+85,Applied Microbiology and Biotechnology,2,0.21692
+86,Trends in Biotechnology,2,0.21692
+87,Sports Medicine,2,0.21692
+88,ACS Applied Materials &amp; Interfaces,2,0.21692
+89,Frontiers in Plant Science,2,0.21692
+90,Frontiers in Immunology,2,0.21692
+91,Artificial Organs,2,0.21692
+92,International Journal of Refrigeration,2,0.21692
+93,American Journal of Physiology-Cell Physiology,2,0.21692
+94,Lecture Notes in Computer Science,2,0.21692
+95,Quantum Science and Technology,2,0.21692
+96,Acta Biomaterialia,2,0.21692
+97,Microbiology Spectrum,2,0.21692
+98,Advanced Engineering Materials,2,0.21692
+99,"Plant Cell, Tissue and Organ Culture (PCTOC)",2,0.21692
+100,International Journal of Environmental Research and Public Health,2,0.21692
+101,Journal of Biomedical Materials Research Part A,2,0.21692
+102,Nature Medicine,2,0.21692
+103,Advanced Therapeutics,2,0.21692
+104,Computer Methods in Biomechanics and Biomedical Engineering,2,0.21692
+105,Chinese Science Bulletin,1,0.10846
+106,Medical Engineering &amp; Physics,1,0.10846
+107,Functional Foods and Nutraceuticals in Metabolic and Non-Communicable Diseases,1,0.10846
+108,Cancer Letters,1,0.10846
+109,THE FORMATION AND PECULIARITIES OF THE IMPLEMENTATION OF THE EUROPEAN UNION’S EASTERN POLICY,1,0.10846
+110,Water,1,0.10846
+111,Brain Research,1,0.10846
+112,Sports Health: A Multidisciplinary Approach,1,0.10846
+113,Radiation and Environmental Biophysics,1,0.10846
+114,Environmental and Experimental Botany,1,0.10846
+115,Chemokine-Glycosaminoglycan Interactions,1,0.10846
+116,Robotics and Computer-Integrated Manufacturing,1,0.10846
+117,Lecture Notes in Electrical Engineering,1,0.10846
+118,Science Advances,1,0.10846
+119,Journal of the American Academy of Dermatology,1,0.10846
+120,Man-Machine-Environment System Engineering,1,0.10846
+121,Biochimie,1,0.10846
+122,Biosemiotics,1,0.10846
+123,Viruses,1,0.10846
+124,Biomaterials Science,1,0.10846
+125,Journal of Physics: Conference Series,1,0.10846
+126,Resonance,1,0.10846
+127,REACH,1,0.10846
+128,Global Journal of Researches in Engineering,1,0.10846
+129,European Journal of Applied Physics,1,0.10846
+130,The Statesman’s Yearbook,1,0.10846
+131,Communications in Nonlinear Science and Numerical Simulation,1,0.10846
+132,Satellite Photoelectric Sensing Technology,1,0.10846
+133,Chemical Engineering Journal,1,0.10846
+134,British Journal of Pharmacology,1,0.10846
+135,Advanced Spectroscopic Methods to Study Biomolecular Structure and Dynamics,1,0.10846
+136,Journal of Manufacturing Science and Engineering,1,0.10846
+137,JAMA Neurology,1,0.10846
+138,Biological Rhythm Research,1,0.10846
+139,China's Space Programme,1,0.10846
+140,Current Nutrition &amp; Food Science,1,0.10846
+141,Shape Memory Composites Based on Polymers and Metals for 4D Printing,1,0.10846
+142,Sensors and Actuators B: Chemical,1,0.10846
+143,Neurological Sciences,1,0.10846
+144,CEAS Space Journal,1,0.10846
+145,Canadian Journal of Physiology and Pharmacology,1,0.10846
+146,Human Physiology,1,0.10846
+147,Journal of Colloid and Interface Science,1,0.10846
+148,Stem Cells Translational Medicine,1,0.10846
+149,SN Applied Sciences,1,0.10846
+150,Materials Science Forum,1,0.10846
+151,Solidification and Gravity IV,1,0.10846
+152,Microscopy,1,0.10846
+153,Applied Ergonomics,1,0.10846
+154,The Untold Stories of the Space Shuttle Program,1,0.10846
+155,Medicine in Novel Technology and Devices,1,0.10846
+156,Mechanical Systems and Signal Processing,1,0.10846
+157,New Frontiers and Applications of Synthetic Biology,1,0.10846
+158,Spacelab Payloads,1,0.10846
+159,Ciencia y Poder Aéreo,1,0.10846
+160,European Journal of Cell Biology,1,0.10846
+161,Brain,1,0.10846
+162,Biomaterials,1,0.10846
+163,Advances in Materials Science and Engineering,1,0.10846
+164,Future Microbiology,1,0.10846
+165,Cellular Signalling,1,0.10846
+166,Recent Progress in Nutrition,1,0.10846
+167,Annual Review of Food Science and Technology,1,0.10846
+168,Clinical and Translational Medicine,1,0.10846
+169,The Planetary Science Journal,1,0.10846
+170,2022 IEEE 9th International Workshop on Metrology for AeroSpace (MetroAeroSpace),1,0.10846
+171,Journal of Physics: Condensed Matter,1,0.10846
+172,Quantitative Plant Biology,1,0.10846
+173,Human Factors in Aviation and Aerospace,1,0.10846
+174,Engineered Regeneration,1,0.10846
+175,Computers in Biology and Medicine,1,0.10846
+176,Cellular Reprogramming,1,0.10846
+177,Data Mining Techniques for the Life Sciences,1,0.10846
+178,Alexandria Engineering Journal,1,0.10846
+179,Genomics,1,0.10846
+180,Bioelectrochemistry,1,0.10846
+181,Physiology and Molecular Biology of Plants,1,0.10846
+182,Developmental Dynamics,1,0.10846
+183,The Physics Teacher,1,0.10846
+184,The Journal of the Acoustical Society of America,1,0.10846
+185,Biomining Technologies,1,0.10846
+186,Biomedical Translational Research,1,0.10846
+187,The Secrets of Soviet Cosmonauts,1,0.10846
+188,Advanced Science,1,0.10846
+189,Encyclopedia,1,0.10846
+190,Nanobiotechnology Reports,1,0.10846
+191,Physical Review Research,1,0.10846
+192,Archives of Biochemistry and Biophysics,1,0.10846
+193,Journal of Molecular and Cellular Cardiology,1,0.10846
+194,Artificial Intelligence XXXIX,1,0.10846
+195,Current Opinion in Structural Biology,1,0.10846
+196,2022 IEEE 3rd Global Conference for Advancement in Technology (GCAT),1,0.10846
+197,Applied Clay Science,1,0.10846
+198,Advances in Biological Regulation,1,0.10846
+199,The Stateman’s Yearbook,1,0.10846
+200,Smart Materials,1,0.10846
+201,2022 44th Annual International Conference of the IEEE Engineering in Medicine &amp; Biology Society (EMBC),1,0.10846
+202,Crystals,1,0.10846
+203,Calcified Tissue International,1,0.10846
+204,Biochimica et Biophysica Acta (BBA) - Molecular Cell Research,1,0.10846
+205,Journal of Physiological Anthropology,1,0.10846
+206,Current Opinion in Colloid &amp; Interface Science,1,0.10846
+207,Algal Research,1,0.10846
+208,Complexity,1,0.10846
+209,Planta,1,0.10846
+210,Nanoscale,1,0.10846
+211,Building and Environment,1,0.10846
+212,Environmental Microbiome,1,0.10846
+213,Biophysics and Physicobiology,1,0.10846
+214,50+ Years of AIMETA,1,0.10846
+215,Nano Energy,1,0.10846
+216,Biology Open,1,0.10846
+217,Composites Part A: Applied Science and Manufacturing,1,0.10846
+218,"Quantum Mechanics, Cell-Cell Signaling, and Evolution",1,0.10846
+219,Seminars in Cell &amp; Developmental Biology,1,0.10846
+220,Quarterly Journal of Experimental Psychology,1,0.10846
+221,The British Journal for the Philosophy of Science,1,0.10846
+222,Physics of Particles and Nuclei Letters,1,0.10846
+223,Entropy,1,0.10846
+224,Doboku Gakkai Ronbunshu,1,0.10846
+225,Journal of Function Spaces,1,0.10846
+226,BioMed Research International,1,0.10846
+227,IEEE Journal on Miniaturization for Air and Space Systems,1,0.10846
+228,"Biomass, Biofuels, Biochemicals",1,0.10846
+229,Journal of Clinical Investigation,1,0.10846
+230,The Plant Journal,1,0.10846
+231,Skeletal Muscle,1,0.10846
+232,IEEE Access,1,0.10846
+233,Antibiotics,1,0.10846
+234,Rapid Prototyping Journal,1,0.10846
+235,Journal of the Mechanics and Physics of Solids,1,0.10846
+236,Journal of Personalized Medicine,1,0.10846
+237,Journal of Hypertension,1,0.10846
+238,npj Regenerative Medicine,1,0.10846
+239,IEEE Pulse,1,0.10846
+240,Journal of Psychiatry and Psychiatric Disorders,1,0.10846
+241,Progress in Crystal Growth and Characterization of Materials,1,0.10846
+242,Science of The Total Environment,1,0.10846
+243,Journal of Bone and Mineral Metabolism,1,0.10846
+244,BioSocieties,1,0.10846
+245,Biopolymers,1,0.10846
+246,Food Chemistry,1,0.10846
+247,British Journal of General Practice,1,0.10846
+248,Journal of Medicinal Chemistry,1,0.10846
+249,Plant Physiology,1,0.10846
+250,Journal of Environmental Management,1,0.10846
+251,Advanced Biology,1,0.10846
+252,Biophysical Reviews,1,0.10846
+253,Journal of the Formosan Medical Association,1,0.10846
+254,Journal of Crystal Growth,1,0.10846
+255,Wearable Technologies,1,0.10846
+256,Dynamics and Fluctuations in Biomedical Photonics XIX,1,0.10846
+257,American Scientist,1,0.10846
+258,JDR Clinical &amp; Translational Research,1,0.10846
+259,Neuroglia,1,0.10846
+260,Experimental Eye Research,1,0.10846
+261,European Journal of Neuroscience,1,0.10846
+262,PNAS Nexus,1,0.10846
+263,Frontiers in Psychology,1,0.10846
+264,Medicine &amp; Science in Sports &amp; Exercise,1,0.10846
+265,Journal of Cardiovascular Translational Research,1,0.10846
+266,"Biodiversity, Conservation and Sustainability in Asia",1,0.10846
+267,Antioxidants,1,0.10846
+268,Cancer Biomarkers,1,0.10846
+269,Stem Cell Reports,1,0.10846
+270,EIGHTH INTERNATIONAL CONFERENCE NEW TRENDS IN THE APPLICATIONS OF DIFFERENTIAL EQUATIONS IN SCIENCES (NTADES2021),1,0.10846
+271,Zoological Science,1,0.10846
+272,Journal of Neuroscience Research,1,0.10846
+273,Polish Journal of Microbiology,1,0.10846
+274,Biology,1,0.10846
+275,Turkish Journal of Ophthalmology,1,0.10846
+276,Journal for Research in Applied Sciences and Biotechnology,1,0.10846
+277,Microsystems &amp; Nanoengineering,1,0.10846
+278,Expert Review of Proteomics,1,0.10846
+279,Sensors,1,0.10846
+280,Bulletin of Experimental Biology and Medicine,1,0.10846
+281,Breakthroughs in Space Life Science Research,1,0.10846
+282,Biotechnology and Bioengineering,1,0.10846
+283,Critical Reviews in Biotechnology,1,0.10846
+284,Springer Series in Materials Science,1,0.10846
+285,Briefings in Bioinformatics,1,0.10846
+286,Inventions,1,0.10846
+287,Future Foods,1,0.10846
+288,Measurement,1,0.10846
+289,Cell Reports Methods,1,0.10846
+290,International Journal of Pharmaceutics: X,1,0.10846
+291,Environmental Microbiology Reports,1,0.10846
+292,Journal of Pineal Research,1,0.10846
+293,Liver International,1,0.10846
+294,International Journal of Biological Macromolecules,1,0.10846
+295,JOURNAL OF SUSTAINABILITY SCIENCE AND MANAGEMENT,1,0.10846
+296,Technology|Architecture + Design,1,0.10846
+297,Tissue and Cell,1,0.10846
+298,BMC Microbiology,1,0.10846
+299,ACS Medicinal Chemistry Letters,1,0.10846
+300,Biosensors and Bioelectronics,1,0.10846
+301,Toxins,1,0.10846
+302,Journal of Fungi,1,0.10846
+303,Journal of Mechanics in Medicine and Biology,1,0.10846
+304,The Innovation,1,0.10846
+305,Physiologia Plantarum,1,0.10846
+306,Minerals Engineering,1,0.10846
+307,"Computational Materials, Chemistry, and Biochemistry: From Bold Initiatives to the Last Mile",1,0.10846
+308,2021 IEEE Aerospace Conference (50100),1,0.10846
+309,International Review of Cell and Molecular Biology,1,0.10846
+310,Kosmìčna nauka ì tehnologìâ,1,0.10846
+311,Functional Plant Biology,1,0.10846
+312,Journal of Visualized Experiments,1,0.10846
+313,"Journal of Stem Cells Research, Development &amp; Therapy",1,0.10846
+314,"2021 IEEE International Conference on Health, Instrumentation &amp; Measurement, and Natural Sciences (InHeNce)",1,0.10846
+315,American Journal of Botany,1,0.10846
+316,2021 IEEE 34th International Conference on Micro Electro Mechanical Systems (MEMS),1,0.10846
+317,XLIV ACADEMIC SPACE CONFERENCE: dedicated to the memory of academician S.P. Korolev and other outstanding Russian scientists – Pioneers of space exploration,1,0.10846
+318,Biochemistry and Biophysics Reports,1,0.10846
+319,"2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",1,0.10846
+320,Signal Transduction in Cancer and Immunity,1,0.10846
+321,Biology Bulletin,1,0.10846
+322,Frontiers in Genetics,1,0.10846
+323,Biomedical Materials,1,0.10846
+324,Journal of Biological Physics,1,0.10846
+325,Biochemical and Biophysical Research Communications,1,0.10846
+326,Cancers,1,0.10846
+327,"Journal of Environmental Science and Health, Part C",1,0.10846
+328,Biosensors,1,0.10846
+329,Cubesat Handbook,1,0.10846
+330,Bioelectromagnetics,1,0.10846
+331,PROCEEDINGS OF THE 24TH INTERNATIONAL SCIENTIFIC CONFERENCE OF YOUNG SCIENTISTS AND SPECIALISTS (AYSS-2020),1,0.10846
+332,Frontiers in Public Health,1,0.10846
+333,European Cells and Materials,1,0.10846
+334,Journal of Biomedical Physics and Engineering,1,0.10846
+335,Computers,1,0.10846
+336,Cellular &amp; Molecular Immunology,1,0.10846
+337,Progress in Botany Vol. 83,1,0.10846
+338,Progress in Botany,1,0.10846
+339,Space Science in China,1,0.10846
+340,BULETIN FISIKA,1,0.10846
+341,Nucleic Acids Research,1,0.10846
+342,Futures,1,0.10846
+343,2021 IEEE 8th International Workshop on Metrology for AeroSpace (MetroAeroSpace),1,0.10846
+344,Journal of Applied Microbiology,1,0.10846
+345,"Mètode Revista
+de difusió de la
+investigació",1,0.10846
+346,Plant Molecular Biology,1,0.10846
+347,Cellular and Molecular Bioengineering,1,0.10846
+348,Journal of Biological Research - Bollettino della Società Italiana di Biologia Sperimentale,1,0.10846
+349,Molecules,1,0.10846
+350,Biomicrofluidics,1,0.10846
+351,Circulation Research,1,0.10846
+352,Project Finance,1,0.10846
+353,Applied Mathematics and Computation,1,0.10846
+354,Experimental Physiology,1,0.10846
+355,Arab Journal of Mathematical Sciences,1,0.10846
+356,Eye,1,0.10846
+357,Scientific Data,1,0.10846
+358,Biomedical Microdevices,1,0.10846
+359,Optical and Quantum Electronics,1,0.10846
+360,Vietnam Journal of Biotechnology,1,0.10846
+361,Cellulose,1,0.10846
+362,Journal of Biotechnology and Biomedicine,1,0.10846
+363,Plant Reproduction,1,0.10846
+364,Plant Science,1,0.10846
+365,Human Factors: The Journal of the Human Factors and Ergonomics Society,1,0.10846
+366,FEMS Microbiology Letters,1,0.10846
+367,Physics,1,0.10846
+368,Engineering &amp; Technology,1,0.10846
+369,Journal of Cellular and Molecular Medicine,1,0.10846
+370,Stem Cells and Development,1,0.10846
+371,NeuroQuantology,1,0.10846
+372,International Journal of Mechanical Sciences,1,0.10846
+373,Patterns,1,0.10846
+374,Current Stem Cell Reports,1,0.10846
+375,Plasma Physics Reports,1,0.10846
+376,Management for Professionals,1,0.10846
+377,International Journal of Food Science &amp; Technology,1,0.10846
+378,Journal of Space Safety Engineering,1,0.10846
+379,Lecture Notes in Networks and Systems,1,0.10846
+380,Digital Transformation Technology,1,0.10846
+381,CHI Conference on Human Factors in Computing Systems Extended Abstracts,1,0.10846
+382,Journal of medical pharmaceutical and allied sciences,1,0.10846
+383,Developmental Biology,1,0.10846
+384,International Journal of Multiphase Flow,1,0.10846
+385,Plant Growth Regulation,1,0.10846
+386,Perspectives in Biology and Medicine,1,0.10846
+387,High Blood Pressure &amp; Cardiovascular Prevention,1,0.10846
+388,Frontiers Research Topics,1,0.10846
+389,ECS Meeting Abstracts,1,0.10846
+390,Space Policy,1,0.10846
+391,Trends in Ecology &amp; Evolution,1,0.10846
+392,Biotechnology in Space,1,0.10846
+393,Trends in Microbiology,1,0.10846
+394,CARDIOMETRY,1,0.10846
+395,IEEE Sensors Journal,1,0.10846
+396,Biotechnology Advances,1,0.10846
+397,Sustainable Energy Technologies and Assessments,1,0.10846
+398,Ageing Research Reviews,1,0.10846
+399,CNS Spectrums,1,0.10846
+400,NeuroSci,1,0.10846
+401,Astropolitics,1,0.10846
+402,Combustion and Flame,1,0.10846
+403,New Frontiers in Astrobiology,1,0.10846
+404,Culture and Computing,1,0.10846
+405,Environmental Microbiology,1,0.10846
+406,Twin Research for Everyone,1,0.10846
+407,Genes,1,0.10846
+408,American Journal of Physiology-Heart and Circulatory Physiology,1,0.10846
+409,JCSM Rapid Communications,1,0.10846
+410,Neoplasia,1,0.10846
+411,Nutrients,1,0.10846
+412,Journal of the European Ceramic Society,1,0.10846
+413,Bone Research,1,0.10846
+414,Novel Innovation Design for the Future of Health,1,0.10846
+415,Cytology and Genetics,1,0.10846
+416,Advanced Materials Technologies,1,0.10846
+417,Additive Manufacturing,1,0.10846
+418,Acta Crystallographica Section A Foundations and Advances,1,0.10846
+419,Oxygen,1,0.10846
+420,BioScience,1,0.10846
+421,The International Library of Bioethics,1,0.10846
+422,Transhumanism: Entering an Era of Bodyhacking and Radical Human Modification,1,0.10846
+423,International Journal of Heat and Mass Transfer,1,0.10846
+424,Evidence-Based Complementary and Alternative Medicine,1,0.10846
+425,"Imaging, Manipulation, and Analysis of Biomolecules, Cells, and Tissues XX",1,0.10846
+426,INNOVATIONS in pharmacy,1,0.10846
+427,Cell Reports,1,0.10846
+428,Nature Microbiology,1,0.10846
+429,Journal of Craniofacial Surgery,1,0.10846
+430,Nature,1,0.10846
+431,Lunar Science - Habitat and Humans,1,0.10846
+432,Extremophiles,1,0.10846
+433,Handbook of Plant Disease Management,1,0.10846
+434,Handbook of Vegetable and Herb Diseases,1,0.10846
+435,Marine Drugs,1,0.10846
+436,Membranes,1,0.10846
+437,International Journal of Thermal Sciences,1,0.10846

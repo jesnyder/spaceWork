@@ -1,160 +1,202 @@
 ,word,count,percent
-0,Space and Planetary Science,53,4.49915
-1,Agricultural and Biological Sciences (miscellaneous),48,4.0747
-2,General Medicine,41,3.48048
-3,"General Biochemistry, Genetics and Molecular Biology",37,3.14092
-4,Medicine (miscellaneous),34,2.88625
-5,Molecular Biology,34,2.88625
-6,"Ecology, Evolution, Behavior and Systematics",31,2.63158
-7,Materials Science (miscellaneous),29,2.4618
-8,Physics and Astronomy (miscellaneous),28,2.37691
-9,Astronomy and Astrophysics,27,2.29202
-10,Ecology,26,2.20713
-11,"Biochemistry, Genetics and Molecular Biology (miscellaneous)",26,2.20713
-12,Aerospace Engineering,26,2.20713
-13,Computer Science Applications,26,2.20713
-14,Paleontology,23,1.95246
-15,Cell Biology,23,1.95246
-16,Biotechnology,23,1.95246
-17,Multidisciplinary,22,1.86757
-18,"Health, Toxicology and Mutagenesis",20,1.69779
-19,Physiology,20,1.69779
-20,Inorganic Chemistry,20,1.69779
-21,Genetics,19,1.6129
-22,Physical and Theoretical Chemistry,19,1.6129
-23,Microbiology,19,1.6129
-24,Radiation,19,1.6129
-25,Organic Chemistry,19,1.6129
-26,Spectroscopy,18,1.52801
-27,Catalysis,18,1.52801
-28,Microbiology (medical),17,1.44312
-29,Biomedical Engineering,17,1.44312
-30,General Materials Science,15,1.27334
-31,Bioengineering,15,1.27334
-32,Biochemistry,15,1.27334
-33,Plant Science,13,1.10357
-34,Condensed Matter Physics,13,1.10357
-35,General Engineering,12,1.01868
-36,Developmental Biology,12,1.01868
-37,General Physics and Astronomy,12,1.01868
-38,Applied Mathematics,10,0.8489
-39,Physiology (medical),10,0.8489
-40,Applied Microbiology and Biotechnology,9,0.76401
-41,Electrical and Electronic Engineering,8,0.67912
-42,Histology,8,0.67912
-43,Food Science,8,0.67912
-44,Modeling and Simulation,8,0.67912
-45,Mechanical Engineering,7,0.59423
-46,Fluid Flow and Transfer Processes,7,0.59423
-47,Industrial and Manufacturing Engineering,7,0.59423
-48,Energy Engineering and Power Technology,6,0.50934
-49,Molecular Medicine,6,0.50934
-50,Instrumentation,6,0.50934
-51,"Atomic and Molecular Physics, and Optics",6,0.50934
-52,Pharmacology,5,0.42445
-53,General Earth and Planetary Sciences,5,0.42445
-54,Cardiology and Cardiovascular Medicine,5,0.42445
-55,"Radiology, Nuclear Medicine and imaging",4,0.33956
-56,General Environmental Science,4,0.33956
-57,Pharmaceutical Science,4,0.33956
-58,Structural Biology,4,0.33956
-59,Process Chemistry and Technology,4,0.33956
-60,Biophysics,4,0.33956
-61,"Safety, Risk, Reliability and Quality",4,0.33956
-62,General Chemistry,4,0.33956
-63,General Agricultural and Biological Sciences,4,0.33956
-64,Cellular and Molecular Neuroscience,4,0.33956
-65,Mechanics of Materials,3,0.25467
-66,"Tourism, Leisure and Hospitality Management",3,0.25467
-67,General Chemical Engineering,3,0.25467
-68,Nutrition and Dietetics,3,0.25467
-69,Radiological and Ultrasound Technology,3,0.25467
-70,Drug Discovery,3,0.25467
-71,Neurology (clinical),3,0.25467
-72,Agronomy and Crop Science,2,0.16978
-73,Infectious Diseases,2,0.16978
-74,"General Pharmacology, Toxicology and Pharmaceutics",2,0.16978
-75,Psychiatry and Mental health,2,0.16978
-76,"Pharmacology, Toxicology and Pharmaceutics (miscellaneous)",2,0.16978
-77,Orthopedics and Sports Medicine,2,0.16978
-78,Human-Computer Interaction,2,0.16978
-79,Pharmacology (medical),2,0.16978
-80,Behavioral Neuroscience,2,0.16978
-81,Cognitive Neuroscience,2,0.16978
-82,"Physical Therapy, Sports Therapy and Rehabilitation",2,0.16978
-83,Virology,2,0.16978
-84,Immunology,2,0.16978
-85,Materials Chemistry,2,0.16978
-86,Ophthalmology,2,0.16978
-87,Control and Systems Engineering,2,0.16978
-88,General Immunology and Microbiology,2,0.16978
-89,Nephrology,2,0.16978
-90,Information Systems,2,0.16978
-91,Genetics (clinical),2,0.16978
-92,"Issues, ethics and legal aspects",1,0.08489
-93,Human Factors and Ergonomics,1,0.08489
-94,Health Policy,1,0.08489
-95,Applied Psychology,1,0.08489
-96,"Statistics, Probability and Uncertainty",1,0.08489
-97,History and Philosophy of Science,1,0.08489
-98,Immunology and Allergy,1,0.08489
-99,"Public Health, Environmental and Occupational Health",1,0.08489
-100,Dermatology,1,0.08489
-101,General Psychology,1,0.08489
-102,Computational Mechanics,1,0.08489
-103,Hematology,1,0.08489
-104,Internal Medicine,1,0.08489
-105,Education,1,0.08489
-106,Computer Networks and Communications,1,0.08489
-107,Library and Information Sciences,1,0.08489
-108,Statistics and Probability,1,0.08489
-109,"Electronic, Optical and Magnetic Materials",1,0.08489
-110,Software,1,0.08489
-111,General Mathematics,1,0.08489
-112,Hardware and Architecture,1,0.08489
-113,Polymers and Plastics,1,0.08489
-114,Law,1,0.08489
-115,Computational Mathematics,1,0.08489
-116,Civil and Structural Engineering,1,0.08489
-117,General Decision Sciences,1,0.08489
-118,Geometry and Topology,1,0.08489
-119,Economics and Econometrics,1,0.08489
-120,Sociology and Political Science,1,0.08489
-121,Developmental Neuroscience,1,0.08489
-122,"Geography, Planning and Development",1,0.08489
-123,Complementary and alternative medicine,1,0.08489
-124,General Energy,1,0.08489
-125,Hepatology,1,0.08489
-126,Pollution,1,0.08489
-127,"Management, Monitoring, Policy and Law",1,0.08489
-128,Architecture,1,0.08489
-129,Visual Arts and Performing Arts,1,0.08489
-130,Urban Studies,1,0.08489
-131,Horticulture,1,0.08489
-132,Electrochemistry,1,0.08489
-133,Toxicology,1,0.08489
-134,Geotechnical Engineering and Engineering Geology,1,0.08489
-135,Clinical Biochemistry,1,0.08489
-136,Animal Science and Zoology,1,0.08489
-137,Geophysics,1,0.08489
-138,Atmospheric Science,1,0.08489
-139,Analytical Chemistry,1,0.08489
-140,Endocrinology,1,0.08489
-141,Colloid and Surface Chemistry,1,0.08489
-142,"Endocrinology, Diabetes and Metabolism",1,0.08489
-143,Aging,1,0.08489
-144,Surgery,1,0.08489
-145,Otorhinolaryngology,1,0.08489
-146,Chemical Engineering (miscellaneous),1,0.08489
-147,Filtration and Separation,1,0.08489
-148,Engineering (miscellaneous),1,0.08489
-149,Neuropsychology and Physiological Psychology,1,0.08489
-150,Neurology,1,0.08489
-151,Ceramics and Composites,1,0.08489
-152,Political Science and International Relations,1,0.08489
-153,Fuel Technology,1,0.08489
-154,Biomaterials,1,0.08489
-155,"Renewable Energy, Sustainability and the Environment",1,0.08489
-156,Business and International Management,1,0.08489
-157,Cancer Research,1,0.08489
-158,Building and Construction,1,0.08489
+0,General Medicine,98,4.21143
+1,Space and Planetary Science,95,4.08251
+2,Agricultural and Biological Sciences (miscellaneous),88,3.78169
+3,Medicine (miscellaneous),75,3.22303
+4,Molecular Biology,73,3.13709
+5,"General Biochemistry, Genetics and Molecular Biology",66,2.83627
+6,Physics and Astronomy (miscellaneous),53,2.27761
+7,Materials Science (miscellaneous),51,2.19166
+8,"Biochemistry, Genetics and Molecular Biology (miscellaneous)",51,2.19166
+9,Computer Science Applications,49,2.10572
+10,"Ecology, Evolution, Behavior and Systematics",49,2.10572
+11,Astronomy and Astrophysics,48,2.06274
+12,Cell Biology,47,2.01977
+13,Aerospace Engineering,44,1.89085
+14,Ecology,43,1.84787
+15,Physical and Theoretical Chemistry,40,1.71895
+16,"Health, Toxicology and Mutagenesis",40,1.71895
+17,Inorganic Chemistry,39,1.67598
+18,Organic Chemistry,39,1.67598
+19,Biotechnology,39,1.67598
+20,Multidisciplinary,39,1.67598
+21,Microbiology,37,1.59003
+22,Radiation,37,1.59003
+23,Catalysis,36,1.54706
+24,Spectroscopy,36,1.54706
+25,Paleontology,35,1.50408
+26,Biomedical Engineering,35,1.50408
+27,General Materials Science,34,1.46111
+28,Physiology,34,1.46111
+29,Genetics,33,1.41813
+30,Microbiology (medical),33,1.41813
+31,Biochemistry,31,1.33219
+32,Bioengineering,29,1.24624
+33,Condensed Matter Physics,28,1.20327
+34,Developmental Biology,25,1.07434
+35,General Engineering,24,1.03137
+36,Plant Science,23,0.9884
+37,General Physics and Astronomy,21,0.90245
+38,Biophysics,18,0.77353
+39,Physiology (medical),18,0.77353
+40,Applied Mathematics,17,0.73055
+41,Modeling and Simulation,16,0.68758
+42,Mechanical Engineering,16,0.68758
+43,Applied Microbiology and Biotechnology,15,0.64461
+44,Biomaterials,13,0.55866
+45,Molecular Medicine,13,0.55866
+46,Fluid Flow and Transfer Processes,13,0.55866
+47,Electrical and Electronic Engineering,12,0.51569
+48,Industrial and Manufacturing Engineering,12,0.51569
+49,Histology,12,0.51569
+50,Mechanics of Materials,11,0.47271
+51,"Radiology, Nuclear Medicine and imaging",11,0.47271
+52,Food Science,10,0.42974
+53,Structural Biology,10,0.42974
+54,General Earth and Planetary Sciences,10,0.42974
+55,General Agricultural and Biological Sciences,9,0.38676
+56,General Environmental Science,9,0.38676
+57,Instrumentation,9,0.38676
+58,Energy Engineering and Power Technology,9,0.38676
+59,"Atomic and Molecular Physics, and Optics",8,0.34379
+60,Orthopedics and Sports Medicine,8,0.34379
+61,Pharmacology,8,0.34379
+62,Behavioral Neuroscience,8,0.34379
+63,Cardiology and Cardiovascular Medicine,8,0.34379
+64,Pharmaceutical Science,7,0.30082
+65,General Chemical Engineering,7,0.30082
+66,General Chemistry,7,0.30082
+67,Agronomy and Crop Science,6,0.25784
+68,Computational Mechanics,6,0.25784
+69,Infectious Diseases,6,0.25784
+70,"Safety, Risk, Reliability and Quality",6,0.25784
+71,Pharmacology (medical),6,0.25784
+72,Cognitive Neuroscience,5,0.21487
+73,Cancer Research,5,0.21487
+74,Ceramics and Composites,5,0.21487
+75,Cellular and Molecular Neuroscience,5,0.21487
+76,Neuropsychology and Physiological Psychology,5,0.21487
+77,Process Chemistry and Technology,5,0.21487
+78,Genetics (clinical),5,0.21487
+79,Drug Discovery,5,0.21487
+80,"Public Health, Environmental and Occupational Health",5,0.21487
+81,"Physical Therapy, Sports Therapy and Rehabilitation",5,0.21487
+82,General Immunology and Microbiology,5,0.21487
+83,Virology,5,0.21487
+84,Neurology (clinical),5,0.21487
+85,Control and Systems Engineering,4,0.1719
+86,Human Factors and Ergonomics,4,0.1719
+87,Radiological and Ultrasound Technology,4,0.1719
+88,Materials Chemistry,4,0.1719
+89,Earth and Planetary Sciences (miscellaneous),4,0.1719
+90,"Tourism, Leisure and Hospitality Management",4,0.1719
+91,Immunology,4,0.1719
+92,Endocrinology,3,0.12892
+93,Analytical Chemistry,3,0.12892
+94,Biochemistry (medical),3,0.12892
+95,General Neuroscience,3,0.12892
+96,Computer Networks and Communications,3,0.12892
+97,"General Pharmacology, Toxicology and Pharmaceutics",3,0.12892
+98,"Geography, Planning and Development",3,0.12892
+99,Colloid and Surface Chemistry,3,0.12892
+100,History and Philosophy of Science,3,0.12892
+101,Environmental Engineering,3,0.12892
+102,"Endocrinology, Diabetes and Metabolism",3,0.12892
+103,Nutrition and Dietetics,3,0.12892
+104,Engineering (miscellaneous),3,0.12892
+105,Software,3,0.12892
+106,Human-Computer Interaction,3,0.12892
+107,Immunology and Allergy,3,0.12892
+108,Education,3,0.12892
+109,Geometry and Topology,3,0.12892
+110,Metals and Alloys,3,0.12892
+111,Building and Construction,3,0.12892
+112,Geophysics,3,0.12892
+113,Ophthalmology,3,0.12892
+114,"Electronic, Optical and Magnetic Materials",3,0.12892
+115,Civil and Structural Engineering,3,0.12892
+116,Epidemiology,2,0.08595
+117,Dermatology,2,0.08595
+118,Polymers and Plastics,2,0.08595
+119,General Psychology,2,0.08595
+120,Economics and Econometrics,2,0.08595
+121,General Computer Science,2,0.08595
+122,Waste Management and Disposal,2,0.08595
+123,Internal Medicine,2,0.08595
+124,Health Policy,2,0.08595
+125,General Mathematics,2,0.08595
+126,"Pharmacology, Toxicology and Pharmaceutics (miscellaneous)",2,0.08595
+127,"Surfaces, Coatings and Films",2,0.08595
+128,Psychiatry and Mental health,2,0.08595
+129,"Management, Monitoring, Policy and Law",2,0.08595
+130,Hardware and Architecture,2,0.08595
+131,Oncology,2,0.08595
+132,Sociology and Political Science,2,0.08595
+133,Horticulture,2,0.08595
+134,Clinical Biochemistry,2,0.08595
+135,Atmospheric Science,2,0.08595
+136,Information Systems,2,0.08595
+137,Nephrology,2,0.08595
+138,Electrochemistry,2,0.08595
+139,Business and International Management,2,0.08595
+140,"Renewable Energy, Sustainability and the Environment",2,0.08595
+141,Pollution,2,0.08595
+142,Complementary and alternative medicine,1,0.04297
+143,General Dentistry,1,0.04297
+144,Communication,1,0.04297
+145,Acoustics and Ultrasonics,1,0.04297
+146,Arts and Humanities (miscellaneous),1,0.04297
+147,Chemistry (miscellaneous),1,0.04297
+148,Analysis,1,0.04297
+149,Nuclear and High Energy Physics,1,0.04297
+150,Philosophy,1,0.04297
+151,History,1,0.04297
+152,Religious studies,1,0.04297
+153,Cultural Studies,1,0.04297
+154,Experimental and Cognitive Psychology,1,0.04297
+155,Sensory Systems,1,0.04297
+156,Media Technology,1,0.04297
+157,Social Sciences (miscellaneous),1,0.04297
+158,Forestry,1,0.04297
+159,Family Practice,1,0.04297
+160,Health (social science),1,0.04297
+161,Health Informatics,1,0.04297
+162,Geochemistry and Petrology,1,0.04297
+163,Geology,1,0.04297
+164,Surfaces and Interfaces,1,0.04297
+165,Anthropology,1,0.04297
+166,Anesthesiology and Pain Medicine,1,0.04297
+167,Aging,1,0.04297
+168,Environmental Chemistry,1,0.04297
+169,Signal Processing,1,0.04297
+170,Language and Linguistics,1,0.04297
+171,Water Science and Technology,1,0.04297
+172,Aquatic Science,1,0.04297
+173,Surgery,1,0.04297
+174,Hematology,1,0.04297
+175,General Energy,1,0.04297
+176,Applied Psychology,1,0.04297
+177,Architecture,1,0.04297
+178,Visual Arts and Performing Arts,1,0.04297
+179,Urban Studies,1,0.04297
+180,Computational Mathematics,1,0.04297
+181,Toxicology,1,0.04297
+182,Library and Information Sciences,1,0.04297
+183,"Statistics, Probability and Uncertainty",1,0.04297
+184,Geotechnical Engineering and Engineering Geology,1,0.04297
+185,Statistics and Probability,1,0.04297
+186,Otorhinolaryngology,1,0.04297
+187,Developmental Neuroscience,1,0.04297
+188,General Decision Sciences,1,0.04297
+189,Animal Science and Zoology,1,0.04297
+190,Hepatology,1,0.04297
+191,Law,1,0.04297
+192,Chemical Engineering (miscellaneous),1,0.04297
+193,Filtration and Separation,1,0.04297
+194,"Issues, ethics and legal aspects",1,0.04297
+195,Neurology,1,0.04297
+196,Development,1,0.04297
+197,Pathology and Forensic Medicine,1,0.04297
+198,Political Science and International Relations,1,0.04297
+199,Numerical Analysis,1,0.04297
+200,Fuel Technology,1,0.04297

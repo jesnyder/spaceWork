@@ -10,7 +10,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Centre National d'Etudes Spatiales",
                         "enrolled": "28",
-                        "color": "rgb( 176 , 59 , 244 )",
+                        "color": "rgb( 150 , 18 , 205 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -19,8 +19,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.484449,
-                              43.453214
+                              1.473161,
+                              43.433421
                         ]
                   }
             },
@@ -32,7 +32,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University of Arkansas",
                         "enrolled": "31",
-                        "color": "rgb( 138 , 14 , 229 )",
+                        "color": "rgb( 155 , 22 , 241 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -41,8 +41,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -92.343763,
-                              34.771732
+                              -92.295972,
+                              34.740974
                         ]
                   }
             },
@@ -54,7 +54,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Centre Hospitalier Universitaire de Saint Etienne",
                         "enrolled": "15",
-                        "color": "rgb( 191 , 49 , 226 )",
+                        "color": "rgb( 104 , 17 , 238 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -63,8 +63,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              4.376667,
-                              45.415634
+                              4.365924,
+                              45.453128
                         ]
                   }
             },
@@ -76,7 +76,7 @@ var geojson_trials =
                         "status": "Terminated",
                         "aff": "The Cleveland Clinic",
                         "enrolled": "1",
-                        "color": "rgb( 140 , 29 , 216 )",
+                        "color": "rgb( 163 , 28 , 243 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -85,8 +85,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.617054,
-                              41.506168
+                              -81.591146,
+                              41.534873
                         ]
                   }
             },
@@ -98,7 +98,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "National Aeronautics and Space Administration (NASA)",
                         "enrolled": "20",
-                        "color": "rgb( 188 , 15 , 252 )",
+                        "color": "rgb( 194 , 54 , 240 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -107,8 +107,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -94.780142,
-                              29.284781
+                              -94.807135,
+                              29.320051
                         ]
                   }
             },
@@ -120,7 +120,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "DLR German Aerospace Center",
                         "enrolled": "10",
-                        "color": "rgb( 114 , 10 , 217 )",
+                        "color": "rgb( 153 , 13 , 210 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -129,8 +129,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              7.114082,
-                              50.849899
+                              7.102507,
+                              50.876022
                         ]
                   }
             },
@@ -142,7 +142,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "National Aeronautics and Space Administration (NASA)",
                         "enrolled": "17",
-                        "color": "rgb( 124 , 24 , 238 )",
+                        "color": "rgb( 187 , 46 , 253 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -151,8 +151,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -94.780541,
-                              29.316628
+                              -94.81754,
+                              29.306444
                         ]
                   }
             },
@@ -164,7 +164,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Centre d'Investigation Clinique et Technologique 805",
                         "enrolled": "42",
-                        "color": "rgb( 110 , 22 , 227 )",
+                        "color": "rgb( 189 , 57 , 205 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -173,8 +173,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              2.168688,
-                              48.836901
+                              2.176261,
+                              48.825432
                         ]
                   }
             },
@@ -186,7 +186,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Instituto de Investigacion Sanitaria La Fe",
                         "enrolled": "53",
-                        "color": "rgb( 169 , 27 , 223 )",
+                        "color": "rgb( 121 , 39 , 222 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -195,8 +195,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -0.392546,
-                              39.480148
+                              -0.375708,
+                              39.490919
                         ]
                   }
             },
@@ -208,7 +208,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es",
                         "enrolled": "20",
-                        "color": "rgb( 143 , 32 , 226 )",
+                        "color": "rgb( 101 , 48 , 231 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -217,8 +217,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.912792,
-                              46.596777
+                              1.884863,
+                              46.590368
                         ]
                   }
             },
@@ -230,7 +230,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Faisal_Karmali@MEEI.HARVARD.EDU",
                         "enrolled": "30",
-                        "color": "rgb( 188 , 27 , 211 )",
+                        "color": "rgb( 195 , 31 , 249 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -239,8 +239,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.036777,
-                              42.343745
+                              -71.083731,
+                              42.377382
                         ]
                   }
             },
@@ -252,7 +252,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University of Nottingham",
                         "enrolled": "14",
-                        "color": "rgb( 196 , 32 , 209 )",
+                        "color": "rgb( 178 , 12 , 251 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -261,8 +261,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.206714,
-                              52.957367
+                              -1.195841,
+                              52.951765
                         ]
                   }
             },
@@ -274,7 +274,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Swiss Federal Institute of Technology",
                         "enrolled": "10",
-                        "color": "rgb( 166 , 34 , 235 )",
+                        "color": "rgb( 121 , 18 , 205 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -283,8 +283,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.323786,
-                              47.027098
+                              8.330257,
+                              47.000202
                         ]
                   }
             },
@@ -296,7 +296,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Kathy Miller",
                         "enrolled": "15",
-                        "color": "rgb( 148 , 49 , 219 )",
+                        "color": "rgb( 125 , 35 , 243 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -305,8 +305,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -86.152882,
-                              39.769002
+                              -86.166157,
+                              39.779913
                         ]
                   }
             },
@@ -318,7 +318,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Baylor College of Medicine",
                         "enrolled": "6",
-                        "color": "rgb( 117 , 39 , 225 )",
+                        "color": "rgb( 144 , 47 , 222 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -327,8 +327,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.410816,
-                              29.708176
+                              -95.38307,
+                              29.692183
                         ]
                   }
             },
@@ -340,7 +340,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "36",
-                        "color": "rgb( 170 , 37 , 210 )",
+                        "color": "rgb( 189 , 36 , 223 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -349,8 +349,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.866605,
-                              46.578727
+                              -0.35942,
+                              49.233348
                         ]
                   }
             },
@@ -362,7 +362,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 109 , 47 , 215 )",
+                        "color": "rgb( 172 , 51 , 247 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -371,8 +371,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.89578,
-                              46.613493
+                              -0.376496,
+                              49.223407
                         ]
                   }
             },
@@ -384,7 +384,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 197 , 55 , 216 )",
+                        "color": "rgb( 120 , 31 , 230 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -393,8 +393,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.895403,
-                              46.612916
+                              -0.365118,
+                              49.19752
                         ]
                   }
             },
@@ -406,7 +406,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 147 , 29 , 229 )",
+                        "color": "rgb( 181 , 38 , 242 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -415,8 +415,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.876524,
-                              46.598394
+                              -0.354676,
+                              49.196292
                         ]
                   }
             },
@@ -428,7 +428,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University Hospital, Caen",
                         "enrolled": "24",
-                        "color": "rgb( 100 , 49 , 206 )",
+                        "color": "rgb( 159 , 11 , 232 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -437,8 +437,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.904269,
-                              46.601143
+                              -0.388756,
+                              49.23697
                         ]
                   }
             },
@@ -450,7 +450,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 129 , 41 , 207 )",
+                        "color": "rgb( 186 , 31 , 245 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -459,8 +459,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.89981,
-                              46.587896
+                              -0.346042,
+                              49.22021
                         ]
                   }
             },
@@ -472,7 +472,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University Hospital, Caen",
                         "enrolled": "10",
-                        "color": "rgb( 186 , 54 , 207 )",
+                        "color": "rgb( 110 , 21 , 220 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -481,8 +481,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.90791,
-                              46.592716
+                              -0.348612,
+                              49.190189
                         ]
                   }
             },
@@ -494,7 +494,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University Hospital, Caen",
                         "enrolled": "12",
-                        "color": "rgb( 185 , 33 , 251 )",
+                        "color": "rgb( 133 , 56 , 233 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -503,8 +503,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.867621,
-                              46.587156
+                              -0.351749,
+                              49.23017
                         ]
                   }
             },
@@ -516,7 +516,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University Hospital, Caen",
                         "enrolled": "6",
-                        "color": "rgb( 191 , 37 , 253 )",
+                        "color": "rgb( 194 , 57 , 249 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -525,8 +525,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.899749,
-                              46.617984
+                              -0.365732,
+                              49.223967
                         ]
                   }
             },
@@ -538,7 +538,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 115 , 48 , 210 )",
+                        "color": "rgb( 189 , 14 , 208 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -547,8 +547,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.886458,
-                              46.623136
+                              -0.346779,
+                              49.211485
                         ]
                   }
             },
@@ -560,7 +560,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "24",
-                        "color": "rgb( 156 , 46 , 242 )",
+                        "color": "rgb( 167 , 23 , 237 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -569,8 +569,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.910214,
-                              46.622473
+                              -0.341,
+                              49.209715
                         ]
                   }
             },
@@ -582,7 +582,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 155 , 21 , 243 )",
+                        "color": "rgb( 118 , 29 , 241 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -591,8 +591,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.910607,
-                              46.613828
+                              -0.365734,
+                              49.196284
                         ]
                   }
             },
@@ -604,7 +604,7 @@ var geojson_trials =
                         "status": "Withdrawn",
                         "aff": "Carrick Institute for Graduate Studies",
                         "enrolled": "0",
-                        "color": "rgb( 133 , 53 , 242 )",
+                        "color": "rgb( 168 , 18 , 253 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -613,8 +613,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.095075,
-                              32.034924
+                              -81.084834,
+                              32.064724
                         ]
                   }
             },
@@ -626,7 +626,7 @@ var geojson_trials =
                         "status": "Active, not recruiting",
                         "aff": "Yakult Honsha Co., LTD",
                         "enrolled": "10",
-                        "color": "rgb( 121 , 20 , 247 )",
+                        "color": "rgb( 133 , 29 , 226 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -635,8 +635,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              140.11057,
-                              36.103524
+                              140.118415,
+                              36.09679
                         ]
                   }
             },
@@ -648,7 +648,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University of Nottingham",
                         "enrolled": "14",
-                        "color": "rgb( 150 , 46 , 248 )",
+                        "color": "rgb( 135 , 42 , 218 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -657,8 +657,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.223625,
-                              52.94709
+                              -1.199298,
+                              52.932467
                         ]
                   }
             },
@@ -670,7 +670,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University Hospital, Caen",
                         "enrolled": "24",
-                        "color": "rgb( 181 , 35 , 233 )",
+                        "color": "rgb( 108 , 54 , 210 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -679,8 +679,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.868746,
-                              46.605189
+                              -0.35482,
+                              49.218655
                         ]
                   }
             },
@@ -692,7 +692,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 113 , 14 , 242 )",
+                        "color": "rgb( 150 , 24 , 225 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -701,8 +701,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.907665,
-                              46.622068
+                              -0.340797,
+                              49.218864
                         ]
                   }
             },
@@ -714,7 +714,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "24",
-                        "color": "rgb( 187 , 47 , 247 )",
+                        "color": "rgb( 112 , 51 , 243 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -723,8 +723,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.906092,
-                              46.612197
+                              -0.352963,
+                              49.205547
                         ]
                   }
             },
@@ -736,7 +736,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 128 , 25 , 244 )",
+                        "color": "rgb( 132 , 53 , 214 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -745,8 +745,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.876168,
-                              46.584357
+                              -0.369956,
+                              49.195319
                         ]
                   }
             },
@@ -758,7 +758,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 158 , 59 , 238 )",
+                        "color": "rgb( 188 , 50 , 238 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -767,8 +767,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.896647,
-                              46.59621
+                              -0.371007,
+                              49.198815
                         ]
                   }
             },
@@ -780,7 +780,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University of Florida",
                         "enrolled": "2",
-                        "color": "rgb( 129 , 32 , 225 )",
+                        "color": "rgb( 195 , 48 , 231 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -789,8 +789,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.353353,
-                              29.610566
+                              -82.335395,
+                              29.623221
                         ]
                   }
             },
@@ -802,7 +802,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University of Florida",
                         "enrolled": "4",
-                        "color": "rgb( 155 , 29 , 220 )",
+                        "color": "rgb( 156 , 54 , 221 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -811,8 +811,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.329991,
-                              29.654143
+                              -82.367752,
+                              29.648516
                         ]
                   }
             },
@@ -824,7 +824,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "King's College London",
                         "enrolled": "12",
-                        "color": "rgb( 113 , 48 , 213 )",
+                        "color": "rgb( 157 , 18 , 211 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -833,8 +833,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -0.089313,
-                              51.492952
+                              -0.098309,
+                              51.494421
                         ]
                   }
             },
@@ -846,7 +846,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 190 , 46 , 253 )",
+                        "color": "rgb( 132 , 31 , 250 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -855,8 +855,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.881578,
-                              46.611756
+                              -0.357489,
+                              49.205995
                         ]
                   }
             },
@@ -868,7 +868,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "Direction Centrale du Service de Sant\u00e9 des Arm\u00e9es",
                         "enrolled": "80",
-                        "color": "rgb( 122 , 31 , 247 )",
+                        "color": "rgb( 193 , 20 , 237 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -877,8 +877,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.873763,
-                              46.603969
+                              1.891584,
+                              46.613825
                         ]
                   }
             },
@@ -890,7 +890,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "National Aeronautics and Space Administration (NASA)",
                         "enrolled": "34",
-                        "color": "rgb( 194 , 10 , 227 )",
+                        "color": "rgb( 138 , 37 , 206 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -899,8 +899,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -94.807914,
-                              29.281043
+                              -94.779121,
+                              29.308381
                         ]
                   }
             },
@@ -912,7 +912,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "16",
-                        "color": "rgb( 100 , 32 , 228 )",
+                        "color": "rgb( 149 , 43 , 218 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -921,8 +921,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.904661,
-                              46.595739
+                              -0.380569,
+                              49.224644
                         ]
                   }
             },
@@ -934,7 +934,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "9",
-                        "color": "rgb( 196 , 11 , 209 )",
+                        "color": "rgb( 199 , 25 , 218 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -943,8 +943,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.901411,
-                              46.612706
+                              -0.386894,
+                              49.213722
                         ]
                   }
             },
@@ -956,7 +956,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Centre National d'Etudes Spatiales",
                         "enrolled": "20",
-                        "color": "rgb( 193 , 22 , 231 )",
+                        "color": "rgb( 103 , 16 , 209 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -965,8 +965,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.496559,
-                              43.43001
+                              1.475074,
+                              43.452233
                         ]
                   }
             },
@@ -978,7 +978,7 @@ var geojson_trials =
                         "status": "Active, not recruiting",
                         "aff": "AdventHealth Translational Research Institute",
                         "enrolled": "75",
-                        "color": "rgb( 177 , 32 , 248 )",
+                        "color": "rgb( 124 , 41 , 232 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -987,8 +987,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.375337,
-                              28.523982
+                              -81.385272,
+                              28.540743
                         ]
                   }
             },
@@ -1000,7 +1000,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Institut Universitari Dexeus",
                         "enrolled": "30",
-                        "color": "rgb( 103 , 25 , 244 )",
+                        "color": "rgb( 142 , 19 , 227 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1009,8 +1009,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              2.159379,
-                              41.406064
+                              2.16185,
+                              41.37578
                         ]
                   }
             },
@@ -1022,7 +1022,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "Zeta Technologies",
                         "enrolled": "30",
-                        "color": "rgb( 131 , 57 , 251 )",
+                        "color": "rgb( 185 , 19 , 207 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1031,8 +1031,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              2.295359,
-                              48.857539
+                              2.322591,
+                              48.854389
                         ]
                   }
             },
@@ -1044,7 +1044,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Universit\u00e4tsklinikum K\u00f6ln",
                         "enrolled": "40",
-                        "color": "rgb( 129 , 30 , 220 )",
+                        "color": "rgb( 170 , 58 , 244 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1053,8 +1053,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              6.959409,
-                              50.955029
+                              6.943615,
+                              50.944998
                         ]
                   }
             },
@@ -1066,7 +1066,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Centre National d'Etudes Spatiales",
                         "enrolled": "20",
-                        "color": "rgb( 189 , 21 , 210 )",
+                        "color": "rgb( 165 , 28 , 224 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1075,8 +1075,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.499518,
-                              43.414751
+                              1.496472,
+                              43.424898
                         ]
                   }
             },
@@ -1088,7 +1088,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 147 , 23 , 245 )",
+                        "color": "rgb( 109 , 21 , 243 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1097,8 +1097,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.907907,
-                              46.621903
+                              -0.34676,
+                              49.225789
                         ]
                   }
             },
@@ -1110,7 +1110,7 @@ var geojson_trials =
                         "status": "Unknown status",
                         "aff": "University Hospital, Caen",
                         "enrolled": "18",
-                        "color": "rgb( 117 , 14 , 253 )",
+                        "color": "rgb( 125 , 51 , 218 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1119,8 +1119,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.902266,
-                              46.601654
+                              -0.348994,
+                              49.228976
                         ]
                   }
             },
@@ -1132,7 +1132,7 @@ var geojson_trials =
                         "status": "Withdrawn",
                         "aff": "University of Florida",
                         "enrolled": "0",
-                        "color": "rgb( 123 , 50 , 236 )",
+                        "color": "rgb( 180 , 37 , 248 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1141,8 +1141,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.339773,
-                              29.612732
+                              -82.355025,
+                              29.63964
                         ]
                   }
             },
@@ -1154,7 +1154,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Universit\u00e4tsklinikum K\u00f6ln",
                         "enrolled": "15",
-                        "color": "rgb( 171 , 52 , 220 )",
+                        "color": "rgb( 197 , 43 , 239 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1163,8 +1163,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              6.955778,
-                              50.947269
+                              6.969347,
+                              50.945457
                         ]
                   }
             },
@@ -1176,7 +1176,7 @@ var geojson_trials =
                         "status": "Recruiting",
                         "aff": "Erasme University Hospital",
                         "enrolled": "320",
-                        "color": "rgb( 192 , 10 , 253 )",
+                        "color": "rgb( 119 , 47 , 210 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1185,8 +1185,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              4.331899,
-                              50.857269
+                              4.331335,
+                              50.870263
                         ]
                   }
             },
@@ -1198,7 +1198,7 @@ var geojson_trials =
                         "status": "Enrolling by invitation",
                         "aff": "University of Pennsylvania",
                         "enrolled": "40",
-                        "color": "rgb( 178 , 31 , 246 )",
+                        "color": "rgb( 172 , 50 , 228 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1207,8 +1207,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -75.198416,
-                              39.970603
+                              -75.198862,
+                              39.952121
                         ]
                   }
             },
@@ -1220,7 +1220,7 @@ var geojson_trials =
                         "status": "Recruiting",
                         "aff": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
                         "enrolled": "24",
-                        "color": "rgb( 167 , 48 , 252 )",
+                        "color": "rgb( 197 , 40 , 221 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1229,8 +1229,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -107.975227,
-                              61.09028
+                              -108.002338,
+                              61.059257
                         ]
                   }
             },
@@ -1242,7 +1242,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "University of Texas Southwestern Medical Center",
                         "enrolled": "10",
-                        "color": "rgb( 120 , 57 , 222 )",
+                        "color": "rgb( 147 , 50 , 250 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1251,8 +1251,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -96.852444,
-                              32.81616
+                              -96.860223,
+                              32.821859
                         ]
                   }
             },
@@ -1264,7 +1264,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Centre National d'Etudes Spatiales",
                         "enrolled": "20",
-                        "color": "rgb( 175 , 37 , 215 )",
+                        "color": "rgb( 159 , 28 , 217 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1273,8 +1273,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.482798,
-                              43.435793
+                              1.520522,
+                              43.435378
                         ]
                   }
             },
@@ -1286,7 +1286,7 @@ var geojson_trials =
                         "status": "Completed",
                         "aff": "Stony Brook University",
                         "enrolled": "145",
-                        "color": "rgb( 102 , 49 , 237 )",
+                        "color": "rgb( 167 , 50 , 210 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1295,8 +1295,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.140124,
-                              40.892348
+                              -73.107042,
+                              40.906943
                         ]
                   }
             },
@@ -1308,7 +1308,7 @@ var geojson_trials =
                         "status": "Recruiting",
                         "aff": "National Aeronautics and Space Administration (NASA)",
                         "enrolled": "16",
-                        "color": "rgb( 177 , 33 , 230 )",
+                        "color": "rgb( 198 , 34 , 237 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1317,8 +1317,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -94.814716,
-                              29.278804
+                              -94.812504,
+                              29.282899
                         ]
                   }
             },
@@ -1330,7 +1330,7 @@ var geojson_trials =
                         "status": "Not yet recruiting",
                         "aff": "Centre National d'Etudes Spatiales",
                         "enrolled": "20",
-                        "color": "rgb( 170 , 19 , 230 )",
+                        "color": "rgb( 174 , 48 , 228 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1339,8 +1339,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.487063,
-                              43.432775
+                              1.49564,
+                              43.433061
                         ]
                   }
             },
@@ -1352,7 +1352,7 @@ var geojson_trials =
                         "status": "Recruiting",
                         "aff": "Ottawa Hospital Research Institute",
                         "enrolled": "4",
-                        "color": "rgb( 132 , 28 , 225 )",
+                        "color": "rgb( 171 , 54 , 217 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1361,8 +1361,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -75.706532,
-                              45.412798
+                              -75.688571,
+                              45.430173
                         ]
                   }
             },
@@ -1374,7 +1374,7 @@ var geojson_trials =
                         "status": "Not yet recruiting",
                         "aff": "University Hospital, Caen",
                         "enrolled": "30",
-                        "color": "rgb( 144 , 19 , 251 )",
+                        "color": "rgb( 101 , 53 , 206 )",
                         "opacity": 0.5,
                         "radius": 10,
                         "zindex": 390,
@@ -1383,8 +1383,8 @@ var geojson_trials =
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.864346,
-                              46.624173
+                              -0.362435,
+                              49.206447
                         ]
                   }
             }

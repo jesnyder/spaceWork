@@ -37,13 +37,265 @@ def meta_pubs():
 
     print("running meta_pubs")
 
-    tasks = [0, 1]
+    tasks = [5]
 
     if 0 in tasks: crossref_titles()
-    #if 0 in tasks: crossref_doi()
     if 1 in tasks: add_key()
 
+    if 2 in tasks: list_orcid()
+    if 3 in tasks: lookup_orcid()
+
+    if 4 in tasks: assign_orcid()
+    if 5 in tasks: coregister_orcid()
+
     print("completed meta_pubs")
+
+
+def coregister_orcid():
+    """
+    add found affs to metadata
+    """
+
+    fol_src = retrieve_path('crossref_pubs')
+    fol_dst  = retrieve_path('meta_pubs')
+
+    for fil in os.listdir(fol_src):
+
+        fil_src = os.path.join(fol_src, fil)
+        fil_dst = os.path.join(fol_dst, fil)
+
+        pubs = retrieve_json(fil_src)['pubs']
+
+        for i in range(len(pubs)):
+
+            if pubs[i]['affs'] != []: continue
+
+            pubs[i] = lookup_orcid_match(pubs[i])
+
+            if pubs[i]['affs'] != []:
+
+                print('pub aff found! i = ' + str(i))
+                print(pubs[i]['title'][0])
+
+                json_dst = {}
+                json_dst['pub_count'] = len(pubs)
+                json_dst['pubs'] = pubs
+
+                with open(fil_dst, "w+") as fp:
+                    json.dump(json_dst, fp, indent = 8)
+                    fp.close()
+
+
+def assign_orcid():
+    """
+    add affiliation to metadata
+    """
+
+    fol_src = retrieve_path('crossref_pubs')
+    fil_dst = retrieve_path('coregister_pubs')
+
+    pubs_dst = []
+
+    for fil in os.listdir(fol_src):
+
+        fil_src = os.path.join(fol_src, fil)
+        for pub in retrieve_json(fil_src)['pubs']:
+
+            if pub['affs'] == []:
+
+                pub = lookup_orcid_match(pub)
+
+                if pub['affs'] == []: continue
+
+                pubs_dst.append(pub)
+
+                json_dst = {}
+                json_dst['pub_count'] = len(pubs_dst)
+                json_dst['pubs'] = pubs_dst
+
+                with open(fil_dst, "w+") as fp:
+                    json.dump(json_dst, fp, indent = 8)
+                    fp.close()
+
+
+def lookup_orcid_match(pub):
+    """
+
+    """
+
+    affs = []
+
+    if 'author' in pub.keys():
+
+        for author in pub['author']:
+
+            if 'ORCID' in author.keys():
+
+                orcid_url = author['ORCID']
+
+                for orcid in retrieve_json('orcid_locate')['orcids']:
+
+                    if orcid_url != orcid['orcid_url']: continue
+
+                    for aff in orcid['affs']:
+
+                        affs.append(aff)
+
+    countries = ['Spain', 'Germany']
+    if 'Spain' in affs:
+        aff_str = ''
+        for aff in affs:
+            aff_str = aff_str + aff + ' '
+            if aff != affs[-1]: aff_str = aff_str + ', '
+        affs = [aff_str]
+
+    pub['affs'] = affs
+    return(pub)
+
+
+def list_orcid():
+    """
+    save orcid as json
+    """
+
+    fol_src = retrieve_path('crossref_pubs')
+    fil_dst = retrieve_path('orcid_list')
+
+    orcids = []
+
+    for fil in os.listdir(fol_src):
+
+        fil_src = os.path.join(fol_src, fil)
+
+        for pub in retrieve_json(fil_src)['pubs']:
+
+            if 'author' not in pub.keys(): continue
+            for author in pub['author']:
+
+                if 'ORCID' not in author.keys(): continue
+
+                author_json = {}
+                name_search = str(author['family'] + '+' + author['given'])
+                if '\\u' in name_search: name_search = name_search[: name_search.index('\\')] + name_search[name_search.index('\\')+4:]
+                name_search = name_search.replace('.', '')
+                name_search = name_search.replace(' ', '+')
+                author_json['name_search'] = name_search
+
+                author_json['name_given'] = author['given']
+                author_json['name_family'] = author['family']
+                author_json['orcid_url'] = author['ORCID']
+                author_json['orcid_num'] = str(author['ORCID']).split('/')[-1]
+
+                if author_json in orcids: continue
+                orcids.append(author_json)
+
+                orcids_json = {}
+                orcids_json['count_orcids'] = len(orcids)
+                orcids_json['orcids'] = orcids
+
+                print('len(orcids) = ' + str(len(orcids)))
+
+                with open(fil_dst, "w+") as fp:
+                    json.dump(orcids_json, fp, indent = 8)
+                    fp.close()
+
+
+def lookup_orcid():
+    """
+    lookup listed orcid to find affiliation
+    """
+
+    orcids = []
+    fil_src = retrieve_path('orcid_list')
+    fil_dst = retrieve_path('orcid_locate')
+
+    for orcid in retrieve_json(fil_src)['orcids']:
+
+        orcid_num = orcid['orcid_num']
+        print('orcid_num = ' + str(orcid_num))
+
+        # create crossref url
+        cross_ref_url = 'https://api.crossref.org/works?query='
+        title_url = cross_ref_url + 'orcid+'+ str(orcid_num)
+
+        cross_ref_url = 'https://api.crossref.org/works?query.author='
+        title_url = cross_ref_url + orcid['name_search']
+
+        specific_url = title_url
+        print('specific_url = ')
+        print(specific_url)
+
+        #time.sleep(1 + 2*random.random())
+        time.sleep(1.1)
+        url_response = requests.get(specific_url)
+
+        text = url_response.text
+        data = json.loads(text)
+        message = data['message']
+        items = message['items']
+
+        orcid['crossref_url'] = specific_url
+        orcid = list_affs_from_orcid(orcid, items)
+
+        if 'affs' not in orcid.keys(): continue
+        if orcid['affs'] == []: continue
+
+        orcids.append(orcid)
+
+        orcids_json = {}
+        orcids_json['count_orcids'] = len(orcids)
+        orcids_json['orcids'] = orcids
+
+        print('len(orcids) = ' + str(len(orcids)))
+
+        with open(fil_dst, "w+") as fp:
+            json.dump(orcids_json, fp, indent = 8)
+            fp.close()
+
+
+def list_affs_from_orcid(orcid, items):
+    """
+
+    """
+
+    orcid_num = orcid['orcid_num']
+    affs = []
+
+    for item in items:
+
+        if 'author' not in item.keys(): continue
+
+        for author in item['author']:
+
+            for key in author.keys():
+
+                print('key = ' + str(key))
+
+                if str(orcid_num) not in str(author[key]): continue
+
+                print('orcid number found')
+
+                if 'affiliation' not in author.keys(): continue
+
+                if author['affiliation'] == []: continue
+
+                print('author[affiliation] = ')
+                print(author['affiliation'])
+
+                for aff in author['affiliation']:
+
+                    if 'name' not in aff.keys(): continue
+
+                    aff_name = aff['name']
+                    if aff_name in affs: continue
+                    affs.append(aff_name)
+
+                if affs != []:
+                    orcid['affs'] = affs
+                    return(orcid)
+
+
+    return(orcid)
 
 
 def add_key():
@@ -51,7 +303,7 @@ def add_key():
     add keys
     """
 
-    fol_src = retrieve_path('meta_pubs')
+    fol_src = retrieve_path('crossref_pubs')
     fol_dst = fol_src
 
     for fil in os.listdir(fol_src):
@@ -90,6 +342,7 @@ def add_funder(pub):
     if 'funder' not in pub.keys(): return(funders)
     for funder in pub['funder']:
 
+        if 'name' not in funder.keys(): continue
         funder_name = funder['name']
         if funder_name in funders: continue
         funders.append(funder_name)
@@ -141,18 +394,6 @@ def add_authors(pub):
     return(authors)
 
 
-def crossref_doi(doi):
-    """
-
-    """
-
-    works = Works()
-    pub = works.doi(doi)
-    print('pub = ')
-    print(pub)
-    return(pub)
-
-
 def crossref_titles():
     """
     add crossref metadata to gscholar data
@@ -161,7 +402,7 @@ def crossref_titles():
     crossref_not_found({'reset': 'reset'})
 
     fol_src = retrieve_path('gscholar_json_agg')
-    fol_dst = retrieve_path('meta_pubs')
+    fol_dst = retrieve_path('crossref_pubs')
 
     for fil in os.listdir(fol_src):
 
@@ -222,7 +463,9 @@ def search_scrub(title):
 
     title = str(title)
 
-    remove_strs = ['[HTML]', '[PDF]', '<scp>', '</scp>' , '<i>', '</i>', '[CITATION]' , '[C]' ]
+    title = title.replace('&amp;', 'and')
+
+    remove_strs = ['[HTML]', '[PDF]', '<scp>', '</scp>' , '<i>', '</i>', '[CITATION]' , '[C]', '[BOOK]', '[B]', '\u2026', '\u00a0', '\u03b2' ]
     remove_strs.append('-')
     remove_strs.append('‐')
 
@@ -283,6 +526,8 @@ def search_crossref(title):
     print('specific_url = ')
     print(specific_url)
 
+    #time.sleep(1 + 2*random.random())
+    time.sleep(1.1)
     url_response = requests.get(specific_url)
 
     pub = {}
@@ -432,7 +677,7 @@ def combine_affs(pub):
 
     affs = list_affs(pub)
 
-    countries = ['Canada', 'Russia', 'USA', 'United States', 'Singapore', 'Australia', 'New Zealand', '117510 Singapore', 'University of Kansas', 'USA']
+    countries = ['Germany', 'Canada', 'Russia', 'USA', 'United States', 'Singapore', 'Australia', 'New Zealand', '117510 Singapore', 'University of Kansas', 'USA']
 
     if combine_check(affs, countries) == False: return(affs)
 
