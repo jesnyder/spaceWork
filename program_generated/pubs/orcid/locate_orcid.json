@@ -1,5 +1,5 @@
 {
-        "count_orcids": 254,
+        "count_orcids": 346,
         "orcids": [
                 {
                         "name_search": "Buravkova+Ludmila",
@@ -241,17 +241,6 @@
                         ]
                 },
                 {
-                        "name_search": "Koutsouris+Dimitrios",
-                        "name_given": "Dimitrios",
-                        "name_family": "Koutsouris",
-                        "orcid_url": "http://orcid.org/0000-0003-1205-9918",
-                        "orcid_num": "0000-0003-1205-9918",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Koutsouris+Dimitrios",
-                        "affs": [
-                                "School of Electrical and Computer Engineering, Biomedical Engineering Laboratory, National Technical University of Athens, Heroon Polytecniou 9, Athens, 15780, Athens, Greece"
-                        ]
-                },
-                {
                         "name_search": "Zaravinos+Apostolos",
                         "name_given": "Apostolos",
                         "name_family": "Zaravinos",
@@ -297,6 +286,17 @@
                         ]
                 },
                 {
+                        "name_search": "Guo+Wei",
+                        "name_given": "Wei",
+                        "name_family": "Guo",
+                        "orcid_url": "http://orcid.org/0000-0002-9466-3213",
+                        "orcid_num": "0000-0002-9466-3213",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Guo+Wei",
+                        "affs": [
+                                "Florida State Univ., Tallahassee, FL (United States). National High Magnetic Field Lab. (MagLab)"
+                        ]
+                },
+                {
                         "name_search": "Hiwatashi+Yuji",
                         "name_given": "Yuji",
                         "name_family": "Hiwatashi",
@@ -305,6 +305,19 @@
                         "crossref_url": "https://api.crossref.org/works?query.author=Hiwatashi+Yuji",
                         "affs": [
                                 "National Plant Phenomics Centre, Institute of Biological, Environmental, and Rural Sciences (IBERS), Aberystwyth University, Gogerddan, Aberystwyth SY23 3EB, United Kingdom"
+                        ]
+                },
+                {
+                        "name_search": "Caicedo+Andr\u00e9s",
+                        "name_given": "Andr\u00e9s",
+                        "name_family": "Caicedo",
+                        "orcid_url": "http://orcid.org/0000-0001-8821-0333",
+                        "orcid_num": "0000-0001-8821-0333",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Caicedo+Andr\u00e9s",
+                        "affs": [
+                                "Mito-Act Research Consortium, Quito, Ecuador",
+                                "Colegio de Ciencias de la Salud, Escuela de Medicina, Universidad San Francisco de Quito (USFQ), 170901 Quito, Ecuador",
+                                "Colegio de Ciencias Biol\u00f3gicas y Ambientales, Instituto de Microbiolog\u00eda, Universidad San Francisco de Quito (USFQ), 170901 Quito, Ecuador"
                         ]
                 },
                 {
@@ -509,6 +522,96 @@
                         ]
                 },
                 {
+                        "name_search": "Nikolaev+Evgeny+N",
+                        "name_given": "Evgeny N.",
+                        "name_family": "Nikolaev",
+                        "orcid_url": "http://orcid.org/0000-0001-6209-2068",
+                        "orcid_num": "0000-0001-6209-2068",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Nikolaev+Evgeny+N",
+                        "affs": [
+                                "Center for Computational and Data-Intensive Science and Engineering, Skolkovo Institute of Science and Technology, Bolshoy Boulevard 30, bld. 1, Moscow, Russia 121205"
+                        ]
+                },
+                {
+                        "name_search": "Monici+Monica",
+                        "name_given": "Monica",
+                        "name_family": "Monici",
+                        "orcid_url": "http://orcid.org/0000-0001-6678-9241",
+                        "orcid_num": "0000-0001-6678-9241",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Monici+Monica",
+                        "affs": [
+                                "ASAcampus Joint Laboratory, ASA Research Division, Department of Experimental and Clinical Biomedical Sciences \u201cM. Serio\u201d, University of Florence, Viale Pieraccini 6, 50139 Florence, Italy"
+                        ]
+                },
+                {
+                        "name_search": "Arreguin-Martinez+Esmeralda",
+                        "name_given": "Esmeralda",
+                        "name_family": "Arreguin-Martinez",
+                        "orcid_url": "http://orcid.org/0000-0003-4830-6968",
+                        "orcid_num": "0000-0003-4830-6968",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Arreguin-Martinez+Esmeralda",
+                        "affs": [
+                                "Department of Mechanical Engineering, University of Michigan, Ann Arbor, Michigan 48109, USA"
+                        ]
+                },
+                {
+                        "name_search": "Sim\u00f5es+Marta+Filipa",
+                        "name_given": "Marta Filipa",
+                        "name_family": "Sim\u00f5es",
+                        "orcid_url": "http://orcid.org/0000-0002-8767-9487",
+                        "orcid_num": "0000-0002-8767-9487",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Sim\u00f5es+Marta+Filipa",
+                        "affs": [
+                                "Macau University of Science and Technology"
+                        ]
+                },
+                {
+                        "name_search": "Antunes+Andr\u00e9",
+                        "name_given": "Andr\u00e9",
+                        "name_family": "Antunes",
+                        "orcid_url": "http://orcid.org/0000-0001-7668-9842",
+                        "orcid_num": "0000-0001-7668-9842",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Antunes+Andr\u00e9",
+                        "affs": [
+                                "Macau University of Science and Technology"
+                        ]
+                },
+                {
+                        "name_search": "Makimura+Koichi",
+                        "name_given": "Koichi",
+                        "name_family": "Makimura",
+                        "orcid_url": "http://orcid.org/0000-0003-1645-3445",
+                        "orcid_num": "0000-0003-1645-3445",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Makimura+Koichi",
+                        "affs": [
+                                "Institute of Medical Mycology Teikyo University Hachioji Tokyo Japan"
+                        ]
+                },
+                {
+                        "name_search": "Guarnieri+Simone",
+                        "name_given": "Simone",
+                        "name_family": "Guarnieri",
+                        "orcid_url": "http://orcid.org/0000-0002-2916-2965",
+                        "orcid_num": "0000-0002-2916-2965",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Guarnieri+Simone",
+                        "affs": [
+                                "Department of Neuroscience, Imaging and Clinical Sciences, University \u201cG. d\u2019Annunzio\u201d of Chieti-Pescara, Chieti 66100, Italy",
+                                "Center for Advanced Studies and Technology (CAST), University \u201cG. d\u2019Annunzio\u201d of Chieti-Pescara, Chieti 66100, Italy"
+                        ]
+                },
+                {
+                        "name_search": "Morabito+Caterina",
+                        "name_given": "Caterina",
+                        "name_family": "Morabito",
+                        "orcid_url": "http://orcid.org/0000-0002-5144-2584",
+                        "orcid_num": "0000-0002-5144-2584",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Morabito+Caterina",
+                        "affs": [
+                                "Department of Neuroscience, Imaging and Clinical Sciences, University \u201cG. d\u2019Annunzio\u201d of Chieti-Pescara, Chieti 66100, Italy",
+                                "Center for Advanced Studies and Technology (CAST), University \u201cG. d\u2019Annunzio\u201d of Chieti-Pescara, Chieti 66100, Italy"
+                        ]
+                },
+                {
                         "name_search": "Mariggi\u00f2+Maria+A",
                         "name_given": "Maria A.",
                         "name_family": "Mariggi\u00f2",
@@ -518,6 +621,1009 @@
                         "affs": [
                                 "Department of Neuroscience, Imaging and Clinical Sciences, University \u201cG. d\u2019Annunzio\u201d of Chieti-Pescara, Chieti 66100, Italy",
                                 "Center for Advanced Studies and Technology (CAST), University \u201cG. d\u2019Annunzio\u201d of Chieti-Pescara, Chieti 66100, Italy"
+                        ]
+                },
+                {
+                        "name_search": "Houbraken+Jos",
+                        "name_given": "Jos",
+                        "name_family": "Houbraken",
+                        "orcid_url": "http://orcid.org/0000-0003-4893-4438",
+                        "orcid_num": "0000-0003-4893-4438",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Houbraken+Jos",
+                        "affs": [
+                                "Westerdijk Fungal Biodiversity Institute, Utrecht, The Netherlands"
+                        ]
+                },
+                {
+                        "name_search": "Podgorbunskikh+Ekaterina",
+                        "name_given": "Ekaterina",
+                        "name_family": "Podgorbunskikh",
+                        "orcid_url": "http://orcid.org/0000-0002-0029-2168",
+                        "orcid_num": "0000-0002-0029-2168",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Podgorbunskikh+Ekaterina",
+                        "affs": [
+                                "Laboratory of Solid State ChemistryInstitute of Solid State Chemistry and Mechanochemistry Russian Academy of Sciences Novosibirsk Russia"
+                        ]
+                },
+                {
+                        "name_search": "Boerma+Marjan",
+                        "name_given": "Marjan",
+                        "name_family": "Boerma",
+                        "orcid_url": "http://orcid.org/0000-0003-2249-5203",
+                        "orcid_num": "0000-0003-2249-5203",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Boerma+Marjan",
+                        "affs": [
+                                "Division of Radiation Health, University of Arkansas for Medical Sciences, Little Rock, AR"
+                        ]
+                },
+                {
+                        "name_search": "Koturbash+Igor",
+                        "name_given": "Igor",
+                        "name_family": "Koturbash",
+                        "orcid_url": "http://orcid.org/0000-0002-4090-7008",
+                        "orcid_num": "0000-0002-4090-7008",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Koturbash+Igor",
+                        "affs": [
+                                "Department of Environmental and Occupational Health, University of Arkansas for Medical Sciences, Little Rock, AR, USA"
+                        ]
+                },
+                {
+                        "name_search": "Nyholm+Spencer+V",
+                        "name_given": "Spencer V.",
+                        "name_family": "Nyholm",
+                        "orcid_url": "http://orcid.org/0000-0001-5597-1945",
+                        "orcid_num": "0000-0001-5597-1945",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Nyholm+Spencer+V",
+                        "affs": [
+                                "Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269 USA"
+                        ]
+                },
+                {
+                        "name_search": "Stef\u00e0no+PierLuigi",
+                        "name_given": "PierLuigi",
+                        "name_family": "Stef\u00e0no",
+                        "orcid_url": "http://orcid.org/0000-0001-8338-3016",
+                        "orcid_num": "0000-0001-8338-3016",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Stef\u00e0no+PierLuigi",
+                        "affs": [
+                                "Unit of Cardiac Surgery Careggi University Hospital Florence Italy",
+                                "School of Medicine University of Florence Florence Italy"
+                        ]
+                },
+                {
+                        "name_search": "Briguglio+Matteo",
+                        "name_given": "Matteo",
+                        "name_family": "Briguglio",
+                        "orcid_url": "http://orcid.org/0000-0003-0801-2359",
+                        "orcid_num": "0000-0003-0801-2359",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Briguglio+Matteo",
+                        "affs": [
+                                "Scientific Direction, IRCCS Istituto Ortopedico Galeazzi  Milano Italy"
+                        ]
+                },
+                {
+                        "name_search": "Aronne+Giovanna",
+                        "name_given": "Giovanna",
+                        "name_family": "Aronne",
+                        "orcid_url": "http://orcid.org/0000-0002-4800-7901",
+                        "orcid_num": "0000-0002-4800-7901",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Aronne+Giovanna",
+                        "affs": [
+                                "Department of Agricultural Sciences University of Naples Federico II via Universit\u00e0 100 80055 Portici (NA) Italy"
+                        ]
+                },
+                {
+                        "name_search": "Morris+Martin",
+                        "name_given": "Martin",
+                        "name_family": "Morris",
+                        "orcid_url": "http://orcid.org/0000-0002-5659-2995",
+                        "orcid_num": "0000-0002-5659-2995",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Morris+Martin",
+                        "affs": [
+                                "Schulich Library of Physical Sciences, Life Sciences and Engineering, McGill University, Montreal, Quebec, Canada"
+                        ]
+                },
+                {
+                        "name_search": "Komarova+Svetlana+V",
+                        "name_given": "Svetlana V.",
+                        "name_family": "Komarova",
+                        "orcid_url": "http://orcid.org/0000-0003-3570-3147",
+                        "orcid_num": "0000-0003-3570-3147",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Komarova+Svetlana+V",
+                        "affs": [
+                                "Shriners Hospital for Children, Montreal, Quebec, Canada",
+                                "Faculty of Dentistry, McGill University, Montreal, Quebec, Canada."
+                        ]
+                },
+                {
+                        "name_search": "Ratushnyy+Andrey",
+                        "name_given": "Andrey",
+                        "name_family": "Ratushnyy",
+                        "orcid_url": "http://orcid.org/0000-0002-3913-6584",
+                        "orcid_num": "0000-0002-3913-6584",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Ratushnyy+Andrey",
+                        "affs": [
+                                "Lab. of Cell Physiology; Institute of Biomedical Problems of Russian Academy of Science; Moscow Russia"
+                        ]
+                },
+                {
+                        "name_search": "Buckey+Jay+C",
+                        "name_given": "Jay C.",
+                        "name_family": "Buckey",
+                        "orcid_url": "http://orcid.org/0000-0003-4591-4431",
+                        "orcid_num": "0000-0003-4591-4431",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Buckey+Jay+C",
+                        "affs": [
+                                "Geisel School of Medicine at Dartmouth College, Department of Medicine, Lebanon, New Hampshire"
+                        ]
+                },
+                {
+                        "name_search": "Kopp+Sascha",
+                        "name_given": "Sascha",
+                        "name_family": "Kopp",
+                        "orcid_url": "http://orcid.org/0000-0001-5829-6455",
+                        "orcid_num": "0000-0001-5829-6455",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Kopp+Sascha",
+                        "affs": [
+                                "Department of Microgravity and Translational Regenerative Medicine University Clinic for Plastic, Aesthetic and Hand SurgeryOtto\u2010von\u2010Guericke University Magdeburg Germany"
+                        ]
+                },
+                {
+                        "name_search": "Moustafa+Amira",
+                        "name_given": "Amira",
+                        "name_family": "Moustafa",
+                        "orcid_url": "http://orcid.org/0000-0001-9483-4142",
+                        "orcid_num": "0000-0001-9483-4142",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Moustafa+Amira",
+                        "affs": [
+                                "Department of Physiology, Faculty of Veterinary Medicine, Zagazig University, Zagazig 44519, Egypt"
+                        ]
+                },
+                {
+                        "name_search": "Foray+Nicolas",
+                        "name_given": "Nicolas",
+                        "name_family": "Foray",
+                        "orcid_url": "http://orcid.org/0000-0002-1282-1303",
+                        "orcid_num": "0000-0002-1282-1303",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Foray+Nicolas",
+                        "affs": [
+                                "INSERM, UMR1052, Radiobiology Group, Cancer Research Centre of Lyon, 69003 Lyon, France"
+                        ]
+                },
+                {
+                        "name_search": "Laiakis+Evagelia+C",
+                        "name_given": "Evagelia C.",
+                        "name_family": "Laiakis",
+                        "orcid_url": "http://orcid.org/0000-0002-4924-9013",
+                        "orcid_num": "0000-0002-4924-9013",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Laiakis+Evagelia+C",
+                        "affs": [
+                                "Department of Oncology, Lombardi Comprehensive Cancer Center, and Department of Biochemistry and Molecular and Cellular Biology, Georgetown University Medical Center, Georgetown University, Washington, DC, USA"
+                        ]
+                },
+                {
+                        "name_search": "Kaneda+Atsushi",
+                        "name_given": "Atsushi",
+                        "name_family": "Kaneda",
+                        "orcid_url": "http://orcid.org/0000-0002-6980-5515",
+                        "orcid_num": "0000-0002-6980-5515",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Kaneda+Atsushi",
+                        "affs": [
+                                "Department of Molecular Oncology Graduate School of Medicine Chiba University Chiba Japan"
+                        ]
+                },
+                {
+                        "name_search": "WANG+KANG-LE",
+                        "name_given": "KANG-LE",
+                        "name_family": "WANG",
+                        "orcid_url": "http://orcid.org/0000-0002-6637-5687",
+                        "orcid_num": "0000-0002-6637-5687",
+                        "crossref_url": "https://api.crossref.org/works?query.author=WANG+KANG-LE",
+                        "affs": [
+                                "School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, P. R. China"
+                        ]
+                },
+                {
+                        "name_search": "Spenko+Matthew",
+                        "name_given": "Matthew",
+                        "name_family": "Spenko",
+                        "orcid_url": "http://orcid.org/0000-0001-6483-5339",
+                        "orcid_num": "0000-0001-6483-5339",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Spenko+Matthew",
+                        "affs": [
+                                "Mechanical, Materials, and Aerospace Department Illinois Tech  Chicago IL 60616 USA"
+                        ]
+                },
+                {
+                        "name_search": "Butte+Atul+J",
+                        "name_given": "Atul J.",
+                        "name_family": "Butte",
+                        "orcid_url": "http://orcid.org/0000-0002-7433-2740",
+                        "orcid_num": "0000-0002-7433-2740",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Butte+Atul+J",
+                        "affs": [
+                                "Institute for Computational Health Sciences, University of California, San Francisco, CA 94158"
+                        ]
+                },
+                {
+                        "name_search": "Cekanaviciute+Egle",
+                        "name_given": "Egle",
+                        "name_family": "Cekanaviciute",
+                        "orcid_url": "http://orcid.org/0000-0003-3306-1806",
+                        "orcid_num": "0000-0003-3306-1806",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Cekanaviciute+Egle",
+                        "affs": [
+                                "Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA"
+                        ]
+                },
+                {
+                        "name_search": "Izzo+Luigi+Gennaro",
+                        "name_given": "Luigi Gennaro",
+                        "name_family": "Izzo",
+                        "orcid_url": "http://orcid.org/0000-0001-5722-2497",
+                        "orcid_num": "0000-0001-5722-2497",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Izzo+Luigi+Gennaro",
+                        "affs": [
+                                "Department of Agricultural Sciences University of Naples Federico II  Portici Italy"
+                        ]
+                },
+                {
+                        "name_search": "Yosofvand+Mohammad",
+                        "name_given": "Mohammad",
+                        "name_family": "Yosofvand",
+                        "orcid_url": "http://orcid.org/0000-0002-7733-2236",
+                        "orcid_num": "0000-0002-7733-2236",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Yosofvand+Mohammad",
+                        "affs": [
+                                "Department of Mechanical Engineering, Texas Tech University, Lubbock, TX, USA"
+                        ]
+                },
+                {
+                        "name_search": "Moussa+Hanna",
+                        "name_given": "Hanna",
+                        "name_family": "Moussa",
+                        "orcid_url": "http://orcid.org/0000-0002-0668-3442",
+                        "orcid_num": "0000-0002-0668-3442",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Moussa+Hanna",
+                        "affs": [
+                                "Department of Mechanical Engineering, Texas Tech University, Lubbock, TX, USA;",
+                                "Obesity Research Cluster, Texas Tech University, Lubbock, TX, USA"
+                        ]
+                },
+                {
+                        "name_search": "Vida+Imre",
+                        "name_given": "Imre",
+                        "name_family": "Vida",
+                        "orcid_url": "http://orcid.org/0000-0003-3214-2233",
+                        "orcid_num": "0000-0003-3214-2233",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Vida+Imre",
+                        "affs": [
+                                "Charit\u00e9-Universit\u00e4tsmedizin Berlin, Germany"
+                        ]
+                },
+                {
+                        "name_search": "Karasik+David",
+                        "name_given": "David",
+                        "name_family": "Karasik",
+                        "orcid_url": "http://orcid.org/0000-0002-8826-0530",
+                        "orcid_num": "0000-0002-8826-0530",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Karasik+David",
+                        "affs": [
+                                "The Musculoskeletal Genetics Laboratory, The Azrieli Faculty of Medicine Bar\u2010Ilan University Safed Israel"
+                        ]
+                },
+                {
+                        "name_search": "Iordachescu+Alexandra",
+                        "name_given": "Alexandra",
+                        "name_family": "Iordachescu",
+                        "orcid_url": "http://orcid.org/0000-0002-5973-6894",
+                        "orcid_num": "0000-0002-5973-6894",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Iordachescu+Alexandra",
+                        "affs": [
+                                "School of Chemical Engineering",
+                                "University of Birmingham",
+                                "Birmingham",
+                                "UK",
+                                "Botnar Research Centre"
+                        ]
+                },
+                {
+                        "name_search": "Chauhan+Vinita",
+                        "name_given": "Vinita",
+                        "name_family": "Chauhan",
+                        "orcid_url": "http://orcid.org/0000-0002-4498-0915",
+                        "orcid_num": "0000-0002-4498-0915",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Chauhan+Vinita",
+                        "affs": [
+                                "Consumer and Clinical Radiation Protection Bureau, Healthy Environments and Consumer Safety Branch, Health Canada, Ottawa, Canada"
+                        ]
+                },
+                {
+                        "name_search": "Tang+Yuk-Ming",
+                        "name_given": "Yuk-Ming",
+                        "name_family": "Tang",
+                        "orcid_url": "http://orcid.org/0000-0001-8215-4190",
+                        "orcid_num": "0000-0001-8215-4190",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Tang+Yuk-Ming",
+                        "affs": [
+                                "Hong Kong Polytechnic University, China"
+                        ]
+                },
+                {
+                        "name_search": "Gouin+Henri",
+                        "name_given": "Henri",
+                        "name_family": "Gouin",
+                        "orcid_url": "http://orcid.org/0000-0003-4088-1386",
+                        "orcid_num": "0000-0003-4088-1386",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Gouin+Henri",
+                        "affs": [
+                                "Aix Marseille Univ., CNRS, IUSTI UMR 7343, 13013 Marseille, France"
+                        ]
+                },
+                {
+                        "name_search": "Sharlo+Kristina+A",
+                        "name_given": "Kristina A.",
+                        "name_family": "Sharlo",
+                        "orcid_url": "http://orcid.org/0000-0002-5413-6312",
+                        "orcid_num": "0000-0002-5413-6312",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Sharlo+Kristina+A",
+                        "affs": [
+                                "Myology Laboratory, Institute of Biomedical Problems, Russian Academy of Sciences, Moscow, Russia"
+                        ]
+                },
+                {
+                        "name_search": "Mirzoev+Timur+M",
+                        "name_given": "Timur M.",
+                        "name_family": "Mirzoev",
+                        "orcid_url": "http://orcid.org/0000-0002-1986-6221",
+                        "orcid_num": "0000-0002-1986-6221",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Mirzoev+Timur+M",
+                        "affs": [
+                                "Myology Laboratory, Institute of Biomedical Problems, Russian Academy of Sciences, Moscow, Russia"
+                        ]
+                },
+                {
+                        "name_search": "\u0160ebela+Marek",
+                        "name_given": "Marek",
+                        "name_family": "\u0160ebela",
+                        "orcid_url": "http://orcid.org/0000-0001-9835-1375",
+                        "orcid_num": "0000-0001-9835-1375",
+                        "crossref_url": "https://api.crossref.org/works?query.author=\u0160ebela+Marek",
+                        "affs": [
+                                "Department of Protein Biochemistry and Proteomics, Centre of the Region Han\u00e1 for Biotechnological and Agricultural Research, Faculty of Science; Palack\u00fd University; \u0160lechtitel\u016f 27 Olomouc CZ-783 71 Czech Republic"
+                        ]
+                },
+                {
+                        "name_search": "Nakajima+Shusaku",
+                        "name_given": "Shusaku",
+                        "name_family": "Nakajima",
+                        "orcid_url": "http://orcid.org/0000-0002-8704-6532",
+                        "orcid_num": "0000-0002-8704-6532",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Nakajima+Shusaku",
+                        "affs": [
+                                "Graduate School of Agricultural Science Kobe University  1\u20101 Rokkodai\u2010cho Nada Kobe 657\u20108501 Japan"
+                        ]
+                },
+                {
+                        "name_search": "Sato+Ryuki",
+                        "name_given": "Ryuki",
+                        "name_family": "Sato",
+                        "orcid_url": "http://orcid.org/0000-0001-6546-3522",
+                        "orcid_num": "0000-0001-6546-3522",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Sato+Ryuki",
+                        "affs": [
+                                "Department of Aerospace Engineering, Nagoya University, Nagoya, Aichi, Japan"
+                        ]
+                },
+                {
+                        "name_search": "Totaro+Massimo",
+                        "name_given": "Massimo",
+                        "name_family": "Totaro",
+                        "orcid_url": "http://orcid.org/0000-0002-0630-7383",
+                        "orcid_num": "0000-0002-0630-7383",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Totaro+Massimo",
+                        "affs": [
+                                "Center for Micro-BioRobotics; Istituto Italiano di Tecnologia; Viale Rinaldo Piaggio 34 56025 Pontedera (Pisa) Italy"
+                        ]
+                },
+                {
+                        "name_search": "Weddell+Stephen+J",
+                        "name_given": "Stephen J.",
+                        "name_family": "Weddell",
+                        "orcid_url": "http://orcid.org/0000-0002-2345-0077",
+                        "orcid_num": "0000-0002-2345-0077",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Weddell+Stephen+J",
+                        "affs": [
+                                "University of Canterbury"
+                        ]
+                },
+                {
+                        "name_search": "Muruganandan+Vishnu+Anand",
+                        "name_given": "Vishnu Anand",
+                        "name_family": "Muruganandan",
+                        "orcid_url": "http://orcid.org/0000-0001-9212-2803",
+                        "orcid_num": "0000-0001-9212-2803",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Muruganandan+Vishnu+Anand",
+                        "affs": [
+                                "Department of Aeronautical Engineering Kumaraguru College of Technology Coimbatore India",
+                                "Department of Electrical and Computer Engineering University of Canterbury Christchurch New Zealand"
+                        ]
+                },
+                {
+                        "name_search": "Sultonov+Doston",
+                        "name_given": "Doston",
+                        "name_family": "Sultonov",
+                        "orcid_url": "http://orcid.org/0000-0001-6102-4450",
+                        "orcid_num": "0000-0001-6102-4450",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Sultonov+Doston",
+                        "affs": [
+                                "Inha Institute of Aerospace Medicine, Inha University School of Medicine, Incheon, Korea",
+                                "Department of Otorhinolaryngology, Head and Neck Surgery, Inha University School of Medicine, Incheon, Korea"
+                        ]
+                },
+                {
+                        "name_search": "Kim+Young+Hyo",
+                        "name_given": "Young Hyo",
+                        "name_family": "Kim",
+                        "orcid_url": "http://orcid.org/0000-0002-3623-1770",
+                        "orcid_num": "0000-0002-3623-1770",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Kim+Young+Hyo",
+                        "affs": [
+                                "Department of Otorhinolaryngology, Head and Neck Surgery, Inha University School of Medicine, Incheon, Korea"
+                        ]
+                },
+                {
+                        "name_search": "M\u00f6ller+Fabian",
+                        "name_given": "Fabian",
+                        "name_family": "M\u00f6ller",
+                        "orcid_url": "http://orcid.org/0000-0001-5664-8111",
+                        "orcid_num": "0000-0001-5664-8111",
+                        "crossref_url": "https://api.crossref.org/works?query.author=M\u00f6ller+Fabian",
+                        "affs": [
+                                "German Sport University Cologne, Germany"
+                        ]
+                },
+                {
+                        "name_search": "Maak+Steffen",
+                        "name_given": "Steffen",
+                        "name_family": "Maak",
+                        "orcid_url": "http://orcid.org/0000-0003-2681-1496",
+                        "orcid_num": "0000-0003-2681-1496",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Maak+Steffen",
+                        "affs": [
+                                "Institute of Muscle Biology and Growth, Leibniz Institute for Farm Animal Biology (FBN), Dummerstorf, Germany"
+                        ]
+                },
+                {
+                        "name_search": "Aggleton+Jessye+A",
+                        "name_given": "Jessye A",
+                        "name_family": "Aggleton",
+                        "orcid_url": "http://orcid.org/0000-0002-9765-3758",
+                        "orcid_num": "0000-0002-9765-3758",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Aggleton+Jessye+A",
+                        "affs": [
+                                "School of Anthropology and Archaeology, University of Bristol, Bristol BS8 1UU, UK"
+                        ]
+                },
+                {
+                        "name_search": "Harniman+Robert+L",
+                        "name_given": "Robert L.",
+                        "name_family": "Harniman",
+                        "orcid_url": "http://orcid.org/0000-0002-3452-1213",
+                        "orcid_num": "0000-0002-3452-1213",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Harniman+Robert+L",
+                        "affs": [
+                                "School of Chemistry, University of Bristol, Bristol BS8 1TS, United Kingdom"
+                        ]
+                },
+                {
+                        "name_search": "Hammond+Chrissy+L",
+                        "name_given": "Chrissy L",
+                        "name_family": "Hammond",
+                        "orcid_url": "http://orcid.org/0000-0002-4935-6724",
+                        "orcid_num": "0000-0002-4935-6724",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Hammond+Chrissy+L",
+                        "affs": [
+                                "The School of Physiology, Pharmacology and Neuroscience, Biomedical Sciences, University of Bristol, Bristol BS8 1TD, UK"
+                        ]
+                },
+                {
+                        "name_search": "Suzuki+Mikiko",
+                        "name_given": "Mikiko",
+                        "name_family": "Suzuki",
+                        "orcid_url": "http://orcid.org/0000-0003-3237-9919",
+                        "orcid_num": "0000-0003-3237-9919",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Suzuki+Mikiko",
+                        "affs": [
+                                "Center for Radioisotope SciencesTohoku University Graduate School of Medicine Sendai Japan"
+                        ]
+                },
+                {
+                        "name_search": "Katsuoka+Fumiki",
+                        "name_given": "Fumiki",
+                        "name_family": "Katsuoka",
+                        "orcid_url": "http://orcid.org/0000-0003-0939-7887",
+                        "orcid_num": "0000-0003-0939-7887",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Katsuoka+Fumiki",
+                        "affs": [
+                                "Department of Integrative Genomics, Tohoku Medical Megabank Organization, Tohoku University, Sendai, Japan",
+                                "Advanced Research Center for Innovations in Next-Generation Medicine, Tohoku University, Sendai, Japan"
+                        ]
+                },
+                {
+                        "name_search": "Shimizu+Ritsuko",
+                        "name_given": "Ritsuko",
+                        "name_family": "Shimizu",
+                        "orcid_url": "http://orcid.org/0000-0001-6672-7606",
+                        "orcid_num": "0000-0001-6672-7606",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Shimizu+Ritsuko",
+                        "affs": [
+                                "Department of Molecular HematologyTohoku University Graduate School of Medicine Sendai Japan",
+                                "Tohoku Medical Megabank OrganizationTohoku University Sendai Japan"
+                        ]
+                },
+                {
+                        "name_search": "Mkumbuzi+Nonhlanhla+Sharon",
+                        "name_given": "Nonhlanhla Sharon",
+                        "name_family": "Mkumbuzi",
+                        "orcid_url": "http://orcid.org/0000-0002-4982-0662",
+                        "orcid_num": "0000-0002-4982-0662",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Mkumbuzi+Nonhlanhla+Sharon",
+                        "affs": [
+                                "Health through Physical Activity, Lifestyle, and Sports Research Centre(HPALS). Department of Human Biology, University of Cape Town, Observatory, South Africa",
+                                "African Evaluation and Research Development, Johannesburg"
+                        ]
+                },
+                {
+                        "name_search": "Chatterjee+Indranath",
+                        "name_given": "Indranath",
+                        "name_family": "Chatterjee",
+                        "orcid_url": "http://orcid.org/0000-0001-9242-8888",
+                        "orcid_num": "0000-0001-9242-8888",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Chatterjee+Indranath",
+                        "affs": [
+                                "Department of Computer Science and Engineering, J.K. Lakshmipat University, Jaipur, India & Department of Computer Engineering, Tongmyong University, Busan, South Korea"
+                        ]
+                },
+                {
+                        "name_search": "Doherty+Colleen+J",
+                        "name_given": "Colleen J.",
+                        "name_family": "Doherty",
+                        "orcid_url": "http://orcid.org/0000-0003-1126-5592",
+                        "orcid_num": "0000-0003-1126-5592",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Doherty+Colleen+J",
+                        "affs": [
+                                "Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, U.S.A."
+                        ]
+                },
+                {
+                        "name_search": "Wostyn+Peter",
+                        "name_given": "Peter",
+                        "name_family": "Wostyn",
+                        "orcid_url": "http://orcid.org/0000-0001-7726-9751",
+                        "orcid_num": "0000-0001-7726-9751",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Wostyn+Peter",
+                        "affs": [
+                                "Department of PsychiatryPC Sint\u2010Amandus Beernem Belgium"
+                        ]
+                },
+                {
+                        "name_search": "Tang+Julian+Wei-Tze",
+                        "name_given": "Julian Wei-Tze",
+                        "name_family": "Tang",
+                        "orcid_url": "http://orcid.org/0000-0002-4963-1028",
+                        "orcid_num": "0000-0002-4963-1028",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Tang+Julian+Wei-Tze",
+                        "affs": [
+                                "Respiratory Sciences, University of Leicester, Leicester, UK"
+                        ]
+                },
+                {
+                        "name_search": "Henriques+Andre",
+                        "name_given": "Andre",
+                        "name_family": "Henriques",
+                        "orcid_url": "http://orcid.org/0000-0003-1521-3423",
+                        "orcid_num": "0000-0003-1521-3423",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Henriques+Andre",
+                        "affs": [
+                                "CERN (European Organisation for Nuclear Research), Geneva, Switzerland"
+                        ]
+                },
+                {
+                        "name_search": "Loh+Tze+Ping",
+                        "name_given": "Tze Ping",
+                        "name_family": "Loh",
+                        "orcid_url": "http://orcid.org/0000-0002-4272-0001",
+                        "orcid_num": "0000-0002-4272-0001",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Loh+Tze+Ping",
+                        "affs": [
+                                "Laboratory Medicine, National University Hospital, Singapore"
+                        ]
+                },
+                {
+                        "name_search": "Chen+Shangtong",
+                        "name_given": "Shangtong",
+                        "name_family": "Chen",
+                        "orcid_url": "http://orcid.org/0000-0002-6665-3931",
+                        "orcid_num": "0000-0002-6665-3931",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Chen+Shangtong",
+                        "affs": [
+                                "Key Laboratory of Microgravity, Institute of Mechanics, Chinese Academy of Sciences, Beijing 100190, China",
+                                "College of Engineering and Science, University of Chinese Academy of Sciences, Beijing 100049, China"
+                        ]
+                },
+                {
+                        "name_search": "Nosenko+V",
+                        "name_given": "V.",
+                        "name_family": "Nosenko",
+                        "orcid_url": "http://orcid.org/0000-0002-6089-7855",
+                        "orcid_num": "0000-0002-6089-7855",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Nosenko+V",
+                        "affs": [
+                                "Institut f\u00fcr Materialphysik im Weltraum, Deutsches Zentrum f\u00fcr Luft- und Raumfahrt (DLR), D-51147 Cologne, Germany",
+                                "Center for Astrophysics, Space Physics, and Engineering Research, Baylor University, Waco, Texas 76798-7310, USA"
+                        ]
+                },
+                {
+                        "name_search": "Matsubara+Teruhiko",
+                        "name_given": "Teruhiko",
+                        "name_family": "Matsubara",
+                        "orcid_url": "http://orcid.org/0000-0002-8006-4324",
+                        "orcid_num": "0000-0002-8006-4324",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Matsubara+Teruhiko",
+                        "affs": [
+                                "Department of Biosciences and Informatics, Keio University, 3-14-1 Hiyoshi, Kouhoku-ku, Yokohama 223-8522, Japan"
+                        ]
+                },
+                {
+                        "name_search": "Takemura+Kenjiro",
+                        "name_given": "Kenjiro",
+                        "name_family": "Takemura",
+                        "orcid_url": "http://orcid.org/0000-0002-0298-5558",
+                        "orcid_num": "0000-0002-0298-5558",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Takemura+Kenjiro",
+                        "affs": [
+                                "Keio University Faculty of Science and Technology Graduate School of Science and Technology: Keio Gijuku Daigaku Rikogakubu Daigakuin Rikogaku Kenkyuka"
+                        ]
+                },
+                {
+                        "name_search": "Pedersen+Bjarke+H",
+                        "name_given": "Bjarke H.",
+                        "name_family": "Pedersen",
+                        "orcid_url": "http://orcid.org/0000-0001-6299-8572",
+                        "orcid_num": "0000-0001-6299-8572",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Pedersen+Bjarke+H",
+                        "affs": [
+                                "Novo Nordisk Center for Biosustainability, Technical University of Denmark, Kemitorvet, Building 220, R426F, 2800 Kongens Lyngby, Denmark"
+                        ]
+                },
+                {
+                        "name_search": "Belavy+Daniel+L",
+                        "name_given": "Daniel L.",
+                        "name_family": "Belavy",
+                        "orcid_url": "http://orcid.org/0000-0002-9307-832X",
+                        "orcid_num": "0000-0002-9307-832X",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Belavy+Daniel+L",
+                        "affs": [
+                                "School of Exercise and Nutrition Sciences Institute for Physical Activity and Nutrition Deakin University Geelong Victoria Australia"
+                        ]
+                },
+                {
+                        "name_search": "Jain+Miten",
+                        "name_given": "Miten",
+                        "name_family": "Jain",
+                        "orcid_url": "http://orcid.org/0000-0002-4571-3982",
+                        "orcid_num": "0000-0002-4571-3982",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Jain+Miten",
+                        "affs": [
+                                "Department of Biomolecular Engineering and Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064, USA"
+                        ]
+                },
+                {
+                        "name_search": "Low+Lucie+A",
+                        "name_given": "Lucie A.",
+                        "name_family": "Low",
+                        "orcid_url": "http://orcid.org/0000-0001-6082-8625",
+                        "orcid_num": "0000-0001-6082-8625",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Low+Lucie+A",
+                        "affs": [
+                                "National Center for Advancing Translational Sciences, National Center for Advancing Translational Sciences, National Institutes of Health, Bethesda, MD, USA"
+                        ]
+                },
+                {
+                        "name_search": "Zago+Myrka",
+                        "name_given": "Myrka",
+                        "name_family": "Zago",
+                        "orcid_url": "http://orcid.org/0000-0001-7100-7582",
+                        "orcid_num": "0000-0001-7100-7582",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Zago+Myrka",
+                        "affs": [
+                                "Laboratory of Neuromotor Physiology of the IRCCS Santa Lucia Foundation; Rome Italy"
+                        ]
+                },
+                {
+                        "name_search": "Lawley+Justin+S",
+                        "name_given": "Justin S.",
+                        "name_family": "Lawley",
+                        "orcid_url": "http://orcid.org/0000-0003-2166-7966",
+                        "orcid_num": "0000-0003-2166-7966",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Lawley+Justin+S",
+                        "affs": [
+                                "Department of Sports ScienceDivision of PhysiologyUniversity of Innsbruck Innsbruck Austria"
+                        ]
+                },
+                {
+                        "name_search": "Agarwal+Sabrina+C",
+                        "name_given": "Sabrina C.",
+                        "name_family": "Agarwal",
+                        "orcid_url": "http://orcid.org/0000-0003-0543-0053",
+                        "orcid_num": "0000-0003-0543-0053",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Agarwal+Sabrina+C",
+                        "affs": [
+                                "Department of Anthropology University of California Berkeley  Berkeley California USA"
+                        ]
+                },
+                {
+                        "name_search": "Bailey+Damian+M",
+                        "name_given": "Damian M.",
+                        "name_family": "Bailey",
+                        "orcid_url": "http://orcid.org/0000-0003-0498-7095",
+                        "orcid_num": "0000-0003-0498-7095",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Bailey+Damian+M",
+                        "affs": [
+                                "Neurovascular Research LaboratoryFaculty of Life Sciences and EducationUniversity of South Wales Pontypridd Glamorgan UK"
+                        ]
+                },
+                {
+                        "name_search": "Davoust+Laurent",
+                        "name_given": "Laurent",
+                        "name_family": "Davoust",
+                        "orcid_url": "http://orcid.org/0000-0001-9544-1578",
+                        "orcid_num": "0000-0001-9544-1578",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Davoust+Laurent",
+                        "affs": [
+                                "Electromagnetic Processing of Materials (EPM) Group, CNRS, Materials and Processes Science and Engineering (SIMaP) Laboratory, Grenoble Institute of Technology (Grenoble-INP), Univ. Grenoble-Alpes, 38402 St-Martin d\u2019H\u00e8res, France"
+                        ]
+                },
+                {
+                        "name_search": "Pollen+Alex+A",
+                        "name_given": "Alex A.",
+                        "name_family": "Pollen",
+                        "orcid_url": "http://orcid.org/0000-0003-3263-8634",
+                        "orcid_num": "0000-0003-3263-8634",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Pollen+Alex+A",
+                        "affs": [
+                                "Department of Neurology, University of California, San Francisco, San Francisco, United States",
+                                "The Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California, San Francisco, San Francisco, United States"
+                        ]
+                },
+                {
+                        "name_search": "Blaker+Jonny+J",
+                        "name_given": "Jonny J.",
+                        "name_family": "Blaker",
+                        "orcid_url": "http://orcid.org/0000-0003-1112-8619",
+                        "orcid_num": "0000-0003-1112-8619",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Blaker+Jonny+J",
+                        "affs": [
+                                "Bio-Active Materials Group",
+                                "Department of Materials",
+                                "The University of Manchester",
+                                "Manchester",
+                                "UK"
+                        ]
+                },
+                {
+                        "name_search": "Scrutton+Nigel+S",
+                        "name_given": "Nigel S.",
+                        "name_family": "Scrutton",
+                        "orcid_url": "http://orcid.org/0000-0002-4182-3500",
+                        "orcid_num": "0000-0002-4182-3500",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Scrutton+Nigel+S",
+                        "affs": [
+                                "Manchester Institute of Biotechnology University of Manchester UK"
+                        ]
+                },
+                {
+                        "name_search": "Kim+Kyu-Sung",
+                        "name_given": "Kyu-Sung",
+                        "name_family": "Kim",
+                        "orcid_url": "http://orcid.org/0000-0002-5650-3526",
+                        "orcid_num": "0000-0002-5650-3526",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Kim+Kyu-Sung",
+                        "affs": [
+                                "Department of Otolaryngology Head & Neck Surgery, College of Medicine, Inha University,Incheon, Korea",
+                                "Inha Research Institute for Aerospace Medicine, Inha University, Incheon, Korea"
+                        ]
+                },
+                {
+                        "name_search": "Jalan+Ishita",
+                        "name_given": "Ishita",
+                        "name_family": "Jalan",
+                        "orcid_url": "http://orcid.org/0000-0003-2995-3692",
+                        "orcid_num": "0000-0003-2995-3692",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Jalan+Ishita",
+                        "affs": [
+                                "Department of Engineering and Chemical Sciences, Karlstad University, Universitetsgatan 2, SE-651 88 Karlstad, Sweden"
+                        ]
+                },
+                {
+                        "name_search": "Gallagher+Maria",
+                        "name_given": "Maria",
+                        "name_family": "Gallagher",
+                        "orcid_url": "http://orcid.org/0000-0002-2933-4579",
+                        "orcid_num": "0000-0002-2933-4579",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Gallagher+Maria",
+                        "affs": [
+                                "Department of Psychology, Royal Holloway, University of London, Egham, UK"
+                        ]
+                },
+                {
+                        "name_search": "Xia+Pengguo",
+                        "name_given": "Pengguo",
+                        "name_family": "Xia",
+                        "orcid_url": "http://orcid.org/0000-0003-3572-7616",
+                        "orcid_num": "0000-0003-3572-7616",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Xia+Pengguo",
+                        "affs": [
+                                "Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China"
+                        ]
+                },
+                {
+                        "name_search": "Fiedler+Imke+AK",
+                        "name_given": "Imke AK",
+                        "name_family": "Fiedler",
+                        "orcid_url": "http://orcid.org/0000-0003-2724-258X",
+                        "orcid_num": "0000-0003-2724-258X",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Fiedler+Imke+AK",
+                        "affs": [
+                                "Department of Osteology and Biomechanics University Medical Center Hamburg\u2010Eppendorf  Hamburg Germany"
+                        ]
+                },
+                {
+                        "name_search": "Knopf+Franziska",
+                        "name_given": "Franziska",
+                        "name_family": "Knopf",
+                        "orcid_url": "http://orcid.org/0000-0002-0420-7477",
+                        "orcid_num": "0000-0002-0420-7477",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Knopf+Franziska",
+                        "affs": [
+                                "Technische Universit\u00e4t Dresden CRTD \u2010 Center for Regenerative Therapies TU Dresden  Dresden Germany",
+                                "Technische Universit\u00e4t Dresden Center for Healthy Aging TU Dresden  Dresden Germany"
+                        ]
+                },
+                {
+                        "name_search": "Sedelnikov+A+V",
+                        "name_given": "A. V.",
+                        "name_family": "Sedelnikov",
+                        "orcid_url": "http://orcid.org/0000-0003-2698-1348",
+                        "orcid_num": "0000-0003-2698-1348",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Sedelnikov+A+V",
+                        "affs": [
+                                "Samara National Research University, 443086 Samara, Moskowskoe Shosse, 34, Russia"
+                        ]
+                },
+                {
+                        "name_search": "Penninckx+S\u00e9bastien",
+                        "name_given": "S\u00e9bastien",
+                        "name_family": "Penninckx",
+                        "orcid_url": "http://orcid.org/0000-0002-3016-778X",
+                        "orcid_num": "0000-0002-3016-778X",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Penninckx+S\u00e9bastien",
+                        "affs": [
+                                "Biological Systems and Engineering Division, Lawrence Berkeley National Laboratory, Berkeley, CA\u00a094720, USA",
+                                "Medical Physics Department, Jules Bordet Institute, Universit\u00e9 Libre de Bruxelles, 1 Rue H\u00e9ger-Bordet, 1000 Brussels, Belgium"
+                        ]
+                },
+                {
+                        "name_search": "Costes+Sylvain+V",
+                        "name_given": "Sylvain V",
+                        "name_family": "Costes",
+                        "orcid_url": "http://orcid.org/0000-0002-8542-2389",
+                        "orcid_num": "0000-0002-8542-2389",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Costes+Sylvain+V",
+                        "affs": [
+                                "Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA"
+                        ]
+                },
+                {
+                        "name_search": "Fajardo+Val+A",
+                        "name_given": "Val A.",
+                        "name_family": "Fajardo",
+                        "orcid_url": "http://orcid.org/0000-0003-4500-3347",
+                        "orcid_num": "0000-0003-4500-3347",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Fajardo+Val+A",
+                        "affs": [
+                                "Department of Kinesiology Brock University  St Catharines Ontario Canada"
+                        ]
+                },
+                {
+                        "name_search": "Merkulyeva+Natalia+S",
+                        "name_given": "Natalia S.",
+                        "name_family": "Merkulyeva",
+                        "orcid_url": "http://orcid.org/0000-0003-1276-1918",
+                        "orcid_num": "0000-0003-1276-1918",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Merkulyeva+Natalia+S",
+                        "affs": [
+                                "lab Neuromorphology Pavlov Institute of Physiology RAS  Makarov emb, 6 Saint\u2010Petersburg Russia"
+                        ]
+                },
+                {
+                        "name_search": "Glazova+Margarita+V",
+                        "name_given": "Margarita V.",
+                        "name_family": "Glazova",
+                        "orcid_url": "http://orcid.org/0000-0001-6617-3404",
+                        "orcid_num": "0000-0001-6617-3404",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Glazova+Margarita+V",
+                        "affs": [
+                                "Sechenov Institute of Evolutionary Physiology and Biochemistry of the Russian Academy of Sciences Saint\u2010Petersburg Russia"
+                        ]
+                },
+                {
+                        "name_search": "Borg+Alexander+M",
+                        "name_given": "Alexander M",
+                        "name_family": "Borg",
+                        "orcid_url": "http://orcid.org/0000-0002-0476-5735",
+                        "orcid_num": "0000-0002-0476-5735",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Borg+Alexander+M",
+                        "affs": [
+                                "Departments of Biomedical Engineering and Radiation Oncology, Wake Forest University, Winston-Salem, NC, USA"
+                        ]
+                },
+                {
+                        "name_search": "Satchi-Fainaro+Ronit",
+                        "name_given": "Ronit",
+                        "name_family": "Satchi-Fainaro",
+                        "orcid_url": "http://orcid.org/0000-0002-7360-7837",
+                        "orcid_num": "0000-0002-7360-7837",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Satchi-Fainaro+Ronit",
+                        "affs": [
+                                "Department of Physiology and Pharmacology, Sackler Faculty of Medicine, Tel Aviv University, Israel"
+                        ]
+                },
+                {
+                        "name_search": "Kua+Jonathan",
+                        "name_given": "Jonathan",
+                        "name_family": "Kua",
+                        "orcid_url": "http://orcid.org/0000-0001-9699-9418",
+                        "orcid_num": "0000-0001-9699-9418",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Kua+Jonathan",
+                        "affs": [
+                                "Swinburne University of Technology, John Street, Hawthorn, VIC, Australia"
+                        ]
+                },
+                {
+                        "name_search": "Manganotti+Paolo",
+                        "name_given": "Paolo",
+                        "name_family": "Manganotti",
+                        "orcid_url": "http://orcid.org/0000-0001-5305-6268",
+                        "orcid_num": "0000-0001-5305-6268",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Manganotti+Paolo",
+                        "affs": [
+                                "Department of Medical, Surgical, and Health Sciences, University of Trieste, Azienda Sanitaria Universitaria Integrata di Trieste, Neurology Unit \u2013 Cattinara Hospital, Trieste, Italy"
+                        ]
+                },
+                {
+                        "name_search": "Buoite+Stella+Alex",
+                        "name_given": "Alex",
+                        "name_family": "Buoite Stella",
+                        "orcid_url": "http://orcid.org/0000-0002-4871-7022",
+                        "orcid_num": "0000-0002-4871-7022",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Buoite+Stella+Alex",
+                        "affs": [
+                                "Department of Medicine, Surgery, and Health Sciences, University of Trieste, Trieste, Italy"
+                        ]
+                },
+                {
+                        "name_search": "Marusic+Uros",
+                        "name_given": "Uros",
+                        "name_family": "Marusic",
+                        "orcid_url": "http://orcid.org/0000-0002-7420-2137",
+                        "orcid_num": "0000-0002-7420-2137",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Marusic+Uros",
+                        "affs": [
+                                "Institute for Kinesiology Research, Science and Research Centre Koper, Koper, Slovenia (EU)",
+                                "Department of Health Sciences, Alma Mater Europaea \u2013 ECM, Maribor, Slovenia (EU)",
+                                "Department of Kinesiology and Physiotherapy, Faculty of Health Sciences, University of Primorska, Izola, Slovenia (EU)"
                         ]
                 },
                 {
@@ -859,7 +1965,7 @@
                         "orcid_num": "0000-0003-4068-5828",
                         "crossref_url": "https://api.crossref.org/works?query.author=Dragotakes+Quigly",
                         "affs": [
-                                "Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA"
+                                "Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205"
                         ]
                 },
                 {
@@ -979,6 +2085,17 @@
                         ]
                 },
                 {
+                        "name_search": "Rappaport+Margaret+Boone",
+                        "name_given": "Margaret Boone",
+                        "name_family": "Rappaport",
+                        "orcid_url": "http://orcid.org/0000-0003-2912-7876",
+                        "orcid_num": "0000-0003-2912-7876",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Rappaport+Margaret+Boone",
+                        "affs": [
+                                "The Human Sentience Project LLC  Tucson Arizona USA"
+                        ]
+                },
+                {
                         "name_search": "Schuerger+Andrew+C",
                         "name_given": "Andrew C.",
                         "name_family": "Schuerger",
@@ -1067,17 +2184,6 @@
                         "crossref_url": "https://api.crossref.org/works?query.author=Castillo-Aleman+Yandy+Marx",
                         "affs": [
                                 "Abu Dhabi Stem Cells Center (ADSCC)  Abu Dhabi United Arab Emirates"
-                        ]
-                },
-                {
-                        "name_search": "Doherty+Colleen+J",
-                        "name_given": "Colleen J.",
-                        "name_family": "Doherty",
-                        "orcid_url": "http://orcid.org/0000-0003-1126-5592",
-                        "orcid_num": "0000-0003-1126-5592",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Doherty+Colleen+J",
-                        "affs": [
-                                "Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, U.S.A."
                         ]
                 },
                 {
@@ -1340,17 +2446,6 @@
                         ]
                 },
                 {
-                        "name_search": "Wostyn+Peter",
-                        "name_given": "Peter",
-                        "name_family": "Wostyn",
-                        "orcid_url": "http://orcid.org/0000-0001-7726-9751",
-                        "orcid_num": "0000-0001-7726-9751",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Wostyn+Peter",
-                        "affs": [
-                                "Department of PsychiatryPC Sint\u2010Amandus Beernem Belgium"
-                        ]
-                },
-                {
                         "name_search": "Kraus+Tobias",
                         "name_given": "Tobias",
                         "name_family": "Kraus",
@@ -1434,6 +2529,17 @@
                         ]
                 },
                 {
+                        "name_search": "WEI+CHUN-FU",
+                        "name_given": "CHUN-FU",
+                        "name_family": "WEI",
+                        "orcid_url": "http://orcid.org/0000-0002-3303-8043",
+                        "orcid_num": "0000-0002-3303-8043",
+                        "crossref_url": "https://api.crossref.org/works?query.author=WEI+CHUN-FU",
+                        "affs": [
+                                "School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, P. R. China"
+                        ]
+                },
+                {
                         "name_search": "Barisano+Giuseppe",
                         "name_given": "Giuseppe",
                         "name_family": "Barisano",
@@ -1457,6 +2563,17 @@
                         ]
                 },
                 {
+                        "name_search": "Pechenkova+Ekaterina",
+                        "name_given": "Ekaterina",
+                        "name_family": "Pechenkova",
+                        "orcid_url": "http://orcid.org/0000-0003-3409-3703",
+                        "orcid_num": "0000-0003-3409-3703",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Pechenkova+Ekaterina",
+                        "affs": [
+                                "National Research University Higher School of Economics"
+                        ]
+                },
+                {
                         "name_search": "Tomilovskaya+Elena",
                         "name_given": "Elena",
                         "name_family": "Tomilovskaya",
@@ -1465,17 +2582,6 @@
                         "crossref_url": "https://api.crossref.org/works?query.author=Tomilovskaya+Elena",
                         "affs": [
                                 "Institute of Biomedical Problems, Russian Academy of Sciences, Moscow 123007, Russia"
-                        ]
-                },
-                {
-                        "name_search": "Wuyts+Floris+L",
-                        "name_given": "Floris L.",
-                        "name_family": "Wuyts",
-                        "orcid_url": "http://orcid.org/0000-0002-4485-6412",
-                        "orcid_num": "0000-0002-4485-6412",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Wuyts+Floris+L",
-                        "affs": [
-                                "Lab for Equilibrium Investigations and Aerospace, University of Antwerp, B-2610 Antwerp, Belgium"
                         ]
                 },
                 {
@@ -1523,28 +2629,6 @@
                         ]
                 },
                 {
-                        "name_search": "Wilkins+Ruth",
-                        "name_given": "Ruth",
-                        "name_family": "Wilkins",
-                        "orcid_url": "http://orcid.org/0000-0002-9621-477X",
-                        "orcid_num": "0000-0002-9621-477X",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Wilkins+Ruth",
-                        "affs": [
-                                "Consumer and Clinical Radiation Protection Bureau, Healthy Environments and Consumer Safety Branch, Health Canada, Ottawa, Canada"
-                        ]
-                },
-                {
-                        "name_search": "Chauhan+Vinita",
-                        "name_given": "Vinita",
-                        "name_family": "Chauhan",
-                        "orcid_url": "http://orcid.org/0000-0002-4498-0915",
-                        "orcid_num": "0000-0002-4498-0915",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Chauhan+Vinita",
-                        "affs": [
-                                "Consumer and Clinical Radiation Protection Bureau, Healthy Environments and Consumer Safety Branch, Health Canada, Ottawa, Canada"
-                        ]
-                },
-                {
                         "name_search": "Azimzadeh+Omid",
                         "name_given": "Omid",
                         "name_family": "Azimzadeh",
@@ -1553,17 +2637,6 @@
                         "crossref_url": "https://api.crossref.org/works?query.author=Azimzadeh+Omid",
                         "affs": [
                                 "Section Radiation Biology, Federal Office for Radiation Protection (BfS), Neuherberg, Germany"
-                        ]
-                },
-                {
-                        "name_search": "Laiakis+Evagelia+C",
-                        "name_given": "Evagelia C.",
-                        "name_family": "Laiakis",
-                        "orcid_url": "http://orcid.org/0000-0002-4924-9013",
-                        "orcid_num": "0000-0002-4924-9013",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Laiakis+Evagelia+C",
-                        "affs": [
-                                "Lombardi Comprehensive Cancer Center, Georgetown University Medical Center, New Research Building E504/508, 3970 Reservoir Road, Northwest, Washington, DC 20057, United States"
                         ]
                 },
                 {
@@ -1646,18 +2719,6 @@
                         ]
                 },
                 {
-                        "name_search": "Komarova+Svetlana+V",
-                        "name_given": "Svetlana V.",
-                        "name_family": "Komarova",
-                        "orcid_url": "http://orcid.org/0000-0003-3570-3147",
-                        "orcid_num": "0000-0003-3570-3147",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Komarova+Svetlana+V",
-                        "affs": [
-                                "Shriners Hospital for Children, Montreal, Quebec, Canada",
-                                "Faculty of Dentistry, McGill University, Montreal, Quebec, Canada."
-                        ]
-                },
-                {
                         "name_search": "Rahlff+Janina",
                         "name_given": "Janina",
                         "name_family": "Rahlff",
@@ -1665,7 +2726,7 @@
                         "orcid_num": "0000-0002-2132-2709",
                         "crossref_url": "https://api.crossref.org/works?query.author=Rahlff+Janina",
                         "affs": [
-                                "Group for Aquatic Microbial Ecology, Environmental Microbiology and Biotechnology, Department of Chemistry, University of Duisburg-Essen, Essen, Germany"
+                                "Group for Aquatic Microbial Ecology, Department of Chemistry, Environmental Microbiology and Biotechnology, University of Duisburg-Essen, Essen, Germany"
                         ]
                 },
                 {
@@ -1698,8 +2759,7 @@
                         "orcid_num": "0000-0003-0540-7232",
                         "crossref_url": "https://api.crossref.org/works?query.author=Escrib\u00e0-Gelonch+Marc",
                         "affs": [
-                                "Department of Chemical Engineering and Chemistry, Eindhoven University of Technology, De Rondom 70, 5612 AP Eindhoven, The Netherlands",
-                                "Laboratoire de G\u00e9nie des Proc\u00e9d\u00e9es Catalytiques, Centre National de la Recherche Scientifique (CNRS)\u2212UMR 5285, CPE Lyon, 43 Bd du 11 Novembre 1918, Villeurbanne, France"
+                                "Micro Flow Chemistry and\rProcess Technology, Department of Chemical Engineering and Chemistry, Eindhoven University of Technology, P.O. Box 513, 5600 MB Eindhoven, The Netherlands"
                         ]
                 },
                 {
@@ -1780,17 +2840,6 @@
                         ]
                 },
                 {
-                        "name_search": "WANG+KANG-LE",
-                        "name_given": "KANG-LE",
-                        "name_family": "WANG",
-                        "orcid_url": "http://orcid.org/0000-0002-6637-5687",
-                        "orcid_num": "0000-0002-6637-5687",
-                        "crossref_url": "https://api.crossref.org/works?query.author=WANG+KANG-LE",
-                        "affs": [
-                                "School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, P. R. China"
-                        ]
-                },
-                {
                         "name_search": "Yurkonis+Kathryn+A",
                         "name_given": "Kathryn. A.",
                         "name_family": "Yurkonis",
@@ -1813,28 +2862,6 @@
                         ]
                 },
                 {
-                        "name_search": "Henriques+Andre",
-                        "name_given": "Andre",
-                        "name_family": "Henriques",
-                        "orcid_url": "http://orcid.org/0000-0003-1521-3423",
-                        "orcid_num": "0000-0003-1521-3423",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Henriques+Andre",
-                        "affs": [
-                                "CERN (European Organisation for Nuclear Research), Geneva, Switzerland"
-                        ]
-                },
-                {
-                        "name_search": "Tang+Julian+Wei-Tze",
-                        "name_given": "Julian Wei-Tze",
-                        "name_family": "Tang",
-                        "orcid_url": "http://orcid.org/0000-0002-4963-1028",
-                        "orcid_num": "0000-0002-4963-1028",
-                        "crossref_url": "https://api.crossref.org/works?query.author=Tang+Julian+Wei-Tze",
-                        "affs": [
-                                "Respiratory Sciences, University of Leicester, Leicester, UK"
-                        ]
-                },
-                {
                         "name_search": "Shangguan+Linjian",
                         "name_given": "Linjian",
                         "name_family": "Shangguan",
@@ -1854,6 +2881,17 @@
                         "crossref_url": "https://api.crossref.org/works?query.author=Auffray+Charles",
                         "affs": [
                                 "European Institute for Systems Biology & Medicine, Universit\u00e9 de Lyon, France"
+                        ]
+                },
+                {
+                        "name_search": "Cheung+Vien",
+                        "name_given": "Vien",
+                        "name_family": "Cheung",
+                        "orcid_url": "http://orcid.org/0000-0002-9808-3670",
+                        "orcid_num": "0000-0002-9808-3670",
+                        "crossref_url": "https://api.crossref.org/works?query.author=Cheung+Vien",
+                        "affs": [
+                                "University of Leeds"
                         ]
                 },
                 {
@@ -2693,8 +3731,7 @@
                         "orcid_num": "0000-0002-8455-9092",
                         "crossref_url": "https://api.crossref.org/works?query.author=Steinfath+Elsa",
                         "affs": [
-                                "European Neuroscience Institute - A Joint Initiative of the University Medical Center G\u00f6ttingen and the Max-Planck-Society, G\u00f6ttingen, Germany",
-                                "International Max Planck Research School and G\u00f6ttingen Graduate School for Neurosciences, Biophysics, and Molecular Biosciences (GGNB) at the University of G\u00f6ttingen, G\u00f6ttingen, Germany"
+                                "European Neuroscience Institute - A Joint Initiative of the University Medical Center G\u00f6ttingen and the Max-Planck-Society, 37077 G\u00f6ttingen,  Germany"
                         ]
                 },
                 {

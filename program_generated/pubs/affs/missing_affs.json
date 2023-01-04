@@ -1,4 +1,80 @@
 {
-        "count": 0,
-        "affs": []
+        "count": 15,
+        "affs": [
+                {
+                        "name": "Beijing Genomics Institute Shenzhen: BGI Group",
+                        "name_edit": "Beijing Genomics Institute Shenzhen: BGI Group",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/BGI%20Group?format=json"
+                },
+                {
+                        "name": "Department of Biobehavioral Sciences, Teachers College, Columbia University. New York City, NY, United States. zam2113@tc.columbia.edu",
+                        "name_edit": "Department of Biobehavioral Sciences, Teachers College, Columbia University. New York City, NY, United States. zam2113@tc.columbia.edu",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/States%20%20zam2113%20tc%20columbia%20edu?format=json"
+                },
+                {
+                        "name": "Department of Philosophy, Jean-de-Br\u00e9beuf College",
+                        "name_edit": "Department of Philosophy, Jean-de-Br\u00e9beuf College",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Jean%20de%20Br%20beuf%20College?format=json"
+                },
+                {
+                        "name": "Florida State Univ., Tallahassee, FL (United States). National High Magnetic Field Lab. (MagLab)",
+                        "name_edit": "Florida State Univ., Tallahassee, FL . National High Magnetic Field Lab. (MagLab)",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Lab%20%20%20MagLab%20?format=json"
+                },
+                {
+                        "name": "Grahaa Space",
+                        "name_edit": "Grahaa Space",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Grahaa%20Space?format=json"
+                },
+                {
+                        "name": "Guangdong\u2010Hongkong\u2010Macau Institute of CNS Regeneration, Ministry of Education CNS Regeneration Collaborative Joint Laboratory Jinan University Guangzhou 510632 China",
+                        "name_edit": "Guangdong\u2010Hongkong\u2010Macau Institute of CNS Regeneration, Ministry of Education CNS Regeneration Collaborative Joint Laboratory Jinan University Guangzhou 510632 China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/510632%20China?format=json"
+                },
+                {
+                        "name": "Hubert Curien Multidisciplinary Institute (IPHC), CNRS, Strasbourg UniversityStrasbourg",
+                        "name_edit": "Hubert Curien Multidisciplinary Institute , CNRS, Strasbourg UniversityStrasbourg",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Strasbourg%20UniversityStrasbourg?format=json"
+                },
+                {
+                        "name": "Institute of Chinese Materia Medica China Academy of Chinese Medical Sciences Beijing 100700 China",
+                        "name_edit": "Institute of Chinese Materia Medica China Academy of Chinese Medical Sciences Beijing 100700 China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/100700%20China?format=json"
+                },
+                {
+                        "name": "Institute of Veterinary Medicine, Burckhardtweg, University of G\u00f6ttingen  G\u00f6ttingen Germany",
+                        "name_edit": "Institute of Veterinary Medicine, Burckhardtweg, University of G\u00f6ttingen  G\u00f6ttingen Germany",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/G%20ttingen%20Germany?format=json"
+                },
+                {
+                        "name": "Instituto Venezolano de Investigaciones Cient\u00edficas",
+                        "name_edit": "Instituto Venezolano de Investigaciones Cient\u00edficas",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Investigaciones%20Cient%20ficas?format=json"
+                },
+                {
+                        "name": "Key Laboratory for Quality Evaluation of Bulk Herbs of Hunan Province Hunan University of Chinese Medicine Changsha Hunan 410208 China",
+                        "name_edit": "Key Laboratory for Quality Evaluation of Bulk Herbs of Hunan Province Hunan University of Chinese Medicine Changsha Hunan 410208 China",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/410208%20China?format=json"
+                },
+                {
+                        "name": "KinesiologyBrock UniversitySt. CatharinesON",
+                        "name_edit": "KinesiologyBrock UniversitySt. CatharinesON",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/UniversitySt%20%20CatharinesON?format=json"
+                },
+                {
+                        "name": "MGI, BGI-Shenzhen: BGI Group",
+                        "name_edit": "MGI, BGI-Shenzhen: BGI Group",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/BGI%20Group?format=json"
+                },
+                {
+                        "name": "Schlegel\u2010UW Research Institute for AgingWaterlooON",
+                        "name_edit": "Schlegel\u2010UW Research Institute for AgingWaterlooON",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/for%20AgingWaterlooON?format=json"
+                },
+                {
+                        "name": "Technische Universit\u00e4t M\u00fcnchen",
+                        "name_edit": "Technische Universit\u00e4t M\u00fcnchen",
+                        "openstreetmap_url": "https://nominatim.openstreetmap.org/search/Universit%20t%20M%20nchen?format=json"
+                }
+        ]
 }

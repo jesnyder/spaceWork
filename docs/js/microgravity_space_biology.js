@@ -15,14 +15,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 249 , 192 , 20 )",
+                        "color": "rgb( 254 , 184 , 63 )",
                         "aff": "Cell Physiology Laboratory, Institute of Biomedical ProblemsRussian Academy of SciencesMoscowRussia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              37.597135,
-                              55.733721
+                              37.628431,
+                              55.740369
                         ]
                   }
             },
@@ -39,14 +39,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 254 , 111 , 32 )",
+                        "color": "rgb( 249 , 158 , 34 )",
                         "aff": "Department of Mechanical Engineering, Indian Institute of Science, Bangalore, India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              77.561474,
-                              13.022944
+                              77.568874,
+                              13.043278
                         ]
                   }
             },
@@ -63,14 +63,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 290,
                         "paneName": "pane010",
-                        "color": "rgb( 245 , 217 , 43 )",
+                        "color": "rgb( 251 , 188 , 56 )",
                         "aff": "Department of Mechanical Engineering, Tandon School of Engineering, New York University, NY, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.019363,
-                              40.750952
+                              -73.995907,
+                              40.720394
                         ]
                   }
             },
@@ -87,14 +87,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 254 , 74 , 64 )",
+                        "color": "rgb( 251 , 143 , 40 )",
                         "aff": "Department of Mechanical Engineering, Tandon School of Engineering, New York University, NY, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.972509,
-                              40.741128
+                              -74.016868,
+                              40.74846
                         ]
                   }
             },
@@ -111,14 +111,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 246 , 95 , 60 )",
+                        "color": "rgb( 251 , 113 , 22 )",
                         "aff": "Department of Cardiology, University of Texas MD Anderson Cancer Center"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.384437,
-                              29.729702
+                              -95.407057,
+                              29.696244
                         ]
                   }
             },
@@ -135,14 +135,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 293,
                         "paneName": "pane007",
-                        "color": "rgb( 247 , 26 , 57 )",
+                        "color": "rgb( 247 , 86 , 38 )",
                         "aff": "Division of Biomedical Engineering Sciences (BMES), Department of Basic Sciences, Loma Linda University, Loma Linda, California"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -117.248314,
-                              34.061104
+                              -117.265239,
+                              34.062956
                         ]
                   }
             },
@@ -159,14 +159,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 293,
                         "paneName": "pane007",
-                        "color": "rgb( 249 , 116 , 46 )",
+                        "color": "rgb( 246 , 29 , 59 )",
                         "aff": "Department of Pediatrics, University of Health Sciences, Sariyer Etfal Training and Research Hospital, Istanbul, Turkey"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.579693,
-                              45.775303
+                              8.573047,
+                              45.770088
                         ]
                   }
             },
@@ -183,14 +183,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 36 , 47 )",
+                        "color": "rgb( 245 , 64 , 45 )",
                         "aff": "Center of Special Environmental Biomechanics &amp; Biomedical Engineering Northwestern Polytechnical University Xi'an Shaanxi China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              109.136261,
-                              35.901023
+                              109.118669,
+                              35.876229
                         ]
                   }
             },
@@ -207,14 +207,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 248 , 175 , 50 )",
+                        "color": "rgb( 246 , 88 , 38 )",
                         "aff": "Department of Human Genetics, Lady Davis Institute for Medical Research, McGill University, Canada"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.558291,
-                              45.519008
+                              -73.567526,
+                              45.488316
                         ]
                   }
             },
@@ -231,14 +231,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 248 , 53 , 63 )",
+                        "color": "rgb( 254 , 114 , 31 )",
                         "aff": "Department of Health Sciences, University of Genoa, Via A. Pastore 1, 16132 Genoa, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.975016,
-                              44.401591
+                              8.990437,
+                              44.427883
                         ]
                   }
             },
@@ -255,14 +255,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 294,
                         "paneName": "pane006",
-                        "color": "rgb( 253 , 212 , 59 )",
+                        "color": "rgb( 246 , 41 , 22 )",
                         "aff": "Kewalo Marine Laboratory, Pacific Biosciences Research Center University of Hawaii at Manoa  Honolulu HI 96813 USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -157.865403,
-                              21.308341
+                              -157.863181,
+                              21.315784
                         ]
                   }
             },
@@ -279,14 +279,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 294,
                         "paneName": "pane006",
-                        "color": "rgb( 249 , 167 , 48 )",
+                        "color": "rgb( 246 , 198 , 39 )",
                         "aff": "Chemistry Department, University of Manchester, Manchester, UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -2.240803,
-                              53.466431
+                              -2.216179,
+                              53.466829
                         ]
                   }
             },
@@ -303,14 +303,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 248 , 115 , 27 )",
+                        "color": "rgb( 245 , 79 , 47 )",
                         "aff": "Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.04726,
-                              37.386503
+                              -122.070549,
+                              37.435614
                         ]
                   }
             },
@@ -327,14 +327,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 250 , 175 , 38 )",
+                        "color": "rgb( 247 , 174 , 48 )",
                         "aff": "Department of Neurology, Graduate School of Medical Sciences Kumamoto University  Kumamoto Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              113.956147,
-                              22.548157
+                              113.972869,
+                              22.561158
                         ]
                   }
             },
@@ -351,14 +351,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 251 , 66 , 54 )",
+                        "color": "rgb( 249 , 179 , 34 )",
                         "aff": "Universit\u00e9 de Perpignan Via Domitia, LGDP UMR 5096 Perpignan 66860 France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              2.899327,
-                              42.677376
+                              2.873353,
+                              42.685402
                         ]
                   }
             },
@@ -375,14 +375,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 292,
                         "paneName": "pane008",
-                        "color": "rgb( 248 , 68 , 32 )",
+                        "color": "rgb( 247 , 190 , 22 )",
                         "aff": "Bioastronautics and Space Mechatronics Research,Space Veterinary Medicine Division,Group La Habana,CUBA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.474159,
-                              23.068331
+                              -82.465424,
+                              23.081506
                         ]
                   }
             },
@@ -399,14 +399,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 252 , 108 , 26 )",
+                        "color": "rgb( 254 , 95 , 44 )",
                         "aff": "Institute of Engineering Medicine, Beijing Institute of Technology, Beijing 100081, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.298675,
-                              39.948996
+                              116.324713,
+                              39.966599
                         ]
                   }
             },
@@ -423,14 +423,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 252 , 208 , 23 )",
+                        "color": "rgb( 248 , 45 , 41 )",
                         "aff": "Office of Research , University of Florida , Gainesville , FL"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.373762,
-                              29.609633
+                              -82.342736,
+                              29.609255
                         ]
                   }
             },
@@ -447,14 +447,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 185 , 32 )",
+                        "color": "rgb( 247 , 114 , 33 )",
                         "aff": "Department of Pharmacology, Showa University School Dentistry"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.152211,
-                              47.555325
+                              -122.190822,
+                              47.572794
                         ]
                   }
             },
@@ -469,14 +469,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 71 , 34 )",
+                        "color": "rgb( 248 , 112 , 28 )",
                         "aff": "Admiralty University of Nigeria"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              6.58344,
-                              6.1435
+                              6.555817,
+                              6.181761
                         ]
                   }
             },
@@ -493,14 +493,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 251 , 140 , 42 )",
+                        "color": "rgb( 247 , 155 , 20 )",
                         "aff": "Faculty of Biology, Department of Plant Physiology and Biochemistry, Saint Petersburg State University, Saint Petersburg, Russia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              30.281867,
-                              59.929385
+                              30.292425,
+                              59.964326
                         ]
                   }
             },
@@ -515,14 +515,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 186 , 60 )",
+                        "color": "rgb( 247 , 78 , 40 )",
                         "aff": "San Jose State University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -121.885202,
-                              37.353161
+                              -121.870295,
+                              37.340112
                         ]
                   }
             },
@@ -539,14 +539,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 289,
                         "paneName": "pane011",
-                        "color": "rgb( 252 , 118 , 63 )",
+                        "color": "rgb( 251 , 202 , 46 )",
                         "aff": "Ministry of Education Key Laboratory of Micro/Nano Systems for Aerospace Northwestern Polytechnical University  Xi'an China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              108.947611,
-                              34.341211
+                              108.912581,
+                              34.357701
                         ]
                   }
             },
@@ -563,14 +563,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 291,
                         "paneName": "pane009",
-                        "color": "rgb( 249 , 190 , 54 )",
+                        "color": "rgb( 250 , 59 , 45 )",
                         "aff": "Institut Curie, Paris Sciences et Lettres Research University Mechanics and Genetics of Embryonic and Tumoral Development Group  Paris France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              2.304347,
-                              48.871933
+                              2.298733,
+                              48.858288
                         ]
                   }
             },
@@ -587,14 +587,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 291,
                         "paneName": "pane009",
-                        "color": "rgb( 246 , 71 , 38 )",
+                        "color": "rgb( 250 , 97 , 59 )",
                         "aff": "Department of Biomedical Engineering, College of Medicine, Seoul National University, Seoul, South Korea"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              126.925779,
-                              37.44726
+                              126.963125,
+                              37.445572
                         ]
                   }
             },
@@ -611,14 +611,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 290,
                         "paneName": "pane010",
-                        "color": "rgb( 247 , 195 , 31 )",
+                        "color": "rgb( 250 , 32 , 57 )",
                         "aff": "Department of Chemistry and Biochemistry, University of South Carolina, Columbia, SC, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.02291,
-                              33.982883
+                              -81.012091,
+                              34.016196
                         ]
                   }
             },
@@ -635,14 +635,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 245 , 141 , 30 )",
+                        "color": "rgb( 251 , 159 , 46 )",
                         "aff": "University of New Mexico, Albuquerque, New Mexico, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -106.615948,
-                              35.076851
+                              -106.599648,
+                              35.078643
                         ]
                   }
             },
@@ -659,14 +659,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 288,
                         "paneName": "pane012",
-                        "color": "rgb( 254 , 124 , 42 )",
+                        "color": "rgb( 246 , 37 , 40 )",
                         "aff": "Department of Physics, Portland State University, Portland, Oregon 97201, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.699931,
-                              45.52044
+                              -122.706072,
+                              45.519005
                         ]
                   }
             },
@@ -681,14 +681,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 177 , 60 )",
+                        "color": "rgb( 254 , 58 , 69 )",
                         "aff": "Chinese Academy of Sciences"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.311282,
-                              39.940277
+                              116.314905,
+                              39.945002
                         ]
                   }
             },
@@ -705,14 +705,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 294,
                         "paneName": "pane006",
-                        "color": "rgb( 251 , 194 , 31 )",
+                        "color": "rgb( 253 , 187 , 27 )",
                         "aff": "First Department of Pediatrics, National and Kapodistrian University of Athens, Choremeio Research Laboratory, Thivon & Levadeias 8, 11527 Athens, Greece"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              23.780972,
-                              38.005952
+                              23.74419,
+                              37.987159
                         ]
                   }
             },
@@ -729,14 +729,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 292,
                         "paneName": "pane008",
-                        "color": "rgb( 251 , 98 , 29 )",
+                        "color": "rgb( 248 , 47 , 36 )",
                         "aff": "Department of Mechanical Engineering, Tandon School of Engineering, New York University, NY, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.973189,
-                              40.744606
+                              -73.977921,
+                              40.722447
                         ]
                   }
             },
@@ -753,38 +753,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 246 , 25 , 29 )",
+                        "color": "rgb( 252 , 124 , 57 )",
                         "aff": "Department of Biomedicine and Prevention University of Rome \u201cTor Vergata\u2019\u2019 Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              12.608897,
-                              41.872987
-                        ]
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "title": "A magnetic levitation based low-gravity simulator with an unprecedented large functional volume",
-                        "url": "https://dx.doi.org/10.1038/s41526-021-00174-4",
-                        "journal": [
-                              "npj Microgravity"
-                        ],
-                        "cited": 0,
-                        "radius": 15,
-                        "year": 2021,
-                        "zindex": 300,
-                        "paneName": "pane000",
-                        "color": "rgb( 251 , 75 , 46 )",
-                        "aff": "National High Magnetic Field Laboratory, Florida State University, 1800 E Paul Dirac Dr., Tallahassee, Florida 32310, USA"
-                  },
-                  "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                              -84.343774,
-                              30.413101
+                              12.606469,
+                              41.862796
                         ]
                   }
             },
@@ -801,14 +777,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 293,
                         "paneName": "pane007",
-                        "color": "rgb( 252 , 111 , 57 )",
+                        "color": "rgb( 246 , 105 , 60 )",
                         "aff": "National Plant Phenomics Centre, Institute of Biological, Environmental, and Rural Sciences (IBERS), Aberystwyth University, Gogerddan, Aberystwyth SY23 3EB, United Kingdom"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -4.093156,
-                              52.420274
+                              -4.081462,
+                              52.396025
                         ]
                   }
             },
@@ -820,19 +796,19 @@ var microgravity_space_biology =
                         "journal": [
                               "Journal of Applied Microbiology"
                         ],
-                        "cited": 25,
-                        "radius": 40,
+                        "cited": 26,
+                        "radius": 41,
                         "year": 2021,
-                        "zindex": 275,
-                        "paneName": "pane025",
-                        "color": "rgb( 253 , 161 , 69 )",
+                        "zindex": 274,
+                        "paneName": "pane026",
+                        "color": "rgb( 251 , 81 , 68 )",
                         "aff": "Department of Biology, Chemistry and Environmental Sciences College of Arts and Sciences American University of SharjahUniversity City Sharjah United Arab Emirates"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              32.297269,
-                              31.260803
+                              32.303458,
+                              31.24752
                         ]
                   }
             },
@@ -849,14 +825,38 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 47 , 31 )",
+                        "color": "rgb( 251 , 89 , 64 )",
                         "aff": "Innovation Lead, Exploration and Science Thales Alenia Space Italia,Torino,Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              7.67865,
-                              45.079848
+                              7.680729,
+                              45.083507
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Key points for the development of antioxidant cocktails to prevent cellular stress and damage caused by reactive oxygen species (ROS) during manned space missions",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00162-8",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 15,
+                        "radius": 30,
+                        "year": 2021,
+                        "zindex": 285,
+                        "paneName": "pane015",
+                        "color": "rgb( 254 , 109 , 47 )",
+                        "aff": "Colegio de Ciencias Biol\u00f3gicas y Ambientales, Instituto de Microbiolog\u00eda, Universidad San Francisco de Quito (USFQ), 170901 Quito, Ecuador"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -78.443966,
+                              -0.193706
                         ]
                   }
             },
@@ -873,14 +873,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 292,
                         "paneName": "pane008",
-                        "color": "rgb( 254 , 132 , 38 )",
+                        "color": "rgb( 245 , 38 , 59 )",
                         "aff": "Department of Biology, Chemistry and Environmental Sciences, College of Arts and Sciences, American University of Sharjah, University City, Sharjah, United Arab Emirates"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              55.46078,
-                              25.27776
+                              55.476656,
+                              25.309313
                         ]
                   }
             },
@@ -897,14 +897,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 252 , 43 , 30 )",
+                        "color": "rgb( 251 , 48 , 52 )",
                         "aff": "Faculty of Humanities and Social Sciences, Kumamoto University, Kumamoto, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              130.72185,
-                              32.805412
+                              130.704061,
+                              32.819236
                         ]
                   }
             },
@@ -921,14 +921,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 253 , 87 , 28 )",
+                        "color": "rgb( 246 , 109 , 47 )",
                         "aff": "Department of Horticultural Sciences, University of Florida, Gainesville, Florida, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.357765,
-                              29.645236
+                              -82.332984,
+                              29.622835
                         ]
                   }
             },
@@ -945,14 +945,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 274,
                         "paneName": "pane026",
-                        "color": "rgb( 246 , 98 , 29 )",
+                        "color": "rgb( 251 , 38 , 25 )",
                         "aff": "KBR/NASA Ames Research Center, Moffett Field, CA\u00a094035, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.033754,
-                              37.423323
+                              -122.05237,
+                              37.38843
                         ]
                   }
             },
@@ -969,14 +969,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 250 , 116 , 63 )",
+                        "color": "rgb( 246 , 171 , 22 )",
                         "aff": "Princeton University Princeton NJ USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.658819,
-                              40.339143
+                              -74.63814,
+                              40.323123
                         ]
                   }
             },
@@ -991,14 +991,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 249 , 91 , 23 )",
+                        "color": "rgb( 246 , 151 , 43 )",
                         "aff": "Translational Biology, Conrad Prebys Center for Chemical Genomics, Orlando, FL 32827, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.397297,
-                              28.536729
+                              -81.376154,
+                              28.544086
                         ]
                   }
             },
@@ -1015,14 +1015,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 248 , 121 , 60 )",
+                        "color": "rgb( 246 , 139 , 31 )",
                         "aff": "School of Chemistry and Biochemistry, Georgia Institute of Technology, 901 Atlantic Dr. NW, Atlanta, Georgia 30332-0400, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.374323,
-                              33.765424
+                              -84.401878,
+                              33.782377
                         ]
                   }
             },
@@ -1039,14 +1039,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 291,
                         "paneName": "pane009",
-                        "color": "rgb( 251 , 115 , 24 )",
+                        "color": "rgb( 248 , 144 , 59 )",
                         "aff": "Institut Curie, Paris Sciences et Lettres Research University Mechanics and Genetics of Embryonic and Tumoral Development Group  Paris France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              2.297757,
-                              48.838809
+                              2.319743,
+                              48.873111
                         ]
                   }
             },
@@ -1063,14 +1063,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 292,
                         "paneName": "pane008",
-                        "color": "rgb( 247 , 38 , 48 )",
+                        "color": "rgb( 249 , 48 , 20 )",
                         "aff": "Department of Biomedical Engineering, Rutgers University, 599 Taylor Rd, Piscataway, NJ 08854, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.477878,
-                              40.533171
+                              -74.439215,
+                              40.515554
                         ]
                   }
             },
@@ -1087,14 +1087,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 288,
                         "paneName": "pane012",
-                        "color": "rgb( 251 , 21 , 41 )",
+                        "color": "rgb( 245 , 75 , 41 )",
                         "aff": "Department of Experimental Medicine, \u201cSapienza\u201d University of Rome, Systems Biology Group, Viale Regina Elena 324, Via A. Scarpa 14, 00161 Rome, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              12.495592,
-                              41.917701
+                              12.525963,
+                              41.932899
                         ]
                   }
             },
@@ -1111,14 +1111,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 291,
                         "paneName": "pane009",
-                        "color": "rgb( 254 , 96 , 58 )",
+                        "color": "rgb( 250 , 43 , 66 )",
                         "aff": "Department of Health and Kinesiology, Texas A&M University, College Station, Texas"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -96.366715,
-                              30.59085
+                              -96.371624,
+                              30.594793
                         ]
                   }
             },
@@ -1135,14 +1135,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 247 , 165 , 59 )",
+                        "color": "rgb( 248 , 160 , 46 )",
                         "aff": "Aerospace Research Institute, Ministry of Science Research and Technology, Tehran 14665-834, Iran"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              54.547537,
-                              32.655846
+                              54.581337,
+                              32.635092
                         ]
                   }
             },
@@ -1157,14 +1157,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 174 , 24 )",
+                        "color": "rgb( 248 , 187 , 31 )",
                         "aff": "San Jose State University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -121.894154,
-                              37.327564
+                              -121.86917,
+                              37.338925
                         ]
                   }
             },
@@ -1181,14 +1181,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 86 , 51 )",
+                        "color": "rgb( 254 , 109 , 35 )",
                         "aff": "Research Centre for Natural Sciences"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              19.031031,
-                              47.516431
+                              19.026881,
+                              47.522643
                         ]
                   }
             },
@@ -1205,14 +1205,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 251 , 69 , 46 )",
+                        "color": "rgb( 245 , 217 , 41 )",
                         "aff": "Space Enabled Research Group, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.119307,
-                              42.337463
+                              -71.098616,
+                              42.334234
                         ]
                   }
             },
@@ -1229,14 +1229,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 290,
                         "paneName": "pane010",
-                        "color": "rgb( 249 , 89 , 48 )",
+                        "color": "rgb( 253 , 160 , 49 )",
                         "aff": "Department of Chemistry and Biochemistry, University of South Carolina, Columbia, SC, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.038638,
-                              33.978417
+                              -81.035227,
+                              34.006348
                         ]
                   }
             },
@@ -1253,14 +1253,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 254 , 59 , 54 )",
+                        "color": "rgb( 254 , 126 , 68 )",
                         "aff": "Istituto Italiano di Tecnologia Materials Characterization Facility  Genoa Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.913341,
-                              44.417475
+                              8.943489,
+                              44.394191
                         ]
                   }
             },
@@ -1277,14 +1277,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 289,
                         "paneName": "pane011",
-                        "color": "rgb( 247 , 179 , 62 )",
+                        "color": "rgb( 250 , 144 , 32 )",
                         "aff": "Global HealthShare\u00ae Initiative, University of California, Davis, CA, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -121.75072,
-                              38.502408
+                              -121.747064,
+                              38.539065
                         ]
                   }
             },
@@ -1299,14 +1299,14 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 245 , 66 , 40 )",
+                        "color": "rgb( 247 , 52 , 61 )",
                         "aff": "Laboratory of Microbiology, Wageningen University &amp; Research, Wageningen, The Netherlands"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              5.672911,
-                              51.979953
+                              5.666162,
+                              51.952108
                         ]
                   }
             },
@@ -1323,14 +1323,3944 @@ var microgravity_space_biology =
                         "year": 2021,
                         "zindex": 294,
                         "paneName": "pane006",
-                        "color": "rgb( 250 , 21 , 45 )",
+                        "color": "rgb( 252 , 165 , 29 )",
                         "aff": "CELLINK AB Gothenburg Sweden"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              11.979444,
-                              57.684722
+                              11.972861,
+                              57.718272
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Evaluating the long-term effect of space radiation on the reproductive normality of mammalian sperm preserved on the International Space Station",
+                        "url": "https://dx.doi.org/10.1126/sciadv.abg5554",
+                        "journal": [
+                              "Science Advances"
+                        ],
+                        "cited": 12,
+                        "radius": 27,
+                        "year": 2021,
+                        "zindex": 288,
+                        "paneName": "pane012",
+                        "color": "rgb( 251 , 162 , 66 )",
+                        "aff": "Advanced Engineering Services Co. Ltd, Tsukuba, Ibaraki 305-0032, Japan."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              140.066496,
+                              36.090764
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Characteristics of blood proteome changes in hemorrhagic syndrome after head-up tilt test during 21-day Dry Immersion",
+                        "url": "https://dx.doi.org/10.1016/j.actaastro.2021.08.044",
+                        "journal": [
+                              "Acta Astronautica"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 248 , 181 , 68 )",
+                        "aff": "Center for Computational and Data-Intensive Science and Engineering, Skolkovo Institute of Science and Technology, Bolshoy Boulevard 30, bld. 1, Moscow, Russia 121205"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              37.646437,
+                              55.832651
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Mammalian and Invertebrate Models as Complementary Tools for Gaining Mechanistic Insight on Muscle Responses to Spaceflight",
+                        "url": "https://dx.doi.org/10.3390/ijms22179470",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 253 , 196 , 68 )",
+                        "aff": "Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.072635,
+                              37.407877
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Cell responses to simulated microgravity and hydrodynamic stress can be distinguished by using comparative transcriptomic analysis",
+                        "url": "https://dx.doi.org/10.1101/2021.10.20.465119",
+                        "journal": "Cold Spring Harbor Laboratory",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 251 , 59 , 27 )",
+                        "aff": "Karolinska Institute"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              17.956049,
+                              59.203812
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The Effect of Space Travel on Bone Metabolism: Considerations on Today\u2019s Major Challenges and Advances in Pharmacology",
+                        "url": "https://dx.doi.org/10.3390/ijms22094585",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 10,
+                        "radius": 25,
+                        "year": 2021,
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 250 , 205 , 48 )",
+                        "aff": "ASAcampus Joint Laboratory, ASA Research Division, Department of Experimental and Clinical Biomedical Sciences \u201cM. Serio\u201d, University of Florence, Viale Pieraccini 6, 50139 Florence, Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              11.246893,
+                              43.827492
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Simulating microgravity using a random positioning machine for inducing cellular responses to mechanotransduction in human osteoblasts",
+                        "url": "https://dx.doi.org/10.1063/5.0056366",
+                        "journal": [
+                              "Review of Scientific Instruments"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 246 , 131 , 44 )",
+                        "aff": "Department of Biophysics, University of Michigan, Ann Arbor, Michigan 48109, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -83.715572,
+                              42.274501
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Differential Gene Expression Analysis of Mice Thymi After Spaceflight",
+                        "url": "https://dx.doi.org/10.31979/etd.3d6q-7yvj",
+                        "journal": "San Jose State University Library",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 245 , 21 , 65 )",
+                        "aff": "San Jose State University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -121.867857,
+                              37.331106
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Investigation on P-Glycoprotein Function and Its Interacting Proteins under Simulated Microgravity",
+                        "url": "https://dx.doi.org/10.34133/2021/9835728",
+                        "journal": [
+                              "Space: Science &amp; Technology"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 246 , 24 , 35 )",
+                        "aff": "Department of Biology, Government College Mankera, University of Sargodha, Sargodha, Pakistan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              72.675108,
+                              32.077687
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Microbial Pathogenicity in Space",
+                        "url": "https://dx.doi.org/10.3390/pathogens10040450",
+                        "journal": [
+                              "Pathogens"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 248 , 83 , 67 )",
+                        "aff": "Macau University of Science and Technology"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              113.546722,
+                              22.176986
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Seven years of progress in determining fungal diversity and characterization of fungi isolated from the Japanese Experiment Module KIBO, International Space Station",
+                        "url": "https://dx.doi.org/10.1111/1348-0421.12931",
+                        "journal": [
+                              "Microbiology and Immunology"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 248 , 129 , 33 )",
+                        "aff": "JEM Utilization Center, Human Spaceflight Technology Directorate Japan Aerospace Exploration Agency (JAXA)  Ibaraki Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              140.454125,
+                              36.309866
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A Common Habitat Basecamp for Moon and Mars Surface Operations",
+                        "url": "https://dx.doi.org/10.2514/6.2021-4065",
+                        "journal": [
+                              "ASCEND 2021"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 250 , 157 , 23 )",
+                        "aff": "NASA Johnson Space Center"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -95.109237,
+                              29.561304
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Hindlimb suspension in Wistar rats: Sex\u2010based differences in muscle response",
+                        "url": "https://dx.doi.org/10.14814/phy2.15042",
+                        "journal": [
+                              "Physiological Reports"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 250 , 46 , 65 )",
+                        "aff": "Department of Athletic Training and Clinical Nutrition University of Kentucky Lexington Kentucky USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -85.165543,
+                              37.549257
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A Protective Strategy to Counteract the Oxidative Stress Induced by Simulated Microgravity on H9C2 Cardiomyocytes",
+                        "url": "https://dx.doi.org/10.1155/2021/9951113",
+                        "journal": [
+                              "Oxidative Medicine and Cellular Longevity"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 254 , 95 , 39 )",
+                        "aff": "Department of Medicine and Aging Sciences, University \u201cG. d\u2019Annunzio\u201d of Chieti-Pescara, Chieti 66100, Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              14.166685,
+                              42.364523
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "mRNA-Sequencing Pipeline for Differential Gene Expression Analysis",
+                        "url": "https://dx.doi.org/10.31979/etd.t8au-pfgt",
+                        "journal": "San Jose State University Library",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 250 , 91 , 24 )",
+                        "aff": "San Jose State University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -121.900939,
+                              37.335032
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Draft Genome Sequences of Fungi Isolated from the International Space Station during the Microbial Tracking-2 Experiment",
+                        "url": "https://dx.doi.org/10.1128/mra.00751-21",
+                        "journal": [
+                              "Microbiology Resource Announcements"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 251 , 213 , 42 )",
+                        "aff": "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, New York, New York, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -115.178629,
+                              36.07874
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Notional Habitat Science Outfitting for a Lunar Surface Habitat or Mars Transit Habitat",
+                        "url": "https://dx.doi.org/10.2514/6.2021-4021",
+                        "journal": [
+                              "ASCEND 2021"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 254 , 77 , 40 )",
+                        "aff": "NASA Johnson Space Center"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -95.092958,
+                              29.542639
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The current state and future trends of space nutrition from a perspective of astronauts' physiology",
+                        "url": "https://dx.doi.org/10.1016/j.ijgfs.2021.100324",
+                        "journal": [
+                              "International Journal of Gastronomy and Food Science"
+                        ],
+                        "cited": 13,
+                        "radius": 28,
+                        "year": 2021,
+                        "zindex": 287,
+                        "paneName": "pane013",
+                        "color": "rgb( 250 , 60 , 54 )",
+                        "aff": "Laboratory of Solid State ChemistryInstitute of Solid State Chemistry and Mechanochemistry Russian Academy of Sciences Novosibirsk Russia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              82.911957,
+                              55.010337
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Manned space travel: from a race between nations to a race against the environmental stressors beyond earth",
+                        "url": "https://dx.doi.org/10.1080/26896583.2021.1899719",
+                        "journal": [
+                              "Journal of Environmental Science and Health, Part C"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 249 , 167 , 48 )",
+                        "aff": "Department of Environmental and Occupational Health, University of Arkansas for Medical Sciences, Little Rock, AR"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -92.292575,
+                              34.752437
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A NEW ANALYTICAL MODELING FOR FRACTAL BLASIUS EQUATION IN MICROGRAVITY SPACE",
+                        "url": "https://dx.doi.org/10.1142/s0218348x21501905",
+                        "journal": [
+                              "Fractals"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 245 , 80 , 37 )",
+                        "aff": "School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo 454003, P. R. China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              104.979375,
+                              34.984597
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A lasting symbiosis: how the Hawaiian bobtail squid finds and keeps its bioluminescent bacterial partner",
+                        "url": "https://dx.doi.org/10.1038/s41579-021-00567-y",
+                        "journal": [
+                              "Nature Reviews Microbiology"
+                        ],
+                        "cited": 34,
+                        "radius": 49,
+                        "year": 2021,
+                        "zindex": 266,
+                        "paneName": "pane034",
+                        "color": "rgb( 252 , 167 , 44 )",
+                        "aff": "Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT 06269 USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -72.228286,
+                              41.805328
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Detection of DNA Microsatellites Using Multiplex Polymerase Chain Reaction Aboard the International Space Station",
+                        "url": "https://dx.doi.org/10.2478/gsr-2021-0013",
+                        "journal": [
+                              "Gravitational and Space Research"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 246 , 115 , 27 )",
+                        "aff": "Boeing , Houston , TX , USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -95.097247,
+                              29.572415
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Robot-assisted surgery in space: pros and cons. A review from the surgeon\u2019s point of view",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00183-3",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 253 , 167 , 25 )",
+                        "aff": "School of Medicine University of Florence Florence Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              11.231659,
+                              43.769755
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Human torpor: translating insights from nature into manned deep space expedition",
+                        "url": "https://dx.doi.org/10.1111/brv.12671",
+                        "journal": [
+                              "Biological Reviews"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 252 , 64 , 64 )",
+                        "aff": "Research Center for Pharmacology and Toxicology, Institute of Medicinal Plant Development (IMPLAD) Chinese Academy of Medical Sciences and Peking Union Medical College Beijing 100193 China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              116.284471,
+                              40.030918
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Nutritional Orthopedics and Space Nutrition as Two Sides of the Same Coin: A Scoping Review",
+                        "url": "https://dx.doi.org/10.3390/nu13020483",
+                        "journal": [
+                              "Nutrients"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 246 , 194 , 62 )",
+                        "aff": "Scientific Direction, IRCCS Istituto Ortopedico Galeazzi  Milano Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              9.20807,
+                              45.454719
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The World Smallest Plants (Wolffia Sp.) as Potential Species for Bioregenerative Life Support Systems in Space",
+                        "url": "https://dx.doi.org/10.3390/plants10091896",
+                        "journal": [
+                              "Plants"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 246 , 117 , 65 )",
+                        "aff": "Department of Agricultural Sciences University of Naples Federico II via Universit\u00e0 100 80055 Portici (NA) Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              12.653038,
+                              42.645009
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Draft Genome Sequences of Various Bacterial Phyla Isolated from the International Space Station",
+                        "url": "https://dx.doi.org/10.1128/mra.00214-21",
+                        "journal": [
+                              "Microbiology Resource Announcements"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 253 , 37 , 57 )",
+                        "aff": "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, New York, New York, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -115.19912,
+                              36.095095
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Bone health in spacefaring rodents and primates: systematic review and meta-analysis",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00147-7",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 252 , 105 , 29 )",
+                        "aff": "Faculty of Dentistry, McGill University, Montreal, Quebec, Canada."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -73.58586,
+                              45.485309
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Effects of Simulated Weightlessness on Metabolizing Enzymes and Pharmacokinetics of Folic Acid in SD Rats",
+                        "url": "https://dx.doi.org/10.1248/bpb.b20-00299",
+                        "journal": [
+                              "Biological and Pharmaceutical Bulletin"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 246 , 44 , 32 )",
+                        "aff": "China Astronaut Research and Training Center"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -83.082067,
+                              41.579962
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Novel method for evaluating the health condition of mice in space through a video downlink",
+                        "url": "https://dx.doi.org/10.1538/expanim.20-0102",
+                        "journal": [
+                              "Experimental Animals"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 250 , 218 , 30 )",
+                        "aff": "Department of Medical Biochemistry, Tohoku University Graduate School of Medicine, 2-1 Seiryo-Machi, Aoba-ku, Sendai, Miyagi 980-8575, Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              140.8838,
+                              38.256705
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The Rotary Cell Culture System increases NTRK3 Expression and Promotes Neuronal Differentiation and Migratory Ability of Neural Stem Cells Cultured on Collagen Sponge",
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-115776/v1",
+                        "journal": "Research Square Platform LLC",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 251 , 32 , 62 )",
+                        "aff": "Institute of Genetics and Developmental Biology Chinese Academy of Sciences"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              18.438691,
+                              -33.92027
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Robot-assisted surgery in space: pros and cons. A review from the surgeon\u2019s point of view",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00183-3",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 245 , 211 , 63 )",
+                        "aff": "School of Medicine University of Florence Florence Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              11.25575,
+                              43.762088
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Simulated Space Environmental Factors of Weightlessness, Noise and Low Air Pressure Differentially Affect the Circadian Rhythm and Gut Microbiome",
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-362076/v1",
+                        "journal": "Research Square Platform LLC",
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 248 , 30 , 65 )",
+                        "aff": "Sun Yat-Sen University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              113.282887,
+                              23.082592
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The enigmatic Placozoa part 2: Exploring evolutionary controversies and promising questions on earth and in space",
+                        "url": "https://dx.doi.org/10.1002/bies.202100083",
+                        "journal": [
+                              "BioEssays"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 254 , 128 , 29 )",
+                        "aff": "American Museum of Natural History  New York New York USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -73.985852,
+                              40.786949
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Spaceflight and Differential Gene Expression Analysis of Mice Quadriceps Exposed to Microgravity",
+                        "url": "https://dx.doi.org/10.31979/etd.4tt8-8a9h",
+                        "journal": "San Jose State University Library",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 254 , 54 , 69 )",
+                        "aff": "San Jose State University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -121.883125,
+                              37.33673
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Simulated Microgravity Remodels Extracellular Matrix of Osteocommitted Mesenchymal Stromal Cells",
+                        "url": "https://dx.doi.org/10.3390/ijms22115428",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 253 , 218 , 60 )",
+                        "aff": "Cell Physiology Laboratory, Institute of Biomedical ProblemsRussian Academy of SciencesMoscowRussia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              37.60743,
+                              55.738031
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Global transcriptomic analysis of a murine osteocytic cell line subjected to spaceflight",
+                        "url": "https://dx.doi.org/10.1096/fj.202100059r",
+                        "journal": [
+                              "The FASEB Journal"
+                        ],
+                        "cited": 8,
+                        "radius": 23,
+                        "year": 2021,
+                        "zindex": 292,
+                        "paneName": "pane008",
+                        "color": "rgb( 248 , 145 , 54 )",
+                        "aff": "CALM Technologies Inc. Kingston ON Canada"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -85.980929,
+                              50.011873
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Proposed mechanism for reduced jugular vein flow in microgravity",
+                        "url": "https://dx.doi.org/10.14814/phy2.14782",
+                        "journal": [
+                              "Physiological Reports"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 251 , 81 , 37 )",
+                        "aff": "Geisel School of Medicine at Dartmouth College Lebanon NH USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -71.651302,
+                              43.495738
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The CellBox-2 Mission to the International Space Station: Thyroid Cancer Cells in Space",
+                        "url": "https://dx.doi.org/10.3390/ijms22168777",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 252 , 121 , 47 )",
+                        "aff": "Department of Microgravity and Translational Regenerative Medicine University Clinic for Plastic, Aesthetic and Hand SurgeryOtto\u2010von\u2010Guericke University Magdeburg Germany"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              11.647481,
+                              52.143865
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "<i>Fusarium oxysporum</i>as an Opportunistic Fungal Pathogen on<i>Zinnia hybrida</i>Plants Grown on board the International Space Station",
+                        "url": "https://dx.doi.org/10.1089/ast.2020.2399",
+                        "journal": [
+                              "Astrobiology"
+                        ],
+                        "cited": 10,
+                        "radius": 25,
+                        "year": 2021,
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 248 , 134 , 21 )",
+                        "aff": "NASA Exploration Research and Technology Programs, Kennedy Space Center, Florida, USA."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -80.651866,
+                              28.495409
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Hindlimb unloading-induced reproductive suppression via Downregulation of hypothalamic Kiss-1 expression in adult male rats",
+                        "url": "https://dx.doi.org/10.1186/s12958-021-00694-4",
+                        "journal": [
+                              "Reproductive Biology and Endocrinology"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 247 , 165 , 58 )",
+                        "aff": "Department of Physiology, Faculty of Veterinary Medicine, Zagazig University, Zagazig 44519, Egypt"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              31.45759,
+                              30.592791
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Radiation on Earth or in Space: What Does It Change?",
+                        "url": "https://dx.doi.org/10.3390/ijms22073739",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 10,
+                        "radius": 25,
+                        "year": 2021,
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 254 , 191 , 48 )",
+                        "aff": "INSERM, UMR1052, Radiobiology Group, Cancer Research Centre of Lyon, 69003 Lyon, France"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              4.852072,
+                              45.762621
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Function, Proteomic and miRomic Study of a Dry Immersion Model of Microgravity implicates the Wnt/Dkk1/AXIN1 axis in Prothrombotic Platelet Phenotype",
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-610421/v1",
+                        "journal": "Research Square Platform LLC",
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 249 , 193 , 59 )",
+                        "aff": "Institut NeuroMyoG\u00e8ne, Facult\u00e9 de M\u00e9decine Lyon-Est, Universit\u00e9 de Lyon, Lyon, France."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              4.831655,
+                              45.743932
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Effects of Low Dose Space Radiation Exposures on the Splenic Metabolome",
+                        "url": "https://dx.doi.org/10.3390/ijms22063070",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 7,
+                        "radius": 22,
+                        "year": 2021,
+                        "zindex": 293,
+                        "paneName": "pane007",
+                        "color": "rgb( 247 , 33 , 37 )",
+                        "aff": "Department of Oncology, Lombardi Comprehensive Cancer Center, and Department of Biochemistry and Molecular and Cellular Biology, Georgetown University Medical Center, Georgetown University, Washington, DC, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -77.084786,
+                              38.905689
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The impact of deep space radiation on cognitive performance: From biological sex to biomarkers to countermeasures",
+                        "url": "https://dx.doi.org/10.1126/sciadv.abg6702",
+                        "journal": [
+                              "Science Advances"
+                        ],
+                        "cited": 14,
+                        "radius": 29,
+                        "year": 2021,
+                        "zindex": 286,
+                        "paneName": "pane014",
+                        "color": "rgb( 245 , 43 , 44 )",
+                        "aff": "Kavli Institute of Fundamental Neuroscience, University of California, San Francisco, San Francisco, CA, USA."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.456696,
+                              37.764066
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Everything you wanted to know about space radiation but were afraid to ask",
+                        "url": "https://dx.doi.org/10.1080/26896583.2021.1897273",
+                        "journal": [
+                              "Journal of Environmental Science and Health, Part C"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 250 , 64 , 23 )",
+                        "aff": "Department of Physics, Mary Bird Perkins Cancer Center, Baton Rouge, Louisiana, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -91.149571,
+                              30.447115
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Identification of a KLF5-dependent program and drug development for skeletal muscle atrophy",
+                        "url": "https://dx.doi.org/10.1073/pnas.2102895118",
+                        "journal": [
+                              "Proceedings of the National Academy of Sciences"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 248 , 102 , 43 )",
+                        "aff": "Institute of Biomaterials and Bioengineering, Tokyo Medical and Dental University, Tokyo 101-0062, Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              139.779723,
+                              35.688831
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A NOVEL APPROACH FOR FRACTAL BURGERS\u2013BBM EQUATION AND ITS VARIATIONAL PRINCIPLE",
+                        "url": "https://dx.doi.org/10.1142/s0218348x21500596",
+                        "journal": [
+                              "Fractals"
+                        ],
+                        "cited": 15,
+                        "radius": 30,
+                        "year": 2021,
+                        "zindex": 285,
+                        "paneName": "pane015",
+                        "color": "rgb( 253 , 109 , 50 )",
+                        "aff": "School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, P. R. China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              113.241805,
+                              35.19034
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Making Contact: A Review of Robotic Attachment Mechanisms for Extraterrestrial Applications",
+                        "url": "https://dx.doi.org/10.1002/aisy.202100063",
+                        "journal": [
+                              "Advanced Intelligent Systems"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 251 , 44 , 52 )",
+                        "aff": "Mechanical, Materials, and Aerospace Department Illinois Tech  Chicago IL 60616 USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -87.638589,
+                              41.85284
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Knowledge Network Embedding of Transcriptomic Data from Spaceflown Mice Uncovers Signs and Symptoms Associated with Terrestrial Diseases",
+                        "url": "https://dx.doi.org/10.3390/life11010042",
+                        "journal": [
+                              "Life"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 245 , 216 , 24 )",
+                        "aff": "Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.031602,
+                              37.387326
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Adaptation to real 1/6 g moon gravity contributes to plant development and expeditious acclimation to super-freezing",
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-278675/v1",
+                        "journal": "Research Square Platform LLC",
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 252 , 156 , 68 )",
+                        "aff": "Collaborative innovation center for intelligent new energy vehicles, Tongji University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              121.481428,
+                              31.293974
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Root Tropisms: New Insights Leading the Growth Direction of the Hidden Half",
+                        "url": "https://dx.doi.org/10.3390/plants10020220",
+                        "journal": [
+                              "Plants"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 250 , 179 , 30 )",
+                        "aff": "Department of Agricultural Sciences University of Naples Federico II via Universit\u00e0 100 80055 Portici (NA) Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              12.688219,
+                              42.619001
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Metabolomics reveals the defense mechanism of different rice under space flight stress",
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-148667/v1",
+                        "journal": "Research Square Platform LLC",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 246 , 34 , 53 )",
+                        "aff": "Dalian Maritime University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              121.515394,
+                              38.849563
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Review of Biological Effects of Acute and Chronic Radiation Exposure on Caenorhabditis elegans",
+                        "url": "https://dx.doi.org/10.3390/cells10081966",
+                        "journal": [
+                              "Cells"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 249 , 129 , 33 )",
+                        "aff": "Obesity Research Cluster, Texas Tech University, Lubbock, TX, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -101.903182,
+                              33.614366
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Reciprocal Homer1a and Homer2 Isoform Expression Is a Key Mechanism for Muscle Soleus Atrophy in Spaceflown Mice",
+                        "url": "https://dx.doi.org/10.3390/ijms23010075",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 247 , 25 , 20 )",
+                        "aff": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, Germany"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              10.46494,
+                              51.187009
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Novel model of restricted mobility induced osteopenia in zebrafish",
+                        "url": "https://dx.doi.org/10.1111/jfb.14369",
+                        "journal": [
+                              "Journal of Fish Biology"
+                        ],
+                        "cited": 7,
+                        "radius": 22,
+                        "year": 2021,
+                        "zindex": 293,
+                        "paneName": "pane007",
+                        "color": "rgb( 253 , 63 , 38 )",
+                        "aff": "Department of Orthopaedics and Rehabilitation Penn State University, College of Medicine Hershey Pennsylvania USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -77.711433,
+                              40.957453
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Simulation of the mechanical behavior of osteons using artificial gravity devices in microgravity",
+                        "url": "https://dx.doi.org/10.1080/10255842.2021.1901086",
+                        "journal": [
+                              "Computer Methods in Biomechanics and Biomedical Engineering"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 252 , 53 , 62 )",
+                        "aff": "Department of Mechanics, School of Mechanical Engineering, Tianjin University, Tianjin, People\u2019s Republic of China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              117.151138,
+                              39.102492
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Empirical Modeling of Launch-to-LEO Accelerations for Mechanical Characterization of Organoids",
+                        "url": "https://dx.doi.org/10.1115/imece2021-72095",
+                        "journal": [
+                              "Volume 7B: Dynamics, Vibration, and Control"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 249 , 123 , 23 )",
+                        "aff": "Space Tango, Lexington, Kentucky, United States"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -84.490807,
+                              38.070972
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Finite Element Analysis of the Effects of Microgravity Conditions on Shear-Induced Modulation of Stem Cells",
+                        "url": "https://dx.doi.org/10.1109/icbme54433.2021.9750328",
+                        "journal": [
+                              "2021 28th National and 6th International Iranian Conference on Biomedical Engineering (ICBME)"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 245 , 30 , 50 )",
+                        "aff": "Pasteur Institute of Iran,National Cell Bank of Iran,Tehran,Iran"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              51.398244,
+                              35.704551
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Potential Biological Remediation Strategies for Removing Perchlorate from Martian Regolith",
+                        "url": "https://dx.doi.org/10.1089/space.2020.0055",
+                        "journal": [
+                              "New Space"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 245 , 215 , 39 )",
+                        "aff": "Department of Biological Sciences, Winston Salem State University, Winston-Salem, North Carolina, USA."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -80.241804,
+                              36.102101
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Trabecular bone organoids: a micron-scale \u2018humanised\u2019 prototype designed to study the effects of microgravity and degeneration",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00146-8",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 12,
+                        "radius": 27,
+                        "year": 2021,
+                        "zindex": 288,
+                        "paneName": "pane012",
+                        "color": "rgb( 248 , 160 , 59 )",
+                        "aff": "Botnar Research Centre"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -1.21346,
+                              51.76372
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Summary of the Second Bill Morgan Memorial Symposium: an update on low dose biology, epidemiology, its integration and implications for radiation protection",
+                        "url": "https://dx.doi.org/10.1080/09553002.2020.1855373",
+                        "journal": [
+                              "International Journal of Radiation Biology"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 252 , 192 , 48 )",
+                        "aff": "Radiation Safety Research Center, Nuclear Technology Research Laboratory, Central Research Institute of Electric Power Industry (CRIEPI), Tokyo, Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              139.759643,
+                              35.70499
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Spaceflight medical countermeasures: a strategic approach for mitigating effects from solar particle events",
+                        "url": "https://dx.doi.org/10.1080/09553002.2020.1820603",
+                        "journal": [
+                              "International Journal of Radiation Biology"
+                        ],
+                        "cited": 9,
+                        "radius": 24,
+                        "year": 2021,
+                        "zindex": 291,
+                        "paneName": "pane009",
+                        "color": "rgb( 251 , 101 , 52 )",
+                        "aff": "Biological and Physical Sciences Division, NASA Langley Research Center, Hampton, VA, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -76.384087,
+                              37.085789
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Synergistic Effects of Chronic Restraint-Induced Stress and Low-Dose 56Fe-particle Irradiation on Induction of Chromosomal Aberrations in Trp53-Heterozygous Mice",
+                        "url": "https://dx.doi.org/10.1667/rade-20-00218.1",
+                        "journal": [
+                              "Radiation Research"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 252 , 178 , 51 )",
+                        "aff": "Center for Animal Research and Education, Nagoya University, Nagoya 464-8601, Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              136.900515,
+                              35.150029
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A Systematic Review of Product Design for Space Instrument Innovation, Reliability, and Manufacturing",
+                        "url": "https://dx.doi.org/10.3390/machines9100244",
+                        "journal": [
+                              "Machines"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 254 , 78 , 26 )",
+                        "aff": "Hong Kong Polytechnic University, China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              114.173311,
+                              22.292157
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Fundamental Study on Plant-based Regenerative Life-support Systems with Sweetpotato Culture in Space",
+                        "url": "https://dx.doi.org/10.2322/tastj.19.889",
+                        "journal": [
+                              "TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES, AEROSPACE TECHNOLOGY JAPAN"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 252 , 76 , 58 )",
+                        "aff": "Osaka Prefecture University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              135.511241,
+                              34.521078
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "SpaceCHI: Designing Human-Computer Interaction Systems for Space Exploration",
+                        "url": "https://dx.doi.org/10.1145/3411763.3441358",
+                        "journal": [
+                              "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 247 , 214 , 44 )",
+                        "aff": "Responsive Environments MIT Media Lab, United States"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -100.4559,
+                              39.784516
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Revisiting decompression sickness risk and mobility in the context of the SmartSuit, a hybrid planetary spacesuit",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00175-3",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 253 , 217 , 41 )",
+                        "aff": "Department of Health and Kinesiology, Texas A&M University, College Station, Texas"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -96.330185,
+                              30.599991
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "MRI-based quantification of ophthalmic changes in healthy volunteers during acute 15\u00b0 head-down tilt as an analogue to microgravity",
+                        "url": "https://dx.doi.org/10.1098/rsif.2020.0920",
+                        "journal": [
+                              "Journal of The Royal Society Interface"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 254 , 216 , 26 )",
+                        "aff": "Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, GA, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -84.398788,
+                              33.730914
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Analytical Calculations of Some Effects of Tidal Forces on Plants on the International Space Station",
+                        "url": "https://dx.doi.org/10.3390/f12111443",
+                        "journal": [
+                              "Forests"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 248 , 81 , 46 )",
+                        "aff": "Aix Marseille Univ., CNRS, IUSTI UMR 7343, 13013 Marseille, France"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              5.415264,
+                              43.321792
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Temporal changes in the markers of ribosome biogenesis in rat soleus muscle under simulated microgravity",
+                        "url": "https://dx.doi.org/10.1016/j.actaastro.2021.05.036",
+                        "journal": [
+                              "Acta Astronautica"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 247 , 42 , 61 )",
+                        "aff": "Myology Laboratory, Institute of Biomedical Problems, Russian Academy of Sciences, Moscow, Russia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              37.597342,
+                              55.736822
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The Influence of Metabolic Inhibitors, Antibiotics, and Microgravity on Intact Cell MALDI-TOF Mass Spectra of the Cyanobacterium Synechococcus Sp. UPOC S4",
+                        "url": "https://dx.doi.org/10.3390/molecules26061683",
+                        "journal": [
+                              "Molecules"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 250 , 122 , 25 )",
+                        "aff": "Department of Protein Biochemistry and Proteomics, Centre of the Region Han\u00e1 for Biotechnological and Agricultural Research, Faculty of Science; Palack\u00fd University; \u0160lechtitel\u016f 27 Olomouc CZ-783 71 Czech Republic"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              15.315412,
+                              49.747903
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The World Smallest Plants (Wolffia Sp.) as Potential Species for Bioregenerative Life Support Systems in Space",
+                        "url": "https://dx.doi.org/10.3390/plants10091896",
+                        "journal": [
+                              "Plants"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 249 , 54 , 42 )",
+                        "aff": "Department of Agricultural Sciences University of Naples Federico II via Universit\u00e0 100 80055 Portici (NA) Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              12.649446,
+                              42.64608
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Research Flights on Blue Origin's New Shepard",
+                        "url": "https://dx.doi.org/10.2478/gsr-2021-0005",
+                        "journal": [
+                              "Gravitational and Space Research"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 250 , 90 , 43 )",
+                        "aff": "Blue Origin, 21218 76th Ave S, Kent , Washington , USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.261855,
+                              47.408284
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The Case for Space Sexology",
+                        "url": "https://dx.doi.org/10.1080/00224499.2021.2012639",
+                        "journal": [
+                              "The Journal of Sex Research"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 245 , 138 , 34 )",
+                        "aff": "Faculty of Nursing Science, Laval University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -104.53618,
+                              50.409026
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Cell\u2010Free Mitochondrial DNA as a Potential Biomarker for Astronauts' Health",
+                        "url": "https://dx.doi.org/10.1161/jaha.121.022055",
+                        "journal": [
+                              "Journal of the American Heart Association"
+                        ],
+                        "cited": 10,
+                        "radius": 25,
+                        "year": 2021,
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 252 , 91 , 39 )",
+                        "aff": "Center for Translation Medicine Temple University Philadelphia PA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -75.143623,
+                              39.929565
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Mechanism for enhancing the growth of mung bean seedlings under simulated microgravity",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00156-6",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 245 , 117 , 54 )",
+                        "aff": "Graduate School of Agricultural Science Kobe University  1\u20101 Rokkodai\u2010cho Nada Kobe 657\u20108501 Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              136.528831,
+                              34.707631
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Relevance of the Unfolded Protein Response to Spaceflight-Induced Transcriptional Reprogramming in <i>Arabidopsis</i>",
+                        "url": "https://dx.doi.org/10.1089/ast.2020.2313",
+                        "journal": [
+                              "Astrobiology"
+                        ],
+                        "cited": 7,
+                        "radius": 22,
+                        "year": 2021,
+                        "zindex": 293,
+                        "paneName": "pane007",
+                        "color": "rgb( 249 , 196 , 22 )",
+                        "aff": "Department of Plant Biology, Michigan State University, East Lansing, Michigan, USA."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -84.498034,
+                              42.708055
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Soft matter dynamics: A versatile microgravity platform to study dynamics in soft matter",
+                        "url": "https://dx.doi.org/10.1063/5.0062946",
+                        "journal": [
+                              "Review of Scientific Instruments"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 253 , 180 , 21 )",
+                        "aff": "Department TESXS Science Systems Engineering, Airbus Defence and Space, Claude Dornier Str., 88090 Immenstaad, Germany"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              9.357851,
+                              47.641915
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Bio-Inspired Take-Off Maneuver and Control in Vertical Jumping for Quadruped Robot with Manipulator",
+                        "url": "https://dx.doi.org/10.3390/mi12101189",
+                        "journal": [
+                              "Micromachines"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 246 , 137 , 66 )",
+                        "aff": "Department of Aerospace Engineering, Nagoya University, Nagoya, Aichi, Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              136.905251,
+                              35.17865
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Quasi-Passive Resistive Exosuit for Space Activities: Proof of Concept",
+                        "url": "https://dx.doi.org/10.3390/app11083576",
+                        "journal": [
+                              "Applied Sciences"
+                        ],
+                        "cited": 7,
+                        "radius": 22,
+                        "year": 2021,
+                        "zindex": 293,
+                        "paneName": "pane007",
+                        "color": "rgb( 253 , 177 , 63 )",
+                        "aff": "Center for Micro-BioRobotics; Istituto Italiano di Tecnologia; Viale Rinaldo Piaggio 34 56025 Pontedera (Pisa) Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              12.654588,
+                              42.633335
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Theoretical studies on space debris recycling and energy conversion system in the International Space Station",
+                        "url": "https://dx.doi.org/10.1002/eng2.12317",
+                        "journal": [
+                              "Engineering Reports"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 253 , 24 , 62 )",
+                        "aff": "Department of Aerospace Engineering Seoul National University Seoul Republic of Korea"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              18.375594,
+                              43.836095
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Impacts of the Spaceflight to the Immune System",
+                        "url": "https://dx.doi.org/10.46246/kjasem.210016",
+                        "journal": [
+                              "The Korean Journal of Aerospace and Environmental Medicine"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 249 , 74 , 58 )",
+                        "aff": "Department of Otorhinolaryngology, Head and Neck Surgery, Inha University School of Medicine, Incheon, Korea"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              126.710842,
+                              37.479157
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Immediate changes in cardiac autonomic tone and stroke volume during microgravity simulation using head-down tilt",
+                        "url": "https://dx.doi.org/10.25259/ijpp_2_2021",
+                        "journal": [
+                              "Indian Journal of Physiology and Pharmacology"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 253 , 173 , 59 )",
+                        "aff": "Department of Physiology, All India Institute of Medical Sciences, New Delhi, India,"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              77.199651,
+                              28.544621
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Pioneering the Approach to Understand a Trash-to-Gas Experiment in a Microgravity Environment",
+                        "url": "https://dx.doi.org/10.2478/gsr-2021-0006",
+                        "journal": [
+                              "Gravitational and Space Research"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 254 , 162 , 64 )",
+                        "aff": "NASA Intern , Kennedy Space Center , FL"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -80.657361,
+                              28.542474
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Disability in space: Aim high",
+                        "url": "https://dx.doi.org/10.1126/science.abj7353",
+                        "journal": [
+                              "Science"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 249 , 98 , 51 )",
+                        "aff": "Department of Human-Computer Interaction, University of Bremen, 28359 Bremen, Germany."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              8.836869,
+                              53.103984
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Scientific aspirations of the Chinese Space Station program: an interview with Ming Gao",
+                        "url": "https://dx.doi.org/10.1093/nsr/nwab161",
+                        "journal": [
+                              "National Science Review"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 254 , 89 , 55 )",
+                        "aff": "NSR, news editor based, Beijing"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              116.398898,
+                              39.92762
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Exercise-Related Effects on Executive Functions During a Simulated Underwater Extravehicular Activity",
+                        "url": "https://dx.doi.org/10.1177/00187208211032868",
+                        "journal": [
+                              "Human Factors: The Journal of the Human Factors and Ergonomics Society"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 250 , 63 , 24 )",
+                        "aff": "Louisiana State University, Baton Rouge, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -91.179702,
+                              30.387931
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Progress and Challenges in the Biology of FNDC5 and Irisin",
+                        "url": "https://dx.doi.org/10.1210/endrev/bnab003",
+                        "journal": [
+                              "Endocrine Reviews"
+                        ],
+                        "cited": 35,
+                        "radius": 50,
+                        "year": 2021,
+                        "zindex": 265,
+                        "paneName": "pane035",
+                        "color": "rgb( 248 , 96 , 44 )",
+                        "aff": "Department of Cell Biology, Duke University, Durham, NC, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -78.926085,
+                              36.021986
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Exposure to hypergravity during zebrafish development alters cartilage material properties and strain distribution",
+                        "url": "https://dx.doi.org/10.1101/2020.05.26.116046",
+                        "journal": "Cold Spring Harbor Laboratory",
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 246 , 75 , 52 )",
+                        "aff": "The School of Physiology, Pharmacology and Neuroscience, Biomedical Sciences, University of Bristol, Bristol BS8 1TD, UK"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -2.621862,
+                              51.45827
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Nrf2 plays a critical role in the metabolic response during and after spaceflight",
+                        "url": "https://dx.doi.org/10.1038/s42003-021-02904-6",
+                        "journal": [
+                              "Communications Biology"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 253 , 198 , 26 )",
+                        "aff": "Tohoku Medical Megabank OrganizationTohoku University Sendai Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              140.882417,
+                              38.245787
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Out of sight, out of mind: the invisibility of female African athletes in sports and exercise medicine research",
+                        "url": "https://dx.doi.org/10.1136/bjsports-2021-104202",
+                        "journal": [
+                              "British Journal of Sports Medicine"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 246 , 130 , 56 )",
+                        "aff": "African Evaluation and Research Development, Johannesburg"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              28.058673,
+                              -26.221255
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Bacterial Cellulose Retains Robustness but Its Synthesis Declines After Exposure to a Mars-like Environment Simulated Outside the International Space Station",
+                        "url": "https://dx.doi.org/10.1089/ast.2020.2332",
+                        "journal": [
+                              "Astrobiology"
+                        ],
+                        "cited": 13,
+                        "radius": 28,
+                        "year": 2021,
+                        "zindex": 287,
+                        "paneName": "pane013",
+                        "color": "rgb( 251 , 29 , 23 )",
+                        "aff": "German Aerospace Center (DLR) Berlin, Institute of Planetary Research, Planetary Laboratories, Astrobiological Laboratories, Berlin, Germany."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              13.40443,
+                              52.529868
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "An era of brain-computer interface: BCI migration into space",
+                        "url": "https://dx.doi.org/10.31117/neuroscirn.v3i5.68",
+                        "journal": [
+                              "Neuroscience Research Notes"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 245 , 182 , 37 )",
+                        "aff": "Department of Computer Science and Engineering, J.K. Lakshmipat University, Jaipur, India & Department of Computer Engineering, Tongmyong University, Busan, South Korea"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              129.094027,
+                              35.113777
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Revival of Anhydrobiotic Cyanobacterium Biofilms Exposed to Space Vacuum and Prolonged Dryness: Implications for Future Missions beyond Low Earth Orbit",
+                        "url": "https://dx.doi.org/10.1089/ast.2020.2359",
+                        "journal": [
+                              "Astrobiology"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 249 , 49 , 54 )",
+                        "aff": "German Aerospace Center, Institute of Aerospace Medicine, Cologne, Germany."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              6.959801,
+                              50.938091
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Uncovering Transcriptional Responses to Fractional Gravity in Arabidopsis Roots",
+                        "url": "https://dx.doi.org/10.3390/life11101010",
+                        "journal": [
+                              "Life"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 245 , 50 , 45 )",
+                        "aff": "Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, U.S.A."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -78.69309,
+                              35.749173
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Re: W\u00e5hlin et\u00a0al.: Optic nerve length before and after spaceflight (Ophthalmology. 2021;128:309\u2013316)",
+                        "url": "https://dx.doi.org/10.1016/j.ophtha.2021.01.003",
+                        "journal": [
+                              "Ophthalmology"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 254 , 159 , 33 )",
+                        "aff": "Department of PsychiatryPC Sint\u2010Amandus Beernem Belgium"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              3.302498,
+                              51.142959
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Microbes and space travel \u2013 hope and hazards",
+                        "url": "https://dx.doi.org/10.2217/fmb-2021-0196",
+                        "journal": [
+                              "Future Microbiology"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 248 , 199 , 48 )",
+                        "aff": "Laboratory Medicine, National University Hospital, Singapore"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              103.797337,
+                              1.289809
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Intermittent reloading does not prevent reduction in iron availability and hepcidin upregulation caused by hindlimb unloading",
+                        "url": "https://dx.doi.org/10.1113/ep088339",
+                        "journal": [
+                              "Experimental Physiology"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 249 , 62 , 41 )",
+                        "aff": "Department of Biochemistry CHU  Rennes France"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -1.68781,
+                              48.119132
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The Effect of Simulated Microgravity On The Antioxidant Capacity And Alkaloid Formation In The Hyoscyamus Niger",
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-1040969/v1",
+                        "journal": "Research Square Platform LLC",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 247 , 164 , 27 )",
+                        "aff": "Ministry of Science Research and Technology"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              51.349807,
+                              35.758311
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Draft Genome Sequences of\n            <i>Aspergillus</i>\n            and\n            <i>Penicillium</i>\n            Species Isolated from the International Space Station and Crew Resupply Vehicle Capsule",
+                        "url": "https://dx.doi.org/10.1128/mra.01398-20",
+                        "journal": [
+                              "Microbiology Resource Announcements"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 246 , 164 , 20 )",
+                        "aff": "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, New York, New York, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -115.191324,
+                              36.100465
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Methods for studying MLO-Y4 osteocytes in collagen-hydroxyapatite scaffolds in the rotary cell culture system",
+                        "url": "https://dx.doi.org/10.1080/03008207.2020.1764548",
+                        "journal": [
+                              "Connective Tissue Research"
+                        ],
+                        "cited": 7,
+                        "radius": 22,
+                        "year": 2021,
+                        "zindex": 293,
+                        "paneName": "pane007",
+                        "color": "rgb( 247 , 66 , 42 )",
+                        "aff": "Department of Cell & Systems Biology and the Department of Biological Sciences, University of Toronto Scarborough, Toronto, Ontario, Canada"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -79.164557,
+                              43.765068
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A Systematic Review of Product Design for Space Instrument Innovation, Reliability, and Manufacturing",
+                        "url": "https://dx.doi.org/10.3390/machines9100244",
+                        "journal": [
+                              "Machines"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 254 , 28 , 65 )",
+                        "aff": "Hong Kong Polytechnic University, China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              114.158812,
+                              22.302754
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Capillary driven flow in oval tubes under microgravity",
+                        "url": "https://dx.doi.org/10.1063/5.0040993",
+                        "journal": [
+                              "Physics of Fluids"
+                        ],
+                        "cited": 11,
+                        "radius": 26,
+                        "year": 2021,
+                        "zindex": 289,
+                        "paneName": "pane011",
+                        "color": "rgb( 248 , 77 , 61 )",
+                        "aff": "College of Engineering and Science, University of Chinese Academy of Sciences, Beijing 100049, China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              116.22501,
+                              39.898738
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "European eel population at risk of collapse",
+                        "url": "https://dx.doi.org/10.1126/science.abj3359",
+                        "journal": [
+                              "Science"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 249 , 137 , 61 )",
+                        "aff": "Universiti Malaysia Terengganu, Terengganu, Malaysia."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              103.09252,
+                              5.429747
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A Meta-Analysis of the Effects of High-LET Ionizing Radiations in Human Gene Expression",
+                        "url": "https://dx.doi.org/10.3390/life11020115",
+                        "journal": [
+                              "Life"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 251 , 178 , 25 )",
+                        "aff": "Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.037219,
+                              37.423562
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Heat transport in a flowing complex plasma in microgravity conditions",
+                        "url": "https://dx.doi.org/10.1063/5.0069672",
+                        "journal": [
+                              "Physics of Plasmas"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 248 , 80 , 28 )",
+                        "aff": "Gagarin Research and Test Cosmonaut Training Center, 141160 Star City, Moscow Region, Russia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              38.975862,
+                              45.042174
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Containerless Bioorganic Reactions in a Floating Droplet by Levitation Technique Using an Ultrasonic Wave",
+                        "url": "https://dx.doi.org/10.1002/advs.202002780",
+                        "journal": [
+                              "Advanced Science"
+                        ],
+                        "cited": 7,
+                        "radius": 22,
+                        "year": 2021,
+                        "zindex": 293,
+                        "paneName": "pane007",
+                        "color": "rgb( 254 , 71 , 34 )",
+                        "aff": "Department of Mechanical Engineering Faculty of Science and Technology Keio University  3\u201014\u20101 Hiyoshi, Kohoku\u2010ku Yokohama Kanagawa 223\u20108522 Japan"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              139.629562,
+                              35.542336
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Respiration Measurements of Individual Tardigrades of the Species <i>Richtersius</i> cf <i>coronifer</i> as a Function of Temperature and Salinity and Termination of Anhydrobiosis",
+                        "url": "https://dx.doi.org/10.1089/ast.2020.2371",
+                        "journal": [
+                              "Astrobiology"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 248 , 158 , 68 )",
+                        "aff": "Department of Biology: Zoophysiology Section, Aarhus University, Aarhus C, Denmark."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              10.227968,
+                              56.143206
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Regular exercise counteracts circadian shifts in core body temperature during long-duration bed rest",
+                        "url": "https://dx.doi.org/10.1038/s41526-020-00129-1",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 10,
+                        "radius": 25,
+                        "year": 2021,
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 253 , 160 , 31 )",
+                        "aff": "School of Exercise and Nutrition Sciences Institute for Physical Activity and Nutrition Deakin University Geelong Victoria Australia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              144.66622,
+                              -36.602415
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Human Crewed Interplanetary Transport Architecture for a Roundtrip Exploration of Mars and Ceres: Research Study",
+                        "url": "https://dx.doi.org/10.2514/6.2021-4195",
+                        "journal": [
+                              "ASCEND 2021"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 252 , 63 , 34 )",
+                        "aff": "American Institute of Aeronautics and Astronautics"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -77.39137,
+                              38.971741
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Effect of surface heat exchange on phase change materials melting with thermocapillary flow in microgravity",
+                        "url": "https://dx.doi.org/10.1063/5.0058869",
+                        "journal": [
+                              "Physics of Fluids"
+                        ],
+                        "cited": 7,
+                        "radius": 22,
+                        "year": 2021,
+                        "zindex": 293,
+                        "paneName": "pane007",
+                        "color": "rgb( 245 , 21 , 55 )",
+                        "aff": "E-USOC, Center for Computational Simulation, Escuela T\u00e9cnica Superior de Ingenier\u00eda Aeron\u00e1utica y del Espacio, Universidad Polit\u00e9cnica de Madrid, Plaza de Cardenal Cisneros 3, 28040 Madrid, Spain"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -3.702877,
+                              40.453403
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Real-Time Culture-Independent Microbial Profiling Onboard the International Space Station Using Nanopore Sequencing",
+                        "url": "https://dx.doi.org/10.3390/genes12010106",
+                        "journal": [
+                              "Genes"
+                        ],
+                        "cited": 21,
+                        "radius": 36,
+                        "year": 2021,
+                        "zindex": 279,
+                        "paneName": "pane021",
+                        "color": "rgb( 247 , 202 , 66 )",
+                        "aff": "Department of Biomolecular Engineering and Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.079948,
+                              37.016217
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Medical countermeasures for radiation induced health effects: report of an Interagency Panel Session held at the NASA Human Research Program Investigator\u2019s Workshop, 26 January 2017",
+                        "url": "https://dx.doi.org/10.1080/09553002.2019.1665214",
+                        "journal": [
+                              "International Journal of Radiation Biology"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 245 , 96 , 69 )",
+                        "aff": "Division of Allergy, Immunology and Transplantation (DAIT), Radiation and Nuclear Countermeasures Program (RNCP), National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH), Rockville, MD, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -77.135879,
+                              39.089175
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "An Examination of Bone Loss During Space Travel with Differential Gene Expression Analysis",
+                        "url": "https://dx.doi.org/10.31979/etd.an9m-wtkd",
+                        "journal": "San Jose State University Library",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 253 , 198 , 68 )",
+                        "aff": "San Jose State University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -121.888124,
+                              37.353722
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Organs-on-chips: into the next decade",
+                        "url": "https://dx.doi.org/10.1038/s41573-020-0079-3",
+                        "journal": [
+                              "Nature Reviews Drug Discovery"
+                        ],
+                        "cited": 267,
+                        "radius": 50,
+                        "year": 2021,
+                        "zindex": 33,
+                        "paneName": "pane267",
+                        "color": "rgb( 253 , 139 , 43 )",
+                        "aff": "National Center for Advancing Translational Sciences, National Center for Advancing Translational Sciences, National Institutes of Health, Bethesda, MD, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -77.103458,
+                              38.976959
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Massless Exploration\u2014Humans as a Solar System Species",
+                        "url": "https://dx.doi.org/10.1061/9780784483374.056",
+                        "journal": [
+                              "Earth and Space 2021"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 254 , 194 , 61 )",
+                        "aff": "Retired; formerly, NASA Glenn Research Center, Cleveland, OH"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -81.676136,
+                              41.487906
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Plantar Mechanical Stimulation Maintains Slow Myosin Expression in Disused Rat Soleus Muscle via NO-Dependent Signaling",
+                        "url": "https://dx.doi.org/10.3390/ijms22031372",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 12,
+                        "radius": 27,
+                        "year": 2021,
+                        "zindex": 288,
+                        "paneName": "pane012",
+                        "color": "rgb( 247 , 206 , 57 )",
+                        "aff": "Myology Laboratory, Institute of Biomedical Problems, Russian Academy of Sciences, Moscow, Russia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              37.610672,
+                              55.715329
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Human Mars Exploration and Expedition Challenges",
+                        "url": "https://dx.doi.org/10.2514/6.2021-0628",
+                        "journal": [
+                              "AIAA Scitech 2021 Forum"
+                        ],
+                        "cited": 13,
+                        "radius": 28,
+                        "year": 2021,
+                        "zindex": 287,
+                        "paneName": "pane013",
+                        "color": "rgb( 246 , 213 , 40 )",
+                        "aff": "Pondicherry University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              79.840916,
+                              12.024415
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Mental imagery of object motion in weightlessness",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00179-z",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 247 , 174 , 44 )",
+                        "aff": "Laboratory of Neuromotor Physiology of the IRCCS Santa Lucia Foundation; Rome Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              12.483872,
+                              41.885791
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Hanger forces optimization of ground test device on deployable structure",
+                        "url": "https://dx.doi.org/10.1177/09560599211005099",
+                        "journal": [
+                              "International Journal of Space Structures"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 252 , 101 , 25 )",
+                        "aff": "The 14th Research Institute of China Electronics Technology Group Corporation, Nanjing, China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              118.781076,
+                              32.037768
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Reducing intracranial pressure by reducing central venous pressure: assessment of potential countermeasures to spaceflight-associated neuro-ocular syndrome",
+                        "url": "https://dx.doi.org/10.1152/japplphysiol.00786.2020",
+                        "journal": [
+                              "Journal of Applied Physiology"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 250 , 203 , 63 )",
+                        "aff": "Departments of Neurology and Neurological Surgery, University of Washington School of Medicine, Seattle, Washington"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.314903,
+                              47.591278
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "What is normal bone health? A bioarchaeological perspective on meaningful measures and interpretations of bone strength, loss, and aging",
+                        "url": "https://dx.doi.org/10.1002/ajhb.23647",
+                        "journal": [
+                              "American Journal of Human Biology"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 254 , 219 , 58 )",
+                        "aff": "Department of Anthropology University of California Berkeley  Berkeley California USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -118.780523,
+                              36.703805
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Failla Memorial Lecture: The Many Facets of Heavy-Ion Science",
+                        "url": "https://dx.doi.org/10.1667/rade-21-00029.1",
+                        "journal": [
+                              "Radiation Research"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 245 , 168 , 66 )",
+                        "aff": "Biophysics Department, GSI Helmholtzzentrum f\u00fcr Schwerionenforschung, 64291 Darmstadt, Germany; and Technische Universit\u00e4t Darmstadt, Institute of Condensed Matter Physics, 64289 Darmstadt, Germany"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              8.686639,
+                              49.91265
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Jumping at a chance to control cerebral blood flow in astronauts",
+                        "url": "https://dx.doi.org/10.1113/ep089648",
+                        "journal": [
+                              "Experimental Physiology"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 252 , 166 , 62 )",
+                        "aff": "Institute for Neuroradiology, University Hospital Ludwig\u2010Maximilians\u2010University Munich  Munich Germany"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              11.565357,
+                              48.157887
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Dielectrophoresis-driven jet impingement heat transfers in microgravity conditions",
+                        "url": "https://dx.doi.org/10.1063/5.0055948",
+                        "journal": [
+                              "Physics of Fluids"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 250 , 115 , 29 )",
+                        "aff": "Grenoble-INP, Univ. Grenoble Alpes, CNRS, SIMaP Laboratory, EPM Group, 38402 Saint Martin d'H\u00e8res, France"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              1.911627,
+                              46.582933
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Preliminary study of the physiological demands of ...",
+                        "url": "https://dx.doi.org/10.2514/6.iac-05-a1.p.02",
+                        "journal": [
+                              "56th International Astronautical Congress of the International Astronautical Federation, the International Academy of Astronautics, and the International Institute of Space Law"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 251 , 150 , 33 )",
+                        "aff": "University of Waterloo, Canada"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -80.545951,
+                              43.494639
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Design of Mars Underground Habitat for Human Settlement on Mars",
+                        "url": "https://dx.doi.org/10.2514/6.2021-2788",
+                        "journal": [
+                              "AIAA AVIATION 2021 FORUM"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 250 , 21 , 50 )",
+                        "aff": "University of Vigo"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -87.299694,
+                              39.479395
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Lunar Agriculture: Farming for the Future",
+                        "url": "https://dx.doi.org/10.1061/9780784483374.060",
+                        "journal": [
+                              "Earth and Space 2021"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 249 , 195 , 37 )",
+                        "aff": "Satish Dhawan Space Centre, Sriharikota, Nellore District, AP, India."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              79.870861,
+                              14.597496
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Picroscope: low-cost system for simultaneous longitudinal biological imaging",
+                        "url": "https://dx.doi.org/10.1038/s42003-021-02779-7",
+                        "journal": [
+                              "Communications Biology"
+                        ],
+                        "cited": 21,
+                        "radius": 36,
+                        "year": 2021,
+                        "zindex": 279,
+                        "paneName": "pane021",
+                        "color": "rgb( 252 , 183 , 41 )",
+                        "aff": "The Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California, San Francisco, San Francisco, United States"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.462369,
+                              37.777818
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Physical Exercise Intensity During Submersion Selectively Affects Executive Functions",
+                        "url": "https://dx.doi.org/10.1177/0018720819879313",
+                        "journal": [
+                              "Human Factors: The Journal of the Human Factors and Ergonomics Society"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 245 , 208 , 49 )",
+                        "aff": "Johannes Gutenberg-University Mainz, Germany"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              8.223333,
+                              50.000559
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The Impact of Hindlimb Suspension on the Rat Eye: A Molecular and Histological Analysis of the Retina",
+                        "url": "https://dx.doi.org/10.2478/gsr-2021-0007",
+                        "journal": [
+                              "Gravitational and Space Research"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 247 , 124 , 55 )",
+                        "aff": "KBR, NASA Ames Research Center , Moffett Field , CA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.071853,
+                              37.428143
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Time to amend the US Clean Water Act",
+                        "url": "https://dx.doi.org/10.1126/science.abj3438",
+                        "journal": [
+                              "Science"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 247 , 205 , 58 )",
+                        "aff": "O'Neill School of Public and Environmental Affairs, Indiana University, Bloomington, IN 47405, USA."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -86.500058,
+                              39.182606
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Blood, Sweat and Tears: Extraterrestrial Regolith Biocomposites with in Vivo Binders",
+                        "url": "https://dx.doi.org/10.26434/chemrxiv.14769369.v1",
+                        "journal": "American Chemical Society (ACS)",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 248 , 71 , 57 )",
+                        "aff": "University of Manchester"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -2.243799,
+                              53.489963
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "The effect of Irisin on bone cells <i>in vivo</i> and <i>in vitro</i>",
+                        "url": "https://dx.doi.org/10.1042/bst20200978",
+                        "journal": [
+                              "Biochemical Society Transactions"
+                        ],
+                        "cited": 14,
+                        "radius": 29,
+                        "year": 2021,
+                        "zindex": 286,
+                        "paneName": "pane014",
+                        "color": "rgb( 248 , 135 , 67 )",
+                        "aff": "Department of Clinical Pathology, University Hospital of Bari, Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              12.655179,
+                              42.633528
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Bone health in spacefaring rodents and primates: systematic review and meta-analysis",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00147-7",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 247 , 67 , 24 )",
+                        "aff": "Faculty of Dentistry, McGill University, Montreal, Quebec, Canada."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -73.568713,
+                              45.502809
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Relations Between Bone Quantity, Microarchitecture, and Collagen Cross\u2010links on Mechanics Following In Vivo Irradiation in Mice",
+                        "url": "https://dx.doi.org/10.1002/jbm4.10545",
+                        "journal": [
+                              "JBMR Plus"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 246 , 202 , 63 )",
+                        "aff": "Department of Bioengineering University of California  Berkeley CA USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -119.175836,
+                              35.513226
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A Study on Deep Learning Application of Vibration Data and Visualization of Defects for Predictive Maintenance of Gravity Acceleration Equipment",
+                        "url": "https://dx.doi.org/10.3390/app11041564",
+                        "journal": [
+                              "Applied Sciences"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 252 , 84 , 68 )",
+                        "aff": "Inha Research Institute for Aerospace Medicine, Inha University, Incheon, Korea"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              126.669562,
+                              37.440296
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "An experimental setup for dip-coating of thin films for organic solar cells under microgravity conditions",
+                        "url": "https://dx.doi.org/10.1063/5.0018223",
+                        "journal": [
+                              "Review of Scientific Instruments"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 249 , 41 , 67 )",
+                        "aff": "Swedish Space Corporation, P.O. Box 4207, SE-171 04 Solna, Sweden"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              14.497171,
+                              59.663433
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "A review of past space mission funding and current terrestrial funding mechanisms as consideration for future space infrastructure projects",
+                        "url": "https://dx.doi.org/10.2514/6.2021-4003",
+                        "journal": [
+                              "ASCEND 2021"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 245 , 133 , 36 )",
+                        "aff": "Colorado School of Mines"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -105.221697,
+                              39.749506
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Comparisons of Neurotrophic Effects of Mesenchymal Stem Cells Derived from Different Tissues on Chronic Spinal Cord Injury Rats",
+                        "url": "https://dx.doi.org/10.1089/scd.2021.0070",
+                        "journal": [
+                              "Stem Cells and Development"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 249 , 32 , 60 )",
+                        "aff": "Space Bio-Laboratories Co., Ltd., Hiroshima, Japan."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              132.490759,
+                              34.386304
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Optical and Thermochemical Analysis for Paraffin and Beeswax Centrifugal Casting",
+                        "url": "https://dx.doi.org/10.2514/6.2021-3504",
+                        "journal": [
+                              "AIAA Propulsion and Energy 2021 Forum"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 246 , 119 , 36 )",
+                        "aff": "Massachusetts Institute of Technology"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -71.103945,
+                              42.362688
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Where is my hand in space? The internal model of gravity influences proprioception",
+                        "url": "https://dx.doi.org/10.1098/rsbl.2021.0115",
+                        "journal": [
+                              "Biology Letters"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 250 , 147 , 48 )",
+                        "aff": "School of Psychology, Cardiff University, Cardiff CF10 3AT, UK"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -3.187077,
+                              51.470826
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Spaceflight breeding could improve the volatile constituents of Andrographis paniculata",
+                        "url": "https://dx.doi.org/10.1016/j.indcrop.2021.113967",
+                        "journal": [
+                              "Industrial Crops and Products"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 251 , 215 , 30 )",
+                        "aff": "Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              120.358147,
+                              30.336423
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Shotgun metagenomic analysis of kombucha mutualistic community exposed to Mars\u2010like environment outside the International Space Station",
+                        "url": "https://dx.doi.org/10.1111/1462-2920.15405",
+                        "journal": [
+                              "Environmental Microbiology"
+                        ],
+                        "cited": 11,
+                        "radius": 26,
+                        "year": 2021,
+                        "zindex": 289,
+                        "paneName": "pane011",
+                        "color": "rgb( 246 , 136 , 46 )",
+                        "aff": "Centre for Genomics and Applied Gene Technology Institute of Integrative Omics and Applied Biotechnology (IIOAB), Nonakuri  Purba Medinipur West Bengal India"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              88.548355,
+                              22.964593
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Skeletal Biology and Disease Modeling in Zebrafish",
+                        "url": "https://dx.doi.org/10.1002/jbmr.4256",
+                        "journal": [
+                              "Journal of Bone and Mineral Research"
+                        ],
+                        "cited": 31,
+                        "radius": 46,
+                        "year": 2021,
+                        "zindex": 269,
+                        "paneName": "pane031",
+                        "color": "rgb( 247 , 215 , 22 )",
+                        "aff": "Interdisciplinary Competence Center for Interface Research (ICCIR)  Hamburg Germany"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              9.990603,
+                              53.563894
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Physiological Alterations due to Acceleration and Gravity: A Brief Review of Recent Studies",
+                        "url": "https://dx.doi.org/10.22541/au.163847048.83888511/v1",
+                        "journal": "Authorea, Inc.",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 250 , 51 , 25 )",
+                        "aff": "Electro-Technical University ETU LETI (Alumni), Kazan State Medical University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              49.13887,
+                              55.812923
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Analysis of the Significance of the Influence of Various Components of the Disturbance from a Temperature Shock on the Level of Microaccelerations in the Internal Environment of a Small Spacecraft",
+                        "url": "https://dx.doi.org/10.1007/s12217-020-09867-z",
+                        "journal": [
+                              "Microgravity Science and Technology"
+                        ],
+                        "cited": 5,
+                        "radius": 20,
+                        "year": 2021,
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 248 , 68 , 69 )",
+                        "aff": "Samara National Research University, 443086 Samara, Moskowskoe Shosse, 34, Russia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              38.443114,
+                              56.174416
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Sustaining Resources for <i>Homo Martis</i>: The Potential Application of Synthetic Biology for the Settlement of Mars",
+                        "url": "https://dx.doi.org/10.2478/sh-2022-0001",
+                        "journal": [
+                              "Studia Humana"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 252 , 146 , 27 )",
+                        "aff": "Sherwood Observatory, Mansfield and Sutton Astronomical Society, Coxmoor Road , Sutton-in-Ashfield, Nottinghamshire, NG17 5LF, England, United Kingdom ; Science4U.co.uk, Radcliffe-on-Trent, Nottinghamshire , NG12 2LA, England, United Kingdom"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -1.048674,
+                              52.968929
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Human blood adenosine biomarkers and non\u2010rapid eye movement sleep stage 3 (NREM3) cortical functional connectivity associations during a 30\u2010day head\u2010down\u2010tilt bed rest analogue: Potential effectiveness of a reactive sledge jump as a countermeasure",
+                        "url": "https://dx.doi.org/10.1111/jsr.13323",
+                        "journal": [
+                              "Journal of Sleep Research"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 252 , 42 , 42 )",
+                        "aff": "Department of Agriculture Aristotle University of Thessaloniki Thessaloniki Greece"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              22.93421,
+                              40.628751
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Extraterrestrial artificial photosynthetic materials for <i>in-situ</i> resource utilization",
+                        "url": "https://dx.doi.org/10.1093/nsr/nwab104",
+                        "journal": [
+                              "National Science Review"
+                        ],
+                        "cited": 11,
+                        "radius": 26,
+                        "year": 2021,
+                        "zindex": 289,
+                        "paneName": "pane011",
+                        "color": "rgb( 251 , 109 , 56 )",
+                        "aff": "Macau Institute of Systems Engineering, Macau University of Science and Technology, Macau 999078, China"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              113.567076,
+                              22.161413
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Quantification of radiation-induced DNA double strand break repair foci to evaluate and predict biological responses to ionizing radiation",
+                        "url": "https://dx.doi.org/10.1093/narcan/zcab046",
+                        "journal": [
+                              "NAR Cancer"
+                        ],
+                        "cited": 6,
+                        "radius": 21,
+                        "year": 2021,
+                        "zindex": 294,
+                        "paneName": "pane006",
+                        "color": "rgb( 248 , 74 , 20 )",
+                        "aff": "Universities Space Research Association, 615 National Avenue, Mountain View, CA\u00a094043, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.052643,
+                              37.420149
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Red Alert",
+                        "url": "https://dx.doi.org/10.1161/circep.118.006113",
+                        "journal": [
+                              "Circulation: Arrhythmia and Electrophysiology"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 247 , 88 , 20 )",
+                        "aff": "From the Section of Cardiac Electrophysiology, Division of Cardiology, University of Colorado, Aurora."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -104.86277,
+                              39.725999
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Exposure to hypergravity during zebrafish development alters cartilage material properties and strain distribution",
+                        "url": "https://dx.doi.org/10.1101/2020.05.26.116046",
+                        "journal": "Cold Spring Harbor Laboratory",
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 251 , 171 , 35 )",
+                        "aff": "The School of Physiology, Pharmacology and Neuroscience, Biomedical Sciences, University of Bristol, Bristol BS8 1TD, UK"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -2.586532,
+                              51.478086
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Characterizing SERCA Function in Murine Skeletal Muscles after 35\u201337 Days of Spaceflight",
+                        "url": "https://dx.doi.org/10.3390/ijms222111764",
+                        "journal": [
+                              "International Journal of Molecular Sciences"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 249 , 108 , 23 )",
+                        "aff": "Department of Kinesiology Brock University  St Catharines Ontario Canada"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -86.001966,
+                              50.003127
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Mental imagery of object motion in weightlessness",
+                        "url": "https://dx.doi.org/10.1038/s41526-021-00179-z",
+                        "journal": [
+                              "npj Microgravity"
+                        ],
+                        "cited": 2,
+                        "radius": 17,
+                        "year": 2021,
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 245 , 103 , 56 )",
+                        "aff": "Laboratory of Neuromotor Physiology of the IRCCS Santa Lucia Foundation; Rome Italy"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              12.492019,
+                              41.894805
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Real-Time Culture-Independent Microbial Profiling Onboard the International Space Station Using Nanopore Sequencing",
+                        "url": "https://dx.doi.org/10.3390/genes12010106",
+                        "journal": [
+                              "Genes"
+                        ],
+                        "cited": 21,
+                        "radius": 36,
+                        "year": 2021,
+                        "zindex": 279,
+                        "paneName": "pane021",
+                        "color": "rgb( 247 , 186 , 69 )",
+                        "aff": "Department of Biomolecular Engineering and Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -122.079989,
+                              37.008214
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Antimicrobial Surfaces for Applications on Confined Inhabited Space Stations",
+                        "url": "https://dx.doi.org/10.1002/admi.202100118",
+                        "journal": [
+                              "Advanced Materials Interfaces"
+                        ],
+                        "cited": 1,
+                        "radius": 16,
+                        "year": 2021,
+                        "zindex": 299,
+                        "paneName": "pane001",
+                        "color": "rgb( 251 , 213 , 47 )",
+                        "aff": "European Space Agency (ESA)  ESTEC, Keplerlaan 1, TEC\u2010QEE, PO Box 299 Noordwijk NL\u20102200 AG The Netherlands"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              5.55157,
+                              52.223558
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Space Dosimetry and Space Phantom Experiments",
+                        "url": "https://dx.doi.org/10.1109/aero50100.2021.9438225",
+                        "journal": [
+                              "2021 IEEE Aerospace Conference (50100)"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 246 , 190 , 38 )",
+                        "aff": "Chalmers University of Technology,Gothenburg,Sweden"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              11.98228,
+                              57.66779
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Dynamic Foot Stimulations During Short-Term Hindlimb Unloading Prevent Dysregulation of the Neurotransmission in the Hippocampus of Rats",
+                        "url": "https://dx.doi.org/10.1007/s10571-020-00922-2",
+                        "journal": [
+                              "Cellular and Molecular Neurobiology"
+                        ],
+                        "cited": 3,
+                        "radius": 18,
+                        "year": 2021,
+                        "zindex": 297,
+                        "paneName": "pane003",
+                        "color": "rgb( 245 , 108 , 28 )",
+                        "aff": "Sechenov Institute of Evolutionary Physiology and Biochemistry of the Russian Academy of Sciences Saint\u2010Petersburg Russia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              30.318833,
+                              59.939617
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Reviewing Plasma Seed Treatments for Advancing Agriculture Applications on Earth and Into the Final Frontier",
+                        "url": "https://dx.doi.org/10.2478/gsr-2021-0011",
+                        "journal": [
+                              "Gravitational and Space Research"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 245 , 166 , 57 )",
+                        "aff": "NASA Postdoctoral Program , Universities Space Research Association, Kennedy Space Center , FL , United States"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -80.637976,
+                              28.502439
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Design of an Artificial Intelligence-Based Commercial Photobioreactor for Optimal Algae Growth in Space Life Support",
+                        "url": "https://dx.doi.org/10.1089/space.2021.0018",
+                        "journal": [
+                              "New Space"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 246 , 112 , 62 )",
+                        "aff": "NASA Johnson Space Center, Pearland, Texas, USA."
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -95.286738,
+                              29.549604
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Contemporary biomedical engineering perspective on volitional evolution for human radiotolerance enhancement beyond low-earth orbit",
+                        "url": "https://dx.doi.org/10.1093/synbio/ysab023",
+                        "journal": [
+                              "Synthetic Biology"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2021,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 248 , 175 , 38 )",
+                        "aff": "Radiation Biosciences Laboratory, Medical College of Wisconsin, Milwaukee, WI, USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -88.014994,
+                              43.047202
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Meet me halfway: Are in vitro 3D cancer models on the way to replace in vivo models for nanomedicine development?",
+                        "url": "https://dx.doi.org/10.1016/j.addr.2021.04.001",
+                        "journal": [
+                              "Advanced Drug Delivery Reviews"
+                        ],
+                        "cited": 17,
+                        "radius": 32,
+                        "year": 2021,
+                        "zindex": 283,
+                        "paneName": "pane017",
+                        "color": "rgb( 252 , 197 , 25 )",
+                        "aff": "Department of Physiology and Pharmacology, Sackler Faculty of Medicine, Tel Aviv University, Israel"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              34.79888,
+                              32.11398
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Internet of Things in Space: A Review of Opportunities and Challenges from Satellite-Aided Computing to Digitally-Enhanced Space Living",
+                        "url": "https://dx.doi.org/10.3390/s21238117",
+                        "journal": [
+                              "Sensors"
+                        ],
+                        "cited": 10,
+                        "radius": 25,
+                        "year": 2021,
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 253 , 167 , 56 )",
+                        "aff": "Swinburne University of Technology, John Street, Hawthorn, VIC, Australia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              145.061822,
+                              -37.836074
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Peripheral nerve adaptations to 10 days of horizontal bed rest in healthy young adult males",
+                        "url": "https://dx.doi.org/10.1152/ajpregu.00146.2021",
+                        "journal": [
+                              "American Journal of Physiology-Regulatory, Integrative and Comparative Physiology"
+                        ],
+                        "cited": 4,
+                        "radius": 19,
+                        "year": 2021,
+                        "zindex": 296,
+                        "paneName": "pane004",
+                        "color": "rgb( 250 , 120 , 32 )",
+                        "aff": "Department of Health Sciences, Alma Mater Europaea \u2013 European Center Maribor, Maribor, Slovenia"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              15.658604,
+                              46.56321
                         ]
                   }
             },
@@ -1347,14 +5277,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 96 , 33 )",
+                        "color": "rgb( 249 , 52 , 68 )",
                         "aff": "Center for Advanced Studies and Technology (CAST), University \u201cG. d\u2019Annunzio\u201d of Chieti-Pescara, Chieti 66100, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              14.170316,
-                              42.344251
+                              14.156695,
+                              42.347397
                         ]
                   }
             },
@@ -1371,14 +5301,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 249 , 34 , 60 )",
+                        "color": "rgb( 247 , 192 , 23 )",
                         "aff": "School of Engineering Medicine Beihang University  Beijing China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.371525,
-                              39.901509
+                              116.412477,
+                              39.89864
                         ]
                   }
             },
@@ -1395,14 +5325,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 252 , 131 , 69 )",
+                        "color": "rgb( 245 , 190 , 26 )",
                         "aff": "Department of Experimental Therapy, Institute of Immunology and Experimental Therapy, Polish Academy Sciences, Wroclaw 53-114, Poland"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              17.047823,
-                              51.094148
+                              17.057251,
+                              51.083064
                         ]
                   }
             },
@@ -1419,14 +5349,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 253 , 36 , 42 )",
+                        "color": "rgb( 248 , 143 , 22 )",
                         "aff": "Graduate School of Science, Osaka City University, Osaka, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -111.86739,
-                              40.765181
+                              -111.883003,
+                              40.785366
                         ]
                   }
             },
@@ -1443,14 +5373,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 290,
                         "paneName": "pane010",
-                        "color": "rgb( 248 , 142 , 38 )",
+                        "color": "rgb( 254 , 64 , 34 )",
                         "aff": "Department of Plastic, Aesthetic and Hand Surgery Otto\u2010von\u2010Guericke University Magdeburg Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              11.632245,
-                              52.15271
+                              11.65168,
+                              52.145909
                         ]
                   }
             },
@@ -1467,14 +5397,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 121 , 22 )",
+                        "color": "rgb( 246 , 167 , 61 )",
                         "aff": "Space Biology Unlimited SAS, 24 Cours de l\u2019Intendance, Bordeaux, France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -0.599695,
-                              44.855264
+                              -0.601558,
+                              44.833234
                         ]
                   }
             },
@@ -1491,14 +5421,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 294,
                         "paneName": "pane006",
-                        "color": "rgb( 246 , 40 , 53 )",
+                        "color": "rgb( 251 , 108 , 38 )",
                         "aff": "Institute of Biorobotics, Scuola Superiore Sant\u2019Anna, Via G. Moruzzi, 1 - 56124 Pisa, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              10.439333,
-                              43.707888
+                              10.426092,
+                              43.726068
                         ]
                   }
             },
@@ -1513,14 +5443,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 149 , 65 )",
+                        "color": "rgb( 251 , 154 , 61 )",
                         "aff": "Griffith University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              153.076621,
-                              -27.543089
+                              153.087743,
+                              -27.564088
                         ]
                   }
             },
@@ -1537,14 +5467,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 251 , 155 , 21 )",
+                        "color": "rgb( 253 , 22 , 29 )",
                         "aff": "Rensselaer Polytechnic Institute"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.674933,
-                              42.718172
+                              -73.657116,
+                              42.735707
                         ]
                   }
             },
@@ -1559,14 +5489,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 107 , 52 )",
+                        "color": "rgb( 251 , 159 , 50 )",
                         "aff": "Institute of Food Biotechnology and Genomics, National Academy of Sciences of Ukraine"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              30.545364,
-                              50.46061
+                              30.531968,
+                              50.457591
                         ]
                   }
             },
@@ -1574,23 +5504,21 @@ var microgravity_space_biology =
                   "type": "Feature",
                   "properties": {
                         "title": "3D microenvironment attenuates simulated microgravity-mediated changes in T cell transcriptome",
-                        "url": "https://dx.doi.org/10.1007/s00018-022-04531-8",
-                        "journal": [
-                              "Cellular and Molecular Life Sciences"
-                        ],
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-1697287/v1",
+                        "journal": "Research Square Platform LLC",
                         "cited": 0,
                         "radius": 15,
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 147 , 55 )",
-                        "aff": "Department of Mechanical Engineering, Tandon School of Engineering, New York University, NY, USA"
+                        "color": "rgb( 249 , 181 , 42 )",
+                        "aff": "New York University Abu Dhabi"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.97669,
-                              40.747672
+                              54.452894,
+                              24.501856
                         ]
                   }
             },
@@ -1607,14 +5535,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 98 , 22 )",
+                        "color": "rgb( 254 , 213 , 52 )",
                         "aff": "Cell Physiology Laboratory, Institute of Biomedical ProblemsRussian Academy of SciencesMoscowRussia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              37.632985,
-                              55.742754
+                              37.60498,
+                              55.743593
                         ]
                   }
             },
@@ -1631,14 +5559,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 245 , 113 , 26 )",
+                        "color": "rgb( 248 , 215 , 64 )",
                         "aff": "Center for Space Emerging Technologies,Department of Medicine and Biology,Lima,Peru"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -77.051108,
-                              -12.079849
+                              -77.046617,
+                              -12.056324
                         ]
                   }
             },
@@ -1655,14 +5583,38 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 108 , 34 )",
+                        "color": "rgb( 252 , 96 , 61 )",
                         "aff": "Respiratory Diseases Department, The Second Medical Center of PLA General Hospital , Beijing , China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.38781,
-                              39.930074
+                              116.393416,
+                              39.909194
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Modeling Effects of Electromagnetic Fields on Bone Density on Humans in Microgravity",
+                        "url": "https://dx.doi.org/10.2514/6.2022-4291",
+                        "journal": [
+                              "ASCEND 2022"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2022,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 250 , 23 , 28 )",
+                        "aff": "Mars University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -83.00562,
+                              39.992704
                         ]
                   }
             },
@@ -1679,14 +5631,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 151 , 36 )",
+                        "color": "rgb( 249 , 123 , 40 )",
                         "aff": "Department of Biology, College of Liberal Arts and Sciences, Tokyo Medical and Dental University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              139.764908,
-                              35.706532
+                              139.765169,
+                              35.714399
                         ]
                   }
             },
@@ -1701,14 +5653,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 154 , 34 )",
+                        "color": "rgb( 247 , 36 , 29 )",
                         "aff": "Max Planck Institute for Terrestrial Microbiology  Marburg Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.785762,
-                              50.791854
+                              8.759156,
+                              50.787447
                         ]
                   }
             },
@@ -1723,14 +5675,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 36 , 36 )",
+                        "color": "rgb( 251 , 195 , 48 )",
                         "aff": "Rensselaer Polytechnic Inst."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.679885,
-                              42.723274
+                              -73.700781,
+                              42.749575
                         ]
                   }
             },
@@ -1747,14 +5699,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 252 , 179 , 60 )",
+                        "color": "rgb( 247 , 144 , 54 )",
                         "aff": "Istituto di Medicina Aerospaziale \u201cA. Mosso\u201d Aeronautica Militare  Milan Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              9.195111,
-                              45.482939
+                              9.174817,
+                              45.454167
                         ]
                   }
             },
@@ -1771,14 +5723,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 125 , 44 )",
+                        "color": "rgb( 248 , 118 , 53 )",
                         "aff": "Department of Experimental Medicine, \u201cSapienza\u201d University of Rome, Systems Biology Group, Viale Regina Elena 324, Via A. Scarpa 14, 00161 Rome, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              12.524292,
-                              41.924867
+                              12.509771,
+                              41.894699
                         ]
                   }
             },
@@ -1795,14 +5747,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 251 , 124 , 51 )",
+                        "color": "rgb( 245 , 152 , 34 )",
                         "aff": "Noto Center for Fisheries Science and Technology, Kanazawa University, Ossaka, Noto-cho, Ishikawa 927-0552, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              137.231784,
-                              37.31463
+                              137.227927,
+                              37.320435
                         ]
                   }
             },
@@ -1817,14 +5769,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 173 , 26 )",
+                        "color": "rgb( 247 , 148 , 50 )",
                         "aff": "NASA Ames Research Center"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.033342,
-                              37.429259
+                              -122.046391,
+                              37.438241
                         ]
                   }
             },
@@ -1841,14 +5793,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 36 , 31 )",
+                        "color": "rgb( 250 , 201 , 49 )",
                         "aff": "Biomaterials, Biomechanics and Tissue Engineering Group , Department of Materials Science and Engineering , Universitat Polit\u00e8cnica de Catalunya , 08019 Barcelona , Spain "
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              2.197661,
-                              41.392926
+                              2.21131,
+                              41.423609
                         ]
                   }
             },
@@ -1865,14 +5817,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 245 , 153 , 63 )",
+                        "color": "rgb( 248 , 106 , 54 )",
                         "aff": "Graduate School of Biological Sciences, Nara Institute of Science and Technology"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              135.719715,
-                              34.750321
+                              135.742916,
+                              34.733934
                         ]
                   }
             },
@@ -1887,14 +5839,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 194 , 62 )",
+                        "color": "rgb( 250 , 100 , 57 )",
                         "aff": "Abo Akademi University: Abo Akademi"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              22.260136,
-                              60.442276
+                              22.263752,
+                              60.47102
                         ]
                   }
             },
@@ -1911,14 +5863,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 67 , 25 )",
+                        "color": "rgb( 249 , 31 , 42 )",
                         "aff": "Tokyo Gakugei University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              139.509614,
-                              35.719683
+                              139.483266,
+                              35.716646
                         ]
                   }
             },
@@ -1935,14 +5887,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 61 , 61 )",
+                        "color": "rgb( 245 , 171 , 39 )",
                         "aff": "Cell Physiology Laboratory, Institute of Biomedical ProblemsRussian Academy of SciencesMoscowRussia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              37.616748,
-                              55.752189
+                              37.616412,
+                              55.73851
                         ]
                   }
             },
@@ -1959,14 +5911,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 84 , 30 )",
+                        "color": "rgb( 246 , 41 , 49 )",
                         "aff": "Center for Systems Biology and Molecular Medicine, Yenepoya Research Centre, Yenepoya (Deemed to be University), Mangalore, India."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              74.845099,
-                              12.889467
+                              74.846848,
+                              12.920119
                         ]
                   }
             },
@@ -1981,14 +5933,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 178 , 40 )",
+                        "color": "rgb( 254 , 46 , 35 )",
                         "aff": "University of California Berkeley"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.263189,
-                              37.859389
+                              -122.239193,
+                              37.867828
                         ]
                   }
             },
@@ -2005,14 +5957,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 168 , 26 )",
+                        "color": "rgb( 253 , 85 , 60 )",
                         "aff": "Functional Cellular Networks Laboratory, College of Medicine, Department of Medicine, Graduate School and Lee Gil Ya Cancer and Diabetes Institute, Gachon University, Incheon 21999, Republic of Korea"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              126.680372,
-                              37.446401
+                              126.71445,
+                              37.469342
                         ]
                   }
             },
@@ -2027,14 +5979,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 90 , 58 )",
+                        "color": "rgb( 253 , 164 , 53 )",
                         "aff": "Karolinska Institute"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              17.940014,
-                              59.217717
+                              17.941864,
+                              59.228123
                         ]
                   }
             },
@@ -2051,14 +6003,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 195 , 38 )",
+                        "color": "rgb( 247 , 123 , 64 )",
                         "aff": "Department of Bioinformatics, School of Biomedical Engineering and Informatics, Nanjing Medical University , Nanjing, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              118.808248,
-                              32.073403
+                              118.79924,
+                              32.04574
                         ]
                   }
             },
@@ -2075,14 +6027,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 254 , 129 , 68 )",
+                        "color": "rgb( 246 , 76 , 61 )",
                         "aff": "Department of Experimental Medicine, \u201cSapienza\u201d University of Rome, Systems Biology Group, Viale Regina Elena 324, Via A. Scarpa 14, 00161 Rome, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              12.516574,
-                              41.927341
+                              12.517071,
+                              41.890751
                         ]
                   }
             },
@@ -2099,14 +6051,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 248 , 79 , 49 )",
+                        "color": "rgb( 248 , 113 , 48 )",
                         "aff": "Waite Research Institute, University of Adelaide, Australia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              138.623986,
-                              -34.936819
+                              138.615453,
+                              -34.906076
                         ]
                   }
             },
@@ -2123,14 +6075,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 21 , 31 )",
+                        "color": "rgb( 254 , 201 , 24 )",
                         "aff": "Florida State UniversityTallahasseeFL"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.291351,
-                              30.427032
+                              -84.274716,
+                              30.457634
                         ]
                   }
             },
@@ -2147,14 +6099,36 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 252 , 156 , 44 )",
+                        "color": "rgb( 246 , 91 , 21 )",
                         "aff": "Centro de Investigaciones Biol\u00f3gicas Margarita Salas \u2013 CSIC  Madrid Spain"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -3.686079,
-                              40.418069
+                              -3.718028,
+                              40.40643
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "High-gradient Magnetic Fields and Starch Metabolism - Results from a Space Experiment",
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-1731472/v1",
+                        "journal": "Research Square Platform LLC",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2022,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 250 , 38 , 41 )",
+                        "aff": "National Institute of Crop Science"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              128.74043,
+                              37.674291
                         ]
                   }
             },
@@ -2171,14 +6145,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 249 , 82 , 46 )",
+                        "color": "rgb( 246 , 98 , 30 )",
                         "aff": "Department of Mechanics, School of Mechanical Engineering, Tianjin University, Tianjin 300354, P. R. China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              105.008203,
-                              35.001203
+                              105.017431,
+                              35.010606
                         ]
                   }
             },
@@ -2195,14 +6169,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 252 , 122 , 62 )",
+                        "color": "rgb( 252 , 30 , 61 )",
                         "aff": "School of Molecular Cell Biology and Biotechnology, Tel Aviv University, Ramat Aviv, Israel"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              34.780258,
-                              32.091658
+                              34.792675,
+                              32.080969
                         ]
                   }
             },
@@ -2219,14 +6193,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 55 , 56 )",
+                        "color": "rgb( 251 , 81 , 49 )",
                         "aff": "Aerospace Research Institute, Ministry of Science Research and Technology, Tehran 14665-834, Iran"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              54.562592,
-                              32.649647
+                              54.549653,
+                              32.626829
                         ]
                   }
             },
@@ -2241,14 +6215,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 92 , 33 )",
+                        "color": "rgb( 247 , 34 , 59 )",
                         "aff": "Rensselaer Polytechnic Inst."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.676037,
-                              42.738731
+                              -73.663137,
+                              42.74734
                         ]
                   }
             },
@@ -2265,14 +6239,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 248 , 147 , 21 )",
+                        "color": "rgb( 247 , 69 , 50 )",
                         "aff": "School of Engineering, University of Warwick, Coventry CV4 7AL, United Kingdom"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.540717,
-                              52.378702
+                              -1.547897,
+                              52.40283
                         ]
                   }
             },
@@ -2289,14 +6263,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 254 , 20 , 20 )",
+                        "color": "rgb( 252 , 124 , 42 )",
                         "aff": "University of Nottingham - Department of Mechanical, Materials, and Manufacturing Engineering - Nottingham - United Kingdom"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -3.289603,
-                              54.692262
+                              -3.288691,
+                              54.711291
                         ]
                   }
             },
@@ -2308,19 +6282,19 @@ var microgravity_space_biology =
                         "journal": [
                               "iScience"
                         ],
-                        "cited": 1,
-                        "radius": 16,
+                        "cited": 2,
+                        "radius": 17,
                         "year": 2022,
-                        "zindex": 299,
-                        "paneName": "pane001",
-                        "color": "rgb( 250 , 126 , 20 )",
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 250 , 212 , 39 )",
                         "aff": "Institute of Pathology, University Medical Center, Georg-August University of G\u00f6ttingen, Robert-Koch-Str. 40, 37075 G\u00f6ttingen, Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              10.433145,
-                              51.177548
+                              10.42852,
+                              51.148773
                         ]
                   }
             },
@@ -2337,14 +6311,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 73 , 49 )",
+                        "color": "rgb( 246 , 66 , 68 )",
                         "aff": "Massachusetts Institute of Technology"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.105251,
-                              42.349015
+                              -71.111349,
+                              42.368451
                         ]
                   }
             },
@@ -2361,14 +6335,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 253 , 61 , 36 )",
+                        "color": "rgb( 245 , 159 , 48 )",
                         "aff": "Department of Post\u2010Harvest Engineering and Technology, Faculty of Agriculture Aligarh Muslim University  Aligarh India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              78.17519,
-                              27.843292
+                              78.188963,
+                              27.816061
                         ]
                   }
             },
@@ -2385,14 +6359,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 183 , 43 )",
+                        "color": "rgb( 245 , 167 , 69 )",
                         "aff": "Department of Pharmaceutical and Pharmacological Sciences Vrije Universiteit Brussel  Brussels Belgium"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              4.334342,
-                              50.865563
+                              4.34797,
+                              50.854533
                         ]
                   }
             },
@@ -2409,14 +6383,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 121 , 23 )",
+                        "color": "rgb( 251 , 40 , 22 )",
                         "aff": "Noto Marine Laboratory, Institute of Nature and Environmental Technology Kanazawa University Noto\u2010cho Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              137.131798,
-                              37.304761
+                              137.116811,
+                              37.350289
                         ]
                   }
             },
@@ -2433,14 +6407,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 250 , 144 , 54 )",
+                        "color": "rgb( 251 , 112 , 60 )",
                         "aff": "Space Center  Houston TX 77058 USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.095015,
-                              29.54484
+                              -95.090563,
+                              29.551729
                         ]
                   }
             },
@@ -2457,14 +6431,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 202 , 31 )",
+                        "color": "rgb( 253 , 208 , 43 )",
                         "aff": "Faculty of Engineering, School of Biomedical Engineering, University of Sydney, Sydney, NSW 2006, Australia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              151.185144,
-                              -33.920281
+                              151.202084,
+                              -33.875889
                         ]
                   }
             },
@@ -2479,14 +6453,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 112 , 42 )",
+                        "color": "rgb( 247 , 180 , 29 )",
                         "aff": "Chinese Ministry of Health, Chinese Academy of Medical Sciences and Comparative Medicine Center, Peking Union Medical College"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.432465,
-                              39.918433
+                              116.419143,
+                              39.923855
                         ]
                   }
             },
@@ -2503,14 +6477,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 253 , 139 , 24 )",
+                        "color": "rgb( 254 , 143 , 24 )",
                         "aff": "Center for Space Emerging Technologies,J2MECH Ingenier&#x00ED;a y Dise&#x00F1;o;,Lima,Peru"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -77.058312,
-                              -12.06351
+                              -77.050416,
+                              -12.042788
                         ]
                   }
             },
@@ -2525,14 +6499,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 125 , 65 )",
+                        "color": "rgb( 247 , 85 , 35 )",
                         "aff": "Air Force Medical Center, PLA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -51.162976,
-                              -29.889319
+                              -51.19439,
+                              -29.85397
                         ]
                   }
             },
@@ -2544,19 +6518,19 @@ var microgravity_space_biology =
                         "journal": [
                               "Circulation Research"
                         ],
-                        "cited": 1,
-                        "radius": 16,
+                        "cited": 2,
+                        "radius": 17,
                         "year": 2022,
-                        "zindex": 299,
-                        "paneName": "pane001",
-                        "color": "rgb( 253 , 199 , 62 )",
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 246 , 32 , 57 )",
                         "aff": "NASA Johnson Space Center, Houston, TX (M.D.)."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.379215,
-                              29.77412
+                              -95.376393,
+                              29.761577
                         ]
                   }
             },
@@ -2573,14 +6547,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 159 , 53 )",
+                        "color": "rgb( 245 , 178 , 38 )",
                         "aff": "Department of Horticultural Sciences, University of Florida, Gainesville, Florida, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.331269,
-                              29.607879
+                              -82.324052,
+                              29.646299
                         ]
                   }
             },
@@ -2597,14 +6571,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 254 , 169 , 34 )",
+                        "color": "rgb( 254 , 103 , 49 )",
                         "aff": "Berlin\u2010Brandenburg School for Regenerative Therapies (BSRT) Charit\u00e9 Universit\u00e4tsmedizin Berlin Berlin Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              13.367662,
-                              52.510091
+                              13.384018,
+                              52.517429
                         ]
                   }
             },
@@ -2621,14 +6595,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 151 , 35 )",
+                        "color": "rgb( 248 , 71 , 28 )",
                         "aff": "Mechanical and Aerospace Engineering Department University of Central Florida  Orlando USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.395384,
-                              28.532163
+                              -81.402862,
+                              28.559379
                         ]
                   }
             },
@@ -2645,14 +6619,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 246 , 136 , 60 )",
+                        "color": "rgb( 251 , 70 , 24 )",
                         "aff": "China National GeneBank BGI\u2010Shenzhen  Shenzhen China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              114.059973,
-                              22.536455
+                              114.05919,
+                              22.557322
                         ]
                   }
             },
@@ -2669,14 +6643,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 99 , 63 )",
+                        "color": "rgb( 247 , 204 , 27 )",
                         "aff": "Department of Neuroscience, Baylor College of Medicine, Houston, Texas"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.406625,
-                              29.71977
+                              -95.380423,
+                              29.686255
                         ]
                   }
             },
@@ -2691,14 +6665,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 174 , 60 )",
+                        "color": "rgb( 246 , 130 , 20 )",
                         "aff": "Tohoku Fukushi University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              140.900151,
-                              38.261527
+                              140.90419,
+                              38.24563
                         ]
                   }
             },
@@ -2715,14 +6689,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 247 , 204 , 29 )",
+                        "color": "rgb( 250 , 133 , 26 )",
                         "aff": "German Aerospace Center (DLR), Institute of Aerospace Medicine, Radiation Biology Department, Aerospace Microbiology Research Group, Linder Hoehe, Cologne (K\u00f6ln), Germany."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              10.449128,
-                              51.157547
+                              10.447755,
+                              51.184314
                         ]
                   }
             },
@@ -2739,14 +6713,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 91 , 29 )",
+                        "color": "rgb( 250 , 55 , 69 )",
                         "aff": "International Joint Research Center of Aerospace Biotechnology &amp; Medical Engineering Beihang University  Beijing 100083 China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.339677,
-                              40.000109
+                              116.33816,
+                              39.993582
                         ]
                   }
             },
@@ -2763,14 +6737,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 181 , 47 )",
+                        "color": "rgb( 246 , 115 , 44 )",
                         "aff": "Songshan Lake Materials Laboratory  Dongguan Guangdong 523808 China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -56.234994,
-                              -34.876634
+                              -56.254421,
+                              -34.885886
                         ]
                   }
             },
@@ -2787,14 +6761,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 250 , 76 , 27 )",
+                        "color": "rgb( 252 , 118 , 43 )",
                         "aff": "UK Centre for Astrobiology School of Physics and Astronomy University of Edinburgh Edinburgh UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -3.192751,
-                              55.953726
+                              -3.204,
+                              55.930055
                         ]
                   }
             },
@@ -2809,14 +6783,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 253 , 144 , 45 )",
+                        "color": "rgb( 252 , 37 , 61 )",
                         "aff": "Department of Artificial IntelligenceUniversidad Nacional de Educaci\u00f3n a Distancia (UNED) Madrid Spain"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -3.721376,
-                              40.392766
+                              -3.690125,
+                              40.406222
                         ]
                   }
             },
@@ -2833,14 +6807,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 293,
                         "paneName": "pane007",
-                        "color": "rgb( 248 , 50 , 46 )",
+                        "color": "rgb( 248 , 71 , 63 )",
                         "aff": "Department of Medicine, Johns Hopkins School of Medicine, Baltimore, Maryland"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.614933,
-                              39.301858
+                              -76.6158,
+                              39.308006
                         ]
                   }
             },
@@ -2857,14 +6831,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 254 , 98 , 30 )",
+                        "color": "rgb( 245 , 171 , 60 )",
                         "aff": "New Business Project, Development Division Kitagawa Iron Works Co., Ltd.  Hiroshima Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              132.476372,
-                              34.368326
+                              132.484438,
+                              34.371209
                         ]
                   }
             },
@@ -2879,14 +6853,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 180 , 46 )",
+                        "color": "rgb( 248 , 110 , 47 )",
                         "aff": "The University of Tokyo: Tokyo Daigaku"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              139.8241,
-                              35.766634
+                              139.790264,
+                              35.739725
                         ]
                   }
             },
@@ -2894,7 +6868,7 @@ var microgravity_space_biology =
                   "type": "Feature",
                   "properties": {
                         "title": "Synthetic Biology for Human Space Missions: Ethical Issues and Practical Applications",
-                        "url": "https://dx.doi.org/10.1080/14777622.2022.2141433",
+                        "url": "https://dx.doi.org/10.1080/14777622.2022.2145192",
                         "journal": [
                               "Astropolitics"
                         ],
@@ -2903,14 +6877,38 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 143 , 33 )",
-                        "aff": "Sherwood Observatory, Mansfield and Sutton Astronomical Society, England, UK"
+                        "color": "rgb( 252 , 210 , 34 )",
+                        "aff": "Sherwood Observatory, Mansfield and Sutton Astronomical Society, Sutton-in-Ashfield a\u201d and \u201cb\u201d Nottinghamshire, NG17 5LF England, United Kingdom"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.257653,
-                              52.546027
+                              -1.204891,
+                              53.110681
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Neuroplasticity as a Foundation for Decision-Making in Space",
+                        "url": "https://dx.doi.org/10.3390/neurosci3030033",
+                        "journal": [
+                              "NeuroSci"
+                        ],
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2022,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 253 , 146 , 56 )",
+                        "aff": "The Human Sentience Project LLC  Tucson Arizona USA"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -111.748782,
+                              34.39659
                         ]
                   }
             },
@@ -2927,14 +6925,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 246 , 55 , 47 )",
+                        "color": "rgb( 252 , 165 , 38 )",
                         "aff": "Department of Plant Pathology, University of Florida, Merritt Island, Florida, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -80.681634,
-                              28.279311
+                              -80.655969,
+                              28.273653
                         ]
                   }
             },
@@ -2949,14 +6947,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 177 , 62 )",
+                        "color": "rgb( 247 , 100 , 41 )",
                         "aff": "University of Wisconsin\u2013Madison"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -89.452156,
-                              43.070376
+                              -89.406675,
+                              43.073532
                         ]
                   }
             },
@@ -2973,14 +6971,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 245 , 79 , 58 )",
+                        "color": "rgb( 248 , 204 , 46 )",
                         "aff": "Department of Mathematics and Computing Indian Institute of Technology Delhi  New Delhi India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              77.165257,
-                              28.678921
+                              77.166421,
+                              28.66598
                         ]
                   }
             },
@@ -2995,14 +6993,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 113 , 30 )",
+                        "color": "rgb( 251 , 33 , 38 )",
                         "aff": "Oak Ridge National Laboratory"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.333173,
-                              35.911828
+                              -84.331549,
+                              35.951443
                         ]
                   }
             },
@@ -3019,14 +7017,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 58 , 47 )",
+                        "color": "rgb( 246 , 139 , 32 )",
                         "aff": "Axiom Space, Houston, Texas, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.105303,
-                              29.541129
+                              -95.095279,
+                              29.561069
                         ]
                   }
             },
@@ -3043,14 +7041,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 249 , 23 , 61 )",
+                        "color": "rgb( 253 , 58 , 21 )",
                         "aff": "VIBT-Extremophile Center, University of Natural Resources and Life Sciences, Vienna, Austria"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              16.345022,
-                              48.257526
+                              16.360988,
+                              48.237837
                         ]
                   }
             },
@@ -3067,14 +7065,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 53 , 67 )",
+                        "color": "rgb( 252 , 60 , 42 )",
                         "aff": "University of Essex; Colchester UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              0.97399,
-                              51.881181
+                              0.94448,
+                              51.898635
                         ]
                   }
             },
@@ -3091,14 +7089,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 248 , 103 , 28 )",
+                        "color": "rgb( 251 , 101 , 33 )",
                         "aff": "Department of Saint Camillus International\nUniversity of Health Sciences, Via di Sant\\'Alessandro 8, 00131 Rome, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              12.599162,
-                              41.920181
+                              12.595731,
+                              41.954408
                         ]
                   }
             },
@@ -3115,14 +7113,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 153 , 25 )",
+                        "color": "rgb( 245 , 61 , 35 )",
                         "aff": "Lawson Health Research Institute, University of Western Ontario, Canada"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.294095,
-                              42.991999
+                              -81.254905,
+                              43.027419
                         ]
                   }
             },
@@ -3139,14 +7137,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 294,
                         "paneName": "pane006",
-                        "color": "rgb( 248 , 58 , 42 )",
+                        "color": "rgb( 252 , 187 , 65 )",
                         "aff": "Abu Dhabi Stem Cells Center (ADSCC)  Abu Dhabi United Arab Emirates"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              32.286253,
-                              31.247682
+                              32.305413,
+                              31.258957
                         ]
                   }
             },
@@ -3163,14 +7161,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 249 , 89 , 21 )",
+                        "color": "rgb( 247 , 187 , 40 )",
                         "aff": "Department of Mechanics, School of Mechanical Engineering, Tianjin University, Tianjin, People\u2019s Republic of China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              117.165359,
-                              39.106932
+                              117.167275,
+                              39.131866
                         ]
                   }
             },
@@ -3185,14 +7183,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 179 , 21 )",
+                        "color": "rgb( 248 , 129 , 20 )",
                         "aff": "Department of Molecular and Structural Biochemistry, North Carolina State University, Raleigh, U.S.A."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -78.672183,
-                              35.794289
+                              -78.673785,
+                              35.767539
                         ]
                   }
             },
@@ -3207,14 +7205,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 197 , 48 )",
+                        "color": "rgb( 247 , 202 , 54 )",
                         "aff": "Laboratorio di Botanica ed Ecologia Riproduttiva, Dipartimento di Arboricoltura, Botanica e Patologia Vegetale, Universit\u00e0 degli Studi di Napoli Federico II, Viale Universit\u00e0 100, 80055 Portici, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              14.320974,
-                              40.803033
+                              14.325762,
+                              40.818073
                         ]
                   }
             },
@@ -3231,14 +7229,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 247 , 51 , 48 )",
+                        "color": "rgb( 250 , 33 , 41 )",
                         "aff": "LS2N, Facult\u00e9 des Sciences et Techniques (FST), Universit\u00e9 de Nantes, Nantes, France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.571221,
-                              47.224719
+                              -1.569294,
+                              47.240604
                         ]
                   }
             },
@@ -3255,14 +7253,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 66 , 32 )",
+                        "color": "rgb( 250 , 89 , 22 )",
                         "aff": "Trinity University,San Antonio,TX,78212"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -98.503816,
-                              29.45601
+                              -98.504137,
+                              29.469377
                         ]
                   }
             },
@@ -3279,14 +7277,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 246 , 166 , 23 )",
+                        "color": "rgb( 253 , 156 , 38 )",
                         "aff": "Aerospace Research Institute, Ministry of Science Research and Technology, Tehran 14665-834, Iran"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              54.572186,
-                              32.639097
+                              54.564601,
+                              32.671275
                         ]
                   }
             },
@@ -3303,14 +7301,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 53 , 45 )",
+                        "color": "rgb( 254 , 193 , 51 )",
                         "aff": "Institut f\u00fcr Biologie und Biotechnologie der Pflanzen, Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster, Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              10.440931,
-                              51.157167
+                              10.457361,
+                              51.185677
                         ]
                   }
             },
@@ -3325,14 +7323,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 50 , 66 )",
+                        "color": "rgb( 250 , 66 , 69 )",
                         "aff": "College of medicine, Inha university"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              126.638613,
-                              37.473814
+                              126.63992,
+                              37.473371
                         ]
                   }
             },
@@ -3349,14 +7347,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 122 , 48 )",
+                        "color": "rgb( 250 , 172 , 25 )",
                         "aff": "Diffraction Group, Neutron Scattering Division, Oak Ridge National Laboratory, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.30061,
-                              35.92098
+                              -84.299364,
+                              35.926789
                         ]
                   }
             },
@@ -3371,14 +7369,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 109 , 31 )",
+                        "color": "rgb( 249 , 50 , 55 )",
                         "aff": "University of Houston"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.326693,
-                              29.745164
+                              -95.346485,
+                              29.735801
                         ]
                   }
             },
@@ -3393,14 +7391,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 73 , 64 )",
+                        "color": "rgb( 249 , 152 , 45 )",
                         "aff": "Ludwik Hirszfeld Institute of Immunology and Experimental Therapy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              17.021415,
-                              51.129941
+                              17.039484,
+                              51.124167
                         ]
                   }
             },
@@ -3417,14 +7415,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 253 , 77 , 41 )",
+                        "color": "rgb( 247 , 160 , 30 )",
                         "aff": "Baylor Scott & White Medical Center, Temple, TX, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -97.352736,
-                              31.076011
+                              -97.379849,
+                              31.067437
                         ]
                   }
             },
@@ -3441,14 +7439,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 171 , 40 )",
+                        "color": "rgb( 252 , 81 , 52 )",
                         "aff": "The Russian Federation State Research Center - Institute of Biomedical Problems of Russian Academy of Sciences"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              37.61339,
-                              55.738645
+                              37.610642,
+                              55.731218
                         ]
                   }
             },
@@ -3465,14 +7463,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 72 , 51 )",
+                        "color": "rgb( 251 , 109 , 58 )",
                         "aff": "Department of Clinical Pharmacology and Therapy , Russian Medical Academy of Continuing Professional Education, Ministry of Health of Russia , Moscow , Russian Federation"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              37.641602,
-                              55.737736
+                              37.611326,
+                              55.758854
                         ]
                   }
             },
@@ -3489,14 +7487,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 251 , 219 , 25 )",
+                        "color": "rgb( 249 , 98 , 69 )",
                         "aff": "Biotechnology and Planetary Protection Group, Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -118.114081,
-                              34.123645
+                              -118.128123,
+                              34.144855
                         ]
                   }
             },
@@ -3511,14 +7509,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 254 , 217 , 63 )",
+                        "color": "rgb( 247 , 179 , 52 )",
                         "aff": "Beijing Institute of Microbiology and Epidemiology"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.834306,
-                              53.082374
+                              8.88179,
+                              53.114951
                         ]
                   }
             },
@@ -3535,14 +7533,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 54 , 27 )",
+                        "color": "rgb( 252 , 40 , 35 )",
                         "aff": "Department of Molecular Sciences Macquarie University North Ryde New South Wales2109 Australia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              151.136428,
-                              -33.775699
+                              151.100635,
+                              -33.758682
                         ]
                   }
             },
@@ -3559,14 +7557,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 214 , 30 )",
+                        "color": "rgb( 252 , 93 , 29 )",
                         "aff": "Department of Brain and Behavioral Sciences, University of Pavia, Pavia, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              9.156907,
-                              45.176901
+                              9.176088,
+                              45.172953
                         ]
                   }
             },
@@ -3581,14 +7579,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 122 , 59 )",
+                        "color": "rgb( 245 , 136 , 21 )",
                         "aff": "Rafsanjan University of Medical Sciences"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.470912,
-                              37.776455
+                              -122.481529,
+                              37.743871
                         ]
                   }
             },
@@ -3605,14 +7603,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 82 , 61 )",
+                        "color": "rgb( 246 , 157 , 25 )",
                         "aff": "Center for Translational Neuromedicine, University of Rochester Medical Center, Rochester, NY 14642"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -77.613832,
-                              43.125284
+                              -77.602343,
+                              43.112869
                         ]
                   }
             },
@@ -3629,14 +7627,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 190 , 46 )",
+                        "color": "rgb( 252 , 89 , 33 )",
                         "aff": "Department of Mechanical Engineering , University of Louisville"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -85.752078,
-                              38.197727
+                              -85.740616,
+                              38.214081
                         ]
                   }
             },
@@ -3653,14 +7651,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 248 , 179 , 37 )",
+                        "color": "rgb( 252 , 28 , 38 )",
                         "aff": "School of Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              104.088197,
-                              30.672186
+                              104.079043,
+                              30.672864
                         ]
                   }
             },
@@ -3677,14 +7675,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 184 , 36 )",
+                        "color": "rgb( 245 , 82 , 33 )",
                         "aff": "Department of Food Science and Technology, National Nutrition and Food Technology Research Institute, Faculty of Nutrition Science and Food Technology, Shahid Beheshti University of Medical Sciences, Tehran, Iran"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              51.391265,
-                              35.796333
+                              51.405108,
+                              35.804896
                         ]
                   }
             },
@@ -3701,14 +7699,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 250 , 193 , 49 )",
+                        "color": "rgb( 252 , 182 , 64 )",
                         "aff": "LAPLACE, Toulouse University, 118 Route de Narbonne, Toulouse 31062, France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.480097,
-                              43.541444
+                              1.46086,
+                              43.585769
                         ]
                   }
             },
@@ -3725,14 +7723,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 119 , 27 )",
+                        "color": "rgb( 251 , 72 , 30 )",
                         "aff": "State Key Laboratory of Solidification Processing, Center for Nano Energy Materials, School of Materials Science and Engineering, Northwestern Polytechnical University, Xi\u2019an, Shaanxi Province, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              108.899104,
-                              34.248605
+                              108.891343,
+                              34.249606
                         ]
                   }
             },
@@ -3749,14 +7747,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 254 , 155 , 27 )",
+                        "color": "rgb( 253 , 26 , 27 )",
                         "aff": "University of Melbourne, in Melbourne, and the University of Adelaide, in Adelaide, both in Australia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              151.71501,
-                              -32.903262
+                              151.723727,
+                              -32.894349
                         ]
                   }
             },
@@ -3773,14 +7771,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 249 , 217 , 63 )",
+                        "color": "rgb( 252 , 163 , 25 )",
                         "aff": "Physics Department, Birla Institute of Technology and Science, Pilani, Hyderabad, Telangana, India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              78.496384,
-                              17.34068
+                              78.466451,
+                              17.355423
                         ]
                   }
             },
@@ -3795,14 +7793,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 95 , 42 )",
+                        "color": "rgb( 249 , 133 , 51 )",
                         "aff": "Japan Aerospace Exploration Agency"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              139.555066,
-                              35.674532
+                              139.571606,
+                              35.699217
                         ]
                   }
             },
@@ -3819,14 +7817,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 245 , 161 , 45 )",
+                        "color": "rgb( 248 , 22 , 28 )",
                         "aff": "Space Biosciences Division, NASA Ames Research Center, Moffett Field, California, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.037617,
-                              37.432178
+                              -122.05204,
+                              37.41151
                         ]
                   }
             },
@@ -3843,14 +7841,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 205 , 47 )",
+                        "color": "rgb( 249 , 139 , 22 )",
                         "aff": "Department of Biology, Chemistry and Environmental Sciences, College of Arts and Sciences, American University of Sharjah, University City, Sharjah, United Arab Emirates"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              55.488905,
-                              25.297762
+                              55.479397,
+                              25.285813
                         ]
                   }
             },
@@ -3867,14 +7865,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 137 , 68 )",
+                        "color": "rgb( 247 , 22 , 55 )",
                         "aff": "Department of Gastroenterology and Hepatology, Yamaguchi University Graduate School of Medicine, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              139.2547,
-                              36.557713
+                              139.261927,
+                              36.582864
                         ]
                   }
             },
@@ -3891,14 +7889,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 252 , 84 , 21 )",
+                        "color": "rgb( 251 , 183 , 61 )",
                         "aff": "Department of Psychological Sciences, University of Chieti, Via dei Vestini 31, 66013 Chieti, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              14.168411,
-                              42.348139
+                              14.165498,
+                              42.355171
                         ]
                   }
             },
@@ -3915,14 +7913,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 63 , 42 )",
+                        "color": "rgb( 249 , 64 , 63 )",
                         "aff": "Department of Pharmacy, The 940th Hospital of Joint Logistic Support Force People's Liberation Army of China  Lanzhou China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              103.817977,
-                              36.076033
+                              103.809633,
+                              36.048789
                         ]
                   }
             },
@@ -3939,14 +7937,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 36 , 50 )",
+                        "color": "rgb( 247 , 90 , 49 )",
                         "aff": "GSI Helmholtzzentrum f\u00fcr Schwerionenforschung, and Technische Universit\u00e4t Darmstadt"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.670706,
-                              49.943085
+                              8.658709,
+                              49.914595
                         ]
                   }
             },
@@ -3963,14 +7961,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 250 , 179 , 67 )",
+                        "color": "rgb( 251 , 169 , 44 )",
                         "aff": "Department of Allied Health Sciences, School of Health Sciences and Technology, University of Petroleum and Energy Studies (UPES), Energy Acres Building , Bidholi Dehradun, 248007 Uttarakhand, India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              77.990375,
-                              30.366569
+                              77.950884,
+                              30.367109
                         ]
                   }
             },
@@ -3987,14 +7985,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 165 , 30 )",
+                        "color": "rgb( 246 , 83 , 27 )",
                         "aff": "University of Houston, Houston, TX, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.332072,
-                              29.702505
+                              -95.326992,
+                              29.722903
                         ]
                   }
             },
@@ -4011,14 +8009,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 158 , 48 )",
+                        "color": "rgb( 249 , 118 , 20 )",
                         "aff": "University of Houston"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.343525,
-                              29.737124
+                              -95.332792,
+                              29.736748
                         ]
                   }
             },
@@ -4035,14 +8033,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 157 , 22 )",
+                        "color": "rgb( 252 , 132 , 61 )",
                         "aff": "Department of Biotechnology, SRM Institute of Science and Technology, Kattankulathur, India."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              78.680035,
-                              22.333672
+                              78.684646,
+                              22.346552
                         ]
                   }
             },
@@ -4059,14 +8057,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 172 , 29 )",
+                        "color": "rgb( 246 , 22 , 25 )",
                         "aff": "Division of Otolaryngology, Department of Surgery University of Alberta Edmonton Alberta Canada"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -117.604616,
-                              55.119217
+                              -117.599946,
+                              55.113652
                         ]
                   }
             },
@@ -4081,14 +8079,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 250 , 126 , 22 )",
+                        "color": "rgb( 249 , 87 , 55 )",
                         "aff": "Laboratory of Microbiology, Wageningen University &amp; Research, Wageningen, The Netherlands"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              5.671233,
-                              51.969479
+                              5.664392,
+                              51.968621
                         ]
                   }
             },
@@ -4105,14 +8103,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 80 , 31 )",
+                        "color": "rgb( 250 , 107 , 65 )",
                         "aff": "University of Sharjah"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              55.46631,
-                              25.305934
+                              55.501706,
+                              25.309365
                         ]
                   }
             },
@@ -4129,14 +8127,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 248 , 106 , 60 )",
+                        "color": "rgb( 247 , 136 , 29 )",
                         "aff": "School of Engineering Science University of Chinese Academy of Sciences  Beijing 100049 China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.268034,
-                              39.909788
+                              116.252794,
+                              39.92638
                         ]
                   }
             },
@@ -4153,14 +8151,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 246 , 91 , 52 )",
+                        "color": "rgb( 246 , 156 , 29 )",
                         "aff": "Department of PsychiatryPC Sint\u2010Amandus Beernem Belgium"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              3.326939,
-                              51.151423
+                              3.314524,
+                              51.10785
                         ]
                   }
             },
@@ -4177,14 +8175,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 134 , 64 )",
+                        "color": "rgb( 252 , 182 , 21 )",
                         "aff": "Center of Applied Space Technology and Microgravity (ZARM), University of Bremen, Bremen, Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.876957,
-                              53.098708
+                              8.867224,
+                              53.087586
                         ]
                   }
             },
@@ -4201,14 +8199,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 249 , 187 , 45 )",
+                        "color": "rgb( 245 , 163 , 56 )",
                         "aff": "Campus D2 2"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              7.061649,
-                              49.267611
+                              7.045501,
+                              49.249316
                         ]
                   }
             },
@@ -4225,14 +8223,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 253 , 84 , 40 )",
+                        "color": "rgb( 247 , 57 , 59 )",
                         "aff": "Institute of Aerospace Medicine German Aerospace Center  Cologne Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              6.984685,
-                              50.949587
+                              6.966597,
+                              50.962155
                         ]
                   }
             },
@@ -4249,14 +8247,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 254 , 59 , 60 )",
+                        "color": "rgb( 249 , 24 , 51 )",
                         "aff": "Department of Biology, Chemistry & Environmental Sciences, College of Arts & Sciences, American University of Sharjah, University City, Sharjah, UAE"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              55.480723,
-                              25.279443
+                              55.497548,
+                              25.284022
                         ]
                   }
             },
@@ -4273,14 +8271,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 124 , 64 )",
+                        "color": "rgb( 247 , 154 , 62 )",
                         "aff": "Seoul National University, South Korea"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              126.946494,
-                              37.451435
+                              126.941362,
+                              37.462907
                         ]
                   }
             },
@@ -4297,14 +8295,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 253 , 202 , 51 )",
+                        "color": "rgb( 251 , 28 , 54 )",
                         "aff": "School of Chemistry and Biochemistry, Georgia Institute of Technology, 901 Atlantic Dr. NW, Atlanta, Georgia 30332-0400, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.388264,
-                              33.77294
+                              -84.377804,
+                              33.768668
                         ]
                   }
             },
@@ -4321,14 +8319,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 112 , 34 )",
+                        "color": "rgb( 247 , 112 , 33 )",
                         "aff": "Department of Clinical Pharmacology and Therapy , Russian Medical Academy of Continuing Professional Education, Ministry of Health of Russia , Moscow , Russian Federation"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              37.611618,
-                              55.737651
+                              37.598722,
+                              55.758361
                         ]
                   }
             },
@@ -4345,14 +8343,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 253 , 130 , 22 )",
+                        "color": "rgb( 253 , 117 , 63 )",
                         "aff": "Unidad Asociada CSIC\u2010UPO (BioFun) Universidad Pablo de Olavide Sevilla Spain"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -5.976347,
-                              37.402482
+                              -5.995849,
+                              37.372751
                         ]
                   }
             },
@@ -4369,14 +8367,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 86 , 41 )",
+                        "color": "rgb( 246 , 214 , 27 )",
                         "aff": "School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, Henan 454000, P. R. China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              113.230316,
-                              35.182911
+                              113.24932,
+                              35.197853
                         ]
                   }
             },
@@ -4393,14 +8391,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 292,
                         "paneName": "pane008",
-                        "color": "rgb( 248 , 69 , 67 )",
+                        "color": "rgb( 253 , 104 , 29 )",
                         "aff": "Department of Ecological and Biological Sciences, University of Tuscia, Viterbo, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              11.929123,
-                              42.484113
+                              11.948628,
+                              42.484515
                         ]
                   }
             },
@@ -4417,14 +8415,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 57 , 56 )",
+                        "color": "rgb( 254 , 88 , 50 )",
                         "aff": "Department of Social Sciences, University of Information Technology and Management in Rzeszow, Rzeszow, Poland"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              21.998079,
-                              50.073176
+                              21.97198,
+                              50.024858
                         ]
                   }
             },
@@ -4436,19 +8434,19 @@ var microgravity_space_biology =
                         "journal": [
                               "Proceedings of the National Academy of Sciences"
                         ],
-                        "cited": 9,
-                        "radius": 24,
+                        "cited": 10,
+                        "radius": 25,
                         "year": 2022,
-                        "zindex": 291,
-                        "paneName": "pane009",
-                        "color": "rgb( 251 , 201 , 20 )",
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 251 , 206 , 36 )",
                         "aff": "Department of Radiology, Royal Perth Hospital, Perth, WA, 6000, Australia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              115.843176,
-                              -31.959483
+                              115.867409,
+                              -31.964672
                         ]
                   }
             },
@@ -4465,14 +8463,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 253 , 191 , 24 )",
+                        "color": "rgb( 248 , 186 , 37 )",
                         "aff": "University of Sharjah"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              55.504705,
-                              25.287292
+                              55.481392,
+                              25.308903
                         ]
                   }
             },
@@ -4489,14 +8487,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 64 , 62 )",
+                        "color": "rgb( 252 , 119 , 25 )",
                         "aff": "Univ. Grenoble Alpes, CEA, LETI, DTBS, F-38000 Grenoble, France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              5.690752,
-                              45.174985
+                              5.696247,
+                              45.206248
                         ]
                   }
             },
@@ -4513,14 +8511,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 127 , 51 )",
+                        "color": "rgb( 253 , 52 , 56 )",
                         "aff": "Department of Mechanical Engineering, Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, Massachusetts 02139, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.104167,
-                              42.360938
+                              -71.11594,
+                              42.341823
                         ]
                   }
             },
@@ -4537,14 +8535,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 249 , 133 , 36 )",
+                        "color": "rgb( 247 , 156 , 59 )",
                         "aff": "Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.565265,
-                              39.312374
+                              -76.599296,
+                              39.274112
                         ]
                   }
             },
@@ -4561,14 +8559,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 31 , 43 )",
+                        "color": "rgb( 248 , 149 , 43 )",
                         "aff": "Embry-Riddle Aeronautical University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -112.456657,
-                              34.618918
+                              -112.446231,
+                              34.59488
                         ]
                   }
             },
@@ -4585,14 +8583,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 89 , 47 )",
+                        "color": "rgb( 247 , 32 , 25 )",
                         "aff": "MIT Media Lab, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.104138,
-                              42.337131
+                              -71.117176,
+                              42.351752
                         ]
                   }
             },
@@ -4609,38 +8607,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 90 , 64 )",
+                        "color": "rgb( 249 , 47 , 26 )",
                         "aff": "Faculty of Engineering, University of Nottingham, Nottingham NG7 2RD, United Kingdom"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.219275,
-                              52.92016
-                        ]
-                  }
-            },
-            {
-                  "type": "Feature",
-                  "properties": {
-                        "title": "Application and challenges of\n            <scp>3D</scp>\n            food printing technology in manned spaceflight: a review",
-                        "url": "https://dx.doi.org/10.1111/ijfs.15879",
-                        "journal": [
-                              "International Journal of Food Science &amp; Technology"
-                        ],
-                        "cited": 2,
-                        "radius": 17,
-                        "year": 2022,
-                        "zindex": 298,
-                        "paneName": "pane002",
-                        "color": "rgb( 251 , 134 , 56 )",
-                        "aff": "Lee Kum Kee (Xinhui) Food Co., Ltd.  Jiangmen Guangdong 529156 China"
-                  },
-                  "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                              112.716094,
-                              22.382899
+                              -1.19511,
+                              52.929783
                         ]
                   }
             },
@@ -4657,14 +8631,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 254 , 30 , 47 )",
+                        "color": "rgb( 249 , 111 , 42 )",
                         "aff": "School of Metallurgy and Materials, University of Birmingham, Birmingham B15 2TT, United Kingdom"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.939557,
-                              52.430978
+                              -1.940354,
+                              52.473737
                         ]
                   }
             },
@@ -4681,14 +8655,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 172 , 22 )",
+                        "color": "rgb( 252 , 106 , 43 )",
                         "aff": "Research Professor, SUNY Upstate Medical University, Millersville, Maryland, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.649627,
-                              39.070267
+                              -76.661276,
+                              39.035548
                         ]
                   }
             },
@@ -4705,14 +8679,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 245 , 116 , 60 )",
+                        "color": "rgb( 251 , 64 , 27 )",
                         "aff": "Biology and Environmental Chemistry Division, Sustainable System Research Laboratory, Central Research Institute of Electric Power Industry (CRIEPI), Komae, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              139.592477,
-                              35.624821
+                              139.570115,
+                              35.629965
                         ]
                   }
             },
@@ -4729,14 +8703,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 254 , 77 , 68 )",
+                        "color": "rgb( 251 , 79 , 23 )",
                         "aff": "NASA Langley Research Center  Hampton VA USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.363693,
-                              37.071226
+                              -76.409316,
+                              37.075311
                         ]
                   }
             },
@@ -4753,14 +8727,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 86 , 45 )",
+                        "color": "rgb( 245 , 172 , 59 )",
                         "aff": "Massachusetts Institute of Technology"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -71.07921,
-                              42.357927
+                              -71.104485,
+                              42.376251
                         ]
                   }
             },
@@ -4777,14 +8751,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 253 , 177 , 45 )",
+                        "color": "rgb( 250 , 27 , 50 )",
                         "aff": "Department of Mechanical Engineering, S. V. National Institute of Technology, Surat 395 007, India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              72.795468,
-                              21.157202
+                              72.816569,
+                              21.160911
                         ]
                   }
             },
@@ -4801,14 +8775,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 247 , 152 , 57 )",
-                        "aff": "Thayer School of Engineering at Dartmouth, Hanover, New Hampshire"
+                        "color": "rgb( 252 , 207 , 58 )",
+                        "aff": "Geisel School of Medicine at Dartmouth College, Department of Medicine, Lebanon, New Hampshire"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -72.289532,
-                              43.697963
+                              -72.25558,
+                              43.62329
                         ]
                   }
             },
@@ -4825,14 +8799,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 251 , 145 , 31 )",
+                        "color": "rgb( 253 , 165 , 27 )",
                         "aff": "Division of Endocrinology Metabolism and Diabetes Anschutz Health &amp; Wellness Center University of Colorado  Anschutz Medical Campus Aurora CO USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -105.583983,
-                              38.718948
+                              -105.608475,
+                              38.742326
                         ]
                   }
             },
@@ -4849,14 +8823,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 250 , 167 , 63 )",
+                        "color": "rgb( 250 , 172 , 45 )",
                         "aff": "Regenerative Medicine Manufacturing Society , Winston-Salem, NC , USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -80.237752,
-                              36.075832
+                              -80.222848,
+                              36.106795
                         ]
                   }
             },
@@ -4873,14 +8847,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 154 , 23 )",
+                        "color": "rgb( 247 , 195 , 49 )",
                         "aff": "Faculty of Dentistry, McGill University, Montreal, Quebec, Canada."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.565497,
-                              45.509905
+                              -73.574192,
+                              45.492217
                         ]
                   }
             },
@@ -4897,38 +8871,36 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 252 , 29 , 41 )",
+                        "color": "rgb( 252 , 166 , 26 )",
                         "aff": "Department of Cardiology, Xijing Hospital, Fourth Military Medical University, Xi\u2019an, China."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              108.918968,
-                              34.327528
+                              108.915061,
+                              34.353179
                         ]
                   }
             },
             {
                   "type": "Feature",
                   "properties": {
-                        "title": "Host-Associated Phages Disperse across the Extraterrestrial Analogue Antarctica",
-                        "url": "https://dx.doi.org/10.1128/aem.00315-22",
-                        "journal": [
-                              "Applied and Environmental Microbiology"
-                        ],
-                        "cited": 2,
-                        "radius": 17,
+                        "title": "Host-associated phages disperse across the extraterrestrial analogue Antarctica",
+                        "url": "https://dx.doi.org/10.1101/2021.11.09.467789",
+                        "journal": "Cold Spring Harbor Laboratory",
+                        "cited": 0,
+                        "radius": 15,
                         "year": 2022,
-                        "zindex": 298,
-                        "paneName": "pane002",
-                        "color": "rgb( 251 , 40 , 41 )",
-                        "aff": "Centre of Water and Environmental Research, University of Duisburg-Essen, Essen, Germany"
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 254 , 32 , 46 )",
+                        "aff": "Group for Aquatic Microbial Ecology, Department of Chemistry, Environmental Microbiology and Biotechnology, University of Duisburg-Essen, Essen, Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              6.803669,
-                              51.421174
+                              6.784826,
+                              51.43621
                         ]
                   }
             },
@@ -4945,14 +8917,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 196 , 46 )",
-                        "aff": "Laboratoire de G\u00e9nie des Proc\u00e9d\u00e9es Catalytiques, Centre National de la Recherche Scientifique (CNRS)\u2212UMR 5285, CPE Lyon, 43 Bd du 11 Novembre 1918, Villeurbanne, France"
+                        "color": "rgb( 248 , 58 , 22 )",
+                        "aff": "Micro Flow Chemistry and\rProcess Technology, Department of Chemical Engineering and Chemistry, Eindhoven University of Technology, P.O. Box 513, 5600 MB Eindhoven, The Netherlands"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              4.866243,
-                              45.773648
+                              5.481725,
+                              51.45257
                         ]
                   }
             },
@@ -4969,14 +8941,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 84 , 27 )",
+                        "color": "rgb( 252 , 136 , 69 )",
                         "aff": "King Abdullah International Medical Research Center/King Saud bin Abdulaziz University for Health Sciences, Jeddah, Saudi Arabia;"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              39.161856,
-                              21.603902
+                              39.161938,
+                              21.563149
                         ]
                   }
             },
@@ -4993,14 +8965,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 101 , 37 )",
+                        "color": "rgb( 253 , 33 , 31 )",
                         "aff": "National Key Laboratory of Human Factors Engineering China Astronauts Research and Training Center  Beijing China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.374325,
-                              39.889505
+                              116.379909,
+                              39.92682
                         ]
                   }
             },
@@ -5017,14 +8989,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 40 , 62 )",
+                        "color": "rgb( 253 , 24 , 69 )",
                         "aff": "Centre\nfor Rural Technology, Indian Institute of Technology, Guwahati, India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              91.679906,
-                              26.206294
+                              91.707454,
+                              26.198976
                         ]
                   }
             },
@@ -5041,14 +9013,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 153 , 61 )",
+                        "color": "rgb( 254 , 156 , 33 )",
                         "aff": "Department of Mechanics, School of Mechanical Engineering, Tianjin University, Tianjin, People\u2019s Republic of China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              117.140965,
-                              39.124399
+                              117.17195,
+                              39.094546
                         ]
                   }
             },
@@ -5065,14 +9037,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 215 , 37 )",
+                        "color": "rgb( 246 , 51 , 32 )",
                         "aff": "Center of Applied Space Technology and Microgravity (ZARM), University of Bremen, Bremen, Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.853198,
-                              53.104535
+                              8.860716,
+                              53.090286
                         ]
                   }
             },
@@ -5087,14 +9059,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 135 , 68 )",
+                        "color": "rgb( 249 , 152 , 26 )",
                         "aff": "University of Maryland"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.927764,
-                              38.993604
+                              -76.928957,
+                              39.014834
                         ]
                   }
             },
@@ -5111,14 +9083,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 183 , 65 )",
+                        "color": "rgb( 254 , 99 , 62 )",
                         "aff": "University of Colorado Boulder"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -105.262752,
-                              40.04145
+                              -105.266755,
+                              39.994305
                         ]
                   }
             },
@@ -5135,14 +9107,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 191 , 46 )",
+                        "color": "rgb( 250 , 77 , 64 )",
                         "aff": "Medical Radiation Research Center, Tabriz University of Medical Sciences, Tabriz, Iran"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              59.631627,
-                              36.273558
+                              59.610885,
+                              36.270728
                         ]
                   }
             },
@@ -5159,14 +9131,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 216 , 35 )",
+                        "color": "rgb( 250 , 135 , 52 )",
                         "aff": "Department of Kinesiology, Indiana University School of Public Health\u2013Bloomington, Bloomington"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -86.536503,
-                              39.173979
+                              -86.544146,
+                              39.14516
                         ]
                   }
             },
@@ -5183,14 +9155,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 253 , 143 , 31 )",
+                        "color": "rgb( 250 , 150 , 32 )",
                         "aff": "Department of Agricultural Sciences, University of Naples Federico II, Via Universit\u00e0 100, 80055 Portici, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              14.317316,
-                              40.804204
+                              14.347148,
+                              40.822697
                         ]
                   }
             },
@@ -5207,14 +9179,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 170 , 45 )",
+                        "color": "rgb( 249 , 27 , 62 )",
                         "aff": "Texas A & M University Wm Michael Barnes 64 Department of Industrial and Systems Engineering, , College Station, TX 77840-3131"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -96.32768,
-                              30.584315
+                              -96.295571,
+                              30.584573
                         ]
                   }
             },
@@ -5231,14 +9203,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 246 , 90 , 51 )",
+                        "color": "rgb( 249 , 172 , 47 )",
                         "aff": "Department of Life Sciences University of Siena  Siena Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              11.484392,
-                              43.181348
+                              11.448258,
+                              43.15126
                         ]
                   }
             },
@@ -5255,14 +9227,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 108 , 34 )",
+                        "color": "rgb( 247 , 56 , 52 )",
                         "aff": "Florida State UniversityTallahasseeFL"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.315724,
-                              30.430637
+                              -84.298648,
+                              30.429228
                         ]
                   }
             },
@@ -5279,14 +9251,36 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 118 , 40 )",
+                        "color": "rgb( 251 , 214 , 45 )",
                         "aff": "Blue Marble Space Institute of Science , 600 1st Ave, Floor 1, Seattle, Washington, 98104, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.396875,
-                              47.682255
+                              -122.369879,
+                              47.673455
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Research on Gravity Compensation System of Planetary Rover Based on Electrodynamic Suspension",
+                        "url": "https://dx.doi.org/10.21203/rs.3.rs-1856158/v1",
+                        "journal": "Research Square Platform LLC",
+                        "cited": 0,
+                        "radius": 15,
+                        "year": 2022,
+                        "zindex": 300,
+                        "paneName": "pane000",
+                        "color": "rgb( 247 , 215 , 67 )",
+                        "aff": "Yanshan University"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              110.298503,
+                              25.069248
                         ]
                   }
             },
@@ -5303,14 +9297,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 249 , 130 , 60 )",
+                        "color": "rgb( 249 , 74 , 60 )",
                         "aff": "M Health Fairview, University of Minnesota Physicians, Edina, Minnesota"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -93.350639,
-                              44.911792
+                              -93.325721,
+                              44.89313
                         ]
                   }
             },
@@ -5327,14 +9321,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 165 , 24 )",
+                        "color": "rgb( 245 , 36 , 36 )",
                         "aff": "Faculty of Science, Hokkaido University , Kita 10 Nishi 8 Kita-ku, Sapporo, Hokkaido 060-0810, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              141.316796,
-                              43.043451
+                              141.3577,
+                              43.07314
                         ]
                   }
             },
@@ -5346,19 +9340,19 @@ var microgravity_space_biology =
                         "journal": [
                               "Fractals"
                         ],
-                        "cited": 1,
-                        "radius": 16,
+                        "cited": 5,
+                        "radius": 20,
                         "year": 2022,
-                        "zindex": 299,
-                        "paneName": "pane001",
-                        "color": "rgb( 254 , 30 , 58 )",
+                        "zindex": 295,
+                        "paneName": "pane005",
+                        "color": "rgb( 251 , 116 , 65 )",
                         "aff": "School of Mathematics and Information Science, Henan Polytechnic University, Jiaozuo, P. R. China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              113.23143,
-                              35.214143
+                              113.233012,
+                              35.207415
                         ]
                   }
             },
@@ -5375,14 +9369,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 67 , 27 )",
+                        "color": "rgb( 250 , 52 , 69 )",
                         "aff": "Department of Biology University of North Dakota 10 Cornell Street Stop 9019 Grand Forks North Dakota 58202"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -97.077434,
-                              47.905637
+                              -97.070606,
+                              47.900923
                         ]
                   }
             },
@@ -5399,14 +9393,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 254 , 116 , 64 )",
+                        "color": "rgb( 250 , 95 , 28 )",
                         "aff": "Dorothy M. Davis Heart Lung and Research Institute The Ohio State University Wexner Medical Center  Columbus Ohio USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.668639,
-                              40.235131
+                              -82.682498,
+                              40.227953
                         ]
                   }
             },
@@ -5423,14 +9417,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 53 , 36 )",
+                        "color": "rgb( 249 , 44 , 28 )",
                         "aff": "NASA Postdoctoral Program, Kennedy Space Center, Florida, Merritt Island, Florida, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -80.700083,
-                              28.516491
+                              -80.664079,
+                              28.54896
                         ]
                   }
             },
@@ -5447,14 +9441,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 65 , 33 )",
+                        "color": "rgb( 250 , 184 , 42 )",
                         "aff": "Respiratory Sciences, University of Leicester, Leicester, UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.114135,
-                              52.63575
+                              -1.112354,
+                              52.640453
                         ]
                   }
             },
@@ -5471,14 +9465,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 193 , 56 )",
+                        "color": "rgb( 251 , 98 , 22 )",
                         "aff": "School of Mechanical Engineering, North China University of Water Resource and Electric Power, Zhengzhou 450045, Henan, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              113.606782,
-                              34.762837
+                              113.622703,
+                              34.761151
                         ]
                   }
             },
@@ -5495,14 +9489,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 160 , 30 )",
+                        "color": "rgb( 251 , 60 , 20 )",
                         "aff": "Akademia Gorniczo-Hutnicza imienia Stanislawa Staszica w Krakowie"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              19.928003,
-                              50.064496
+                              19.919774,
+                              50.067334
                         ]
                   }
             },
@@ -5519,14 +9513,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 30 , 42 )",
+                        "color": "rgb( 249 , 117 , 47 )",
                         "aff": "European Institute for Systems Biology & Medicine, Universit\u00e9 de Lyon, France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              1.875488,
-                              46.589493
+                              1.889632,
+                              46.621985
                         ]
                   }
             },
@@ -5541,14 +9535,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 90 , 69 )",
+                        "color": "rgb( 254 , 132 , 58 )",
                         "aff": "Sam Houston State University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.528737,
-                              30.733702
+                              -95.539863,
+                              30.696065
                         ]
                   }
             },
@@ -5565,14 +9559,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 248 , 56 , 43 )",
+                        "color": "rgb( 248 , 140 , 47 )",
                         "aff": "Division of Endocrinology Metabolism and Diabetes Anschutz Health &amp; Wellness Center University of Colorado  Anschutz Medical Campus Aurora CO USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -105.623089,
-                              38.735771
+                              -105.592325,
+                              38.712317
                         ]
                   }
             },
@@ -5589,14 +9583,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 245 , 115 , 58 )",
+                        "color": "rgb( 246 , 71 , 29 )",
                         "aff": "Center for Computational Simulation, Escuela T\u00e9cnica Superior de Ingenier\u00eda Aeron\u00e1utica y del Espacio, Universidad Polit\u00e9cnica de Madrid, Plaza de Cardenal Cisneros 3, 28040 Madrid, Spain"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -3.742278,
-                              40.435844
+                              -3.71728,
+                              40.455582
                         ]
                   }
             },
@@ -5613,14 +9607,38 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 51 , 26 )",
+                        "color": "rgb( 250 , 208 , 43 )",
                         "aff": "Italian Space Agency,Rome,Italy,00133"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              12.60923,
-                              41.831118
+                              12.623848,
+                              41.827517
+                        ]
+                  }
+            },
+            {
+                  "type": "Feature",
+                  "properties": {
+                        "title": "Colour schemes to reduce stress response in the hygiene area of a space station: A Delphi study",
+                        "url": "https://dx.doi.org/10.1016/j.apergo.2021.103573",
+                        "journal": [
+                              "Applied Ergonomics"
+                        ],
+                        "cited": 9,
+                        "radius": 24,
+                        "year": 2022,
+                        "zindex": 291,
+                        "paneName": "pane009",
+                        "color": "rgb( 248 , 191 , 36 )",
+                        "aff": "University of Leeds"
+                  },
+                  "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                              -1.577334,
+                              53.799268
                         ]
                   }
             },
@@ -5637,14 +9655,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 153 , 69 )",
+                        "color": "rgb( 252 , 93 , 69 )",
                         "aff": "University of Texas Medical Branch, Galveston, Texas"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -94.756044,
-                              29.302362
+                              -94.773863,
+                              29.325838
                         ]
                   }
             },
@@ -5661,14 +9679,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 254 , 94 , 59 )",
+                        "color": "rgb( 250 , 96 , 55 )",
                         "aff": "Physiology Division, Otto Loewi Research Center, Medical University of Graz, Graz, Austria"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              15.455447,
-                              47.1039
+                              15.47242,
+                              47.083381
                         ]
                   }
             },
@@ -5685,14 +9703,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 93 , 31 )",
+                        "color": "rgb( 250 , 74 , 46 )",
                         "aff": "School of Mathematics and Information Science, Henan Polytechnic University, 454000 Jiaozuo, P. R. China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              113.168914,
-                              35.220465
+                              113.17409,
+                              35.237842
                         ]
                   }
             },
@@ -5707,14 +9725,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 191 , 23 )",
+                        "color": "rgb( 247 , 148 , 68 )",
                         "aff": "University of Genoa"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -79.387366,
-                              43.658845
+                              -79.389918,
+                              43.694083
                         ]
                   }
             },
@@ -5731,14 +9749,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 135 , 49 )",
+                        "color": "rgb( 245 , 70 , 38 )",
                         "aff": "Department of Mechanical Engineering, Clemson University, Clemson, South Carolina 29631, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.830966,
-                              34.656346
+                              -82.85652,
+                              34.678236
                         ]
                   }
             },
@@ -5755,14 +9773,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 40 , 59 )",
+                        "color": "rgb( 251 , 100 , 48 )",
                         "aff": "Department of Mathematics, Faculty of Education, Ain Shams University, Cairo, Egypt"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              31.261957,
-                              30.058519
+                              31.281897,
+                              30.052117
                         ]
                   }
             },
@@ -5779,14 +9797,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 123 , 44 )",
+                        "color": "rgb( 254 , 200 , 49 )",
                         "aff": "German Aerospace Center (DLR), Microgravity User Support Center (MUSC), Linder H\u00f6he, 51147 K\u00f6ln, Germany."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              10.444201,
-                              51.150828
+                              10.453897,
+                              51.153824
                         ]
                   }
             },
@@ -5803,14 +9821,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 124 , 31 )",
+                        "color": "rgb( 249 , 50 , 53 )",
                         "aff": "National Institute of Radiological Sciences, National Institutes for Quantum and Radiological Science and Technology, Chiba, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              140.270887,
-                              35.54559
+                              140.263021,
+                              35.558316
                         ]
                   }
             },
@@ -5827,14 +9845,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 247 , 52 , 38 )",
+                        "color": "rgb( 245 , 65 , 40 )",
                         "aff": "Biological and Environmental Engineering, Cornell University, Ithaca, New York 14853, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.481735,
-                              42.473276
+                              -76.489843,
+                              42.436755
                         ]
                   }
             },
@@ -5851,14 +9869,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 187 , 63 )",
+                        "color": "rgb( 245 , 210 , 20 )",
                         "aff": "Institute of Physiology, Department of Biomedical Sciences, University of Padua, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              11.907991,
-                              45.422848
+                              11.888339,
+                              45.405126
                         ]
                   }
             },
@@ -5875,14 +9893,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 165 , 26 )",
+                        "color": "rgb( 249 , 45 , 42 )",
                         "aff": "Arts et Metiers Institute of Technology, Bordeaux INP, INRAE, I2M Bordeaux CNRS, University of Bordeaux Talence France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -0.591064,
-                              44.831784
+                              -0.577504,
+                              44.820073
                         ]
                   }
             },
@@ -5897,14 +9915,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 175 , 21 )",
+                        "color": "rgb( 251 , 82 , 35 )",
                         "aff": "Meiji University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              139.753591,
-                              35.685011
+                              139.750789,
+                              35.694701
                         ]
                   }
             },
@@ -5921,14 +9939,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 252 , 131 , 62 )",
+                        "color": "rgb( 247 , 203 , 54 )",
                         "aff": "Department of Radiology, University of California, San Diego, California"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -117.241672,
-                              32.898606
+                              -117.21889,
+                              32.903998
                         ]
                   }
             },
@@ -5945,14 +9963,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 247 , 177 , 26 )",
+                        "color": "rgb( 247 , 29 , 27 )",
                         "aff": "Department of Biochemistry and Molecular Biology, Center for Infectious Disease Dynamics, and the Huck Institutes of the Life Sciences, Pennsylvania State University, University Park, Pennsylvania, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -77.841024,
-                              40.785071
+                              -77.858625,
+                              40.808617
                         ]
                   }
             },
@@ -5969,14 +9987,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 211 , 25 )",
+                        "color": "rgb( 247 , 86 , 33 )",
                         "aff": "Sherwood Observatory, Mansfield and Sutton Astronomical Society, Coxmoor Road , Sutton-in-Ashfield, Nottinghamshire, NG17 5LF, England, United Kingdom ; Science4U.co.uk, Radcliffe-on-Trent, Nottinghamshire, NG12 2LA, England, United Kingdom"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.03762,
-                              52.941003
+                              -1.041262,
+                              52.922652
                         ]
                   }
             },
@@ -5993,14 +10011,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 65 , 46 )",
+                        "color": "rgb( 248 , 56 , 60 )",
                         "aff": "Graduate School of Science, Osaka City University, Osaka, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -111.906641,
-                              40.765664
+                              -111.869392,
+                              40.748913
                         ]
                   }
             },
@@ -6017,14 +10035,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 248 , 48 , 38 )",
+                        "color": "rgb( 246 , 123 , 34 )",
                         "aff": "Key Laboratory of Molecular Developmental Biology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100080, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              116.315338,
-                              39.988994
+                              116.343123,
+                              39.972611
                         ]
                   }
             },
@@ -6041,14 +10059,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 140 , 64 )",
+                        "color": "rgb( 253 , 22 , 69 )",
                         "aff": "NASA Glenn Research Center, Cleveland, Ohio 44135, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -81.66984,
-                              41.491886
+                              -81.715298,
+                              41.520486
                         ]
                   }
             },
@@ -6065,14 +10083,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 124 , 48 )",
+                        "color": "rgb( 245 , 24 , 43 )",
                         "aff": "Department of Orthopedic Trauma Surgery, Rheinisch Westf\u00e4lische Technische Hochschule Aachen, Aachen, Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              6.066004,
-                              50.769327
+                              6.067827,
+                              50.795144
                         ]
                   }
             },
@@ -6084,19 +10102,19 @@ var microgravity_space_biology =
                         "journal": [
                               "Brain"
                         ],
-                        "cited": 9,
-                        "radius": 24,
+                        "cited": 10,
+                        "radius": 25,
                         "year": 2022,
-                        "zindex": 291,
-                        "paneName": "pane009",
-                        "color": "rgb( 245 , 74 , 33 )",
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 254 , 21 , 32 )",
                         "aff": "Wallenberg Center for Molecular Medicine, Lund University, Lund 228 11 Sweden"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              15.762971,
-                              60.471532
+                              15.802509,
+                              60.493189
                         ]
                   }
             },
@@ -6113,14 +10131,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 127 , 63 )",
+                        "color": "rgb( 248 , 124 , 58 )",
                         "aff": "Mines Saint\u2010Etienne Univ Clermont Auvergne CNRS UMR 6158 LIMOS, Centre CIS Saint\u2010Etienne F \u2010 42023 France"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.31363,
-                              43.188766
+                              -1.321409,
+                              43.175126
                         ]
                   }
             },
@@ -6137,14 +10155,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 213 , 63 )",
+                        "color": "rgb( 254 , 92 , 62 )",
                         "aff": "Tor Vergata University of Roma Department of Chemical Sciences and Technologies  Via della Ricerca Scientifica Roma 00133 Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              12.61567,
-                              41.833514
+                              12.612563,
+                              41.843819
                         ]
                   }
             },
@@ -6159,14 +10177,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 32 , 38 )",
+                        "color": "rgb( 250 , 127 , 46 )",
                         "aff": "San Jose State University"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -121.867348,
-                              37.355132
+                              -121.891847,
+                              37.355732
                         ]
                   }
             },
@@ -6183,14 +10201,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 138 , 69 )",
+                        "color": "rgb( 254 , 32 , 52 )",
                         "aff": "National Ctr. for Physical Acoust. and Dept. of Phys. and Astronomy, Univ. of Mississippi, University, MS"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -89.546899,
-                              34.357098
+                              -89.516017,
+                              34.379033
                         ]
                   }
             },
@@ -6207,14 +10225,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 94 , 63 )",
+                        "color": "rgb( 253 , 73 , 66 )",
                         "aff": "Department of Physics , Savitribai Phule Pune University , Pune - , MS , INDIA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              73.875781,
-                              18.517055
+                              73.832802,
+                              18.516417
                         ]
                   }
             },
@@ -6231,14 +10249,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 291,
                         "paneName": "pane009",
-                        "color": "rgb( 252 , 38 , 69 )",
+                        "color": "rgb( 245 , 162 , 66 )",
                         "aff": "INAIL Centro Protesi, Research and Training Area, Budrio, Italy"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              11.53604,
-                              44.524548
+                              11.515098,
+                              44.543018
                         ]
                   }
             },
@@ -6253,14 +10271,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 80 , 32 )",
+                        "color": "rgb( 253 , 144 , 60 )",
                         "aff": "China Astronaut Research and Training Center"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -83.072567,
-                              41.572273
+                              -83.069758,
+                              41.581228
                         ]
                   }
             },
@@ -6277,14 +10295,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 196 , 42 )",
+                        "color": "rgb( 248 , 58 , 60 )",
                         "aff": "Laboratory of Molecular Microbiology and Biotechnology Department of Biology Faculty of Sciences University of Chile Santiago Chile"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -70.63631,
-                              -33.445692
+                              -70.642811,
+                              -33.434776
                         ]
                   }
             },
@@ -6301,14 +10319,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 176 , 37 )",
+                        "color": "rgb( 252 , 213 , 20 )",
                         "aff": "Japan Aerospace Exploration Agency (JAXA), Tsukuba, Ibaraki, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              140.097449,
-                              36.068716
+                              140.053405,
+                              36.075019
                         ]
                   }
             },
@@ -6325,14 +10343,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 253 , 92 , 68 )",
+                        "color": "rgb( 249 , 82 , 35 )",
                         "aff": "WestCHEM, School of Chemistry, University of Glasgow, University Avenue, Glasgow, G12 8QQ, United Kingdom"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -4.29636,
-                              55.879409
+                              -4.288589,
+                              55.883535
                         ]
                   }
             },
@@ -6349,14 +10367,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 247 , 118 , 23 )",
+                        "color": "rgb( 253 , 194 , 44 )",
                         "aff": "Plant Genomics Institute of Plant Genetics Leibniz Universit\u00e4t Hannover Herrenh\u00e4user Str. 2 30419 Hannover Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              9.732792,
-                              52.374887
+                              9.751647,
+                              52.395941
                         ]
                   }
             },
@@ -6373,14 +10391,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 127 , 56 )",
+                        "color": "rgb( 245 , 130 , 31 )",
                         "aff": "National Institute of Radiological Sciences, National Institutes for Quantum and Radiological Science and Technology, Chiba, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              140.279373,
-                              35.532549
+                              140.258798,
+                              35.566754
                         ]
                   }
             },
@@ -6397,14 +10415,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 97 , 25 )",
+                        "color": "rgb( 247 , 162 , 64 )",
                         "aff": "Laboratory of Sport Nutrition and Intelligent Cooking, Shandong Sport University, Jinan, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              117.207954,
-                              36.668842
+                              117.167222,
+                              36.705617
                         ]
                   }
             },
@@ -6421,14 +10439,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 171 , 49 )",
+                        "color": "rgb( 254 , 77 , 33 )",
                         "aff": "Centre for Applied Research in Electronics, Indian Institute of Technology Delhi, New Delhi, India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              77.214536,
-                              28.627343
+                              77.231545,
+                              28.627056
                         ]
                   }
             },
@@ -6440,19 +10458,19 @@ var microgravity_space_biology =
                         "journal": [
                               "BioMed Research International"
                         ],
-                        "cited": 10,
-                        "radius": 25,
+                        "cited": 11,
+                        "radius": 26,
                         "year": 2022,
-                        "zindex": 290,
-                        "paneName": "pane010",
-                        "color": "rgb( 249 , 201 , 32 )",
+                        "zindex": 289,
+                        "paneName": "pane011",
+                        "color": "rgb( 249 , 26 , 47 )",
                         "aff": "InnovaSpace, London, UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -0.140772,
-                              51.510109
+                              -0.103272,
+                              51.494206
                         ]
                   }
             },
@@ -6469,14 +10487,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 21 , 42 )",
+                        "color": "rgb( 249 , 48 , 30 )",
                         "aff": "Department of Mathematics and Statistics, College of Science, Taif University, PO Box 11099, Taif 21944, Saudi Arabia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              40.409692,
-                              21.264193
+                              40.425502,
+                              21.281824
                         ]
                   }
             },
@@ -6493,14 +10511,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 50 , 34 )",
+                        "color": "rgb( 246 , 130 , 53 )",
                         "aff": "Department of Civil & Environmental Engineering, University of Alberta, Edmonton, Alberta, Canada"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -113.522812,
-                              53.517518
+                              -113.536165,
+                              53.511859
                         ]
                   }
             },
@@ -6517,14 +10535,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 115 , 64 )",
+                        "color": "rgb( 253 , 182 , 21 )",
                         "aff": "Department of Ophthalmology, Blanton Eye Institute, Houston Methodist Hospital, Houston, Texas, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -95.422111,
-                              29.694143
+                              -95.419972,
+                              29.715035
                         ]
                   }
             },
@@ -6539,14 +10557,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 252 , 190 , 44 )",
+                        "color": "rgb( 252 , 132 , 62 )",
                         "aff": "NuVant Systems"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -87.367107,
-                              41.442222
+                              -87.360064,
+                              41.394316
                         ]
                   }
             },
@@ -6563,14 +10581,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 146 , 24 )",
+                        "color": "rgb( 254 , 91 , 67 )",
                         "aff": "Department of Psychological Sciences, Birkbeck, University of London, London, UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -0.136349,
-                              51.510173
+                              -0.120724,
+                              51.52688
                         ]
                   }
             },
@@ -6585,14 +10603,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 46 , 44 )",
+                        "color": "rgb( 248 , 120 , 55 )",
                         "aff": "University of California at San Francisco"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.435845,
-                              37.794519
+                              -122.428612,
+                              37.793179
                         ]
                   }
             },
@@ -6609,14 +10627,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 49 , 44 )",
+                        "color": "rgb( 250 , 152 , 58 )",
                         "aff": "Centre for Genomics and Applied Gene Technology, Institute of Integrative Omics and Applied Biotechnology (IIOAB), West Bengal, India."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              87.670147,
-                              23.016638
+                              87.681489,
+                              22.994158
                         ]
                   }
             },
@@ -6628,19 +10646,19 @@ var microgravity_space_biology =
                         "journal": [
                               "PNAS Nexus"
                         ],
-                        "cited": 1,
-                        "radius": 16,
+                        "cited": 2,
+                        "radius": 17,
                         "year": 2022,
-                        "zindex": 299,
-                        "paneName": "pane001",
-                        "color": "rgb( 249 , 141 , 35 )",
+                        "zindex": 298,
+                        "paneName": "pane002",
+                        "color": "rgb( 251 , 116 , 26 )",
                         "aff": "NNF Center for Protein Research, Faculty of Health Sciences, University of Copenhagen , Blegdamsvej 3B, Building 6.1, 2200 Copenhagen, Denmark"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              12.545672,
-                              55.650332
+                              12.57907,
+                              55.61885
                         ]
                   }
             },
@@ -6657,14 +10675,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 251 , 64 , 28 )",
+                        "color": "rgb( 245 , 155 , 54 )",
                         "aff": "Department of Psychological Sciences Birkbeck University of London  London UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -0.139166,
-                              51.486367
+                              -0.129335,
+                              51.488059
                         ]
                   }
             },
@@ -6681,14 +10699,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 168 , 67 )",
+                        "color": "rgb( 251 , 66 , 38 )",
                         "aff": "University of Arizon"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -6.355415,
-                              36.76807
+                              -6.347809,
+                              36.800387
                         ]
                   }
             },
@@ -6705,14 +10723,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 207 , 52 )",
+                        "color": "rgb( 246 , 68 , 45 )",
                         "aff": "Earthly Dynamics Corp.,Atlanta,GA,30309"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -84.421299,
-                              33.784173
+                              -84.424188,
+                              33.742335
                         ]
                   }
             },
@@ -6729,14 +10747,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 60 , 26 )",
+                        "color": "rgb( 250 , 201 , 39 )",
                         "aff": "Department of Physics and the Soft Materials Research Center, University of Colorado, Boulder, Colorado 80309, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -105.234143,
-                              39.953499
+                              -105.229211,
+                              39.999817
                         ]
                   }
             },
@@ -6753,14 +10771,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 98 , 35 )",
+                        "color": "rgb( 250 , 151 , 26 )",
                         "aff": "CSIRO Australian e-Health Research Centre, Brisbane, Australia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              153.002312,
-                              -27.47472
+                              153.031585,
+                              -27.446162
                         ]
                   }
             },
@@ -6777,14 +10795,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 247 , 62 , 59 )",
+                        "color": "rgb( 250 , 128 , 58 )",
                         "aff": "Department of Mechanical Engineering, Clemson University, Clemson, South Carolina 29634, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -82.859663,
-                              34.66874
+                              -82.821239,
+                              34.689924
                         ]
                   }
             },
@@ -6801,14 +10819,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 99 , 54 )",
+                        "color": "rgb( 252 , 155 , 58 )",
                         "aff": "Department of Biomedical Engineering Rutgers University, The State University of New Jersey  New Brunswick NJ USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.394677,
-                              40.080389
+                              -74.380331,
+                              40.074818
                         ]
                   }
             },
@@ -6825,14 +10843,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 186 , 53 )",
+                        "color": "rgb( 252 , 136 , 48 )",
                         "aff": "Department of Aviation Medicine, The First Affiliated Hospital, Air Force Medical University, Xi\u2019an 710032, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              104.983306,
-                              34.983837
+                              105.000239,
+                              35.016036
                         ]
                   }
             },
@@ -6849,14 +10867,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 49 , 69 )",
+                        "color": "rgb( 250 , 144 , 28 )",
                         "aff": "Shriners Hospital for Children\u2013Canada, Montreal, Quebec, Canada"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.562946,
-                              45.501598
+                              -73.581559,
+                              45.498881
                         ]
                   }
             },
@@ -6873,14 +10891,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 218 , 30 )",
+                        "color": "rgb( 249 , 151 , 50 )",
                         "aff": "Institute of Refrigeration and Cryogenics, Shanghai Jiao Tong University, Shanghai 200240, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              121.43936,
-                              31.021629
+                              121.421969,
+                              31.003714
                         ]
                   }
             },
@@ -6895,14 +10913,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 103 , 53 )",
+                        "color": "rgb( 250 , 197 , 63 )",
                         "aff": "School of Mechanical Engineering, Ningxia University, Yinchuan, 750021"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              106.241331,
-                              38.466198
+                              106.208395,
+                              38.470956
                         ]
                   }
             },
@@ -6919,14 +10937,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 250 , 212 , 23 )",
+                        "color": "rgb( 249 , 182 , 53 )",
                         "aff": "Victor Chang Cardiac Research Institute"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -83.193055,
-                              42.494186
+                              -83.216085,
+                              42.513371
                         ]
                   }
             },
@@ -6943,14 +10961,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 138 , 68 )",
+                        "color": "rgb( 252 , 51 , 21 )",
                         "aff": "Department of Biomedical Engineering Tandon School of Engineering New York University  6 MetroTech Center Brooklyn NY 11201 USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -74.011439,
-                              40.67196
+                              -73.992575,
+                              40.690017
                         ]
                   }
             },
@@ -6967,14 +10985,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 245 , 43 , 51 )",
+                        "color": "rgb( 253 , 118 , 57 )",
                         "aff": "Department of Biomedical Engineering, Columbia University, 622 West 168th Street, New York, New York 10032, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -115.157468,
-                              36.081813
+                              -115.165918,
+                              36.088181
                         ]
                   }
             },
@@ -6991,14 +11009,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 249 , 196 , 24 )",
+                        "color": "rgb( 250 , 165 , 60 )",
                         "aff": "Department of Biology, Skidmore Microscopy Imaging Center, Skidmore College , Saratoga Springs, New York 12866, USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -73.792779,
-                              43.095413
+                              -73.805889,
+                              43.096924
                         ]
                   }
             },
@@ -7015,14 +11033,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 246 , 148 , 44 )",
+                        "color": "rgb( 248 , 69 , 22 )",
                         "aff": "Shanghai Lingang National Laboratory, Shanghai 200210,China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              121.458016,
-                              31.251808
+                              121.492428,
+                              31.21125
                         ]
                   }
             },
@@ -7039,14 +11057,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 253 , 40 , 34 )",
+                        "color": "rgb( 248 , 114 , 34 )",
                         "aff": "Blue Marble Space Institute of Science  Seattle Washington USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -77.02579,
-                              38.898898
+                              -77.014455,
+                              38.8944
                         ]
                   }
             },
@@ -7063,14 +11081,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 185 , 37 )",
+                        "color": "rgb( 246 , 124 , 35 )",
                         "aff": "Sciences of Visual Arts and New-Media Arts, Faculty of Humanities, University of Bern &amp; School of Arts University of Applied Sciences Bern, Bern, Switzerland"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              7.472449,
-                              46.941669
+                              7.431631,
+                              46.953146
                         ]
                   }
             },
@@ -7087,14 +11105,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 85 , 23 )",
+                        "color": "rgb( 249 , 100 , 25 )",
                         "aff": "Lab for Equilibrium Investigations and Aerospace, University of Antwerp, B-2610 Antwerp, Belgium"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              4.392479,
-                              51.166608
+                              4.410023,
+                              51.149243
                         ]
                   }
             },
@@ -7111,14 +11129,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 152 , 61 )",
+                        "color": "rgb( 246 , 217 , 59 )",
                         "aff": "Institute of Aerospace Medicine, Gravitational Biology, German Aerospace Center (DLR), Linder Hoehe, D-51147 Cologne, Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              7.135071,
-                              50.847675
+                              7.114211,
+                              50.836818
                         ]
                   }
             },
@@ -7133,14 +11151,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 157 , 32 )",
+                        "color": "rgb( 245 , 160 , 62 )",
                         "aff": "Japan Synchrotron Radiation Research Institute, Sayo, Hyogo, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              134.367584,
-                              34.981552
+                              134.333914,
+                              35.014934
                         ]
                   }
             },
@@ -7157,14 +11175,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 297,
                         "paneName": "pane003",
-                        "color": "rgb( 252 , 80 , 49 )",
+                        "color": "rgb( 251 , 152 , 25 )",
                         "aff": "VIBT-Extremophile Center, University of Natural Resources and Life Sciences, Vienna, Austria"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              16.366899,
-                              48.245842
+                              16.388222,
+                              48.277618
                         ]
                   }
             },
@@ -7181,14 +11199,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 185 , 48 )",
+                        "color": "rgb( 251 , 199 , 48 )",
                         "aff": "AO Research Institute Davos  Clavadelerstrasse 8 Davos 7270 Switzerland"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              9.825775,
-                              46.789396
+                              9.809014,
+                              46.789973
                         ]
                   }
             },
@@ -7205,14 +11223,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 245 , 193 , 23 )",
+                        "color": "rgb( 246 , 123 , 61 )",
                         "aff": "Department of Biological Sciences P. D. Patel Institute of Applied Sciences Charotar University of Science and Technology (CHARUSAT) Changa Gujarat 388421 India"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              72.778551,
-                              22.566803
+                              72.781776,
+                              22.595704
                         ]
                   }
             },
@@ -7229,14 +11247,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 166 , 39 )",
+                        "color": "rgb( 247 , 155 , 54 )",
                         "aff": "Physics Department, SUNY-Buffalo State College, Buffalo, NY 14222;"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -78.901117,
-                              42.880983
+                              -78.883921,
+                              42.890018
                         ]
                   }
             },
@@ -7253,14 +11271,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 254 , 149 , 35 )",
+                        "color": "rgb( 249 , 161 , 50 )",
                         "aff": "Department of Biology Queens College at the City University of New York  New York New York USA"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -76.682132,
-                              39.90845
+                              -76.694689,
+                              39.929159
                         ]
                   }
             },
@@ -7277,14 +11295,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 156 , 33 )",
+                        "color": "rgb( 250 , 53 , 51 )",
                         "aff": "UK Students for the Exploration and Development of Space (UKSEDS), UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -3.297183,
-                              54.694173
+                              -3.266516,
+                              54.721803
                         ]
                   }
             },
@@ -7301,14 +11319,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 58 , 21 )",
+                        "color": "rgb( 246 , 43 , 68 )",
                         "aff": "Molecular and Environmental Plant Sciences Program, Texas A&M University, College Station, TX"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -96.328854,
-                              30.609475
+                              -96.352202,
+                              30.615265
                         ]
                   }
             },
@@ -7325,14 +11343,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 278,
                         "paneName": "pane022",
-                        "color": "rgb( 252 , 159 , 39 )",
+                        "color": "rgb( 247 , 67 , 51 )",
                         "aff": "School of Biomedical Sciences, The University of Hong Kong, Hong Kong, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              114.127515,
-                              22.258296
+                              114.121722,
+                              22.286379
                         ]
                   }
             },
@@ -7349,14 +11367,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 49 , 57 )",
+                        "color": "rgb( 248 , 181 , 35 )",
                         "aff": "Molecular Medicine and Gene Therapy, Lund Stem Cell Centre, Wallenberg Centre for Molecular Medicine, Lund University, Lund, Sweden."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              13.201331,
-                              55.702371
+                              13.234857,
+                              55.728388
                         ]
                   }
             },
@@ -7373,14 +11391,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 295,
                         "paneName": "pane005",
-                        "color": "rgb( 245 , 141 , 32 )",
+                        "color": "rgb( 250 , 43 , 67 )",
                         "aff": "Border Biomedical Research Center, The University of Texas at El Paso, 500 W. University Avenue, El Paso, Texas 79968, United States"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -106.449219,
-                              31.763616
+                              -106.449346,
+                              31.782841
                         ]
                   }
             },
@@ -7397,14 +11415,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 254 , 28 , 43 )",
+                        "color": "rgb( 252 , 36 , 34 )",
                         "aff": "Professional School of Electronic Engineering, Universidad Nacional Pedro Ruiz Gallo,Faculty of Physical Sciences and Mathematics,Lambayeque,Peru"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -80.006329,
-                              -6.345496
+                              -79.996762,
+                              -6.316525
                         ]
                   }
             },
@@ -7421,14 +11439,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 252 , 125 , 36 )",
+                        "color": "rgb( 248 , 109 , 61 )",
                         "aff": "School of Life Sciences, University of Dundee 29 , Dundee DD1 5EH , UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -2.951948,
-                              56.464318
+                              -2.974243,
+                              56.462332
                         ]
                   }
             },
@@ -7443,14 +11461,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 137 , 51 )",
+                        "color": "rgb( 245 , 105 , 23 )",
                         "aff": "University of Bristol"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -2.601344,
-                              51.482465
+                              -2.58457,
+                              51.480135
                         ]
                   }
             },
@@ -7467,14 +11485,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 253 , 23 , 31 )",
+                        "color": "rgb( 245 , 52 , 38 )",
                         "aff": "Institute for Quantum Life Science, National Institutes for Quantum Science and Technology"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -6.167691,
-                              53.280035
+                              -6.15194,
+                              53.262979
                         ]
                   }
             },
@@ -7491,14 +11509,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 253 , 185 , 58 )",
+                        "color": "rgb( 247 , 141 , 44 )",
                         "aff": "European Neuroscience Institute - A Joint Initiative of the University Medical Center G\u00f6ttingen and the Max-Planck-Society, 37077 G\u00f6ttingen,  Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              10.428,
-                              51.179864
+                              10.464759,
+                              51.1541
                         ]
                   }
             },
@@ -7510,19 +11528,19 @@ var microgravity_space_biology =
                         "journal": [
                               "Nanoscale"
                         ],
-                        "cited": 9,
-                        "radius": 24,
+                        "cited": 10,
+                        "radius": 25,
                         "year": 2022,
-                        "zindex": 291,
-                        "paneName": "pane009",
-                        "color": "rgb( 254 , 117 , 22 )",
+                        "zindex": 290,
+                        "paneName": "pane010",
+                        "color": "rgb( 248 , 118 , 30 )",
                         "aff": "Politehnica University of Timisoara, Research Center for Complex Fluids Systems Engineering, Mihai Viteazul Ave. 1, 300222 Timisoara, Romania"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              21.20344,
-                              45.756388
+                              21.237201,
+                              45.736965
                         ]
                   }
             },
@@ -7539,14 +11557,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 298,
                         "paneName": "pane002",
-                        "color": "rgb( 247 , 169 , 32 )",
+                        "color": "rgb( 252 , 54 , 38 )",
                         "aff": "Pomeranian Medical University in Szczecin , Department of Medical Physics , Ku S\u0142o\u0144cu 12, 71-073 Szczecin , Poland"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              14.561729,
-                              53.349625
+                              14.572769,
+                              53.372917
                         ]
                   }
             },
@@ -7563,14 +11581,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 212 , 62 )",
+                        "color": "rgb( 252 , 98 , 57 )",
                         "aff": "Eastern Africa Statistical Training Center, Dar es Salaam, Tanzania"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              39.300666,
-                              -6.799953
+                              39.266745,
+                              -6.836346
                         ]
                   }
             },
@@ -7587,14 +11605,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 296,
                         "paneName": "pane004",
-                        "color": "rgb( 246 , 127 , 40 )",
+                        "color": "rgb( 249 , 23 , 32 )",
                         "aff": "Institute for Technical Thermodynamics, Technische Universit\u00e4t Darmstadt, Alarich-Weiss-Stra\u00dfe 10, 64287 Darmstadt, Germany"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              8.662183,
-                              49.849906
+                              8.688224,
+                              49.856948
                         ]
                   }
             },
@@ -7611,14 +11629,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 32 , 22 )",
+                        "color": "rgb( 250 , 197 , 28 )",
                         "aff": "Friedrich-Schiller-Universit\u00e4t Jena"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              11.566466,
-                              50.940222
+                              11.608395,
+                              50.93836
                         ]
                   }
             },
@@ -7635,14 +11653,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 247 , 177 , 27 )",
+                        "color": "rgb( 252 , 61 , 22 )",
                         "aff": "NASA Ames Research Center, Moffett Field, California, USA."
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -122.075521,
-                              37.432079
+                              -122.042858,
+                              37.400745
                         ]
                   }
             },
@@ -7659,14 +11677,14 @@ var microgravity_space_biology =
                         "year": 2022,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 245 , 177 , 54 )",
+                        "color": "rgb( 248 , 35 , 58 )",
                         "aff": "microgravity research center of Universit&#x00E9; Libre de Bruxelles,Bruxelles,Belgium"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              4.350675,
-                              50.866322
+                              4.347013,
+                              50.856706
                         ]
                   }
             },
@@ -7683,14 +11701,14 @@ var microgravity_space_biology =
                         "year": 2023,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 251 , 33 , 54 )",
+                        "color": "rgb( 250 , 34 , 67 )",
                         "aff": "Department of Basic Medical Sciences, College of Medicine, Mohammed Bin Rashid University of Medicine and Health Sciences, Dubai, UAE"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              55.184195,
-                              25.083157
+                              55.20571,
+                              25.086788
                         ]
                   }
             },
@@ -7707,14 +11725,14 @@ var microgravity_space_biology =
                         "year": 2023,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 247 , 25 , 48 )",
+                        "color": "rgb( 250 , 20 , 47 )",
                         "aff": "School of Design, University of Leeds, Leeds, UK"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -1.573972,
-                              53.808605
+                              -1.53285,
+                              53.828716
                         ]
                   }
             },
@@ -7731,14 +11749,14 @@ var microgravity_space_biology =
                         "year": 2023,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 246 , 157 , 56 )",
+                        "color": "rgb( 245 , 123 , 65 )",
                         "aff": "Nagoya University, Nagoya 464-8603, Japan"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              139.223182,
-                              36.566783
+                              139.236863,
+                              36.597512
                         ]
                   }
             },
@@ -7755,14 +11773,14 @@ var microgravity_space_biology =
                         "year": 2023,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 250 , 121 , 61 )",
+                        "color": "rgb( 247 , 125 , 66 )",
                         "aff": "Institute of Kinesiology Research, Science and Research Centre  Koper Slovenia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              13.716591,
-                              45.557271
+                              13.752407,
+                              45.55703
                         ]
                   }
             },
@@ -7779,14 +11797,14 @@ var microgravity_space_biology =
                         "year": 2023,
                         "zindex": 299,
                         "paneName": "pane001",
-                        "color": "rgb( 252 , 72 , 60 )",
+                        "color": "rgb( 245 , 214 , 56 )",
                         "aff": "School of Mechanical Engineering, State Key Laboratory of Mechanical Systems and Vibration, Shanghai Jiao Tong University, Shanghai, China"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              121.408258,
-                              31.200571
+                              121.43818,
+                              31.210082
                         ]
                   }
             },
@@ -7803,14 +11821,14 @@ var microgravity_space_biology =
                         "year": 2023,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 248 , 79 , 61 )",
+                        "color": "rgb( 249 , 102 , 31 )",
                         "aff": "Macquarie Medical School, Macquarie University, Sydney, NSW, Australia"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              151.134359,
-                              -33.778004
+                              151.128961,
+                              -33.751106
                         ]
                   }
             },
@@ -7827,14 +11845,14 @@ var microgravity_space_biology =
                         "year": 2023,
                         "zindex": 300,
                         "paneName": "pane000",
-                        "color": "rgb( 249 , 73 , 38 )",
+                        "color": "rgb( 252 , 191 , 66 )",
                         "aff": "Multiscale in Mechanical and Biological Engineering, Arag\u00f3n Institute of Engineering Research (I3A), Arag\u00f3n Institute of Healthcare Research (IIS Arag\u00f3n) University of Zaragoza  Zaragoza Spain"
                   },
                   "geometry": {
                         "type": "Point",
                         "coordinates": [
-                              -0.887668,
-                              41.644181
+                              -0.900872,
+                              41.67601
                         ]
                   }
             }

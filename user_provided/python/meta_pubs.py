@@ -37,7 +37,7 @@ def meta_pubs():
 
     print("running meta_pubs")
 
-    tasks = [5]
+    tasks = [0, 1, 2, 3, 4, 5]
 
     if 0 in tasks: crossref_titles()
     if 1 in tasks: add_key()
@@ -208,6 +208,7 @@ def lookup_orcid():
     orcids = []
     fil_src = retrieve_path('orcid_list')
     fil_dst = retrieve_path('orcid_locate')
+
 
     for orcid in retrieve_json(fil_src)['orcids']:
 
@@ -518,6 +519,11 @@ def search_crossref(title):
 
     print('search crossref title = ')
     print(title)
+
+    if '?' in title:
+        title = title.replace('?', ' ')
+        print('edditted title = ')
+        print(title)
 
     # create crossref url
     cross_ref_url = 'https://api.crossref.org/works?query.'

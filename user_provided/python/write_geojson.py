@@ -111,6 +111,8 @@ def geojson():
                 feature['properties']['aff'] = aff
                 feature['geometry'] = build_geometry(aff)
 
+                if feature['geometry'] == {}: continue
+
                 if feature in features: continue
                 features.append(feature)
 
@@ -147,6 +149,8 @@ def build_geometry(aff):
         #geo['aff'] = aff
         return(geo)
 
+    return({})
+
 
 def build_property(pub):
     """
@@ -166,6 +170,7 @@ def build_property(pub):
 
     prop['cited'] = int(pub['is-referenced-by-count'])
     prop['radius'] = int((pub['is-referenced-by-count'] + 15))
+    if prop['radius'] > 50: prop['radius'] = 50;
     prop['year'] = int(pub['year'])
     prop['zindex'] = int(300 - pub['is-referenced-by-count'])
     prop['paneName'] = str('pane' + str(pub['is-referenced-by-count']).zfill(3))
